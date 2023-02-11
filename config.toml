@@ -1,0 +1,19 @@
+baseURL = "https://ch.shoogle.net/switzerland/"
+languageCode = "de"
+title = "Schweiz"
+theme = "ln-base"
+
+disableKinds = ["RSS", "robotsTXT"]
+enableGitInfo = true
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "switzerland"
+
+[taxonomies]
+  shop = "shops"
