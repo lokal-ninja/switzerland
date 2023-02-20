@@ -1,6 +1,6 @@
 ---
 title: Muhen
 url: /muhen/
-latitude: 47.339
-longitude: 8.063
+latitude: 47.341
+longitude: 8.06
 ---
