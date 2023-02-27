@@ -1,6 +1,6 @@
 ---
 title: Safnern
 url: /safnern/
-latitude: 47.15
-longitude: 7.323
+latitude: 47.155
+longitude: 7.33
 ---
