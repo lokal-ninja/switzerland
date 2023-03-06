@@ -1,6 +1,6 @@
 ---
 title: Arosa
 url: /arosa/
-latitude: 46.783
-longitude: 9.679
+latitude: 46.782
+longitude: 9.68
 ---
