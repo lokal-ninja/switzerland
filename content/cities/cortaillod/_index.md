@@ -1,6 +1,6 @@
 ---
 title: Cortaillod
 url: /cortaillod/
-latitude: 46.947
-longitude: 6.853
+latitude: 46.943
+longitude: 6.841
 ---

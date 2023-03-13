@@ -2,5 +2,5 @@
 title: Rolle
 url: /rolle/
 latitude: 46.458
-longitude: 6.339
+longitude: 6.338
 ---

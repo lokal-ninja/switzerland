@@ -1,5 +1,5 @@
 ---
 title: "Wohnmobile Kunz"
 url: /guemligen/wohnmobile-kunz/
-shop: Autohaus
+shop: Wohnwagen
 ---

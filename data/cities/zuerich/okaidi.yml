@@ -1,11 +1,11 @@
-id: 7436867420
+id: 4424939219
 type: node
-latitude: 47.3861
-longitude: 8.49882
-postcode: "8048"
+latitude: 47.37741
+longitude: 8.53937
+postcode: "8001"
 city: Zürich
-street: "Baslerstrasse"
-housenumber: 50
+street: ""
+housenumber: 
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 09:00-21:00; Sa-Su 09:00-20:00"
+website: "https://de.okaidi.ch/"

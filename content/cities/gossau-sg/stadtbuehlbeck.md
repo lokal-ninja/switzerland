@@ -1,5 +1,5 @@
 ---
-title: "stadtbühlbeck"
+title: "Stadtbühlbeck"
 url: /gossau-sg/stadtbuehlbeck/
 shop: Bäckerei
 ---
