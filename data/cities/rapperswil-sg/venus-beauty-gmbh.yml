@@ -7,5 +7,5 @@ city: Rapperswil SG
 street: "Obere Bahnhofstrasse"
 housenumber: 40
 phone: "+41 55 210 22 11"
-opening_hours: "Mo-Th 09:00-20:00; Fr 09:00-19:00; Sa 09:00-17:00"
+opening_hours: "Mo-We,Fr 09:00-19:00; Sa 09:00-17:00; Th 09:00-20:00"
 website: "https://www.venus-beauty.ch/"

@@ -1,5 +1,5 @@
 ---
 title: "HEJKØH"
 url: /basel/hejkoh/
-shop: Allgemein
+shop: Raumausstattung
 ---

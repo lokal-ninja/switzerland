@@ -1,11 +1,11 @@
-id: 3983012566
+id: 4496730803
 type: node
-latitude: 47.39151
-longitude: 8.48861
-postcode: "8048"
+latitude: 47.37877
+longitude: 8.53664
+postcode: "8001"
 city: Zürich
-street: "Altstetterplatz"
-housenumber: 11
+street: ""
+housenumber: 
 phone: ""
-opening_hours: "Mo-Th 05:15-22:00; Fr 05:15-23:00; Sa 06:30-23:00; Su 07:00-21:00"
+opening_hours: "Mo-Su 05:00-23:00"
 website: ""

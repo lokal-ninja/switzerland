@@ -1,5 +1,5 @@
 ---
-title: "ART FORUM UTE BARTH"
+title: "Art Forum Ute Barth"
 url: /zuerich/art-forum-ute-barth/
 shop: Kunst
 ---
