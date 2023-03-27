@@ -1,6 +1,6 @@
 ---
 title: Neu St. Johann
 url: /neu-st-johann/
-latitude: 47.229
-longitude: 9.196
+latitude: 47.232
+longitude: 9.191
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ammerswil
 url: /ammerswil/
-latitude: 47.375
-longitude: 8.207
+latitude: 47.369
+longitude: 8.208
 ---
