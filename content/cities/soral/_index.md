@@ -1,6 +1,6 @@
 ---
 title: Soral
 url: /soral/
-latitude: 46.143
-longitude: 6.041
+latitude: 46.146
+longitude: 6.04
 ---

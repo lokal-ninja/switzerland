@@ -1,5 +1,5 @@
 ---
-title: "boesner"
+title: "Boesner"
 url: /zuerich/boesner/
-shop: Allgemein
+shop: Basteln
 ---
