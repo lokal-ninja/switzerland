@@ -1,6 +1,6 @@
 ---
-title: Aesch (ZH)
+title: Aesch ZH
 url: /aesch-zh/
-latitude: 47.33
-longitude: 8.436
+latitude: 47.338
+longitude: 8.439
 ---

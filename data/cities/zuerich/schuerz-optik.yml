@@ -7,5 +7,5 @@ city: Zürich
 street: "Rotbuchstrasse"
 housenumber: 72
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo,Su off; Tu-Fr 08:30-12:00,14:00-18:30; Sa 08:30-16:00"
+website: "https://schuerzoptik.ch"
