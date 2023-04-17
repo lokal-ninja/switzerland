@@ -1,6 +1,6 @@
 ---
-title: Carouge (GE)
+title: Carouge GE
 url: /carouge-ge/
-latitude: 46.185
-longitude: 6.146
+latitude: 46.188
+longitude: 6.139
 ---

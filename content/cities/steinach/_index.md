@@ -1,6 +1,6 @@
 ---
 title: Steinach
 url: /steinach/
-latitude: 47.504
-longitude: 9.438
+latitude: 47.505
+longitude: 9.44
 ---

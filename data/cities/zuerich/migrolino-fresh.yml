@@ -1,11 +1,11 @@
-id: 4244059089
+id: 4518003937
 type: node
-latitude: 47.37312
-longitude: 8.53476
-postcode: "8001"
+latitude: 47.37982
+longitude: 8.52792
+postcode: "8004"
 city: Zürich
-street: "Löwenstrasse"
-housenumber: 2
-phone: ""
-opening_hours: "Mo-Sa 06:00-23:00, Su 07:00-22:00"
-website: "https://www.migrolino.ch/de/standorte/migrolino-fresh-zh-loewenstrasse-2/"
+street: "Langstrasse"
+housenumber: 134
+phone: "+41 44 350 27 23"
+opening_hours: "Su-Th 06:00-23:00; Fr-Sa 00:00-24:00"
+website: "https://www.migrolino.ch/de/standorte/migrolino-zuerich-langstrasse-away/"
