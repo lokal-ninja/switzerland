@@ -1,6 +1,6 @@
 ---
 title: Untervaz
 url: /untervaz/
-latitude: 46.92
-longitude: 9.554
+latitude: 46.928
+longitude: 9.536
 ---
