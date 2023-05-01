@@ -1,5 +1,5 @@
 ---
-title: "La [kaban"
+title: "La [kaban]"
 url: /la-chaux-de-fonds/la-kaban/
 shop: Kleidung
 ---

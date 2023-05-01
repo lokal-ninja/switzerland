@@ -7,5 +7,5 @@ city: Zürich
 street: "Frankentalerstrasse"
 housenumber: 54
 phone: "+41 44 341 97 40"
-opening_hours: "Mo-Tu,Th 08:00-12:00,14:00-18:30; We,Su-off; Fr 08:00-18:30; Sa 08:00-16:00"
+opening_hours: "Mo-Tu,Th 08:00-12:00,14:00-18:30; Fr 08:00-18:30; Sa 08:00-16:00; We,Su off"
 website: "http://obsthaus-wegmann.ch/"

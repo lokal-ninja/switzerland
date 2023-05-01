@@ -7,5 +7,5 @@ city: Zürich
 street: "Birmensdorferstrasse"
 housenumber: 379
 phone: "+41 43 960 32 64"
-opening_hours: "Mo,Mi,Fr 13:00-17:00, Do 9:00-12:00"
+opening_hours: "Mo,We 13:00-17:00; Th 09:00-12:00; Fr 13:00-17:00"
 website: "https://www.revamp-it.ch/"
