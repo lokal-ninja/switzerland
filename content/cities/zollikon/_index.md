@@ -1,6 +1,6 @@
 ---
 title: Zollikon
 url: /zollikon/
-latitude: 47.344
-longitude: 8.567
+latitude: 47.338
+longitude: 8.575
 ---

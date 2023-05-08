@@ -1,6 +1,6 @@
 ---
 title: Rossrüti
 url: /rossrueti/
-latitude: 47.473
-longitude: 9.059
+latitude: 47.474
+longitude: 9.061
 ---

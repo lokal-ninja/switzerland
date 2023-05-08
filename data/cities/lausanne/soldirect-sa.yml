@@ -7,5 +7,5 @@ city: Lausanne
 street: "Avenue de Tivoli"
 housenumber: 70
 phone: "+41 21 625 01 02"
-opening_hours: "Mo-Fr 08:30-12:00 / 13:30-18:30"
+opening_hours: "Mo-Fr 08:30-12:00,13:30-18:30"
 website: "https://soldirect.ch/"

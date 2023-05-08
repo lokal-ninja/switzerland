@@ -1,6 +1,6 @@
 ---
 title: Agno
 url: /agno/
-latitude: 45.996
-longitude: 8.904
+latitude: 45.997
+longitude: 8.9
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jumbo"
 url: /meyrin/jumbo/
-shop: Supermarkt
+shop: Baumarkt
 ---

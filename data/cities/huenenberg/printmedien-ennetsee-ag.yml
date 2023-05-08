@@ -7,5 +7,5 @@ city: Hünenberg
 street: "Bösch"
 housenumber: 35
 phone: ""
-opening_hours: "Mo-Do 07:00-12:00 13:00-17:00 Fr 07:00-12:00 13:00-16:00"
+opening_hours: "Mo-Th 07:00-12:00,13:00-17:00; Fr 07:00-12:00,13:00-16:00"
 website: "ennetsee.ch"

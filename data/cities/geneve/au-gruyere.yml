@@ -7,5 +7,5 @@ city: Genève
 street: "Avenue du Mail"
 housenumber: 3
 phone: "+41 22 328 75 18"
-opening_hours: "Mo, Tu, Th, Fr 08:00-12:15, 14:30-18:30; We 08:00-12:15; Sa 08:00-17:00"
+opening_hours: "Mo,Tu,Th,Fr 08:00-12:00,14:30-18:00; We 08:00-12:00; Sa 08:00-16:00"
 website: "https://augruyere.ch/"

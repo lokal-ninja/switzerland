@@ -7,5 +7,5 @@ city: Rapperswil-Jona
 street: "Molkereistrasse"
 housenumber: 18
 phone: "+41 55 212 94 00"
-opening_hours: "Tu-Fr 09:00-12:00; Tu-Fr 13:30-18:30; Sa 09:00-16:00"
+opening_hours: "Tu-Fr 09:00-12:00,13:30-18:30; Sa 09:00-16:00"
 website: "http://www.tabak-hüsli.ch/"
