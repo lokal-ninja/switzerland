@@ -1,6 +1,6 @@
 ---
 title: Lichtensteig
 url: /lichtensteig/
-latitude: 47.326
-longitude: 9.112
+latitude: 47.33
+longitude: 9.085
 ---
