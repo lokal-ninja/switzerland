@@ -1,5 +1,5 @@
 ---
-title: "mobilezone"
+title: "Mobilezone"
 url: /bern/mobilezone/
 shop: Handy
 ---

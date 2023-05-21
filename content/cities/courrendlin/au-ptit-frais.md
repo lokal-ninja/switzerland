@@ -1,5 +1,5 @@
 ---
 title: "Au P'tit Frais"
 url: /courrendlin/au-ptit-frais/
-shop: Allgemein
+shop: Feinkost
 ---
