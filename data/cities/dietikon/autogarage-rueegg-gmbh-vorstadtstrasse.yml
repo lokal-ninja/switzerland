@@ -7,5 +7,5 @@ city: Dietikon
 street: "Vorstadtstrasse"
 housenumber: 15
 phone: "+41443808953"
-opening_hours: "Mo-Fr 08:00-12:00 / 13:00-17:30"
+opening_hours: "Mo-Fr 08:00-12:00,13:00-17:30"
 website: "https://www.autogarage-rs.ch"
