@@ -1,11 +1,11 @@
 id: 3600444412
 type: node
-latitude: 47.39195
-longitude: 8.51354
+latitude: 47.39193
+longitude: 8.51355
 postcode: "8050"
 city: Zürich
 street: "Förrlibuckstrasse"
 housenumber: 72
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Tu-Fr 10:00-20:00; Sa 09:00-15:00; PH closed"
+website: "https://www.7sense.ch/"

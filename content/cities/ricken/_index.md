@@ -1,6 +1,6 @@
 ---
 title: Ricken
 url: /ricken/
-latitude: 47.264
+latitude: 47.262
 longitude: 9.044
 ---
