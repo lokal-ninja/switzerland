@@ -7,5 +7,5 @@ city: Zürich
 street: "Grubenstrasse"
 housenumber: 32
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00;Mo-Fr 13:00-17:00"
+opening_hours: "Mo-Fr 07:30-12:00,13:00-17:00"
 website: "https://www.garagewiedikonag.ch/"

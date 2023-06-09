@@ -1,6 +1,6 @@
 ---
 title: Aarau
 url: /aarau/
-latitude: 47.392
-longitude: 8.042
+latitude: 47.393
+longitude: 8.045
 ---

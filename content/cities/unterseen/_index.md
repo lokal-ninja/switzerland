@@ -1,6 +1,6 @@
 ---
 title: Unterseen
 url: /unterseen/
-latitude: 46.685
-longitude: 7.848
+latitude: 46.684
+longitude: 7.85
 ---
