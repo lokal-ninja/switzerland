@@ -1,6 +1,6 @@
 ---
 title: Hünenberg See
 url: /huenenberg-see/
-latitude: 47.175
-longitude: 8.448
+latitude: 47.164
+longitude: 8.446
 ---
