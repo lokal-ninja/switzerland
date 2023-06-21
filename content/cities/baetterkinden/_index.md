@@ -1,6 +1,6 @@
 ---
 title: Bätterkinden
 url: /baetterkinden/
-latitude: 47.131
-longitude: 7.538
+latitude: 47.16
+longitude: 7.527
 ---

@@ -7,5 +7,5 @@ city: Zürich
 street: "Bleicherweg"
 housenumber: 54
 phone: ""
-opening_hours: "Tu,Th 11:00-18:00; Mo,We,Fr 10:00-13:00; Mo,We,Fr 15:15-18:00"
+opening_hours: "Tu,Th 11:00-18:00; Mo,We,Fr 10:00-13:00,15:15-18:00"
 website: ""
