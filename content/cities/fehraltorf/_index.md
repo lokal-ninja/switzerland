@@ -1,6 +1,6 @@
 ---
 title: Fehraltorf
 url: /fehraltorf/
-latitude: 47.386
-longitude: 8.751
+latitude: 47.388
+longitude: 8.752
 ---
