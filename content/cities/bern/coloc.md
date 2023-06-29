@@ -1,5 +1,5 @@
 ---
-title: "coloc"
+title: "Coloc"
 url: /bern/coloc/
 shop: Lebensmittel
 ---
