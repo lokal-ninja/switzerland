@@ -1,6 +1,6 @@
 ---
 title: Unterentfelden
 url: /unterentfelden/
-latitude: 47.36
-longitude: 8.052
+latitude: 47.367
+longitude: 8.043
 ---
