@@ -1,5 +1,5 @@
 ---
 title: "Changemaker"
 url: /winterthur/changemaker/
-shop: Allgemein
+shop: Modehaus
 ---

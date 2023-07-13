@@ -1,6 +1,6 @@
 ---
 title: Zollbrück
 url: /zollbrueck/
-latitude: 46.971
-longitude: 7.749
+latitude: 46.972
+longitude: 7.748
 ---

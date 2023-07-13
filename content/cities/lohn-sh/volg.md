@@ -1,5 +1,5 @@
 ---
 title: "Volg"
-url: /lohn/volg/
+url: /lohn-sh/volg/
 shop: Supermarkt
 ---

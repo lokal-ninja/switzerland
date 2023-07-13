@@ -1,6 +1,6 @@
 ---
-title: Hergiswil NW
+title: Hergiswil (NW)
 url: /hergiswil-nw/
-latitude: 46.984
-longitude: 8.312
+latitude: 46.987
+longitude: 8.311
 ---
