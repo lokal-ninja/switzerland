@@ -1,6 +1,6 @@
 ---
 title: Muntelier
 url: /muntelier/
-latitude: 46.935
-longitude: 7.124
+latitude: 46.934
+longitude: 7.122
 ---

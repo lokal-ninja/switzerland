@@ -1,6 +1,6 @@
 ---
 title: Brunnadern
 url: /brunnadern/
-latitude: 47.335
-longitude: 9.131
+latitude: 47.336
+longitude: 9.132
 ---

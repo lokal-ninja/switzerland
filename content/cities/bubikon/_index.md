@@ -1,6 +1,6 @@
 ---
 title: Bubikon
 url: /bubikon/
-latitude: 47.28
-longitude: 8.814
+latitude: 47.253
+longitude: 8.82
 ---
