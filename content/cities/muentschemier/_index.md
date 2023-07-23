@@ -1,6 +1,6 @@
 ---
 title: Müntschemier
 url: /muentschemier/
-latitude: 46.995
-longitude: 7.144
+latitude: 46.994
+longitude: 7.15
 ---

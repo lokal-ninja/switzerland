@@ -1,6 +1,6 @@
 ---
 title: Wettswil am Albis
 url: /wettswil-am-albis/
-latitude: 47.338
-longitude: 8.474
+latitude: 47.342
+longitude: 8.471
 ---

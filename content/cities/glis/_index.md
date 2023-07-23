@@ -2,5 +2,5 @@
 title: Glis
 url: /glis/
 latitude: 46.309
-longitude: 7.97
+longitude: 7.969
 ---
