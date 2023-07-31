@@ -1,6 +1,6 @@
 ---
 title: Sattel
 url: /sattel/
-latitude: 47.083
-longitude: 8.628
+latitude: 47.082
+longitude: 8.635
 ---
