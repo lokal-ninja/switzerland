@@ -1,6 +1,6 @@
 ---
 title: Eschenz
 url: /eschenz/
-latitude: 47.653
-longitude: 8.862
+latitude: 47.629
+longitude: 8.865
 ---
