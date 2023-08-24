@@ -1,6 +1,6 @@
 ---
 title: Oberburg
 url: /oberburg/
-latitude: 47.036
-longitude: 7.631
+latitude: 47.041
+longitude: 7.625
 ---
