@@ -1,6 +1,6 @@
 ---
 title: Oberkulm
 url: /oberkulm/
-latitude: 47.3
+latitude: 47.299
 longitude: 8.123
 ---

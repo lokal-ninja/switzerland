@@ -1,6 +1,6 @@
 ---
 title: Wiesendangen
 url: /wiesendangen/
-latitude: 47.522
-longitude: 8.771
+latitude: 47.523
+longitude: 8.788
 ---
