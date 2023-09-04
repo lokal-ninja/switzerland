@@ -7,5 +7,5 @@ city: Russikon
 street: "Dorfstrasse"
 housenumber: 15
 phone: "+41 44 954 09 66"
-opening_hours: "Dienstag 8:00-12:15 & 14:30-18:30 Mittwoch 8:00-12:15 Donnerstag 8:00-12:15 & 14:30-18:30 Freitag 8:00-12:15 & 14:30-18:30 Samstag 7:30-15:00"
+opening_hours: "Tu,Th,Fr 08:00-12:15,14:30-18:30; We 08:00-12:15; Sa 07:30-15:00"
 website: "http://www.henrys-metzg.com"

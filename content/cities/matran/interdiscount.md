@@ -1,5 +1,5 @@
 ---
 title: "Interdiscount"
 url: /matran/interdiscount/
-shop: Supermarkt
+shop: Elektronik
 ---

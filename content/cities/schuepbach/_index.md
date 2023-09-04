@@ -1,6 +1,6 @@
 ---
 title: Schüpbach
 url: /schuepbach/
-latitude: 46.926
-longitude: 7.735
+latitude: 46.928
+longitude: 7.739
 ---

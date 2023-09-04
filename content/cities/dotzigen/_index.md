@@ -1,6 +1,6 @@
 ---
 title: Dotzigen
 url: /dotzigen/
-latitude: 47.118
+latitude: 47.119
 longitude: 7.337
 ---
