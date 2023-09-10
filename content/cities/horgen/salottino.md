@@ -1,5 +1,5 @@
 ---
-title: "salottino"
+title: "Salottino"
 url: /horgen/salottino/
-shop: Allgemein
+shop: Feinkost
 ---

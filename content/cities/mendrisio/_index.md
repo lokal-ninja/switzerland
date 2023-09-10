@@ -1,6 +1,6 @@
 ---
 title: Mendrisio
 url: /mendrisio/
-latitude: 45.87
-longitude: 8.989
+latitude: 45.873
+longitude: 8.978
 ---
