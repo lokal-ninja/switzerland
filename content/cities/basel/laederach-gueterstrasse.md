@@ -1,5 +1,5 @@
 ---
 title: "Läderach"
-url: /basel/laederach/
+url: /basel/laederach-gueterstrasse/
 shop: Süßwaren
 ---

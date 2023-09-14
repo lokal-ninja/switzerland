@@ -1,5 +1,5 @@
 ---
 title: "Mobilezone"
-url: /zuerich/mobilezone/
+url: /zuerich/mobilezone-2/
 shop: Handy
 ---

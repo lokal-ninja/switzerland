@@ -1,5 +1,5 @@
 ---
 title: "Denner"
-url: /steinhausen/denner/
+url: /steinhausen/denner-hinterbergstrasse/
 shop: Supermarkt
 ---

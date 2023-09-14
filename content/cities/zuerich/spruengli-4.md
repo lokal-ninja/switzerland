@@ -1,5 +1,5 @@
 ---
 title: "Sprüngli"
-url: /zuerich/spruengli/
+url: /zuerich/spruengli-4/
 shop: Konditorei
 ---

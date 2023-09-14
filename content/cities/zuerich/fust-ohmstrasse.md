@@ -1,5 +1,5 @@
 ---
 title: "Fust"
-url: /zuerich/fust/
+url: /zuerich/fust-ohmstrasse/
 shop: Elektronik
 ---

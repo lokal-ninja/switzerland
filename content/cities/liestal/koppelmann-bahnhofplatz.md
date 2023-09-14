@@ -1,5 +1,5 @@
 ---
 title: "Koppelmann"
-url: /liestal/koppelmann/
+url: /liestal/koppelmann-bahnhofplatz/
 shop: Hörgeräte
 ---

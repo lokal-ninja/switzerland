@@ -1,5 +1,5 @@
 ---
 title: "Memomen"
-url: /zuerich/memomen/
+url: /zuerich/memomen-bleicherweg/
 shop: Friseur
 ---

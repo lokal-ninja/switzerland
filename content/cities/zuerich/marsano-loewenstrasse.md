@@ -1,5 +1,5 @@
 ---
 title: "Marsano"
-url: /zuerich/marsano/
+url: /zuerich/marsano-loewenstrasse/
 shop: Blumen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tara Style"
-url: /zuerich/tara-style/
+url: /zuerich/tara-style-badenerstrasse/
 shop: Schmuck
 ---

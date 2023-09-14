@@ -1,5 +1,5 @@
 ---
 title: "Swisscom Shop"
-url: /zuerich/swisscom-shop/
+url: /zuerich/swisscom-shop-kalanderplatz/
 shop: Handy
 ---

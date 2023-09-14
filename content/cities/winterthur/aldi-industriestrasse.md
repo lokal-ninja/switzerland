@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /winterthur/aldi/
+url: /winterthur/aldi-industriestrasse/
 shop: Supermarkt
 ---

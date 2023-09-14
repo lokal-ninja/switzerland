@@ -1,5 +1,5 @@
 ---
 title: "Unterwegs"
-url: /aarau/unterwegs/
+url: /aarau/unterwegs-rain/
 shop: Fahrrad
 ---

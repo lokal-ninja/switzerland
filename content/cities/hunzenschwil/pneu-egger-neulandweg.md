@@ -1,5 +1,5 @@
 ---
 title: "Pneu Egger"
-url: /hunzenschwil/pneu-egger/
+url: /hunzenschwil/pneu-egger-neulandweg/
 shop: Reifen
 ---

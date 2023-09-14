@@ -1,5 +1,5 @@
 ---
 title: "Fielmann"
-url: /zuerich/fielmann/
+url: /zuerich/fielmann-schaffhauserstrasse/
 shop: Optiker
 ---

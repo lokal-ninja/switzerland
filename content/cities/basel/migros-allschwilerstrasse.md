@@ -1,5 +1,5 @@
 ---
 title: "Migros"
-url: /basel/migros/
+url: /basel/migros-allschwilerstrasse/
 shop: Supermarkt
 ---

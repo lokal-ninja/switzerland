@@ -1,5 +1,5 @@
 ---
 title: "Migros"
-url: /rapperswil/migros/
+url: /rapperswil/migros-zuercherstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Landi"
-url: /riedtwil/landi/
+url: /riedtwil/landi-hauptstrasse/
 shop: Supermarkt
 ---

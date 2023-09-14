@@ -1,5 +1,5 @@
 ---
 title: "Zenhäusern"
-url: /sion/zenhaeusern/
+url: /sion/zenhaeusern-chemin-du-lazaret/
 shop: Bäckerei
 ---

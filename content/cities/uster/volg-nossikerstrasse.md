@@ -1,5 +1,5 @@
 ---
 title: "Volg"
-url: /uster/volg/
+url: /uster/volg-nossikerstrasse/
 shop: Supermarkt
 ---

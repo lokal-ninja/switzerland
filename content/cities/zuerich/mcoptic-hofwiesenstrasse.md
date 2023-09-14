@@ -1,5 +1,5 @@
 ---
 title: "McOptic"
-url: /zuerich/mcoptic/
+url: /zuerich/mcoptic-hofwiesenstrasse/
 shop: Optiker
 ---

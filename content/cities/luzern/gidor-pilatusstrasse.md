@@ -1,5 +1,5 @@
 ---
 title: "Gidor"
-url: /luzern/gidor/
+url: /luzern/gidor-pilatusstrasse/
 shop: Friseur
 ---

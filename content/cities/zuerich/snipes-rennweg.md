@@ -1,5 +1,5 @@
 ---
 title: "Snipes"
-url: /zuerich/snipes/
+url: /zuerich/snipes-rennweg/
 shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mc PaperLand"
-url: /zuerich/mc-paperland/
+url: /zuerich/mc-paperland-baslerstrasse/
 shop: Schreibwaren
 ---

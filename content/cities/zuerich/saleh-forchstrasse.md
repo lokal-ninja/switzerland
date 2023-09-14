@@ -1,5 +1,5 @@
 ---
 title: "Saleh"
-url: /zuerich/saleh/
+url: /zuerich/saleh-forchstrasse/
 shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Migros"
-url: /bern/migros/
+url: /bern/migros-egghoelzlistrasse/
 shop: Supermarkt
 ---

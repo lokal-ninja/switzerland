@@ -1,5 +1,5 @@
 ---
 title: "Zara"
-url: /winterthur/zara/
+url: /winterthur/zara-archplatz/
 shop: Kleidung
 ---

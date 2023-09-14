@@ -1,5 +1,5 @@
 ---
 title: "Migrolino"
-url: /gossau/migrolino/
+url: /gossau/migrolino-wilerstrasse/
 shop: Lebensmittel
 ---

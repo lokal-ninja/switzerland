@@ -1,5 +1,5 @@
 ---
 title: "L'Occitane"
-url: /zuerich/loccitane/
+url: /zuerich/loccitane-kalanderplatz/
 shop: Kosmetik
 ---

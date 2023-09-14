@@ -1,5 +1,5 @@
 ---
 title: "Coop"
-url: /burgdorf/coop/
+url: /burgdorf/coop-bahnhofstrasse/
 shop: Lebensmittel
 ---

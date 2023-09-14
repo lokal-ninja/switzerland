@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
-url: /zuerich/swarovski/
+url: /zuerich/swarovski-kalanderplatz/
 shop: Schmuck
 ---

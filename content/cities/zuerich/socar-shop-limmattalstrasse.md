@@ -1,5 +1,5 @@
 ---
 title: "SOCAR Shop"
-url: /zuerich/socar-shop/
+url: /zuerich/socar-shop-limmattalstrasse/
 shop: Kiosk
 ---

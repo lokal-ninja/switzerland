@@ -1,5 +1,5 @@
 ---
 title: "Tchibo"
-url: /zuerich/tchibo/
+url: /zuerich/tchibo-altstetterstrasse/
 shop: Lebensmittel
 ---

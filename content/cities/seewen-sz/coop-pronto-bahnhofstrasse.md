@@ -1,5 +1,5 @@
 ---
 title: "Coop Pronto"
-url: /seewen-sz/coop-pronto/
+url: /seewen-sz/coop-pronto-bahnhofstrasse/
 shop: Lebensmittel
 ---

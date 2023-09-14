@@ -1,5 +1,5 @@
 ---
 title: "Moser's"
-url: /baden/mosers/
+url: /baden/mosers-2/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Denner Express"
-url: /zuerich/denner-express/
+url: /zuerich/denner-express-schaffhauserstrasse/
 shop: Lebensmittel
 ---

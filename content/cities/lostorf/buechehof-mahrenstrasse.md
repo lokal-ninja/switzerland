@@ -1,5 +1,5 @@
 ---
 title: "Buechehof"
-url: /lostorf/buechehof/
+url: /lostorf/buechehof-mahrenstrasse/
 shop: Hofladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "VOI"
-url: /zuerich/voi/
+url: /zuerich/voi-albisriederstrasse/
 shop: Supermarkt
 ---

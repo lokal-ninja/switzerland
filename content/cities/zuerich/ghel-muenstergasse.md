@@ -1,5 +1,5 @@
 ---
 title: "ghel"
-url: /zuerich/ghel/
+url: /zuerich/ghel-muenstergasse/
 shop: Friseur
 ---

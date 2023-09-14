@@ -1,5 +1,5 @@
 ---
 title: "Rhomberg"
-url: /basel/rhomberg/
+url: /basel/rhomberg-spalenberg/
 shop: Schmuck
 ---

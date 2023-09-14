@@ -1,5 +1,5 @@
 ---
 title: "Migrolino"
-url: /grenchen/migrolino/
+url: /grenchen/migrolino-solothurnstrasse/
 shop: Lebensmittel
 ---

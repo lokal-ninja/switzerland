@@ -1,5 +1,5 @@
 ---
 title: "claire's"
-url: /zuerich/claires/
+url: /zuerich/claires-bahnhofstrasse/
 shop: Modehaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Migros"
-url: /schaffhausen/migros/
+url: /schaffhausen/migros-duerstlingweg/
 shop: Supermarkt
 ---

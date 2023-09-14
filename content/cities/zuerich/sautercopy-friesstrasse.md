@@ -1,5 +1,5 @@
 ---
 title: "SauterCopy"
-url: /zuerich/sautercopy/
+url: /zuerich/sautercopy-friesstrasse/
 shop: Kopieren
 ---

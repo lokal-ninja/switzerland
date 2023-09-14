@@ -1,5 +1,5 @@
 ---
 title: "Day"
-url: /zuerich/day/
+url: /zuerich/day-rennweg/
 shop: Schuhe
 ---

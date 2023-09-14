@@ -1,5 +1,5 @@
 ---
 title: "Esprit"
-url: /zuerich/esprit/
+url: /zuerich/esprit-limmatquai/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SportXX"
-url: /zuerich/sportxx/
+url: /zuerich/sportxx-giesshuebelstrasse/
 shop: Sport
 ---

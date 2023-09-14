@@ -1,5 +1,5 @@
 ---
 title: "Coop Pronto"
-url: /kreuzlingen/coop-pronto/
+url: /kreuzlingen/coop-pronto-sonnenstrasse/
 shop: Lebensmittel
 ---

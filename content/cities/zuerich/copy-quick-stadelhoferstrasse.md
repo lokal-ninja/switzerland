@@ -1,5 +1,5 @@
 ---
 title: "Copy Quick"
-url: /zuerich/copy-quick/
+url: /zuerich/copy-quick-stadelhoferstrasse/
 shop: Kopieren
 ---

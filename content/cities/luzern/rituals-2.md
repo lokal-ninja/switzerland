@@ -1,5 +1,5 @@
 ---
 title: "Rituals"
-url: /luzern/rituals/
+url: /luzern/rituals-2/
 shop: Kosmetik
 ---

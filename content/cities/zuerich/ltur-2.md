@@ -1,5 +1,5 @@
 ---
 title: "l'tur"
-url: /zuerich/ltur/
+url: /zuerich/ltur-2/
 shop: Reisebüro
 ---

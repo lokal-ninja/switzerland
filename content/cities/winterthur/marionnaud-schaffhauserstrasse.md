@@ -1,5 +1,5 @@
 ---
 title: "Marionnaud"
-url: /winterthur/marionnaud/
+url: /winterthur/marionnaud-schaffhauserstrasse/
 shop: Parfümerie
 ---

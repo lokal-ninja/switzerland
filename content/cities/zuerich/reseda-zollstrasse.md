@@ -1,5 +1,5 @@
 ---
 title: "Reseda"
-url: /zuerich/reseda/
+url: /zuerich/reseda-zollstrasse/
 shop: Möbel
 ---

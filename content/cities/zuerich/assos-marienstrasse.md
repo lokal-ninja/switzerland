@@ -1,5 +1,5 @@
 ---
 title: "Assos"
-url: /zuerich/assos/
+url: /zuerich/assos-marienstrasse/
 shop: Friseur
 ---

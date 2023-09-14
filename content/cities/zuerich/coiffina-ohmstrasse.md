@@ -1,5 +1,5 @@
 ---
 title: "Coiffina"
-url: /zuerich/coiffina/
+url: /zuerich/coiffina-ohmstrasse/
 shop: Friseur
 ---

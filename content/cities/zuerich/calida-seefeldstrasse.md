@@ -1,5 +1,5 @@
 ---
 title: "Calida"
-url: /zuerich/calida/
+url: /zuerich/calida-seefeldstrasse/
 shop: Kleidung
 ---

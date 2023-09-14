@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /moudon/lidl/
+url: /moudon/lidl-chemin-du-devin/
 shop: Supermarkt
 ---

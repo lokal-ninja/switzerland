@@ -1,5 +1,5 @@
 ---
 title: "Stocker"
-url: /sursee/stocker/
+url: /sursee/stocker-bahnhofstrasse/
 shop: Bäckerei
 ---

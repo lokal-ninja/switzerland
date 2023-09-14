@@ -1,5 +1,5 @@
 ---
 title: "Zenhäusern"
-url: /conthey/zenhaeusern/
+url: /conthey/zenhaeusern-route-cantonale/
 shop: Bäckerei
 ---

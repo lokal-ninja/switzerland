@@ -1,5 +1,5 @@
 ---
 title: "Coop"
-url: /winterthur/coop/
+url: /winterthur/coop-bahnhofplatz/
 shop: Supermarkt
 ---

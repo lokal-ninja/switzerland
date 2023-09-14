@@ -1,5 +1,5 @@
 ---
 title: "Lyner"
-url: /winterthur/lyner/
+url: /winterthur/lyner-roemerstrasse/
 shop: Bäckerei
 ---

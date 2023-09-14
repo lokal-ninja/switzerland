@@ -1,5 +1,5 @@
 ---
 title: "Migrolino"
-url: /basel/migrolino/
+url: /basel/migrolino-hochbergerstrasse/
 shop: Lebensmittel
 ---

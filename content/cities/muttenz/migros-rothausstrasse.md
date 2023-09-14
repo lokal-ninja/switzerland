@@ -1,5 +1,5 @@
 ---
 title: "Migros"
-url: /muttenz/migros/
+url: /muttenz/migros-rothausstrasse/
 shop: Supermarkt
 ---

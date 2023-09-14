@@ -1,5 +1,5 @@
 ---
 title: "Denner Express"
-url: /basel/denner-express/
+url: /basel/denner-express-kleinhueningerstrasse/
 shop: Supermarkt
 ---

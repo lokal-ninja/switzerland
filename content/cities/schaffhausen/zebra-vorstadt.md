@@ -1,5 +1,5 @@
 ---
 title: "Zebra"
-url: /schaffhausen/zebra/
+url: /schaffhausen/zebra-vorstadt/
 shop: Kleidung
 ---

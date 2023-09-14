@@ -1,5 +1,5 @@
 ---
 title: "Rössler"
-url: /winterthur/roessler/
+url: /winterthur/roessler-st-gallerstrasse/
 shop: Bäckerei
 ---

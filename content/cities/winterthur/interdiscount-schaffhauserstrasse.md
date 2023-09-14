@@ -1,5 +1,5 @@
 ---
 title: "Interdiscount"
-url: /winterthur/interdiscount/
+url: /winterthur/interdiscount-schaffhauserstrasse/
 shop: Elektronik
 ---

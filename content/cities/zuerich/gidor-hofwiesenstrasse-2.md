@@ -1,5 +1,5 @@
 ---
 title: "Gidor"
-url: /zuerich/gidor/
+url: /zuerich/gidor-hofwiesenstrasse-2/
 shop: Friseur
 ---

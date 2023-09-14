@@ -1,5 +1,5 @@
 ---
 title: "Kitchener Plus"
-url: /zuerich/kitchener-plus/
+url: /zuerich/kitchener-plus-viaduktstrasse/
 shop: Kleidung
 ---

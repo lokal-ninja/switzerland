@@ -1,5 +1,5 @@
 ---
 title: "Drynette"
-url: /morges/drynette/
+url: /morges/drynette-chemin-des-philosophes/
 shop: Wäscherei
 ---

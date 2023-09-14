@@ -1,5 +1,5 @@
 ---
 title: "Denner"
-url: /winterthur/denner/
+url: /winterthur/denner-hinterdorfstrasse/
 shop: Supermarkt
 ---

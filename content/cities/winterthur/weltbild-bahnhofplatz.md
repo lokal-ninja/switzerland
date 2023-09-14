@@ -1,5 +1,5 @@
 ---
 title: "Weltbild"
-url: /winterthur/weltbild/
+url: /winterthur/weltbild-bahnhofplatz/
 shop: Bücher
 ---

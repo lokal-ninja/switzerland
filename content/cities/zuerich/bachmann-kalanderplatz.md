@@ -1,5 +1,5 @@
 ---
 title: "Bachmann"
-url: /zuerich/bachmann/
+url: /zuerich/bachmann-kalanderplatz/
 shop: Konditorei
 ---

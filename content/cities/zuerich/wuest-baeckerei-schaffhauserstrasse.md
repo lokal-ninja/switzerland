@@ -1,5 +1,5 @@
 ---
 title: "Wüst Bäckerei"
-url: /zuerich/wuest-baeckerei/
+url: /zuerich/wuest-baeckerei-schaffhauserstrasse/
 shop: Bäckerei
 ---

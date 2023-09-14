@@ -1,5 +1,5 @@
 ---
 title: "Kleiner"
-url: /zuerich/kleiner/
+url: /zuerich/kleiner-kalkbreitestrasse/
 shop: Bäckerei
 ---

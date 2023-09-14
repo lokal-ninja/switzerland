@@ -1,5 +1,5 @@
 ---
 title: "Import Parfumerie"
-url: /wil-sg/import-parfumerie/
+url: /wil-sg/import-parfumerie-obere-bahnhofstrasse/
 shop: Parfümerie
 ---

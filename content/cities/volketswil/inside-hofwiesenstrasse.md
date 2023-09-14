@@ -1,5 +1,5 @@
 ---
 title: "Inside"
-url: /volketswil/inside/
+url: /volketswil/inside-hofwiesenstrasse/
 shop: Einkaufszentrum
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Visilab"
-url: /zuerich/visilab/
+url: /zuerich/visilab-bahnhofstrasse/
 shop: Optiker
 ---

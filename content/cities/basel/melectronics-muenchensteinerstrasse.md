@@ -1,5 +1,5 @@
 ---
 title: "melectronics"
-url: /basel/melectronics/
+url: /basel/melectronics-muenchensteinerstrasse/
 shop: Elektronik
 ---

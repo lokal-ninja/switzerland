@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /st-gallen/spar/
+url: /st-gallen/spar-wolfganghof/
 shop: Supermarkt
 ---

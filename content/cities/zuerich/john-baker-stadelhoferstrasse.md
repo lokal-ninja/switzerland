@@ -1,5 +1,5 @@
 ---
 title: "John Baker"
-url: /zuerich/john-baker/
+url: /zuerich/john-baker-stadelhoferstrasse/
 shop: Bäckerei
 ---

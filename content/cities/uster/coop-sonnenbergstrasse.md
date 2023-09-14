@@ -1,5 +1,5 @@
 ---
 title: "Coop"
-url: /uster/coop/
+url: /uster/coop-sonnenbergstrasse/
 shop: Lebensmittel
 ---

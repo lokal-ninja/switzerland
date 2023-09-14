@@ -1,5 +1,5 @@
 ---
 title: "Qualipet"
-url: /egerkingen/qualipet/
+url: /egerkingen/qualipet-hausimollstrasse/
 shop: Tiere
 ---

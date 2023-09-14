@@ -1,5 +1,5 @@
 ---
 title: "H&M"
-url: /zuerich/hundm/
+url: /zuerich/hundm-limmatquai/
 shop: Kleidung
 ---

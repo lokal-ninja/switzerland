@@ -1,5 +1,5 @@
 ---
 title: "Migrolino"
-url: /allschwil/migrolino/
+url: /allschwil/migrolino-stockbrunnenrain/
 shop: Lebensmittel
 ---

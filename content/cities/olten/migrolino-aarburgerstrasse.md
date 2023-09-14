@@ -1,5 +1,5 @@
 ---
 title: "Migrolino"
-url: /olten/migrolino/
+url: /olten/migrolino-aarburgerstrasse/
 shop: Lebensmittel
 ---

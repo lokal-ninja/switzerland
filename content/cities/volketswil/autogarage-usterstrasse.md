@@ -1,5 +1,5 @@
 ---
 title: "Autogarage"
-url: /volketswil/autogarage/
+url: /volketswil/autogarage-usterstrasse/
 shop: Autowerkstatt
 ---

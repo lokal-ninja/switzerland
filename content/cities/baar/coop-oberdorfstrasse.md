@@ -1,5 +1,5 @@
 ---
 title: "Coop"
-url: /baar/coop/
+url: /baar/coop-oberdorfstrasse/
 shop: Supermarkt
 ---

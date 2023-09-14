@@ -1,5 +1,5 @@
 ---
 title: "Brico"
-url: /mendrisio/brico/
+url: /mendrisio/brico-via-giorgio-bernasconi/
 shop: Baumarkt
 ---

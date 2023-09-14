@@ -1,5 +1,5 @@
 ---
 title: "Denner"
-url: /stans/denner/
+url: /stans/denner-bitzistrasse/
 shop: Supermarkt
 ---

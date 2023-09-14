@@ -1,5 +1,5 @@
 ---
 title: "Brezelkönig"
-url: /baden/brezelkoenig/
+url: /baden/brezelkoenig-2/
 shop: Bäckerei
 ---

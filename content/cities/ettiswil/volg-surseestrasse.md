@@ -1,5 +1,5 @@
 ---
 title: "Volg"
-url: /ettiswil/volg/
+url: /ettiswil/volg-surseestrasse/
 shop: Supermarkt
 ---

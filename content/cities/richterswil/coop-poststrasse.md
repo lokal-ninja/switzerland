@@ -1,5 +1,5 @@
 ---
 title: "Coop"
-url: /richterswil/coop/
+url: /richterswil/coop-poststrasse/
 shop: Supermarkt
 ---

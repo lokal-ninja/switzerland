@@ -1,5 +1,5 @@
 ---
 title: "Migros"
-url: /frauenfeld/migros/
+url: /frauenfeld/migros-langfeldstrasse/
 shop: Supermarkt
 ---

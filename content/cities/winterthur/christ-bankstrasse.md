@@ -1,5 +1,5 @@
 ---
 title: "Christ"
-url: /winterthur/christ/
+url: /winterthur/christ-bankstrasse/
 shop: Schmuck
 ---

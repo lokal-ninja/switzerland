@@ -1,5 +1,5 @@
 ---
 title: "Coiffure Valentino"
-url: /zuerich/coiffure-valentino/
+url: /zuerich/coiffure-valentino-pelikanplatz/
 shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Weingut Schödler"
-url: /villigen/weingut-schoedler/
+url: /villigen/weingut-schoedler-kumetstrasse/
 shop: Wein
 ---

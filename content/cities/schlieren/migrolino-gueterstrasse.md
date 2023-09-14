@@ -1,5 +1,5 @@
 ---
 title: "Migrolino"
-url: /schlieren/migrolino/
+url: /schlieren/migrolino-gueterstrasse/
 shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "melectronics"
-url: /zuerich/melectronics/
+url: /zuerich/melectronics-altstetterstrasse/
 shop: Elektronik
 ---

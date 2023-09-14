@@ -1,5 +1,5 @@
 ---
 title: "Gidor"
-url: /aarau/gidor/
+url: /aarau/gidor-bahnhofplatz/
 shop: Friseur
 ---

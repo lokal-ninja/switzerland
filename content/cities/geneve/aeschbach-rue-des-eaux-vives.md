@@ -1,5 +1,5 @@
 ---
 title: "Aeschbach"
-url: /geneve/aeschbach/
+url: /geneve/aeschbach-rue-des-eaux-vives/
 shop: Schuhe
 ---

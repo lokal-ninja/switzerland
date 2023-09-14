@@ -1,5 +1,5 @@
 ---
 title: "Orinad"
-url: /zuerich/orinad/
+url: /zuerich/orinad-vulkanplatz/
 shop: Friseur
 ---

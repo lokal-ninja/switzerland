@@ -1,5 +1,5 @@
 ---
 title: "Migros"
-url: /thun/migros/
+url: /thun/migros-baelliz/
 shop: Supermarkt
 ---

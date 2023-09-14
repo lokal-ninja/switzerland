@@ -1,5 +1,5 @@
 ---
 title: "Migros"
-url: /lugano/migros/
+url: /lugano/migros-2/
 shop: Supermarkt
 ---

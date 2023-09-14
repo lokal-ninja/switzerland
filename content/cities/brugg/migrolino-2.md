@@ -1,5 +1,5 @@
 ---
 title: "Migrolino"
-url: /brugg/migrolino/
+url: /brugg/migrolino-2/
 shop: Lebensmittel
 ---

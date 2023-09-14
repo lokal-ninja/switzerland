@@ -1,5 +1,5 @@
 ---
 title: "Kochoptik"
-url: /zuerich/kochoptik/
+url: /zuerich/kochoptik-ohmstrasse/
 shop: Optiker
 ---

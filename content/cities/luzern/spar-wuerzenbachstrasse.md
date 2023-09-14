@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /luzern/spar/
+url: /luzern/spar-wuerzenbachstrasse/
 shop: Supermarkt
 ---

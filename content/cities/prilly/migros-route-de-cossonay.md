@@ -1,5 +1,5 @@
 ---
 title: "Migros"
-url: /prilly/migros/
+url: /prilly/migros-route-de-cossonay/
 shop: Supermarkt
 ---

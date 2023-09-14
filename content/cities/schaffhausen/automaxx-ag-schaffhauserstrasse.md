@@ -1,5 +1,5 @@
 ---
 title: "AutomaxX AG"
-url: /schaffhausen/automaxx-ag/
+url: /schaffhausen/automaxx-ag-schaffhauserstrasse/
 shop: Autowerkstatt
 ---

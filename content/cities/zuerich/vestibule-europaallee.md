@@ -1,5 +1,5 @@
 ---
 title: "Vestibule"
-url: /zuerich/vestibule/
+url: /zuerich/vestibule-europaallee/
 shop: Kleidung
 ---

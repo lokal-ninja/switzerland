@@ -1,5 +1,5 @@
 ---
 title: "Okaidi"
-url: /zuerich/okaidi/
+url: /zuerich/okaidi-baslerstrasse/
 shop: Kleidung
 ---

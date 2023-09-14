@@ -1,5 +1,5 @@
 ---
 title: "Schlafwohl"
-url: /zuerich/schlafwohl/
+url: /zuerich/schlafwohl-altstetterstrasse/
 shop: Betten
 ---

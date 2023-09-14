@@ -1,5 +1,5 @@
 ---
 title: "Pfisternbeck"
-url: /bern/pfisternbeck/
+url: /bern/pfisternbeck-europaplatz/
 shop: Bäckerei
 ---

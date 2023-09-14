@@ -1,5 +1,5 @@
 ---
 title: "Micasa Home"
-url: /zuerich/micasa-home/
+url: /zuerich/micasa-home-loewenstrasse/
 shop: Raumausstattung
 ---

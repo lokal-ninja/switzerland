@@ -1,5 +1,5 @@
 ---
 title: "Rhomberg"
-url: /winterthur/rhomberg/
+url: /winterthur/rhomberg-schaffhauserstrasse/
 shop: Schmuck
 ---

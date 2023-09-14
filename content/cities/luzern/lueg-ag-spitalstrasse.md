@@ -1,5 +1,5 @@
 ---
 title: "Lueg AG"
-url: /luzern/lueg-ag/
+url: /luzern/lueg-ag-spitalstrasse/
 shop: Autowerkstatt
 ---

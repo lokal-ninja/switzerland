@@ -1,5 +1,5 @@
 ---
 title: "Manor"
-url: /basel/manor/
+url: /basel/manor-greifengasse/
 shop: Warenhaus
 ---

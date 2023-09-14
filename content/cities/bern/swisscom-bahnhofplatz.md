@@ -1,5 +1,5 @@
 ---
 title: "Swisscom"
-url: /bern/swisscom/
+url: /bern/swisscom-bahnhofplatz/
 shop: Handy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spaze Hairstudio"
-url: /zuerich/spaze-hairstudio/
+url: /zuerich/spaze-hairstudio-seefeldstrasse/
 shop: Friseur
 ---

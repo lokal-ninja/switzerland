@@ -1,5 +1,5 @@
 ---
 title: "Marionnaud"
-url: /luzern/marionnaud/
+url: /luzern/marionnaud-2/
 shop: Parfümerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Migrolino"
-url: /waedenswil/migrolino/
+url: /waedenswil/migrolino-seestrasse/
 shop: Lebensmittel
 ---

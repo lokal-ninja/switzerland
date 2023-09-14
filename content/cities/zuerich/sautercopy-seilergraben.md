@@ -1,5 +1,5 @@
 ---
 title: "SauterCopy"
-url: /zuerich/sautercopy/
+url: /zuerich/sautercopy-seilergraben/
 shop: Kopieren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Companys"
-url: /zuerich/companys/
+url: /zuerich/companys-kalanderplatz/
 shop: Kleidung
 ---

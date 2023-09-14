@@ -1,5 +1,5 @@
 ---
 title: "Ehrbar"
-url: /taegerwilen/ehrbar/
+url: /taegerwilen/ehrbar-bahnhofstrasse/
 shop: Fahrrad
 ---

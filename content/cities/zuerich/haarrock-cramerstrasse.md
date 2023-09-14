@@ -1,5 +1,5 @@
 ---
 title: "Haarrock"
-url: /zuerich/haarrock/
+url: /zuerich/haarrock-cramerstrasse/
 shop: Friseur
 ---

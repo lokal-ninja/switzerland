@@ -1,5 +1,5 @@
 ---
 title: "Rubi Kiosk"
-url: /axalp/rubi-kiosk/
+url: /axalp/rubi-kiosk-axalphornweg/
 shop: Lebensmittel
 ---

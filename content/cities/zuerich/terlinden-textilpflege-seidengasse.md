@@ -1,5 +1,5 @@
 ---
 title: "Terlinden Textilpflege"
-url: /zuerich/terlinden-textilpflege/
+url: /zuerich/terlinden-textilpflege-seidengasse/
 shop: Wäscherei
 ---

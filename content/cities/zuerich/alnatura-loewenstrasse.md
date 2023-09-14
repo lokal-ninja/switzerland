@@ -1,5 +1,5 @@
 ---
 title: "Alnatura"
-url: /zuerich/alnatura/
+url: /zuerich/alnatura-loewenstrasse/
 shop: Supermarkt
 ---

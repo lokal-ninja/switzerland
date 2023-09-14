@@ -1,5 +1,5 @@
 ---
 title: "Aeschbach"
-url: /geneve/aeschbach/
+url: /geneve/aeschbach-avenue-louis-casai/
 shop: Schuhe
 ---

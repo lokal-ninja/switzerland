@@ -1,5 +1,5 @@
 ---
 title: "Migrolino"
-url: /winterthur/migrolino/
+url: /winterthur/migrolino-schaffhauserstrasse/
 shop: Lebensmittel
 ---

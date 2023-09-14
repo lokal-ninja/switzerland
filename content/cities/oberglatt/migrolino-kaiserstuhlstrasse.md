@@ -1,5 +1,5 @@
 ---
 title: "Migrolino"
-url: /oberglatt/migrolino/
+url: /oberglatt/migrolino-kaiserstuhlstrasse/
 shop: Lebensmittel
 ---

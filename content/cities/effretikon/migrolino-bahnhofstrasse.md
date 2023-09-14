@@ -1,5 +1,5 @@
 ---
 title: "Migrolino"
-url: /effretikon/migrolino/
+url: /effretikon/migrolino-bahnhofstrasse/
 shop: Lebensmittel
 ---

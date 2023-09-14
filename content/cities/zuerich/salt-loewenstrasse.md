@@ -1,5 +1,5 @@
 ---
 title: "Salt"
-url: /zuerich/salt/
+url: /zuerich/salt-loewenstrasse/
 shop: Handy
 ---

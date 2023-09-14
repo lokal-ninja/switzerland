@@ -1,5 +1,5 @@
 ---
 title: "Tschümperlin"
-url: /zug/tschuemperlin/
+url: /zug/tschuemperlin-bahnhofplatz/
 shop: Schuhe
 ---

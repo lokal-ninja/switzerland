@@ -1,5 +1,5 @@
 ---
 title: "Jumbo"
-url: /winterthur/jumbo/
+url: /winterthur/jumbo-zuercherstrasse/
 shop: Baumarkt
 ---

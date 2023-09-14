@@ -1,5 +1,5 @@
 ---
 title: "Magic X"
-url: /zuerich/magic-x/
+url: /zuerich/magic-x-baslerstrasse/
 shop: Erotik
 ---

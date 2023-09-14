@@ -1,5 +1,5 @@
 ---
 title: "Jumbo"
-url: /arbon/jumbo/
+url: /arbon/jumbo-textilstrasse/
 shop: Baumarkt
 ---

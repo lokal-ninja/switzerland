@@ -1,5 +1,5 @@
 ---
 title: "Kuoni"
-url: /zuerich/kuoni/
+url: /zuerich/kuoni-bahnhofstrasse/
 shop: Reisebüro
 ---

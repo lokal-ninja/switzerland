@@ -1,5 +1,5 @@
 ---
 title: "Qualipet"
-url: /zuerich/qualipet/
+url: /zuerich/qualipet-kalanderplatz/
 shop: Tiere
 ---

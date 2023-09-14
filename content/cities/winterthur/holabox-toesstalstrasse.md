@@ -1,5 +1,5 @@
 ---
 title: "Holabox"
-url: /winterthur/holabox/
+url: /winterthur/holabox-toesstalstrasse/
 shop: Lebensmittel
 ---

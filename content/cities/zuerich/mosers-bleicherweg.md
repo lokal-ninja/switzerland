@@ -1,5 +1,5 @@
 ---
 title: "Moser's"
-url: /zuerich/mosers/
+url: /zuerich/mosers-bleicherweg/
 shop: Bäckerei
 ---

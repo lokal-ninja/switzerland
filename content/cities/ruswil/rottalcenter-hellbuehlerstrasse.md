@@ -1,5 +1,5 @@
 ---
 title: "Rottalcenter"
-url: /ruswil/rottalcenter/
+url: /ruswil/rottalcenter-hellbuehlerstrasse/
 shop: Einkaufszentrum
 ---

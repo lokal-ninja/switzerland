@@ -1,5 +1,5 @@
 ---
 title: "Jäger"
-url: /koeniz/jaeger/
+url: /koeniz/jaeger-mattenhausweg/
 shop: Bäckerei
 ---

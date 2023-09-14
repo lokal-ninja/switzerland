@@ -1,5 +1,5 @@
 ---
 title: "H&M"
-url: /st-gallen/hundm/
+url: /st-gallen/hundm-multergasse/
 shop: Kleidung
 ---

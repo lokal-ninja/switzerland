@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /kriens/aldi/
+url: /kriens/aldi-hobacherweg/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Steiner Flughafebeck"
-url: /zuerich/steiner-flughafebeck/
+url: /zuerich/steiner-flughafebeck-limmattalstrasse/
 shop: Bäckerei
 ---

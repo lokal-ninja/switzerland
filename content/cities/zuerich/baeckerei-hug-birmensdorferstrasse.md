@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Hug"
-url: /zuerich/baeckerei-hug/
+url: /zuerich/baeckerei-hug-birmensdorferstrasse/
 shop: Bäckerei
 ---

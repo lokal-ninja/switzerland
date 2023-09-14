@@ -1,5 +1,5 @@
 ---
 title: "Orell Füssli"
-url: /zuerich/orell-fuessli/
+url: /zuerich/orell-fuessli-stadelhoferstrasse/
 shop: Bücher
 ---

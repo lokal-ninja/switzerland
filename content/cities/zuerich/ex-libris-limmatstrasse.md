@@ -1,5 +1,5 @@
 ---
 title: "Ex Libris"
-url: /zuerich/ex-libris/
+url: /zuerich/ex-libris-limmatstrasse/
 shop: Bücher
 ---

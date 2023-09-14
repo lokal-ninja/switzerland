@@ -1,5 +1,5 @@
 ---
 title: "Kurz"
-url: /zuerich/kurz/
+url: /zuerich/kurz-schweizergasse/
 shop: Schmuck
 ---

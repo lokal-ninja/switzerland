@@ -1,5 +1,5 @@
 ---
 title: "Migrolino"
-url: /kriens/migrolino/
+url: /kriens/migrolino-nidfeldstrasse/
 shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Migros"
-url: /aarau/migros/
+url: /aarau/migros-bahnhofplatz/
 shop: Supermarkt
 ---

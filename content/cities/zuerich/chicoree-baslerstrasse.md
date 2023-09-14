@@ -1,5 +1,5 @@
 ---
 title: "Chicorée"
-url: /zuerich/chicoree/
+url: /zuerich/chicoree-baslerstrasse/
 shop: Kleidung
 ---

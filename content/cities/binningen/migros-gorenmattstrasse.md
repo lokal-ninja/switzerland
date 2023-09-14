@@ -1,5 +1,5 @@
 ---
 title: "Migros"
-url: /binningen/migros/
+url: /binningen/migros-gorenmattstrasse/
 shop: Supermarkt
 ---

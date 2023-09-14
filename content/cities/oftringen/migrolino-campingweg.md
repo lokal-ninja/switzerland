@@ -1,5 +1,5 @@
 ---
 title: "Migrolino"
-url: /oftringen/migrolino/
+url: /oftringen/migrolino-campingweg/
 shop: Lebensmittel
 ---

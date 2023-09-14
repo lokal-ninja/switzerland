@@ -1,5 +1,5 @@
 ---
 title: "Migros"
-url: /schlieren/migros/
+url: /schlieren/migros-gueterstrasse/
 shop: Supermarkt
 ---

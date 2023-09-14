@@ -1,5 +1,5 @@
 ---
 title: "Coop"
-url: /fribourg/coop/
+url: /fribourg/coop-rue-louis-daffry/
 shop: Supermarkt
 ---

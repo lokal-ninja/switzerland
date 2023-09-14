@@ -1,5 +1,5 @@
 ---
 title: "Coop"
-url: /schlieren/coop/
+url: /schlieren/coop-goldschlaegiplatz/
 shop: Supermarkt
 ---

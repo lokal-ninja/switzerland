@@ -1,5 +1,5 @@
 ---
 title: "Confiserie Honold"
-url: /zuerich/confiserie-honold/
+url: /zuerich/confiserie-honold-seestrasse/
 shop: Konditorei
 ---

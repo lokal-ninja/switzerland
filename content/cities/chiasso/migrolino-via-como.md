@@ -1,5 +1,5 @@
 ---
 title: "Migrolino"
-url: /chiasso/migrolino/
+url: /chiasso/migrolino-via-como/
 shop: Lebensmittel
 ---

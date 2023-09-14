@@ -1,5 +1,5 @@
 ---
 title: "Läderach"
-url: /luzern/laederach/
+url: /luzern/laederach-2/
 shop: Süßwaren
 ---

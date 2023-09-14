@@ -1,5 +1,5 @@
 ---
 title: "Pfyl"
-url: /obfelden/pfyl/
+url: /obfelden/pfyl-alte-landstrasse/
 shop: Bäckerei
 ---

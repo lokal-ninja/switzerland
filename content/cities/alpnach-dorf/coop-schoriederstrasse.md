@@ -1,5 +1,5 @@
 ---
 title: "Coop"
-url: /alpnach-dorf/coop/
+url: /alpnach-dorf/coop-schoriederstrasse/
 shop: Supermarkt
 ---

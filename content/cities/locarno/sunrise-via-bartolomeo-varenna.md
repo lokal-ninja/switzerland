@@ -1,5 +1,5 @@
 ---
 title: "Sunrise"
-url: /locarno/sunrise/
+url: /locarno/sunrise-via-bartolomeo-varenna/
 shop: Handy
 ---

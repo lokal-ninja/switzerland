@@ -1,5 +1,5 @@
 ---
 title: "Denner"
-url: /biel-bienne/denner/
+url: /biel-bienne/denner-bahnhofstrasse/
 shop: Supermarkt
 ---

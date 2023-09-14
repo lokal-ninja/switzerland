@@ -1,5 +1,5 @@
 ---
 title: "Denner"
-url: /lausanne/denner/
+url: /lausanne/denner-avenue-du-grey/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dosenbach"
-url: /zuerich/dosenbach/
+url: /zuerich/dosenbach-2/
 shop: Schuhe
 ---

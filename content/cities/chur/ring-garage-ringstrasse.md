@@ -1,5 +1,5 @@
 ---
 title: "Ring Garage"
-url: /chur/ring-garage/
+url: /chur/ring-garage-ringstrasse/
 shop: Autowerkstatt
 ---

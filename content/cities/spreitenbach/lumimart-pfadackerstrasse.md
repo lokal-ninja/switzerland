@@ -1,5 +1,5 @@
 ---
 title: "Lumimart"
-url: /spreitenbach/lumimart/
+url: /spreitenbach/lumimart-pfadackerstrasse/
 shop: Lampen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /kreuzlingen/aldi/
+url: /kreuzlingen/aldi-lengwilerstrasse/
 shop: Supermarkt
 ---

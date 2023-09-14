@@ -1,5 +1,5 @@
 ---
 title: "Migrolino"
-url: /inwil/migrolino/
+url: /inwil/migrolino-2/
 shop: Lebensmittel
 ---

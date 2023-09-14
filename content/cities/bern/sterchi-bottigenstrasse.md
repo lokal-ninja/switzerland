@@ -1,5 +1,5 @@
 ---
 title: "Sterchi"
-url: /bern/sterchi/
+url: /bern/sterchi-bottigenstrasse/
 shop: Bäckerei
 ---

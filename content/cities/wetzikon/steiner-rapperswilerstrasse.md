@@ -1,5 +1,5 @@
 ---
 title: "Steiner"
-url: /wetzikon/steiner/
+url: /wetzikon/steiner-rapperswilerstrasse/
 shop: Bäckerei
 ---

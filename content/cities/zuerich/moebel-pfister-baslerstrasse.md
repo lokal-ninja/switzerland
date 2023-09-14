@@ -1,5 +1,5 @@
 ---
 title: "Möbel Pfister"
-url: /zuerich/moebel-pfister/
+url: /zuerich/moebel-pfister-baslerstrasse/
 shop: Möbel
 ---

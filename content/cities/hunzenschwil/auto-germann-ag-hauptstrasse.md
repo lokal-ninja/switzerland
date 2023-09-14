@@ -1,5 +1,5 @@
 ---
 title: "Auto Germann AG"
-url: /hunzenschwil/auto-germann-ag/
+url: /hunzenschwil/auto-germann-ag-hauptstrasse/
 shop: Autowerkstatt
 ---

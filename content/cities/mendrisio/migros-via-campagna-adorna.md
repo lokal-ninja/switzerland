@@ -1,5 +1,5 @@
 ---
 title: "Migros"
-url: /mendrisio/migros/
+url: /mendrisio/migros-via-campagna-adorna/
 shop: Supermarkt
 ---

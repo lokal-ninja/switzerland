@@ -1,5 +1,5 @@
 ---
 title: "Migrolino"
-url: /cointrin/migrolino/
+url: /cointrin/migrolino-avenue-louis-casai/
 shop: Lebensmittel
 ---

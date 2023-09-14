@@ -1,5 +1,5 @@
 ---
 title: "Coop"
-url: /biel-bienne/coop/
+url: /biel-bienne/coop-salzhausstrasse/
 shop: Supermarkt
 ---

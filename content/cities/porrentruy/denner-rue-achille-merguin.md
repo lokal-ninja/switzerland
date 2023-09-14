@@ -1,5 +1,5 @@
 ---
 title: "Denner"
-url: /porrentruy/denner/
+url: /porrentruy/denner-rue-achille-merguin/
 shop: Supermarkt
 ---

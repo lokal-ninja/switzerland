@@ -1,5 +1,5 @@
 ---
 title: "Otto's"
-url: /root/ottos/
+url: /root/ottos-oberfeld/
 shop: Kramladen
 ---

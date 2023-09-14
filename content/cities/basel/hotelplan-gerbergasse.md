@@ -1,5 +1,5 @@
 ---
 title: "Hotelplan"
-url: /basel/hotelplan/
+url: /basel/hotelplan-gerbergasse/
 shop: Reisebüro
 ---

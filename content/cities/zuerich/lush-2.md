@@ -1,5 +1,5 @@
 ---
 title: "Lush"
-url: /zuerich/lush/
+url: /zuerich/lush-2/
 shop: Kosmetik
 ---

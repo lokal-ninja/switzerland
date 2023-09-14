@@ -1,5 +1,5 @@
 ---
 title: "Marionnaud"
-url: /basel/marionnaud/
+url: /basel/marionnaud-falknerstrasse/
 shop: Parfümerie
 ---

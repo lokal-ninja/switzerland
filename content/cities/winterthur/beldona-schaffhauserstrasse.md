@@ -1,5 +1,5 @@
 ---
 title: "Beldona"
-url: /winterthur/beldona/
+url: /winterthur/beldona-schaffhauserstrasse/
 shop: Kleidung
 ---

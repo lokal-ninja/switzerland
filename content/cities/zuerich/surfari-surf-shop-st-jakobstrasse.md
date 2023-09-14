@@ -1,5 +1,5 @@
 ---
 title: "Surfari Surf Shop"
-url: /zuerich/surfari-surf-shop/
+url: /zuerich/surfari-surf-shop-st-jakobstrasse/
 shop: Sport
 ---

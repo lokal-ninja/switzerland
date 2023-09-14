@@ -1,5 +1,5 @@
 ---
 title: "al Porto"
-url: /ascona/al-porto/
+url: /ascona/al-porto-piazza-giuseppe-motta/
 shop: Bäckerei
 ---

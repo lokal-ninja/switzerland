@@ -1,5 +1,5 @@
 ---
 title: "Ochsner Sport"
-url: /zuerich/ochsner-sport/
+url: /zuerich/ochsner-sport-schulstrasse/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
-url: /zuerich/sephora/
+url: /zuerich/sephora-kalanderplatz/
 shop: Kosmetik
 ---

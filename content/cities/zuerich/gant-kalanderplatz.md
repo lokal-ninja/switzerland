@@ -1,5 +1,5 @@
 ---
 title: "GANT"
-url: /zuerich/gant/
+url: /zuerich/gant-kalanderplatz/
 shop: Kleidung
 ---

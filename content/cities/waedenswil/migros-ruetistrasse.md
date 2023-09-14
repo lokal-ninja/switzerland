@@ -1,5 +1,5 @@
 ---
 title: "Migros"
-url: /waedenswil/migros/
+url: /waedenswil/migros-ruetistrasse/
 shop: Supermarkt
 ---

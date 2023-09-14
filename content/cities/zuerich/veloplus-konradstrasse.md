@@ -1,5 +1,5 @@
 ---
 title: "Veloplus"
-url: /zuerich/veloplus/
+url: /zuerich/veloplus-konradstrasse/
 shop: Fahrrad
 ---

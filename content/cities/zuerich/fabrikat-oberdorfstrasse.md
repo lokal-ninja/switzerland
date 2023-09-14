@@ -1,5 +1,5 @@
 ---
 title: "Fabrikat"
-url: /zuerich/fabrikat/
+url: /zuerich/fabrikat-oberdorfstrasse/
 shop: Schreibwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hotelplan"
-url: /zuerich/hotelplan/
+url: /zuerich/hotelplan-limmatstrasse/
 shop: Reisebüro
 ---

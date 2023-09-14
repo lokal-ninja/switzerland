@@ -1,5 +1,5 @@
 ---
 title: "Migrol Tankstelle"
-url: /schwyz/migrol-tankstelle/
+url: /schwyz/migrol-tankstelle-schlagstrasse/
 shop: Allgemein
 ---

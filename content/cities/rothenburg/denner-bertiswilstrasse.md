@@ -1,5 +1,5 @@
 ---
 title: "Denner"
-url: /rothenburg/denner/
+url: /rothenburg/denner-bertiswilstrasse/
 shop: Supermarkt
 ---

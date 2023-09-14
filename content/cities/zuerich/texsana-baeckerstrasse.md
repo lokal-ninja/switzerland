@@ -1,5 +1,5 @@
 ---
 title: "Texsana"
-url: /zuerich/texsana/
+url: /zuerich/texsana-baeckerstrasse/
 shop: Wäscherei
 ---

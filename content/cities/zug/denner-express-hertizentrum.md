@@ -1,5 +1,5 @@
 ---
 title: "Denner Express"
-url: /zug/denner-express/
+url: /zug/denner-express-hertizentrum/
 shop: Lebensmittel
 ---

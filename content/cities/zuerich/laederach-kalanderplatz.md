@@ -1,5 +1,5 @@
 ---
 title: "Läderach"
-url: /zuerich/laederach/
+url: /zuerich/laederach-kalanderplatz/
 shop: Süßwaren
 ---

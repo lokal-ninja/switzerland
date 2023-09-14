@@ -1,5 +1,5 @@
 ---
 title: "Migrolino"
-url: /kreuzlingen/migrolino/
+url: /kreuzlingen/migrolino-romanshornerstrasse/
 shop: Lebensmittel
 ---

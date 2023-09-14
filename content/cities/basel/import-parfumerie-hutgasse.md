@@ -1,5 +1,5 @@
 ---
 title: "Import Parfumerie"
-url: /basel/import-parfumerie/
+url: /basel/import-parfumerie-hutgasse/
 shop: Parfümerie
 ---

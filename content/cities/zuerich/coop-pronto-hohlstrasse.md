@@ -1,5 +1,5 @@
 ---
 title: "Coop Pronto"
-url: /zuerich/coop-pronto/
+url: /zuerich/coop-pronto-hohlstrasse/
 shop: Lebensmittel
 ---

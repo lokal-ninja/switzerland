@@ -1,5 +1,5 @@
 ---
 title: "Manor"
-url: /geneve/manor/
+url: /geneve/manor-rue-cornavin/
 shop: Warenhaus
 ---

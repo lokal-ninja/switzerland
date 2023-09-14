@@ -1,5 +1,5 @@
 ---
 title: "Import Parfumerie"
-url: /zuerich/import-parfumerie/
+url: /zuerich/import-parfumerie-baslerstrasse/
 shop: Parfümerie
 ---

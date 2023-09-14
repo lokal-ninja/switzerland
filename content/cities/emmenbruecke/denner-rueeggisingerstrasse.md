@@ -1,5 +1,5 @@
 ---
 title: "Denner"
-url: /emmenbruecke/denner/
+url: /emmenbruecke/denner-rueeggisingerstrasse/
 shop: Supermarkt
 ---

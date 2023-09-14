@@ -1,5 +1,5 @@
 ---
 title: "Audika"
-url: /zuerich/audika/
+url: /zuerich/audika-limmattalstrasse/
 shop: Hörgeräte
 ---

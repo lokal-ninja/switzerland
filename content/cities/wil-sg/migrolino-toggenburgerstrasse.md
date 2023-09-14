@@ -1,5 +1,5 @@
 ---
 title: "Migrolino"
-url: /wil-sg/migrolino/
+url: /wil-sg/migrolino-toggenburgerstrasse/
 shop: Lebensmittel
 ---

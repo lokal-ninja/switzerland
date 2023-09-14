@@ -1,5 +1,5 @@
 ---
 title: "Claus & Carla"
-url: /basel/claus-und-carla/
+url: /basel/claus-und-carla-gueterstrasse/
 shop: Friseur
 ---

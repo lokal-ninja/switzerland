@@ -1,5 +1,5 @@
 ---
 title: "Beldona"
-url: /luzern/beldona/
+url: /luzern/beldona-zuerichstrasse/
 shop: Kleidung
 ---

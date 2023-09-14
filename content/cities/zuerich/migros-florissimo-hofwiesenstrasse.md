@@ -1,5 +1,5 @@
 ---
 title: "Migros Florissimo"
-url: /zuerich/migros-florissimo/
+url: /zuerich/migros-florissimo-hofwiesenstrasse/
 shop: Blumen
 ---

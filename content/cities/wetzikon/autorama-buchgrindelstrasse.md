@@ -1,5 +1,5 @@
 ---
 title: "Autorama"
-url: /wetzikon/autorama/
+url: /wetzikon/autorama-buchgrindelstrasse/
 shop: Autohaus
 ---

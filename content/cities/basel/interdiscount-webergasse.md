@@ -1,5 +1,5 @@
 ---
 title: "Interdiscount"
-url: /basel/interdiscount/
+url: /basel/interdiscount-webergasse/
 shop: Elektronik
 ---

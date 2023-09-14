@@ -1,5 +1,5 @@
 ---
 title: "Migros"
-url: /dietikon/migros/
+url: /dietikon/migros-ueberlandstrasse/
 shop: Supermarkt
 ---

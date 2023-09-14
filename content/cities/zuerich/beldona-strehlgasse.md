@@ -1,5 +1,5 @@
 ---
 title: "Beldona"
-url: /zuerich/beldona/
+url: /zuerich/beldona-strehlgasse/
 shop: Kleidung
 ---

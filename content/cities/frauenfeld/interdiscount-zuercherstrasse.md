@@ -1,5 +1,5 @@
 ---
 title: "Interdiscount"
-url: /frauenfeld/interdiscount/
+url: /frauenfeld/interdiscount-zuercherstrasse/
 shop: Elektronik
 ---

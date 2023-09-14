@@ -1,5 +1,5 @@
 ---
 title: "Migrolino"
-url: /muttenz/migrolino/
+url: /muttenz/migrolino-prattelerstrasse/
 shop: Lebensmittel
 ---

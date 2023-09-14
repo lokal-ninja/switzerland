@@ -1,5 +1,5 @@
 ---
 title: "Tschümperlin"
-url: /luzern/tschuemperlin/
+url: /luzern/tschuemperlin-2/
 shop: Schuhe
 ---

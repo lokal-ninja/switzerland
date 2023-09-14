@@ -1,5 +1,5 @@
 ---
 title: "Kuoni"
-url: /basel/kuoni/
+url: /basel/kuoni-gerbergasse/
 shop: Reisebüro
 ---

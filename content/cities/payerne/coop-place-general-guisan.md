@@ -1,5 +1,5 @@
 ---
 title: "Coop"
-url: /payerne/coop/
+url: /payerne/coop-place-general-guisan/
 shop: Supermarkt
 ---

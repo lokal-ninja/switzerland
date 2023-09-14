@@ -1,5 +1,5 @@
 ---
 title: "Cabinet"
-url: /zuerich/cabinet/
+url: /zuerich/cabinet-viaduktstrasse/
 shop: Kleidung
 ---

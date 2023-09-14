@@ -1,5 +1,5 @@
 ---
 title: "Salt"
-url: /basel/salt/
+url: /basel/salt-st-jakobs-strasse/
 shop: Handy
 ---

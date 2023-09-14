@@ -1,5 +1,5 @@
 ---
 title: "Migros"
-url: /geneve/migros/
+url: /geneve/migros-rue-gustave-revilliod/
 shop: Supermarkt
 ---

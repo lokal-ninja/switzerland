@@ -1,5 +1,5 @@
 ---
 title: "Fust"
-url: /luzern/fust/
+url: /luzern/fust-zuerichstrasse/
 shop: Elektronik
 ---

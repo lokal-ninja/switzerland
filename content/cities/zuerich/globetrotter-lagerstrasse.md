@@ -1,5 +1,5 @@
 ---
 title: "Globetrotter"
-url: /zuerich/globetrotter/
+url: /zuerich/globetrotter-lagerstrasse/
 shop: Reisebüro
 ---

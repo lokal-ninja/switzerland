@@ -1,5 +1,5 @@
 ---
 title: "Söhrenhof"
-url: /boezen/soehrenhof/
+url: /boezen/soehrenhof-soehrenhof/
 shop: Hofladen
 ---

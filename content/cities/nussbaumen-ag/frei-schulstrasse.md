@@ -1,5 +1,5 @@
 ---
 title: "Frei"
-url: /nussbaumen-ag/frei/
+url: /nussbaumen-ag/frei-schulstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Confiserie-Café Speck"
-url: /zug/confiserie-cafe-speck/
+url: /zug/confiserie-cafe-speck-alpenstrasse/
 shop: Konditorei
 ---

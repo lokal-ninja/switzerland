@@ -1,5 +1,5 @@
 ---
 title: "Migrolino"
-url: /schaffhausen/migrolino/
+url: /schaffhausen/migrolino-muehlenstrasse/
 shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fust"
-url: /zuerich/fust/
+url: /zuerich/fust-2/
 shop: Elektronik
 ---

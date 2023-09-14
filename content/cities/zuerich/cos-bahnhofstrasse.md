@@ -1,5 +1,5 @@
 ---
 title: "COS"
-url: /zuerich/cos/
+url: /zuerich/cos-bahnhofstrasse/
 shop: Kleidung
 ---

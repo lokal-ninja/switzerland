@@ -1,5 +1,5 @@
 ---
 title: "Otto's"
-url: /winterthur/ottos/
+url: /winterthur/ottos-zuercherstrasse/
 shop: Warenhaus
 ---

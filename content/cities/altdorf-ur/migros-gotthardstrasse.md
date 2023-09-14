@@ -1,5 +1,5 @@
 ---
 title: "Migros"
-url: /altdorf-ur/migros/
+url: /altdorf-ur/migros-gotthardstrasse/
 shop: Supermarkt
 ---

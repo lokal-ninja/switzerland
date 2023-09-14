@@ -1,5 +1,5 @@
 ---
 title: "Salt"
-url: /bern/salt/
+url: /bern/salt-bahnhofplatz/
 shop: Handy
 ---

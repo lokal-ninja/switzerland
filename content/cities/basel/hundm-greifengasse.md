@@ -1,5 +1,5 @@
 ---
 title: "H&M"
-url: /basel/hundm/
+url: /basel/hundm-greifengasse/
 shop: Kleidung
 ---

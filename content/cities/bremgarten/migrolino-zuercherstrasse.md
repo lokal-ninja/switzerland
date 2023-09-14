@@ -1,5 +1,5 @@
 ---
 title: "Migrolino"
-url: /bremgarten/migrolino/
+url: /bremgarten/migrolino-zuercherstrasse/
 shop: Lebensmittel
 ---

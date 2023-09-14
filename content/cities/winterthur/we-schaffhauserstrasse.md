@@ -1,5 +1,5 @@
 ---
 title: "WE"
-url: /winterthur/we/
+url: /winterthur/we-schaffhauserstrasse/
 shop: Kleidung
 ---

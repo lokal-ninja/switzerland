@@ -1,5 +1,5 @@
 ---
 title: "Müller"
-url: /winterthur/mueller/
+url: /winterthur/mueller-zuercherstrasse/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Denner"
-url: /basel/denner/
+url: /basel/denner-klybeckstrasse/
 shop: Supermarkt
 ---

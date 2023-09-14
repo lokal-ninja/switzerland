@@ -1,5 +1,5 @@
 ---
 title: "Teuscher"
-url: /zuerich/teuscher/
+url: /zuerich/teuscher-storchengasse/
 shop: Süßwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kochoptik"
-url: /winterthur/kochoptik/
+url: /winterthur/kochoptik-schaffhauserstrasse/
 shop: Optiker
 ---

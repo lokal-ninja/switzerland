@@ -1,5 +1,5 @@
 ---
 title: "melectronics"
-url: /winterthur/melectronics/
+url: /winterthur/melectronics-strickerstrasse/
 shop: Elektronik
 ---

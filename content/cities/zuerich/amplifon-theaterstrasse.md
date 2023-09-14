@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
-url: /zuerich/amplifon/
+url: /zuerich/amplifon-theaterstrasse/
 shop: Hörgeräte
 ---

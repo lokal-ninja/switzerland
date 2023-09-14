@@ -1,5 +1,5 @@
 ---
 title: "Hairstylist Pierre"
-url: /waedenswil/hairstylist-pierre/
+url: /waedenswil/hairstylist-pierre-gerbestrasse/
 shop: Friseur
 ---

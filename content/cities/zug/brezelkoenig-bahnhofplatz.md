@@ -1,5 +1,5 @@
 ---
 title: "Brezelkönig"
-url: /zug/brezelkoenig/
+url: /zug/brezelkoenig-bahnhofplatz/
 shop: Bäckerei
 ---

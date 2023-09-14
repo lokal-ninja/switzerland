@@ -1,5 +1,5 @@
 ---
 title: "Rio Getränkemarkt"
-url: /zuerich/rio-getraenkemarkt/
+url: /zuerich/rio-getraenkemarkt-muertschenstrasse/
 shop: Getränke
 ---

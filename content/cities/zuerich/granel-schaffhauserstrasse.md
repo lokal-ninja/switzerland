@@ -1,5 +1,5 @@
 ---
 title: "Granel"
-url: /zuerich/granel/
+url: /zuerich/granel-schaffhauserstrasse/
 shop: Lebensmittel
 ---

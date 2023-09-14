@@ -1,5 +1,5 @@
 ---
 title: "Bayard"
-url: /zermatt/bayard/
+url: /zermatt/bayard-bahnhofstrasse/
 shop: Outdoor
 ---

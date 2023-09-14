@@ -1,5 +1,5 @@
 ---
 title: "Coop"
-url: /lausanne/coop/
+url: /lausanne/coop-avenue-du-parc-de-la-rouvraie/
 shop: Supermarkt
 ---

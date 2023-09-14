@@ -1,5 +1,5 @@
 ---
 title: "Coop"
-url: /bellinzona/coop/
+url: /bellinzona/coop-via-gerretta/
 shop: Supermarkt
 ---

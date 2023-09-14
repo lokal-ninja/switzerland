@@ -1,5 +1,5 @@
 ---
 title: "Migros"
-url: /kreuzlingen/migros/
+url: /kreuzlingen/migros-hauptstrasse/
 shop: Supermarkt
 ---

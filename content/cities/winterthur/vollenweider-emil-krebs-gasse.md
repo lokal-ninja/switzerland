@@ -1,5 +1,5 @@
 ---
 title: "Vollenweider"
-url: /winterthur/vollenweider/
+url: /winterthur/vollenweider-emil-krebs-gasse/
 shop: Schokolade
 ---

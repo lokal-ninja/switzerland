@@ -1,5 +1,5 @@
 ---
 title: "Migros"
-url: /luzern/migros/
+url: /luzern/migros-wuerzenbachstrasse/
 shop: Supermarkt
 ---

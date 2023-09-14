@@ -1,5 +1,5 @@
 ---
 title: "Amavita"
-url: /zuerich/amavita/
+url: /zuerich/amavita-2/
 shop: Drogerie
 ---

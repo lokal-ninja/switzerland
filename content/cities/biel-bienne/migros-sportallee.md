@@ -1,5 +1,5 @@
 ---
 title: "Migros"
-url: /biel-bienne/migros/
+url: /biel-bienne/migros-sportallee/
 shop: Supermarkt
 ---

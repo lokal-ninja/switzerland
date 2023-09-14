@@ -1,5 +1,5 @@
 ---
 title: "Denner"
-url: /schaffhausen/denner/
+url: /schaffhausen/denner-alpenstrasse/
 shop: Supermarkt
 ---

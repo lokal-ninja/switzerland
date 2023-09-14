@@ -1,5 +1,5 @@
 ---
 title: "Triumph"
-url: /zuerich/triumph/
+url: /zuerich/triumph-kalanderplatz/
 shop: Kleidung
 ---

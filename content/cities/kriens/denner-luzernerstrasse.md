@@ -1,5 +1,5 @@
 ---
 title: "Denner"
-url: /kriens/denner/
+url: /kriens/denner-luzernerstrasse/
 shop: Supermarkt
 ---

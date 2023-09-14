@@ -1,5 +1,5 @@
 ---
 title: "Migros"
-url: /wallisellen/migros/
+url: /wallisellen/migros-neue-winterthurerstrasse/
 shop: Supermarkt
 ---

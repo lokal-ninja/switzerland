@@ -1,5 +1,5 @@
 ---
 title: "Neuroth"
-url: /zuerich/neuroth/
+url: /zuerich/neuroth-schaffhauserstrasse/
 shop: Hörgeräte
 ---

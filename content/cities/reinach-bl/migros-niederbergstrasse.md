@@ -1,5 +1,5 @@
 ---
 title: "Migros"
-url: /reinach-bl/migros/
+url: /reinach-bl/migros-niederbergstrasse/
 shop: Supermarkt
 ---

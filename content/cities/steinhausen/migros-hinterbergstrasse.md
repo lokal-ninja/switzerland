@@ -1,5 +1,5 @@
 ---
 title: "Migros"
-url: /steinhausen/migros/
+url: /steinhausen/migros-hinterbergstrasse/
 shop: Supermarkt
 ---

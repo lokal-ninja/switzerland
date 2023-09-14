@@ -1,5 +1,5 @@
 ---
 title: "Migrolino"
-url: /fuellinsdorf/migrolino/
+url: /fuellinsdorf/migrolino-rheinstrasse/
 shop: Lebensmittel
 ---

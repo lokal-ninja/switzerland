@@ -1,5 +1,5 @@
 ---
 title: "Denner"
-url: /amriswil/denner/
+url: /amriswil/denner-hagenwilerstrasse/
 shop: Supermarkt
 ---

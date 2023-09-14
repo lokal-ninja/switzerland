@@ -1,5 +1,5 @@
 ---
 title: "C&A"
-url: /winterthur/cunda/
+url: /winterthur/cunda-schaffhauserstrasse/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beldona"
-url: /basel/beldona/
+url: /basel/beldona-freie-strasse/
 shop: Kleidung
 ---

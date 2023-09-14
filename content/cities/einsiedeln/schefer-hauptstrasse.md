@@ -1,5 +1,5 @@
 ---
 title: "Schefer"
-url: /einsiedeln/schefer/
+url: /einsiedeln/schefer-hauptstrasse/
 shop: Bäckerei
 ---

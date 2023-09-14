@@ -1,5 +1,5 @@
 ---
 title: "BeautySpace"
-url: /zuerich/beautyspace/
+url: /zuerich/beautyspace-hohlstrasse/
 shop: Kosmetik
 ---

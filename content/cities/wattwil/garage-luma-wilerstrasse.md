@@ -1,5 +1,5 @@
 ---
 title: "Garage Luma"
-url: /wattwil/garage-luma/
+url: /wattwil/garage-luma-wilerstrasse/
 shop: Autowerkstatt
 ---

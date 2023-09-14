@@ -1,5 +1,5 @@
 ---
 title: "Migros"
-url: /weinfelden/migros/
+url: /weinfelden/migros-weststrasse/
 shop: Supermarkt
 ---

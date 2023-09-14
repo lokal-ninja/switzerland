@@ -1,5 +1,5 @@
 ---
 title: "CALIDA"
-url: /zuerich/calida/
+url: /zuerich/calida-stuessihofstatt/
 shop: Kleidung
 ---

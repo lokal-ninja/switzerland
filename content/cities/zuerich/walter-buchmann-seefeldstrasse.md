@@ -1,5 +1,5 @@
 ---
 title: "Walter Buchmann"
-url: /zuerich/walter-buchmann/
+url: /zuerich/walter-buchmann-seefeldstrasse/
 shop: Bäckerei
 ---

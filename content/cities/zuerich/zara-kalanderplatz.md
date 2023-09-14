@@ -1,5 +1,5 @@
 ---
 title: "Zara"
-url: /zuerich/zara/
+url: /zuerich/zara-kalanderplatz/
 shop: Kleidung
 ---

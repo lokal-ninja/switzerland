@@ -1,5 +1,5 @@
 ---
 title: "Lacoste"
-url: /zuerich/lacoste/
+url: /zuerich/lacoste-kalanderplatz/
 shop: Kleidung
 ---

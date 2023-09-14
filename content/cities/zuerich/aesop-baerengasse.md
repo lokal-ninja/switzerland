@@ -1,5 +1,5 @@
 ---
 title: "Aesop"
-url: /zuerich/aesop/
+url: /zuerich/aesop-baerengasse/
 shop: Kosmetik
 ---

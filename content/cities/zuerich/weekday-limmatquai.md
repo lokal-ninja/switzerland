@@ -1,5 +1,5 @@
 ---
 title: "Weekday"
-url: /zuerich/weekday/
+url: /zuerich/weekday-limmatquai/
 shop: Kleidung
 ---

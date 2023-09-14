@@ -1,5 +1,5 @@
 ---
 title: "Visilab"
-url: /schaffhausen/visilab/
+url: /schaffhausen/visilab-fronwagplatz/
 shop: Optiker
 ---

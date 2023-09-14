@@ -1,5 +1,5 @@
 ---
 title: "Salt"
-url: /winterthur/salt/
+url: /winterthur/salt-schaffhauserstrasse/
 shop: Handy
 ---

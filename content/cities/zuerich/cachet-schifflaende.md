@@ -1,5 +1,5 @@
 ---
 title: "Cachet"
-url: /zuerich/cachet/
+url: /zuerich/cachet-schifflaende/
 shop: Raumausstattung
 ---

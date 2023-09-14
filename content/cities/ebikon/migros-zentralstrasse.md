@@ -1,5 +1,5 @@
 ---
 title: "Migros"
-url: /ebikon/migros/
+url: /ebikon/migros-zentralstrasse/
 shop: Supermarkt
 ---

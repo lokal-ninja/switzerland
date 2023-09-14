@@ -1,5 +1,5 @@
 ---
 title: "Orinad"
-url: /winterthur/orinad/
+url: /winterthur/orinad-bahnhofplatz/
 shop: Friseur
 ---

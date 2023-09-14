@@ -1,5 +1,5 @@
 ---
 title: "Audika"
-url: /winterthur/audika/
+url: /winterthur/audika-bahnhofplatz/
 shop: Hörgeräte
 ---

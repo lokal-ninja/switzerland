@@ -1,5 +1,5 @@
 ---
 title: "Christ"
-url: /basel/christ/
+url: /basel/christ-greifengasse/
 shop: Schmuck
 ---

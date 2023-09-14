@@ -1,5 +1,5 @@
 ---
 title: "Migrol Shop"
-url: /zuerich/migrol-shop/
+url: /zuerich/migrol-shop-wehntalerstrasse/
 shop: Kiosk
 ---

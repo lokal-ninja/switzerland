@@ -1,5 +1,5 @@
 ---
 title: "Frei"
-url: /turgi/frei/
+url: /turgi/frei-landstrasse/
 shop: Bäckerei
 ---

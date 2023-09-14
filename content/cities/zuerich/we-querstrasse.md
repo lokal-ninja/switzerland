@@ -1,5 +1,5 @@
 ---
 title: "WE"
-url: /zuerich/we/
+url: /zuerich/we-querstrasse/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "iKlinik"
-url: /zuerich/iklinik/
+url: /zuerich/iklinik-baslerstrasse/
 shop: Handy
 ---

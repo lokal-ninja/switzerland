@@ -1,5 +1,5 @@
 ---
 title: "Migrolino"
-url: /bern/migrolino/
+url: /bern/migrolino-buemplizstrasse/
 shop: Lebensmittel
 ---

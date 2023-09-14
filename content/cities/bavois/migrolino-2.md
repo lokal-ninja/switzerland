@@ -1,5 +1,5 @@
 ---
 title: "Migrolino"
-url: /bavois/migrolino/
+url: /bavois/migrolino-2/
 shop: Lebensmittel
 ---

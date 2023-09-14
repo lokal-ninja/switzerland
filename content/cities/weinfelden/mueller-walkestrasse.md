@@ -1,5 +1,5 @@
 ---
 title: "Müller"
-url: /weinfelden/mueller/
+url: /weinfelden/mueller-walkestrasse/
 shop: Drogerie
 ---

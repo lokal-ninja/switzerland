@@ -1,5 +1,5 @@
 ---
 title: "Speich"
-url: /zuerich/speich/
+url: /zuerich/speich-seefeldstrasse/
 shop: Kopieren
 ---

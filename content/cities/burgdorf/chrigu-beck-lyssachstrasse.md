@@ -1,5 +1,5 @@
 ---
 title: "Chrigu Beck"
-url: /burgdorf/chrigu-beck/
+url: /burgdorf/chrigu-beck-lyssachstrasse/
 shop: Bäckerei
 ---

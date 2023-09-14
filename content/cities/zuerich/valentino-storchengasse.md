@@ -1,5 +1,5 @@
 ---
 title: "Valentino"
-url: /zuerich/valentino/
+url: /zuerich/valentino-storchengasse/
 shop: Modehaus
 ---

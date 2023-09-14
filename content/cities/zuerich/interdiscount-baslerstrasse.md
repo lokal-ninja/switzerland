@@ -1,5 +1,5 @@
 ---
 title: "Interdiscount"
-url: /zuerich/interdiscount/
+url: /zuerich/interdiscount-baslerstrasse/
 shop: Elektronik
 ---

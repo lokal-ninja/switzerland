@@ -1,5 +1,5 @@
 ---
 title: "Gidor"
-url: /winterthur/gidor/
+url: /winterthur/gidor-strickerstrasse/
 shop: Friseur
 ---

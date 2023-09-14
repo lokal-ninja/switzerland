@@ -1,5 +1,5 @@
 ---
 title: "Migros"
-url: /sion/migros/
+url: /sion/migros-avenue-grand-champsec/
 shop: Supermarkt
 ---

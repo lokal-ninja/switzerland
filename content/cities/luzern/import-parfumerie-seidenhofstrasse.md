@@ -1,5 +1,5 @@
 ---
 title: "Import Parfumerie"
-url: /luzern/import-parfumerie/
+url: /luzern/import-parfumerie-seidenhofstrasse/
 shop: Parfümerie
 ---

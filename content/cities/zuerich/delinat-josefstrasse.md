@@ -1,5 +1,5 @@
 ---
 title: "Delinat"
-url: /zuerich/delinat/
+url: /zuerich/delinat-josefstrasse/
 shop: Wein
 ---

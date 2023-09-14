@@ -1,5 +1,5 @@
 ---
 title: "Denner"
-url: /geneve/denner/
+url: /geneve/denner-rue-des-charmilles/
 shop: Supermarkt
 ---

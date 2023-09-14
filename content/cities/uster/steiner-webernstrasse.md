@@ -1,5 +1,5 @@
 ---
 title: "Steiner"
-url: /uster/steiner/
+url: /uster/steiner-webernstrasse/
 shop: Bäckerei
 ---

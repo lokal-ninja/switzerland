@@ -1,5 +1,5 @@
 ---
 title: "C&A"
-url: /basel/cunda/
+url: /basel/cunda-st-jakobs-strasse/
 shop: Kleidung
 ---

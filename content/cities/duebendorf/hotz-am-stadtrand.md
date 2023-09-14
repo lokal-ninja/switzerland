@@ -1,5 +1,5 @@
 ---
 title: "Hotz"
-url: /duebendorf/hotz/
+url: /duebendorf/hotz-am-stadtrand/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Migrolino"
-url: /frauenfeld/migrolino/
+url: /frauenfeld/migrolino-zuercherstrasse/
 shop: Lebensmittel
 ---

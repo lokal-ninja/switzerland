@@ -1,5 +1,5 @@
 ---
 title: "Bachmann"
-url: /luzern/bachmann/
+url: /luzern/bachmann-alpenstrasse/
 shop: Bäckerei
 ---

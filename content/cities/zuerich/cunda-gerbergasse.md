@@ -1,5 +1,5 @@
 ---
 title: "C&A"
-url: /zuerich/cunda/
+url: /zuerich/cunda-gerbergasse/
 shop: Kleidung
 ---

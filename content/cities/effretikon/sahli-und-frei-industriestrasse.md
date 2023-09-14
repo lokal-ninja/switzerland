@@ -1,5 +1,5 @@
 ---
 title: "Sahli & Frei"
-url: /effretikon/sahli-und-frei/
+url: /effretikon/sahli-und-frei-industriestrasse/
 shop: Autohaus
 ---

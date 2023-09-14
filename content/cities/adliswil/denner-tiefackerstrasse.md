@@ -1,5 +1,5 @@
 ---
 title: "Denner"
-url: /adliswil/denner/
+url: /adliswil/denner-tiefackerstrasse/
 shop: Supermarkt
 ---

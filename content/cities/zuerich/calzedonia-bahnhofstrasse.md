@@ -1,5 +1,5 @@
 ---
 title: "Calzedonia"
-url: /zuerich/calzedonia/
+url: /zuerich/calzedonia-bahnhofstrasse/
 shop: Kleidung
 ---

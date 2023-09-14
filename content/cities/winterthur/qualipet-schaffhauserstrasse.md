@@ -1,5 +1,5 @@
 ---
 title: "Qualipet"
-url: /winterthur/qualipet/
+url: /winterthur/qualipet-schaffhauserstrasse/
 shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Migros"
-url: /duebendorf/migros/
+url: /duebendorf/migros-am-stadtrand/
 shop: Supermarkt
 ---

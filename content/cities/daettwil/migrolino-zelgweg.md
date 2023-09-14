@@ -1,5 +1,5 @@
 ---
 title: "Migrolino"
-url: /daettwil/migrolino/
+url: /daettwil/migrolino-zelgweg/
 shop: Lebensmittel
 ---

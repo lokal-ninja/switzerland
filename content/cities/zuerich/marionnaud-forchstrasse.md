@@ -1,5 +1,5 @@
 ---
 title: "Marionnaud"
-url: /zuerich/marionnaud/
+url: /zuerich/marionnaud-forchstrasse/
 shop: Parfümerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Denner"
-url: /wallisellen/denner/
+url: /wallisellen/denner-neue-winterthurerstrasse/
 shop: Supermarkt
 ---

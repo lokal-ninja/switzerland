@@ -1,5 +1,5 @@
 ---
 title: "Corpataux"
-url: /schwarzenburg/corpataux/
+url: /schwarzenburg/corpataux-thunstrasse/
 shop: Autohaus
 ---

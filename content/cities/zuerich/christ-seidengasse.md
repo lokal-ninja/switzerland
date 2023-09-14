@@ -1,5 +1,5 @@
 ---
 title: "Christ"
-url: /zuerich/christ/
+url: /zuerich/christ-seidengasse/
 shop: Schmuck
 ---

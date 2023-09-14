@@ -1,5 +1,5 @@
 ---
 title: "Migrolino"
-url: /schmerikon/migrolino/
+url: /schmerikon/migrolino-st-gallerstrasse/
 shop: Lebensmittel
 ---

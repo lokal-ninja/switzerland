@@ -1,5 +1,5 @@
 ---
 title: "Migrolino"
-url: /duebendorf/migrolino/
+url: /duebendorf/migrolino-zuerichstrasse/
 shop: Lebensmittel
 ---

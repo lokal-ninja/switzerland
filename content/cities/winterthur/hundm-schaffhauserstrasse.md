@@ -1,5 +1,5 @@
 ---
 title: "H&M"
-url: /winterthur/hundm/
+url: /winterthur/hundm-schaffhauserstrasse/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bayard Co Ltd"
-url: /luzern/bayard-co-ltd/
+url: /luzern/bayard-co-ltd-seidenhofstrasse/
 shop: Kleidung
 ---

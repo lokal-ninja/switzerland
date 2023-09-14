@@ -1,5 +1,5 @@
 ---
 title: "M-Express"
-url: /zuerich/m-express/
+url: /zuerich/m-express-hohlstrasse/
 shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zebra"
-url: /zuerich/zebra/
+url: /zuerich/zebra-baslerstrasse/
 shop: Kleidung
 ---

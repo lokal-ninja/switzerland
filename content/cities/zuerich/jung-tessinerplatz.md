@@ -1,5 +1,5 @@
 ---
 title: "Jung"
-url: /zuerich/jung/
+url: /zuerich/jung-tessinerplatz/
 shop: Bäckerei
 ---

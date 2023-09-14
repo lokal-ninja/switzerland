@@ -1,5 +1,5 @@
 ---
 title: "Interdiscount"
-url: /bern/interdiscount/
+url: /bern/interdiscount-waisenhausplatz/
 shop: Elektronik
 ---

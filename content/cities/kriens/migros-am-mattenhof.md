@@ -1,5 +1,5 @@
 ---
 title: "Migros"
-url: /kriens/migros/
+url: /kriens/migros-am-mattenhof/
 shop: Supermarkt
 ---

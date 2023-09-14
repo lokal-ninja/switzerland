@@ -1,5 +1,5 @@
 ---
 title: "Migrolino"
-url: /dielsdorf/migrolino/
+url: /dielsdorf/migrolino-ruchwiesenstrasse/
 shop: Lebensmittel
 ---

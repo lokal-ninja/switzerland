@@ -1,5 +1,5 @@
 ---
 title: "Denner"
-url: /muntelier/denner/
+url: /muntelier/denner-grande-ferme/
 shop: Supermarkt
 ---

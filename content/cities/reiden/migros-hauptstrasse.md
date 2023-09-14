@@ -1,5 +1,5 @@
 ---
 title: "Migros"
-url: /reiden/migros/
+url: /reiden/migros-hauptstrasse/
 shop: Supermarkt
 ---
