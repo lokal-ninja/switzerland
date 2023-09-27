@@ -1,6 +1,6 @@
 ---
 title: Saint-Maurice
 url: /saint-maurice/
-latitude: 46.205
-longitude: 7.007
+latitude: 46.218
+longitude: 7.005
 ---

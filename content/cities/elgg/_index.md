@@ -1,6 +1,6 @@
 ---
 title: Elgg
 url: /elgg/
-latitude: 47.499
-longitude: 8.864
+latitude: 47.498
+longitude: 8.862
 ---

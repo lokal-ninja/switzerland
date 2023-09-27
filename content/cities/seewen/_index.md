@@ -1,6 +1,6 @@
 ---
 title: Seewen
 url: /seewen/
-latitude: 47.029
-longitude: 8.63
+latitude: 47.033
+longitude: 8.628
 ---
