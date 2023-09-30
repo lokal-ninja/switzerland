@@ -1,5 +1,5 @@
 ---
 title: "Renfile"
-url: /geneve/renfile-rue-de-la-mairie/
+url: /geneve/renfile-rue-de-carouge/
 shop: Gebrauchtwaren
 ---

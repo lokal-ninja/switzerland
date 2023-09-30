@@ -1,5 +1,5 @@
 ---
 title: "Rituals"
-url: /zuerich/rituals-marktgasse/
+url: /zuerich/rituals-kalanderplatz/
 shop: Kosmetik
 ---
