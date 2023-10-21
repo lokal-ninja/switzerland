@@ -1,6 +1,6 @@
 ---
 title: Mesocco
 url: /mesocco/
-latitude: 46.392
-longitude: 9.233
+latitude: 46.393
+longitude: 9.232
 ---
