@@ -1,5 +1,5 @@
 ---
-title: "Aldi"
+title: "ALDI"
 url: /chiasso/aldi/
 shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ormalingen
 url: /ormalingen/
-latitude: 47.47
-longitude: 7.872
+latitude: 47.469
+longitude: 7.877
 ---

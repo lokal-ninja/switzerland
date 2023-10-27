@@ -1,5 +1,5 @@
 ---
 title: "Muji"
 url: /wallisellen/muji/
-shop: Kleidung
+shop: Warenhaus
 ---
