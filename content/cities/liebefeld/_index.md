@@ -1,6 +1,6 @@
 ---
 title: Liebefeld
 url: /liebefeld/
-latitude: 46.931
-longitude: 7.421
+latitude: 46.934
+longitude: 7.423
 ---

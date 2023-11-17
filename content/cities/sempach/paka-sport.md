@@ -1,5 +1,5 @@
 ---
-title: "paka sport"
+title: "PAKA-Sport"
 url: /sempach/paka-sport/
 shop: Sport
 ---
