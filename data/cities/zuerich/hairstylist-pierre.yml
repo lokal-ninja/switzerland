@@ -1,11 +1,11 @@
-id: 3645923202
+id: 4915582756
 type: node
-latitude: 47.37698
-longitude: 8.53924
-postcode: "8001"
+latitude: 47.35729
+longitude: 8.5236
+postcode: "8045"
 city: Zürich
-street: "Bahnhofplatz"
-housenumber: 7
+street: "Kalanderplatz"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-We 09:00-19:00; Th-Fr 09:00-20:00; Sa 08:00-18:00; PH closed"
-website: "https://www.hairstylist-pierre.ch/de/coiffeur-zuerich-bahnhofplatz"
+opening_hours: "Mo-Sa 09:00-20:00"
+website: "https://www.hairstylist-pierre.ch/de/coiffeur-zuerich-sihlcity"

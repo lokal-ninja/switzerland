@@ -1,6 +1,6 @@
 ---
 title: Gränichen
 url: /graenichen/
-latitude: 47.36
-longitude: 8.098
+latitude: 47.355
+longitude: 8.099
 ---
