@@ -7,5 +7,5 @@ city: Olten
 street: "Römerstrasse"
 housenumber: 18
 phone: "+41 62 212 00 02"
-opening_hours: "Di,Fr 9:00-12:00, 13:30-18:30 Mi 9:00-12:00 Do 09:00-12:00, 13:30-20.00 SA 10:00 - 14:00"
+opening_hours: "Tu,Fr 9:00-12:00, 13:30-18:30; We 9:00-12:00; Th 09:00-12:00, 13:30-20.00; Sa 10:00 - 14:00"
 website: ""
