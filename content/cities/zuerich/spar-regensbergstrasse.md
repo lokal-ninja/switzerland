@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /zuerich/spar-wehntalerstrasse/
+url: /zuerich/spar-regensbergstrasse/
 shop: Supermarkt
 ---
