@@ -1,6 +1,6 @@
 ---
 title: Courtepin
 url: /courtepin/
-latitude: 46.868
-longitude: 7.123
+latitude: 46.862
+longitude: 7.125
 ---
