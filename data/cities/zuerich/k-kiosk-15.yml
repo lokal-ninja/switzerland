@@ -1,11 +1,11 @@
-id: 4833061597
+id: 4833061617
 type: node
-latitude: 47.37783
-longitude: 8.53934
+latitude: 47.36676
+longitude: 8.54846
 postcode: "8001"
 city: Zürich
 street: ""
 housenumber: 
 phone: ""
-opening_hours: "Su-Th 05:15-00:30, Fr,Sa 05:15-00:45"
-website: ""
+opening_hours: ""
+website: "https://www.kkiosk.ch/"

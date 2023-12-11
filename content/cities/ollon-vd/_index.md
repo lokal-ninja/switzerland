@@ -1,6 +1,6 @@
 ---
 title: Ollon VD
 url: /ollon-vd/
-latitude: 46.297
-longitude: 6.996
+latitude: 46.281
+longitude: 6.997
 ---
