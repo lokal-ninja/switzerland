@@ -1,5 +1,5 @@
 ---
 title: "Volg"
 url: /wegenstetten/volg/
-shop: Allgemein
+shop: Supermarkt
 ---

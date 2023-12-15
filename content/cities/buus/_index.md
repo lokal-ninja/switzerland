@@ -1,6 +1,6 @@
 ---
 title: Buus
 url: /buus/
-latitude: 47.506
-longitude: 7.862
+latitude: 47.498
+longitude: 7.861
 ---

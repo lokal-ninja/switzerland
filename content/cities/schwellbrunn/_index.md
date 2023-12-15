@@ -1,6 +1,6 @@
 ---
 title: Schwellbrunn
 url: /schwellbrunn/
-latitude: 47.353
-longitude: 9.25
+latitude: 47.352
+longitude: 9.249
 ---

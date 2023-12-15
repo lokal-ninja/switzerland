@@ -1,6 +1,6 @@
 ---
 title: Lungern
 url: /lungern/
-latitude: 46.784
-longitude: 8.159
+latitude: 46.782
+longitude: 8.152
 ---
