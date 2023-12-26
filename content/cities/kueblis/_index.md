@@ -1,6 +1,6 @@
 ---
 title: Küblis
 url: /kueblis/
-latitude: 46.914
-longitude: 9.773
+latitude: 46.915
+longitude: 9.761
 ---
