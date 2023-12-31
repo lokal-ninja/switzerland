@@ -1,6 +1,6 @@
 ---
 title: Grächen
 url: /graechen/
-latitude: 46.194
-longitude: 7.837
+latitude: 46.196
+longitude: 7.839
 ---
