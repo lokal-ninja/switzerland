@@ -7,5 +7,5 @@ city: Biel/Bienne
 street: "Bahnhofstrasse"
 housenumber: 21
 phone: "+4132 322 31 81"
-opening_hours: "Mo 13:30-18:30; Tu-We 08:00-12:00,13:30-18:30; Th 08:00-12:00,13:30-21:00; Fr 08:00-12:00,13:30-18:30; Sa 08:00-16:00; PH off"
+opening_hours: "Mo 13:30-18:30; Tu-Fr 08:00-12:00,13:30-18:30; Sa 08:00-16:00; PH off"
 website: "https://www.villigerag.ch"
