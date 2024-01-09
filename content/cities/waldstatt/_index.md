@@ -1,6 +1,6 @@
 ---
 title: Waldstatt
 url: /waldstatt/
-latitude: 47.359
-longitude: 9.287
+latitude: 47.349
+longitude: 9.267
 ---

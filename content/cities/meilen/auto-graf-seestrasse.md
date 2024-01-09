@@ -1,5 +1,5 @@
 ---
 title: "Auto-Graf"
-url: /meilen/auto-graf-im-doerfli/
+url: /meilen/auto-graf-seestrasse/
 shop: Autohaus
 ---

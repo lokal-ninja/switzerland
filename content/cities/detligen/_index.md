@@ -1,6 +1,6 @@
 ---
 title: Detligen
 url: /detligen/
-latitude: 47.001
-longitude: 7.273
+latitude: 47.002
+longitude: 7.278
 ---
