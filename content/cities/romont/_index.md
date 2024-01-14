@@ -1,6 +1,6 @@
 ---
 title: Romont
 url: /romont/
-latitude: 46.691
-longitude: 6.92
+latitude: 46.697
+longitude: 6.919
 ---

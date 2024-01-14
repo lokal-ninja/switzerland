@@ -1,6 +1,6 @@
 ---
 title: Beatenberg
 url: /beatenberg/
-latitude: 46.701
-longitude: 7.8
+latitude: 46.698
+longitude: 7.795
 ---
