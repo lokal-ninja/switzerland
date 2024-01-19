@@ -1,5 +1,5 @@
 ---
 title: "Orsena"
 url: /luzern/orsena/
-shop: Optiker
+shop: Hörgeräte
 ---

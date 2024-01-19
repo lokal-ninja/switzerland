@@ -1,5 +1,5 @@
 ---
 title: "Granel"
 url: /zuerich/granel/
-shop: Kramladen
+shop: Lebensmittel
 ---

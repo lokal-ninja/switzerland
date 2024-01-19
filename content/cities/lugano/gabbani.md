@@ -1,5 +1,5 @@
 ---
 title: "Gabbani"
 url: /lugano/gabbani/
-shop: Lebensmittel
+shop: Feinkost
 ---
