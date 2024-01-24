@@ -1,5 +1,5 @@
 ---
 title: "Landi"
 url: /eschenz/landi/
-shop: Baumarkt
+shop: Supermarkt
 ---
