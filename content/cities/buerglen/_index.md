@@ -1,6 +1,6 @@
 ---
 title: Bürglen
 url: /buerglen/
-latitude: 47.551
-longitude: 9.151
+latitude: 47.549
+longitude: 9.153
 ---
