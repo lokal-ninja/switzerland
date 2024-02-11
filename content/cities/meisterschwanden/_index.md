@@ -1,6 +1,6 @@
 ---
 title: Meisterschwanden
 url: /meisterschwanden/
-latitude: 47.297
-longitude: 8.227
+latitude: 47.294
+longitude: 8.228
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hemberg
 url: /hemberg/
-latitude: 47.299
-longitude: 9.175
+latitude: 47.3
+longitude: 9.177
 ---

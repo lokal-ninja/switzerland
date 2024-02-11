@@ -1,5 +1,5 @@
 ---
 title: "Vanini"
 url: /zuerich/vanini/
-shop: Süßwaren
+shop: Taschen & Koffer
 ---
