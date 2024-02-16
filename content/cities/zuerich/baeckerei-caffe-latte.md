@@ -1,5 +1,5 @@
 ---
-title: "Bäckerei Caffe Latte"
+title: "Bäckerei Caffè Latte"
 url: /zuerich/baeckerei-caffe-latte/
 shop: Bäckerei
 ---
