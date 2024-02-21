@@ -1,6 +1,6 @@
 ---
 title: Dombresson
 url: /dombresson/
-latitude: 47.07
-longitude: 6.955
+latitude: 47.072
+longitude: 6.96
 ---

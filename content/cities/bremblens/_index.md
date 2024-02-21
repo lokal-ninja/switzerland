@@ -1,6 +1,6 @@
 ---
 title: Bremblens
 url: /bremblens/
-latitude: 46.55
-longitude: 6.512
+latitude: 46.544
+longitude: 6.524
 ---
