@@ -1,5 +1,5 @@
 ---
 title: "Landi"
 url: /cernier/landi/
-shop: Supermarkt
+shop: Landwirtschaftlich
 ---

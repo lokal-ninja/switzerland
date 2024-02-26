@@ -1,6 +1,6 @@
 ---
 title: Puidoux
 url: /puidoux/
-latitude: 46.488
-longitude: 6.77
+latitude: 46.489
+longitude: 6.807
 ---

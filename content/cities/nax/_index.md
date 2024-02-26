@@ -1,6 +1,6 @@
 ---
 title: Nax
 url: /nax/
-latitude: 46.225
-longitude: 7.462
+latitude: 46.23
+longitude: 7.432
 ---

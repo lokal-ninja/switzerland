@@ -1,6 +1,6 @@
 ---
 title: Palézieux-Village
 url: /palezieux-village/
-latitude: 46.554
-longitude: 6.829
+latitude: 46.562
+longitude: 6.838
 ---
