@@ -1,5 +1,5 @@
 ---
-title: "CALIDA"
+title: "Calida"
 url: /zuerich/calida/
 shop: Kleidung
 ---
