@@ -1,11 +1,11 @@
 id: 1232811429
 type: node
-latitude: 47.0538
-longitude: 7.62815
-postcode: ""
+latitude: 47.05387
+longitude: 7.62806
+postcode: "3400"
 city: Burgdorf
-street: ""
-housenumber: 
+street: "Heimiswilstrasse"
+housenumber: 2a
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Th 07:30-12:00,13:00-17:30; Fr 07:30-12:00,13:00-17:00; Sa 08:00-12:00; PH off"
+website: "https://blatter-burgdorf.ch/"

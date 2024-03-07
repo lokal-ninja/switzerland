@@ -1,6 +1,6 @@
 ---
 title: Bussigny
 url: /bussigny/
-latitude: 46.546
-longitude: 6.551
+latitude: 46.547
+longitude: 6.553
 ---
