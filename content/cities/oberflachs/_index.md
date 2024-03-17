@@ -1,6 +1,6 @@
 ---
 title: Oberflachs
 url: /oberflachs/
-latitude: 47.444
-longitude: 8.131
+latitude: 47.443
+longitude: 8.125
 ---

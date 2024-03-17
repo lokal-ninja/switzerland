@@ -1,6 +1,6 @@
 ---
 title: Nottwil
 url: /nottwil/
-latitude: 47.136
-longitude: 8.136
+latitude: 47.135
+longitude: 8.137
 ---
