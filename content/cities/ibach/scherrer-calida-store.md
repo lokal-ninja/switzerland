@@ -1,5 +1,5 @@
 ---
 title: "Scherrer Calida Store"
 url: /ibach/scherrer-calida-store/
-shop: Modehaus
+shop: Kleidung
 ---

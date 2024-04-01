@@ -1,6 +1,6 @@
 ---
 title: Wölflinswil
 url: /woelflinswil/
-latitude: 47.46
-longitude: 8.014
+latitude: 47.47
+longitude: 8.006
 ---
