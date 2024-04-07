@@ -1,6 +1,6 @@
 ---
 title: Appenzell Steinegg
 url: /appenzell-steinegg/
-latitude: 47.321
-longitude: 9.431
+latitude: 47.323
+longitude: 9.426
 ---

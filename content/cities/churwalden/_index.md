@@ -1,6 +1,6 @@
 ---
 title: Churwalden
 url: /churwalden/
-latitude: 46.784
-longitude: 9.541
+latitude: 46.778
+longitude: 9.542
 ---
