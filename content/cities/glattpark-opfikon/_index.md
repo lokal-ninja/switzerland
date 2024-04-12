@@ -1,6 +1,6 @@
 ---
 title: Glattpark (Opfikon)
 url: /glattpark-opfikon/
-latitude: 47.419
-longitude: 8.562
+latitude: 47.416
+longitude: 8.564
 ---

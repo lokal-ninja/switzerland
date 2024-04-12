@@ -6,6 +6,6 @@ postcode: "8001"
 city: Zürich
 street: "Löwenstrasse"
 housenumber: 66
-phone: "+41 44 222 01 77"
-opening_hours: "Mo-Fr 09:00-12:00,13:00-18:30; PH closed"
+phone: ""
+opening_hours: ""
 website: "https://www.audika.ch/"

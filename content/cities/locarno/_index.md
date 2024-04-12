@@ -1,6 +1,6 @@
 ---
 title: Locarno
 url: /locarno/
-latitude: 46.168
+latitude: 46.169
 longitude: 8.794
 ---
