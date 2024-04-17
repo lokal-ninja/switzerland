@@ -1,6 +1,6 @@
 ---
-title: Buchs (SG)
+title: Buchs SG
 url: /buchs-sg/
-latitude: 47.165
-longitude: 9.464
+latitude: 47.164
+longitude: 9.473
 ---

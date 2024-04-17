@@ -1,5 +1,5 @@
 ---
 title: "Otto's"
 url: /cham/ottos/
-shop: Kramladen
+shop: Warenhaus
 ---

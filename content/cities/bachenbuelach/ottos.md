@@ -1,5 +1,5 @@
 ---
 title: "Otto's"
 url: /bachenbuelach/ottos/
-shop: Kramladen
+shop: Warenhaus
 ---
