@@ -1,5 +1,5 @@
 ---
-title: "WANNER Cycles"
+title: "Wanner Cycles"
 url: /orbe/wanner-cycles/
 shop: Fahrrad
 ---

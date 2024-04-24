@@ -1,6 +1,6 @@
 ---
 title: Felsberg
 url: /felsberg/
-latitude: 46.846
-longitude: 9.479
+latitude: 46.845
+longitude: 9.482
 ---
