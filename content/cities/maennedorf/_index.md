@@ -1,6 +1,6 @@
 ---
 title: Männedorf
 url: /maennedorf/
-latitude: 47.253
-longitude: 8.696
+latitude: 47.254
+longitude: 8.691
 ---
