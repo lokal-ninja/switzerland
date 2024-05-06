@@ -1,6 +1,6 @@
 ---
 title: Haute-Nendaz
 url: /haute-nendaz/
-latitude: 46.181
-longitude: 7.292
+latitude: 46.18
+longitude: 7.295
 ---
