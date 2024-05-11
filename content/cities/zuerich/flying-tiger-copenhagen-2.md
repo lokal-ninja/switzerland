@@ -1,5 +1,5 @@
 ---
-title: "flying tiger copenhagen"
+title: "Flying Tiger Copenhagen"
 url: /zuerich/flying-tiger-copenhagen-2/
-shop: Haushaltsartikel
+shop: Kramladen
 ---

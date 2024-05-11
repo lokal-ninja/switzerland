@@ -1,6 +1,6 @@
 ---
 title: Lamboing
 url: /lamboing/
-latitude: 47.114
-longitude: 7.129
+latitude: 47.117
+longitude: 7.134
 ---

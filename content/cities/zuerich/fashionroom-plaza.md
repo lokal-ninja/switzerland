@@ -1,5 +1,5 @@
 ---
-title: "FASHIONROOM plaza"
+title: "Fashionroom Plaza"
 url: /zuerich/fashionroom-plaza/
 shop: Kleidung
 ---
