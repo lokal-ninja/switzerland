@@ -1,5 +1,5 @@
 ---
 title: "Cave Bel-Air"
-url: /praz/cave-bel-air/
+url: /praz-vully/cave-bel-air/
 shop: Wein
 ---
