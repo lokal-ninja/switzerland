@@ -1,6 +1,6 @@
 ---
 title: Castel San Pietro
 url: /castel-san-pietro/
-latitude: 45.862
-longitude: 9.009
+latitude: 45.863
+longitude: 9.005
 ---
