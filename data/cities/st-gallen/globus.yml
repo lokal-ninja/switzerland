@@ -1,11 +1,11 @@
-id: 3153824525
+id: 445348924
 type: node
-latitude: 47.42362
-longitude: 9.37445
-postcode: "9001"
+latitude: 47.42394
+longitude: 9.37434
+postcode: "9000"
 city: St. Gallen
-street: "Multergasse"
-housenumber: 47
+street: "Neugasse"
+housenumber: 54
 phone: ""
-opening_hours: "Mo-We, Fr 09:00-19:00; Th 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.globus.ch/filialsuche/store/103"
+opening_hours: "Mo-Fr 09:00-19:00; Th 09:00-20:00; Sa 09:00-18:00; PH off"
+website: "https://www.globus.ch/stores/stgallen"
