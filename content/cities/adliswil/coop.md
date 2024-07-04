@@ -1,5 +1,5 @@
 ---
 title: "Coop"
 url: /adliswil/coop/
-shop: Lebensmittel
+shop: Supermarkt
 ---
