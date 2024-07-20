@@ -2,5 +2,5 @@
 title: Mürren
 url: /muerren/
 latitude: 46.56
-longitude: 7.895
+longitude: 7.894
 ---

@@ -1,5 +1,5 @@
 ---
-title: "FATA MORGANA"
+title: "Fata Morgana"
 url: /nottwil/fata-morgana/
 shop: Gebrauchtwaren
 ---
