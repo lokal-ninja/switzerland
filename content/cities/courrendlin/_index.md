@@ -1,6 +1,6 @@
 ---
 title: Courrendlin
 url: /courrendlin/
-latitude: 47.338
-longitude: 7.369
+latitude: 47.345
+longitude: 7.368
 ---

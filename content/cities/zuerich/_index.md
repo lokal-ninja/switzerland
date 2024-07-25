@@ -1,6 +1,6 @@
 ---
 title: Zürich
 url: /zuerich/
-latitude: 47.368
-longitude: 8.546
+latitude: 47.398
+longitude: 8.54
 ---
