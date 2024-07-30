@@ -1,5 +1,5 @@
 ---
 title: "Landi"
 url: /daerstetten/landi/
-shop: Lebensmittel
+shop: Supermarkt
 ---
