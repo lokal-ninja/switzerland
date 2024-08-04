@@ -1,6 +1,6 @@
 ---
 title: Kaiseraugst
 url: /kaiseraugst/
-latitude: 47.536
-longitude: 7.732
+latitude: 47.538
+longitude: 7.73
 ---
