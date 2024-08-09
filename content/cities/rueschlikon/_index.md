@@ -1,6 +1,6 @@
 ---
 title: Rüschlikon
 url: /rueschlikon/
-latitude: 47.305
-longitude: 8.557
+latitude: 47.308
+longitude: 8.554
 ---

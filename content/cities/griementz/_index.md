@@ -1,6 +1,6 @@
 ---
 title: Griementz
 url: /griementz/
-latitude: 46.177
-longitude: 7.574
+latitude: 46.18
+longitude: 7.576
 ---
