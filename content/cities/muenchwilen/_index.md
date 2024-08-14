@@ -1,6 +1,6 @@
 ---
 title: Münchwilen
 url: /muenchwilen/
-latitude: 47.48
-longitude: 8.995
+latitude: 47.542
+longitude: 7.964
 ---

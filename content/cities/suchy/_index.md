@@ -1,6 +1,6 @@
 ---
 title: Suchy
 url: /suchy/
-latitude: 46.725
-longitude: 6.599
+latitude: 46.723
+longitude: 6.6
 ---

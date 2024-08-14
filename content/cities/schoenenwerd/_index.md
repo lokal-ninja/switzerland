@@ -1,6 +1,6 @@
 ---
 title: Schönenwerd
 url: /schoenenwerd/
-latitude: 47.372
-longitude: 8
+latitude: 47.373
+longitude: 8.003
 ---
