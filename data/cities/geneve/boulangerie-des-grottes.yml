@@ -7,5 +7,5 @@ city: Genève
 street: "Rue des Grottes"
 housenumber: 5
 phone: "+41 22 734 05 25"
-opening_hours: "Mo-We,Fr 06:00-19:00; Th 06:00-20:00"
+opening_hours: "Mo-We,Fr 06:00-19:00; Th,Sa 06:00-20:00"
 website: ""

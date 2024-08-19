@@ -1,6 +1,6 @@
 ---
 title: Goldingen
 url: /goldingen/
-latitude: 47.264
-longitude: 8.96
+latitude: 47.289
+longitude: 8.986
 ---

@@ -1,6 +1,6 @@
 ---
 title: Küssaberg
 url: /kuessaberg/
-latitude: 47.61
-longitude: 8.295
+latitude: 47.588
+longitude: 8.305
 ---
