@@ -1,11 +1,11 @@
-id: 568458235
-type: node
-latitude: 47.49935
-longitude: 8.72687
+id: 381444926
+type: way
+latitude: 47.49949
+longitude: 8.72314
 postcode: "8400"
 city: Winterthur
-street: "Marktgasse"
-housenumber: 57
+street: "Bahnhofplatz"
+housenumber: 5
 phone: ""
-opening_hours: "Mo-We,Fr 09:00-18:30; Th 09:00-19:00; Sa 09:00-17:00"
+opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su 10:00-20:00; PH off"
 website: "https://www.weltbild.ch/"

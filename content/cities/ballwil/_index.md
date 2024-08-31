@@ -1,6 +1,6 @@
 ---
 title: Ballwil
 url: /ballwil/
-latitude: 47.148
-longitude: 8.319
+latitude: 47.156
+longitude: 8.326
 ---

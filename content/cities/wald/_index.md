@@ -1,6 +1,6 @@
 ---
-title: wald
+title: Wald
 url: /wald/
-latitude: 47.274
-longitude: 8.915
+latitude: 47.273
+longitude: 8.913
 ---
