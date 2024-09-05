@@ -1,6 +1,6 @@
 ---
 title: Egnach
 url: /egnach/
-latitude: 47.536
-longitude: 9.392
+latitude: 47.544
+longitude: 9.382
 ---

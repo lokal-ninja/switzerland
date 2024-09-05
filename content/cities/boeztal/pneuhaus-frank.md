@@ -1,5 +1,5 @@
 ---
 title: "Pneuhaus Frank"
-url: /hornussen/pneuhaus-frank/
+url: /boeztal/pneuhaus-frank/
 shop: Reifen
 ---
