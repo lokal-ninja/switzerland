@@ -1,7 +1,5 @@
 ---
-title: "Kandermetzg
-
-GmbH"
+title: "Kandermetzg GmbH"
 url: /frutigen/kandermetzg-gmbh/
 shop: Metzgerei
 ---

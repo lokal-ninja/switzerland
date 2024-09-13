@@ -1,6 +1,6 @@
 ---
 title: Zeihen
 url: /zeihen/
-latitude: 47.475
+latitude: 47.476
 longitude: 8.084
 ---

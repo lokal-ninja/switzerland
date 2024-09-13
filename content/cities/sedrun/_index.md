@@ -1,6 +1,6 @@
 ---
 title: Sedrun
 url: /sedrun/
-latitude: 46.681
-longitude: 8.776
+latitude: 46.679
+longitude: 8.771
 ---

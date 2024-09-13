@@ -7,5 +7,5 @@ city: Schwarzenburg
 street: "Dorfstrasse"
 housenumber: 4
 phone: "+41 31 732 01 18"
-opening_hours: "Tu 14:00-18:30;We off; Th-Fr 14:00-18:30;Sa 09:00-14:00;Su-Mo off"
+opening_hours: "Tu 14:00-18:00; We off; Th,Fr 14:00-18:00; Sa 10:00-13:00; Su,Mo off"
 website: "https://www.rieghuuslaedeli.ch"

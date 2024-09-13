@@ -1,6 +1,6 @@
 ---
 title: Savognin
 url: /savognin/
-latitude: 46.595
-longitude: 9.596
+latitude: 46.597
+longitude: 9.597
 ---
