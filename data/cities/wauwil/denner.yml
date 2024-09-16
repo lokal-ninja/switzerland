@@ -4,8 +4,8 @@ latitude: 47.18502
 longitude: 8.02001
 postcode: "6242"
 city: Wauwil
-street: "Dorfstrasse"
-housenumber: 3
-phone: "+41 41 980 31 61"
-opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-17:00; PH off"
-website: "https://www.denner.ch/de/filialen/denner-filiale-und-oeffnungszeiten/store/dorfstrasse-3-5-6242-wauwil/"
+street: Dorfstrasse
+housenumber: "3"
+phone: +41 41 980 31 61
+opening_hours: Mo-Fr 06:00-19:00; Sa 06:00-17:00; PH off
+website: https://www.denner.ch/de/filialen/denner-filiale-und-oeffnungszeiten/store/dorfstrasse-3-5-6242-wauwil/

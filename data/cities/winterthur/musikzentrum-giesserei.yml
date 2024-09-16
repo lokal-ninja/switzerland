@@ -4,8 +4,8 @@ latitude: 47.50473
 longitude: 8.76536
 postcode: "8404"
 city: Winterthur
-street: "Ida-Sträuli-Strasse"
+street: Ida-Sträuli-Strasse
 housenumber: 73a
 phone: ""
-opening_hours: "open for events"
-website: "https://www.musikzentrumgiesserei.ch/"
+opening_hours: '"open for events"'
+website: https://www.musikzentrumgiesserei.ch/

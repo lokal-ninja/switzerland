@@ -4,8 +4,8 @@ latitude: 47.41155
 longitude: 8.52803
 postcode: "8050"
 city: Zürich
-street: "Regensbergstrasse"
-housenumber: 300
+street: Regensbergstrasse
+housenumber: "300"
 phone: ""
-opening_hours: "Mo-Fr 06:00-21:00; Sa 06:00-20:00; Su off"
-website: "https://www.spar.ch"
+opening_hours: Mo-Fr 06:00-21:00; Sa 06:00-20:00; Su off
+website: https://www.spar.ch

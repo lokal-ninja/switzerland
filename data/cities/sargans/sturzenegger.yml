@@ -4,8 +4,8 @@ latitude: 47.04773
 longitude: 9.43927
 postcode: "7320"
 city: Sargans
-street: "Zürcherstrasse"
-housenumber: 6
-phone: "+41 81 723 2715"
-opening_hours: "Tu-Fr 09:00-11:45,14:00-18:30; Sa 09:00-16:00"
-website: "https://www.goldschmiede-sturzenegger.ch/"
+street: Zürcherstrasse
+housenumber: "6"
+phone: +41 81 723 2715
+opening_hours: Tu-Fr 09:00-11:45,14:00-18:30; Sa 09:00-16:00
+website: https://www.goldschmiede-sturzenegger.ch/

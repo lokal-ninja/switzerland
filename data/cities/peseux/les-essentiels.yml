@@ -4,8 +4,8 @@ latitude: 46.98607
 longitude: 6.88783
 postcode: ""
 city: Peseux
-street: "Rue Ernest Roulet"
-housenumber: 3
-phone: "+41 79 886 87 85"
-opening_hours: "Mo-Fr 08:45-12:00,14:00-18:30; Sa 08:45-16:00"
-website: "https://www.les-essentiels.ch/"
+street: Rue Ernest Roulet
+housenumber: "3"
+phone: +41 79 886 87 85
+opening_hours: Mo-Fr 08:45-12:00,14:00-18:30; Sa 08:45-16:00
+website: https://www.les-essentiels.ch/

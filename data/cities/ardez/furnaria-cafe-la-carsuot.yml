@@ -1,11 +1,11 @@
 id: 266751665
-type: way
+type: node
 latitude: 46.77535
 longitude: 10.20325
 postcode: "7546"
 city: Ardez
-street: "Bröl"
-housenumber: 56
+street: Bröl
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

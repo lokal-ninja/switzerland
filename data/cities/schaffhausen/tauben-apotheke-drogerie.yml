@@ -4,8 +4,8 @@ latitude: 47.69665
 longitude: 8.63296
 postcode: "8200"
 city: Schaffhausen
-street: "Oberstadt"
-housenumber: 8
+street: Oberstadt
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://achillea.ch/standorte/tauben-apotheke-drogerie"
+website: https://achillea.ch/standorte/tauben-apotheke-drogerie

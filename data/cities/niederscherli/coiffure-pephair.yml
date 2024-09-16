@@ -4,8 +4,8 @@ latitude: 46.88454
 longitude: 7.38595
 postcode: "3145"
 city: Niederscherli
-street: "Schwarzenburgstrasse"
-housenumber: 829
-phone: "+41 31 849 14 70"
-opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-14:00; Su-Mo off; PH off"
-website: "https://www.pephair.ch"
+street: Schwarzenburgstrasse
+housenumber: "829"
+phone: +41 31 849 14 70
+opening_hours: Tu-Fr 08:00-18:00; Sa 08:00-14:00; Su-Mo off; PH off
+website: https://www.pephair.ch

@@ -1,11 +1,11 @@
 id: 382674785
-type: way
+type: node
 latitude: 47.39171
 longitude: 8.05163
 postcode: "5000"
 city: Aarau
-street: "Bahnhofplatz"
+street: Bahnhofplatz
 housenumber: 3c
 phone: "+41628230138"
-opening_hours: "Mo-Fr 06:00-20:00; Sa,Su 08:00-20:00"
-website: "https://www.saporiditalia.ch/"
+opening_hours: Mo-Fr 06:00-20:00; Sa,Su 08:00-20:00
+website: https://www.saporiditalia.ch/

@@ -4,8 +4,8 @@ latitude: 46.23587
 longitude: 7.35973
 postcode: "1950"
 city: Sion
-street: "Avenue Ritz"
-housenumber: 31
+street: Avenue Ritz
+housenumber: "31"
 phone: "+41277206500"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 07:30-17:00; Su, PH off"
-website: "https://www.migros.ch/"
+opening_hours: Mo-Fr 07:30-18:30; Sa 07:30-17:00; Su, PH off
+website: https://www.migros.ch/

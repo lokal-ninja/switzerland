@@ -4,8 +4,8 @@ latitude: 46.97311
 longitude: 7.45184
 postcode: "3004"
 city: Bern
-street: "Tiefenaustrasse"
-housenumber: 119
+street: Tiefenaustrasse
+housenumber: "119"
 phone: ""
-opening_hours: "Mo-Fr 07:00-12:00,14:00-18:30; Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:00-12:00,14:00-18:30; Sa 07:30-18:00
 website: ""

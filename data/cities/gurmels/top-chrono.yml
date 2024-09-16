@@ -1,11 +1,11 @@
 id: 166193933
-type: way
+type: node
 latitude: 46.89452
 longitude: 7.17909
 postcode: "3212"
 city: Gurmels
-street: "Dürenbergstrasse"
-housenumber: 42
-phone: "+41 26 674 05 83"
-opening_hours: "Mo-Fr 07:30-12:00, 13:00-17:30; Sa 09:00-12:00; Su off"
-website: "http://www.top-chrono.ch"
+street: Dürenbergstrasse
+housenumber: "42"
+phone: +41 26 674 05 83
+opening_hours: Mo-Fr 07:30-12:00, 13:00-17:30; Sa 09:00-12:00; Su off
+website: http://www.top-chrono.ch

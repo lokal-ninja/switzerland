@@ -4,8 +4,8 @@ latitude: 47.3722
 longitude: 8.54551
 postcode: "8001"
 city: Zürich
-street: "Spiegelgasse"
-housenumber: 22
+street: Spiegelgasse
+housenumber: "22"
 phone: ""
-opening_hours: "Tu-Fr 11:00-18:30; Sa 10:00-16:00; PH closed"
+opening_hours: Tu-Fr 11:00-18:30; Sa 10:00-16:00; PH closed
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.36161
 longitude: 8.51734
 postcode: "8045"
 city: Zürich
-street: "Grubenstrasse"
-housenumber: 1
-phone: "+41 43 539 13 53"
-opening_hours: "Mo 14:00-20:00; Tu-Sa 11:00-20:00; Su off; PH off"
-website: "https://sabaydee.ch/"
+street: Grubenstrasse
+housenumber: "1"
+phone: +41 43 539 13 53
+opening_hours: Mo 14:00-20:00; Tu-Sa 11:00-20:00; Su off; PH off
+website: https://sabaydee.ch/

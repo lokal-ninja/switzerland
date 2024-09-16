@@ -4,8 +4,8 @@ latitude: 47.5184
 longitude: 8.72003
 postcode: "8400"
 city: Winterthur
-street: "Schaffhauserstrasse"
-housenumber: 152
+street: Schaffhauserstrasse
+housenumber: "152"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.hotelplan.ch/hotelplan-winterthur-rosenberg"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.hotelplan.ch/hotelplan-winterthur-rosenberg

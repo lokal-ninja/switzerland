@@ -4,8 +4,8 @@ latitude: 47.36211
 longitude: 7.35469
 postcode: "2800"
 city: Delemont
-street: "Route de Distribution Urbaine"
-housenumber: 3
+street: Route de Distribution Urbaine
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-We,Fr 09:00-18:30; Th,Sa 09:00-17:00"
+opening_hours: Mo-We,Fr 09:00-18:30; Th,Sa 09:00-17:00
 website: ""

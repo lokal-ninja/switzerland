@@ -4,8 +4,8 @@ latitude: 47.09905
 longitude: 6.8232
 postcode: "2300"
 city: La Chaux-de-Fonds
-street: "Avenue Léopold-Robert"
-housenumber: 74
+street: Avenue Léopold-Robert
+housenumber: "74"
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:30,13:30-18:30"
-website: "https://www.achatdor.ch"
+opening_hours: Mo-Fr 09:30-12:30,13:30-18:30
+website: https://www.achatdor.ch

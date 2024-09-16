@@ -1,11 +1,11 @@
 id: 354921265
-type: way
+type: node
 latitude: 47.17111
 longitude: 7.88446
 postcode: "6146"
 city: Grossdietwil
-street: "Gondiswilerstrasse"
-housenumber: 6
-phone: "+41 62 9271766"
+street: Gondiswilerstrasse
+housenumber: "6"
+phone: +41 62 9271766
 opening_hours: ""
-website: "http://www.erni-metzgerei.ch/"
+website: http://www.erni-metzgerei.ch/

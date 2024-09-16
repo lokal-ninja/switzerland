@@ -4,8 +4,8 @@ latitude: 47.37782
 longitude: 8.51006
 postcode: "8003"
 city: Zürich
-street: "Zurlindenstrasse"
-housenumber: 300
+street: Zurlindenstrasse
+housenumber: "300"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
-website: "https://www.interdiscount.ch/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
+website: https://www.interdiscount.ch/

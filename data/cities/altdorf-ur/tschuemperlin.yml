@@ -4,8 +4,8 @@ latitude: 46.881
 longitude: 8.64361
 postcode: "6460"
 city: Altdorf UR
-street: "Schmiedgasse"
-housenumber: 12
+street: Schmiedgasse
+housenumber: "12"
 phone: ""
-opening_hours: "Mo 13:30-18:30; Tu-Fr 08:30-12:00,13:30-18:30; Sa 08:30-16:00"
-website: "https://www.tschuemperlin-schuhe.ch/"
+opening_hours: Mo 13:30-18:30; Tu-Fr 08:30-12:00,13:30-18:30; Sa 08:30-16:00
+website: https://www.tschuemperlin-schuhe.ch/

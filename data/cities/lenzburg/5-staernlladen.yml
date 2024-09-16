@@ -1,11 +1,11 @@
 id: 198583520
-type: way
+type: node
 latitude: 47.37981
 longitude: 8.17963
 postcode: "5600"
 city: Lenzburg
-street: "Ziegeleiweg"
-housenumber: 3
+street: Ziegeleiweg
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Fr 09:30-12:00, 15:00-18:30; Sa 09:30-15:00"
-website: "https://www.ag.ch/de/dvi/strafverfolgung_strafvollzug/jva_lenzburg/betriebe/5__laden/5__laden_1.jsp?sectionId=159667&tabId=0"
+opening_hours: Tu-Fr 09:30-12:00, 15:00-18:30; Sa 09:30-15:00
+website: https://www.ag.ch/de/dvi/strafverfolgung_strafvollzug/jva_lenzburg/betriebe/5__laden/5__laden_1.jsp?sectionId=159667&tabId=0

@@ -4,8 +4,8 @@ latitude: 47.50537
 longitude: 7.51507
 postcode: "4105"
 city: Biel-Benken
-street: "Mühlegasse"
-housenumber: 21
-phone: "+41 61 721 51 12"
-opening_hours: "Direktverkauf: Milch: ab Automat oder kuhwarm zu Stallzeiten"
+street: Mühlegasse
+housenumber: "21"
+phone: +41 61 721 51 12
+opening_hours: 'Direktverkauf: Milch: ab Automat oder kuhwarm zu Stallzeiten'
 website: ""

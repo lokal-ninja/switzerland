@@ -1,11 +1,11 @@
 id: 156987867
-type: way
+type: node
 latitude: 47.41761
 longitude: 7.07821
 postcode: "2900"
 city: Porrentruy
-street: "Faubourg St-Germain"
-housenumber: 5
+street: Faubourg St-Germain
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

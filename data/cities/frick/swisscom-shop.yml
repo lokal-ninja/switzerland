@@ -4,8 +4,8 @@ latitude: 47.50645
 longitude: 8.0228
 postcode: "5070"
 city: Frick
-street: "Hauptstrasse"
-housenumber: 71
-phone: "+41 62 875 77 66"
-opening_hours: "Tu-Fr 09:30-12:00,13:30-18:00; Sa 09:00-16:00; Mo off"
-website: "https://www.swisscom.ch/"
+street: Hauptstrasse
+housenumber: "71"
+phone: +41 62 875 77 66
+opening_hours: Tu-Fr 09:30-12:00,13:30-18:00; Sa 09:00-16:00; Mo off
+website: https://www.swisscom.ch/

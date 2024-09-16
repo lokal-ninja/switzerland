@@ -1,11 +1,11 @@
 id: 199776036
-type: way
+type: node
 latitude: 47.48338
 longitude: 7.73623
 postcode: "4410"
 city: Liestal
-street: "Büchelistrasse"
-housenumber: 10
+street: Büchelistrasse
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; PH off"
-website: "https://www.manor.ch/de/store-finder/store/LIS"
+opening_hours: Mo-Sa 09:00-19:00; PH off
+website: https://www.manor.ch/de/store-finder/store/LIS

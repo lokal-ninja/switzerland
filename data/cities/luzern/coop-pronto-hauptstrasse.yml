@@ -1,11 +1,11 @@
 id: 649665810
-type: way
+type: node
 latitude: 47.05999
 longitude: 8.28601
 postcode: "6015"
 city: Luzern
-street: "Hauptstrasse"
-housenumber: 19
+street: Hauptstrasse
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

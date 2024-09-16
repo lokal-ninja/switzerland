@@ -4,8 +4,8 @@ latitude: 47.6504
 longitude: 8.84994
 postcode: "8259"
 city: Kaltenbach
-street: "Hauptstrasse"
-housenumber: 1
+street: Hauptstrasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.touratech.ch"
+website: http://www.touratech.ch

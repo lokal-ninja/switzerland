@@ -4,8 +4,8 @@ latitude: 47.54107
 longitude: 7.61981
 postcode: "4052"
 city: Basel
-street: "St. Jakobs-Strasse"
-housenumber: 397
+street: St. Jakobs-Strasse
+housenumber: "397"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-18:00; PH off"
-website: "https://www.newyorker.de/ch/"
+opening_hours: Mo-Fr 09:00-20:00, Sa 09:00-18:00; PH off
+website: https://www.newyorker.de/ch/

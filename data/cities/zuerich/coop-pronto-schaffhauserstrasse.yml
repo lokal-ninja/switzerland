@@ -4,8 +4,8 @@ latitude: 47.42144
 longitude: 8.54969
 postcode: "8052"
 city: Zürich
-street: "Schaffhauserstrasse"
-housenumber: 499
+street: Schaffhauserstrasse
+housenumber: "499"
 phone: ""
-opening_hours: "Mo-Sa 06:00-23:00"
-website: "https://www.coop-pronto.ch/"
+opening_hours: Mo-Sa 06:00-23:00
+website: https://www.coop-pronto.ch/

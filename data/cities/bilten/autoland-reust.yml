@@ -1,11 +1,11 @@
 id: 707163397
-type: way
+type: node
 latitude: 47.15446
 longitude: 9.0295
 postcode: "8865"
 city: Bilten
-street: "Neuländerstrasse"
-housenumber: 7
+street: Neuländerstrasse
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

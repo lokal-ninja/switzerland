@@ -4,8 +4,8 @@ latitude: 47.69288
 longitude: 8.62366
 postcode: "8200"
 city: Schaffhausen
-street: "Mühlenstrasse"
-housenumber: 96
+street: Mühlenstrasse
+housenumber: "96"
 phone: "0041526440101"
-opening_hours: "Mo-Fr 07:00-12:00,13:15-17:00"
-website: "https://www.automaxx.ch/"
+opening_hours: Mo-Fr 07:00-12:00,13:15-17:00
+website: https://www.automaxx.ch/

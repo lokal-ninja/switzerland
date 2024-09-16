@@ -4,8 +4,8 @@ latitude: 47.36894
 longitude: 8.50039
 postcode: "8055"
 city: Zürich
-street: "Birmensdorferstrasse"
-housenumber: 438
-phone: "+41 44 241 02 01"
-opening_hours: "Tu-Fr 10:00-18:30; Sa 10:00-16:00"
-website: "https://scooterplanet.ch/"
+street: Birmensdorferstrasse
+housenumber: "438"
+phone: +41 44 241 02 01
+opening_hours: Tu-Fr 10:00-18:30; Sa 10:00-16:00
+website: https://scooterplanet.ch/

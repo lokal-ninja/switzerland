@@ -1,11 +1,11 @@
 id: 415934112
-type: way
+type: node
 latitude: 47.20472
 longitude: 9.44285
 postcode: "9473"
 city: Gams
-street: "Breiten"
-housenumber: 3
+street: Breiten
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.kesseli-ag.ch/"
+website: https://www.kesseli-ag.ch/

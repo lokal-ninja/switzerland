@@ -1,11 +1,11 @@
 id: 41087901
-type: way
+type: node
 latitude: 47.41541
 longitude: 8.56203
 postcode: "8050"
 city: Zürich
-street: "Hagenholzstrasse"
-housenumber: 109
+street: Hagenholzstrasse
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

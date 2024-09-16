@@ -4,8 +4,8 @@ latitude: 47.22997
 longitude: 8.83522
 postcode: "8645"
 city: Jona
-street: "Bühlstrasse"
-housenumber: 13
+street: Bühlstrasse
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.waar-coiffeur.ch/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.waar-coiffeur.ch/

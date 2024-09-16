@@ -4,8 +4,8 @@ latitude: 47.26601
 longitude: 8.67654
 postcode: "8707"
 city: Uetikon am See
-street: "Bergstrasse"
-housenumber: 171
-phone: "+41 44 920 26 60"
-opening_hours: "Mo-We, Fr 08:00-18:30; Th 08:00-21:00; Sa 08:00-12:00"
-website: "https://www.coiffureajour.ch/"
+street: Bergstrasse
+housenumber: "171"
+phone: +41 44 920 26 60
+opening_hours: Mo-We, Fr 08:00-18:30; Th 08:00-21:00; Sa 08:00-12:00
+website: https://www.coiffureajour.ch/

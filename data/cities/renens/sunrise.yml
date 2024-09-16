@@ -4,8 +4,8 @@ latitude: 46.53894
 longitude: 6.58056
 postcode: "1020"
 city: Renens
-street: "Rue de la Mèbre"
-housenumber: 9
-phone: "+41 800 70 75 05"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00; PH off"
+street: Rue de la Mèbre
+housenumber: "9"
+phone: +41 800 70 75 05
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00; PH off
 website: ""

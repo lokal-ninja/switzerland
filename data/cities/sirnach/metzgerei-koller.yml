@@ -4,8 +4,9 @@ latitude: 47.46227
 longitude: 8.99694
 postcode: "8370"
 city: Sirnach
-street: "Kirchplatz"
-housenumber: 5
-phone: "+41 71 966 12 14"
-opening_hours: "Mo-Th 07:30-12:00,15:00-18:30,07:30-12:00; Fr 07:30-12:00,14:00-18:30; Sa 06:29-15:00"
+street: Kirchplatz
+housenumber: "5"
+phone: +41 71 966 12 14
+opening_hours: Mo-Th 07:30-12:00,15:00-18:30,07:30-12:00; Fr 07:30-12:00,14:00-18:30;
+    Sa 06:29-15:00
 website: ""

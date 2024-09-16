@@ -4,8 +4,8 @@ latitude: 47.56418
 longitude: 7.58349
 postcode: "4056"
 city: Basel
-street: "Schanzenstrasse"
-housenumber: 4
+street: Schanzenstrasse
+housenumber: "4"
 phone: ""
-opening_hours: "Fr 12:00-18:00; Sa 11:00-16:00"
-website: "https://www.ballonsalon.ch"
+opening_hours: Fr 12:00-18:00; Sa 11:00-16:00
+website: https://www.ballonsalon.ch

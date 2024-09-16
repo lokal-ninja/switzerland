@@ -1,11 +1,11 @@
 id: 211241175
-type: way
+type: node
 latitude: 46.49042
 longitude: 7.56201
 postcode: "3715"
 city: Adelboden
-street: "Landstrasse"
-housenumber: 45
+street: Landstrasse
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

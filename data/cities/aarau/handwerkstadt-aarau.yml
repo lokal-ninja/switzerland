@@ -4,8 +4,8 @@ latitude: 47.40091
 longitude: 8.06555
 postcode: "5000"
 city: Aarau
-street: "Neumattstrasse"
-housenumber: 24
-phone: "+41 62 834 88 00"
+street: Neumattstrasse
+housenumber: "24"
+phone: +41 62 834 88 00
 opening_hours: ""
-website: "https://www.sfs.ch/de/store/1050_POS"
+website: https://www.sfs.ch/de/store/1050_POS

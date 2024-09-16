@@ -4,8 +4,8 @@ latitude: 46.22938
 longitude: 6.06254
 postcode: "1217"
 city: Genève
-street: "Route du Mandement"
-housenumber: 15
-phone: "+41 22 785 19 20"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-17:45; Sa 09:00-14:00"
-website: "https://www.garage-elezi.ch/"
+street: Route du Mandement
+housenumber: "15"
+phone: +41 22 785 19 20
+opening_hours: Mo-Fr 08:00-12:00,13:30-17:45; Sa 09:00-14:00
+website: https://www.garage-elezi.ch/

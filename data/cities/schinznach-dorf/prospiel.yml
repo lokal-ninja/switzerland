@@ -4,8 +4,8 @@ latitude: 47.44321
 longitude: 8.14499
 postcode: "5107"
 city: Schinznach Dorf
-street: "Feldstrasse"
-housenumber: 20
-phone: "+41 56 463 60 97"
-opening_hours: "Mo,Tu,Th 13:30-18:00; We,Fr 09:00-12:00,13:30-18:00"
-website: "https://www.prospiel.ch/"
+street: Feldstrasse
+housenumber: "20"
+phone: +41 56 463 60 97
+opening_hours: Mo,Tu,Th 13:30-18:00; We,Fr 09:00-12:00,13:30-18:00
+website: https://www.prospiel.ch/

@@ -1,11 +1,11 @@
 id: 82615908
-type: way
+type: node
 latitude: 47.31979
 longitude: 8.19143
 postcode: "5706"
 city: Boniswil
-street: "Rosenweg"
-housenumber: 9
-phone: "+41 62 7770393"
+street: Rosenweg
+housenumber: "9"
+phone: +41 62 7770393
 opening_hours: ""
 website: ""

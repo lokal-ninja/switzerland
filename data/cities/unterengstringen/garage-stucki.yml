@@ -1,11 +1,11 @@
 id: 303399638
-type: way
+type: node
 latitude: 47.40227
 longitude: 8.42793
 postcode: "8103"
 city: Unterengstringen
-street: "Im Werd"
-housenumber: 2
+street: Im Werd
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00,13:15-18:00"
+opening_hours: Mo-Fr 07:30-12:00,13:15-18:00
 website: ""

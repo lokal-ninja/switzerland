@@ -4,8 +4,8 @@ latitude: 46.94902
 longitude: 7.39841
 postcode: "3027"
 city: Bern
-street: "Murtenstrasse"
-housenumber: 221
+street: Murtenstrasse
+housenumber: "221"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-14:00"
-website: "https://www.veloladenbern.ch"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-14:00
+website: https://www.veloladenbern.ch

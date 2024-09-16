@@ -4,8 +4,8 @@ latitude: 47.49187
 longitude: 8.70645
 postcode: "8406"
 city: Winterthur
-street: "Zürcherstrasse"
-housenumber: 102
+street: Zürcherstrasse
+housenumber: "102"
 phone: ""
-opening_hours: "Mo-Fr 07:30-20:00; PH off; Sa 08:00-19:00"
-website: "https://filialen.migros.ch/de/migros-supermarkt-winterthur-toess"
+opening_hours: Mo-Fr 07:30-20:00; PH off; Sa 08:00-19:00
+website: https://filialen.migros.ch/de/migros-supermarkt-winterthur-toess

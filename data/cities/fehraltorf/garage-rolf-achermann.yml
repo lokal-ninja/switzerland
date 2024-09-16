@@ -1,11 +1,11 @@
 id: 370801701
-type: way
+type: node
 latitude: 47.3887
 longitude: 8.7439
 postcode: "8320"
 city: Fehraltorf
-street: "Luppmenstrasse"
-housenumber: 17
+street: Luppmenstrasse
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

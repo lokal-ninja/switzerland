@@ -4,8 +4,8 @@ latitude: 46.64153
 longitude: 6.63502
 postcode: "1040"
 city: Echallens
-street: "Route d'Yverdon"
-housenumber: 2
-phone: "+41 79 904 11 20"
+street: Route d'Yverdon
+housenumber: "2"
+phone: +41 79 904 11 20
 opening_hours: ""
-website: "https://www.dorianebienetre.ch"
+website: https://www.dorianebienetre.ch

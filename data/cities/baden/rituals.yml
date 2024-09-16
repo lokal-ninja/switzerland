@@ -4,8 +4,8 @@ latitude: 47.47342
 longitude: 8.30755
 postcode: "5400"
 city: Baden
-street: "Schlossbergplatz"
-housenumber: 5
+street: Schlossbergplatz
+housenumber: "5"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-19:00; We 09:00-20:00; Sa 09:00-17:00"
-website: "https://www.rituals.com/de-ch/"
+opening_hours: Mo,Tu,Th,Fr 09:00-19:00; We 09:00-20:00; Sa 09:00-17:00
+website: https://www.rituals.com/de-ch/

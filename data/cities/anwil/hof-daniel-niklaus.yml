@@ -4,8 +4,8 @@ latitude: 47.45092
 longitude: 7.94035
 postcode: "4469"
 city: Anwil
-street: "Dorfstrassse"
-housenumber: 9
-phone: "+41 61 991 00 38"
-opening_hours: "Selbstbedienung"
-website: "https://www.niklaushofladen.ch/"
+street: Dorfstrassse
+housenumber: "9"
+phone: +41 61 991 00 38
+opening_hours: Selbstbedienung
+website: https://www.niklaushofladen.ch/

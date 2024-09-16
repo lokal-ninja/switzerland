@@ -4,8 +4,8 @@ latitude: 46.38998
 longitude: 6.20186
 postcode: "1274"
 city: Signy
-street: "Rue des Fontaines"
-housenumber: 25
-phone: "+41 22 362 67 66"
-opening_hours: "Mo-Sa 08:00-18:30"
-website: "http://www.signy-self.ch/"
+street: Rue des Fontaines
+housenumber: "25"
+phone: +41 22 362 67 66
+opening_hours: Mo-Sa 08:00-18:30
+website: http://www.signy-self.ch/

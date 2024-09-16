@@ -4,8 +4,8 @@ latitude: 47.3908
 longitude: 8.48986
 postcode: "8048"
 city: Zürich
-street: "Hohlstrasse"
-housenumber: 556
-phone: "+41 44 542 33 35"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.beautyspace.ch/"
+street: Hohlstrasse
+housenumber: "556"
+phone: +41 44 542 33 35
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.beautyspace.ch/

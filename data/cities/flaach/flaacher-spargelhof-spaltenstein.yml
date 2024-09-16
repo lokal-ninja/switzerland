@@ -5,7 +5,7 @@ longitude: 8.59953
 postcode: "8416"
 city: Flaach
 street: ""
-housenumber: 3
-phone: "+41 52 301 30 44"
-opening_hours: "Mo-Su 08:00-20:00; PH 08:00-20:00"
-website: "https://spargel.ch/hofladen/"
+housenumber: "3"
+phone: +41 52 301 30 44
+opening_hours: Mo-Su 08:00-20:00; PH 08:00-20:00
+website: https://spargel.ch/hofladen/

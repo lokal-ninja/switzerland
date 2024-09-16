@@ -4,8 +4,8 @@ latitude: 47.02043
 longitude: 8.65503
 postcode: "6430"
 city: Schwyz
-street: "Strehlgasse"
-housenumber: 11
-phone: "+41 41 810 08 08"
-opening_hours: "We-Th 08:30-18:30; Fr 12:00-18:30; Sa 08:30-16:00"
-website: "https://home.knusperholz.ch"
+street: Strehlgasse
+housenumber: "11"
+phone: +41 41 810 08 08
+opening_hours: We-Th 08:30-18:30; Fr 12:00-18:30; Sa 08:30-16:00
+website: https://home.knusperholz.ch

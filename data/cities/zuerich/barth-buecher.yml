@@ -5,7 +5,7 @@ longitude: 8.53884
 postcode: "8001"
 city: Zürich
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su 08:00-20:00"
-website: "http://www.barthbuch.ch/"
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su 08:00-20:00
+website: http://www.barthbuch.ch/

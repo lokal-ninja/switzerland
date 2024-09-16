@@ -4,8 +4,8 @@ latitude: 47.4499
 longitude: 8.58281
 postcode: "8302"
 city: Kloten
-street: "Bahnhofstrasse"
-housenumber: 3
+street: Bahnhofstrasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.coop.ch/"
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.coop.ch/

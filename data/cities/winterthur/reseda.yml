@@ -4,8 +4,8 @@ latitude: 47.50443
 longitude: 8.77327
 postcode: "8409"
 city: Winterthur
-street: "Hintermühlenstrasse"
-housenumber: 2
+street: Hintermühlenstrasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.reseda.ch/"
+website: https://www.reseda.ch/

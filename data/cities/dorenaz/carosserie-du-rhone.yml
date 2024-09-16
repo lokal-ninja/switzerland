@@ -1,11 +1,11 @@
 id: 235586684
-type: way
+type: node
 latitude: 46.14566
 longitude: 7.04084
 postcode: "1905"
 city: Dorénaz
-street: "Rue des Artisans"
-housenumber: 7
+street: Rue des Artisans
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00,13:30-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 07:30-12:00,13:30-18:00; Sa 08:00-12:00
 website: ""

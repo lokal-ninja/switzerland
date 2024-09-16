@@ -4,8 +4,8 @@ latitude: 47.42389
 longitude: 9.37201
 postcode: "9000"
 city: St. Gallen
-street: "Schützengasse"
-housenumber: 7
-phone: "+41 71 230 37 37"
-opening_hours: "Mo 13:30-18:30; Tu-Fr 09:00-12:30,13:30-18:30; Sa 09:00-16:00; PH off"
-website: "https://zuba-tech.ch/"
+street: Schützengasse
+housenumber: "7"
+phone: +41 71 230 37 37
+opening_hours: Mo 13:30-18:30; Tu-Fr 09:00-12:30,13:30-18:30; Sa 09:00-16:00; PH off
+website: https://zuba-tech.ch/

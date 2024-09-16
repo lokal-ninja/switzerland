@@ -4,8 +4,8 @@ latitude: 47.36185
 longitude: 8.51776
 postcode: "8045"
 city: Zürich
-street: "Uetlibergstrasse"
-housenumber: 102
+street: Uetlibergstrasse
+housenumber: "102"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-18:00"
-website: "https://www.denner.ch/"
+opening_hours: Mo-Fr 07:00-20:00; Sa 08:00-18:00
+website: https://www.denner.ch/

@@ -4,8 +4,8 @@ latitude: 47.52166
 longitude: 7.60745
 postcode: "4142"
 city: Münchenstein
-street: "Kaspar Pfeiffer-Strasse"
-housenumber: 2
+street: Kaspar Pfeiffer-Strasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa 07:30-18:00"
-website: "https://filialen.migros.ch/de/migros-supermarkt-muenchenstein-gartenstadt"
+opening_hours: Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa 07:30-18:00
+website: https://filialen.migros.ch/de/migros-supermarkt-muenchenstein-gartenstadt

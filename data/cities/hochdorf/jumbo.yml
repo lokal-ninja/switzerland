@@ -1,11 +1,11 @@
 id: 264487880
-type: way
+type: node
 latitude: 47.16612
 longitude: 8.28316
 postcode: "6280"
 city: Hochdorf
-street: "Industriestrasse"
-housenumber: 4
+street: Industriestrasse
+housenumber: "4"
 phone: "+41412522160"
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.56583
 longitude: 7.58829
 postcode: "4057"
 city: Basel
-street: "Feldbergstrasse"
-housenumber: 9
+street: Feldbergstrasse
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 11:00-20:00; Sa 11:00-18:30"
-website: "https://viweedy.com/"
+opening_hours: Mo-Fr 11:00-20:00; Sa 11:00-18:30
+website: https://viweedy.com/

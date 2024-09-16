@@ -4,8 +4,8 @@ latitude: 47.05942
 longitude: 6.90199
 postcode: "2053"
 city: Cernier
-street: "Rue de l'Epervier"
-housenumber: 4
-phone: "+41 32 924 2 526"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-17:00"
-website: "https://www.transn.ch/"
+street: Rue de l'Epervier
+housenumber: "4"
+phone: +41 32 924 2 526
+opening_hours: Mo-Fr 08:00-12:00,14:00-17:00
+website: https://www.transn.ch/

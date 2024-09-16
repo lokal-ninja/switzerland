@@ -4,8 +4,8 @@ latitude: 47.47611
 longitude: 8.30895
 postcode: "5400"
 city: Baden
-street: "Bahnhofplatz"
-housenumber: 7
+street: Bahnhofplatz
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 10:00-16:00"
-website: "http://www.tuibaden.ch/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 10:00-16:00
+website: http://www.tuibaden.ch/

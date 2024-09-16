@@ -1,11 +1,11 @@
 id: 355544115
-type: way
+type: node
 latitude: 47.44105
 longitude: 9.25464
 postcode: "9212"
 city: Arnegg
-street: "Bischofszellerstrasse"
-housenumber: 315
+street: Bischofszellerstrasse
+housenumber: "315"
 phone: ""
 opening_hours: ""
 website: ""

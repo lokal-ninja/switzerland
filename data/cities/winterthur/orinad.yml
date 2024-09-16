@@ -4,8 +4,8 @@ latitude: 47.49914
 longitude: 8.72525
 postcode: "8400"
 city: Winterthur
-street: "Untertor"
-housenumber: 21
-phone: "+41 52 213 31 31"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
-website: "https://www.orinad.ch/kanton-zuerich/"
+street: Untertor
+housenumber: "21"
+phone: +41 52 213 31 31
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
+website: https://www.orinad.ch/kanton-zuerich/

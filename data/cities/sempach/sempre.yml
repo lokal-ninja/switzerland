@@ -1,11 +1,11 @@
 id: 309684258
-type: way
+type: node
 latitude: 47.13587
 longitude: 8.19269
 postcode: "6204"
 city: Sempach
-street: "Oberstadt"
-housenumber: 21
+street: Oberstadt
+housenumber: "21"
 phone: ""
 opening_hours: ""
-website: "http://www.staedtli-chaesi.ch"
+website: http://www.staedtli-chaesi.ch

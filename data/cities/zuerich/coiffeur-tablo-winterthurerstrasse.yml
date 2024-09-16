@@ -4,8 +4,8 @@ latitude: 47.40449
 longitude: 8.57317
 postcode: "8051"
 city: Zürich
-street: "Winterthurerstrasse"
-housenumber: 531
+street: Winterthurerstrasse
+housenumber: "531"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-18:00"
-website: "https://www.coiffeur-tablo.ch/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-18:00
+website: https://www.coiffeur-tablo.ch/

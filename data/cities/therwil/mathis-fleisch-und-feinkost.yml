@@ -4,8 +4,8 @@ latitude: 47.49915
 longitude: 7.55684
 postcode: "4106"
 city: Therwil
-street: "Bahnhofstrasse"
-housenumber: 21
-phone: "+41 61 721 66 44"
-opening_hours: "Tu-Fr 07:00-12:30,14:00-18:30; Sa 07:00-14:00"
-website: "https://mathis-fleischundfeinkost.ch/"
+street: Bahnhofstrasse
+housenumber: "21"
+phone: +41 61 721 66 44
+opening_hours: Tu-Fr 07:00-12:30,14:00-18:30; Sa 07:00-14:00
+website: https://mathis-fleischundfeinkost.ch/

@@ -4,8 +4,8 @@ latitude: 46.51565
 longitude: 6.6308
 postcode: "1006"
 city: Lausanne
-street: "Rue du Simplon"
-housenumber: 9
-phone: "+41 21 601 48 85"
-opening_hours: "Tu-Fr 09:30-12:30,13:30-18:30"
-website: "https://www.ateliersonjat.ch"
+street: Rue du Simplon
+housenumber: "9"
+phone: +41 21 601 48 85
+opening_hours: Tu-Fr 09:30-12:30,13:30-18:30
+website: https://www.ateliersonjat.ch

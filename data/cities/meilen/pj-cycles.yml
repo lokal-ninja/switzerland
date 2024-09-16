@@ -4,8 +4,8 @@ latitude: 47.26766
 longitude: 8.64213
 postcode: "8706"
 city: Meilen
-street: "Seestrasse"
-housenumber: 619
-phone: "+41 44 923 52 52"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-18:00; Sa 10:00-16:00; Su,Mo,PH off"
-website: "http://www.pj-cycles.ch/"
+street: Seestrasse
+housenumber: "619"
+phone: +41 44 923 52 52
+opening_hours: Tu-Fr 09:00-12:00,14:00-18:00; Sa 10:00-16:00; Su,Mo,PH off
+website: http://www.pj-cycles.ch/

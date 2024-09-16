@@ -4,8 +4,8 @@ latitude: 47.30529
 longitude: 8.75837
 postcode: "8625"
 city: Gossau
-street: "Laufenbachstrasse"
-housenumber: 7
+street: Laufenbachstrasse
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:00,13:30-18:30; Sa 09:00-14:00; PH off"
-website: "https://claro-gossau.ch/"
+opening_hours: Tu-Fr 09:00-12:00,13:30-18:30; Sa 09:00-14:00; PH off
+website: https://claro-gossau.ch/

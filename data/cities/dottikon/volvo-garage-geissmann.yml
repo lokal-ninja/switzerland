@@ -1,11 +1,11 @@
 id: 114345644
-type: way
+type: node
 latitude: 47.38247
 longitude: 8.24399
 postcode: "5605"
 city: Dottikon
-street: "Wohlerstrasse"
-housenumber: 8
+street: Wohlerstrasse
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.garage-geissmann.ch/"
+website: https://www.garage-geissmann.ch/

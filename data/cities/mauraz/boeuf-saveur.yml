@@ -4,8 +4,8 @@ latitude: 46.60578
 longitude: 6.42127
 postcode: "1148"
 city: Mauraz
-street: "Ruelle du Crêt"
-housenumber: 2
-phone: "+41 78 612 07 20"
-opening_hours: "Mo-Fr 08:00-16:00"
-website: "https://boeuf-saveur.ch/"
+street: Ruelle du Crêt
+housenumber: "2"
+phone: +41 78 612 07 20
+opening_hours: Mo-Fr 08:00-16:00
+website: https://boeuf-saveur.ch/

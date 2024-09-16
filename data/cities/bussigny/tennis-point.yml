@@ -4,8 +4,8 @@ latitude: 46.55369
 longitude: 6.54692
 postcode: "1030"
 city: Bussigny
-street: "Chemin des Ecoliers"
-housenumber: 3
-phone: "+41 21 513 77 10"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:00-17:00"
-website: "https://www.tennis-point.ch/"
+street: Chemin des Ecoliers
+housenumber: "3"
+phone: +41 21 513 77 10
+opening_hours: Mo-Fr 10:00-18:30; Sa 09:00-17:00
+website: https://www.tennis-point.ch/

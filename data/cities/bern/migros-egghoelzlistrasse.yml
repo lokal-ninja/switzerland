@@ -4,8 +4,8 @@ latitude: 46.93699
 longitude: 7.47509
 postcode: "3006"
 city: Bern
-street: "Egghölzlistrasse"
-housenumber: 1
+street: Egghölzlistrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-17:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-bern-egghoelzli"
+opening_hours: Mo-Fr 08:00-20:00, Sa 08:00-17:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-bern-egghoelzli

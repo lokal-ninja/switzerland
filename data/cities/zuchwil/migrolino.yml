@@ -4,8 +4,8 @@ latitude: 47.20535
 longitude: 7.55038
 postcode: "4528"
 city: Zuchwil
-street: "Luzernstrasse"
-housenumber: 4
+street: Luzernstrasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 06:00-24:00, Sa 07:00-24:00, Su 08:00-24:00"
-website: "https://www.migrolino.ch/de/standorte/shell-zuchwil/"
+opening_hours: Mo-Fr 06:00-24:00, Sa 07:00-24:00, Su 08:00-24:00
+website: https://www.migrolino.ch/de/standorte/shell-zuchwil/

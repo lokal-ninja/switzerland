@@ -1,11 +1,11 @@
 id: 260315399
-type: way
+type: node
 latitude: 47.11732
 longitude: 8.19419
 postcode: "6203"
 city: Sempach Station
-street: "Sempachstrasse"
-housenumber: 7
+street: Sempachstrasse
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.33316
 longitude: 8.7919
 postcode: "8620"
 city: Wetzikon
-street: "Motorenstrasse"
-housenumber: 100
-phone: "+41 44 555 31 55"
-opening_hours: "Mo-Fr 09:00-16:00"
-website: "https://cavegevin.ch"
+street: Motorenstrasse
+housenumber: "100"
+phone: +41 44 555 31 55
+opening_hours: Mo-Fr 09:00-16:00
+website: https://cavegevin.ch

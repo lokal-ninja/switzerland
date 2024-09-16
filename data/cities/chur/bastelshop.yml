@@ -4,8 +4,8 @@ latitude: 46.84998
 longitude: 9.53314
 postcode: "7000"
 city: Chur
-street: "Reichsgasse"
-housenumber: 59
+street: Reichsgasse
+housenumber: "59"
 phone: ""
 opening_hours: ""
-website: "http://www.bastelshop-chur.ch"
+website: http://www.bastelshop-chur.ch

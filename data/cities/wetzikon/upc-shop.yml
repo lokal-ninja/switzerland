@@ -4,8 +4,8 @@ latitude: 47.32505
 longitude: 8.79823
 postcode: "8620"
 city: Wetzikon
-street: "Bahnhofstrasse"
-housenumber: 117
+street: Bahnhofstrasse
+housenumber: "117"
 phone: ""
 opening_hours: ""
-website: "https://www.upc.ch/de/"
+website: https://www.upc.ch/de/

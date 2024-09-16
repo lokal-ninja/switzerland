@@ -1,11 +1,11 @@
 id: 75363827
-type: way
+type: node
 latitude: 46.218
 longitude: 6.11273
 postcode: "1209"
 city: Genève
-street: "Avenue Louis-Casaï"
-housenumber: 27
+street: Avenue Louis-Casaï
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

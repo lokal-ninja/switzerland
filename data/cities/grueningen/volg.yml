@@ -1,11 +1,11 @@
 id: 117104652
-type: way
+type: node
 latitude: 47.27854
 longitude: 8.75982
 postcode: "8627"
 city: Grüningen
-street: "Binzikerstrasse"
-housenumber: 23
+street: Binzikerstrasse
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-18:00; Su off"
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-18:00; Su off
 website: ""

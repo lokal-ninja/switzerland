@@ -4,8 +4,8 @@ latitude: 47.41143
 longitude: 8.52653
 postcode: "8050"
 city: Zürich
-street: "Regensbergstrasse"
-housenumber: 309
+street: Regensbergstrasse
+housenumber: "309"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
-website: "https://www.denner.ch"
+opening_hours: Mo-Sa 07:30-20:00
+website: https://www.denner.ch

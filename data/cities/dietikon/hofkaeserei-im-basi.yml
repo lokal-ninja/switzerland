@@ -4,8 +4,8 @@ latitude: 47.3972
 longitude: 8.39212
 postcode: "8953"
 city: Dietikon
-street: "Alte Kindhauserstrasse"
-housenumber: 3
+street: Alte Kindhauserstrasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:30-18:30"
-website: "http://www.hofkäserei-imbasi.ch/"
+opening_hours: Mo-Sa 07:30-18:30
+website: http://www.hofkäserei-imbasi.ch/

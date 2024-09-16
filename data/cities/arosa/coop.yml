@@ -4,8 +4,8 @@ latitude: 46.78313
 longitude: 9.68482
 postcode: "7050"
 city: Arosa
-street: "Poststrasse"
-housenumber: 16
-phone: "+41 81 378 40 30"
-opening_hours: "Mo-Sa 08:00-19:00; Su 09:00-18:00"
+street: Poststrasse
+housenumber: "16"
+phone: +41 81 378 40 30
+opening_hours: Mo-Sa 08:00-19:00; Su 09:00-18:00
 website: ""

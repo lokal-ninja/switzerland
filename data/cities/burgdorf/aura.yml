@@ -4,8 +4,8 @@ latitude: 47.05787
 longitude: 7.6263
 postcode: "3400"
 city: Burgdorf
-street: "Mühlegasse"
-housenumber: 18
-phone: "+41 79 423 05 08"
-opening_hours: "Mo 9:00-17:00; Tu 9:00-18:30; We 8:30-13:30; Th,Fr 9:00-20:00; Sa 7:00-17:00"
-website: "https://aura-beautycenter.ch/"
+street: Mühlegasse
+housenumber: "18"
+phone: +41 79 423 05 08
+opening_hours: Mo 9:00-17:00; Tu 9:00-18:30; We 8:30-13:30; Th,Fr 9:00-20:00; Sa 7:00-17:00
+website: https://aura-beautycenter.ch/

@@ -4,8 +4,8 @@ latitude: 47.42359
 longitude: 7.50597
 postcode: ""
 city: Laufen
-street: "Baselstrasse"
-housenumber: 66
-phone: "+41 800 888 000"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00"
-website: "https://www.extra-informatik.ch/"
+street: Baselstrasse
+housenumber: "66"
+phone: +41 800 888 000
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00
+website: https://www.extra-informatik.ch/

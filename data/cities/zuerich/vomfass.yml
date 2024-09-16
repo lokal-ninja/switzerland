@@ -4,8 +4,8 @@ latitude: 47.37857
 longitude: 8.53345
 postcode: ""
 city: Zürich
-street: "Europaallee"
-housenumber: 17
-phone: "+41 44 260 44 44"
-opening_hours: "Mo 11:00-19:00; Tu-Fr 09:00-19:00; Sa 10:00-18:00"
-website: "http://www.zuerich.vomfass.ch"
+street: Europaallee
+housenumber: "17"
+phone: +41 44 260 44 44
+opening_hours: Mo 11:00-19:00; Tu-Fr 09:00-19:00; Sa 10:00-18:00
+website: http://www.zuerich.vomfass.ch

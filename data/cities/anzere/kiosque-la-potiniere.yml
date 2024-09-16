@@ -4,8 +4,8 @@ latitude: 46.29681
 longitude: 7.39835
 postcode: "1972"
 city: Anzère
-street: "Place du Village"
-housenumber: 5
-phone: "+41 27 398 26 60"
-opening_hours: "Tu-Sa 08:45-12:00,14:30-18:30; PH,Su 08:00-12:00,14:30-17:30; Mo off"
+street: Place du Village
+housenumber: "5"
+phone: +41 27 398 26 60
+opening_hours: Tu-Sa 08:45-12:00,14:30-18:30; PH,Su 08:00-12:00,14:30-17:30; Mo off
 website: ""

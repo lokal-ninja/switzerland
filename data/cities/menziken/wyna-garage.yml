@@ -1,11 +1,11 @@
 id: 212812203
-type: way
+type: node
 latitude: 47.24492
 longitude: 8.18671
 postcode: "5737"
 city: Menziken
-street: "Hauptstrasse"
-housenumber: 15
-phone: "+41 62 771 41 41"
+street: Hauptstrasse
+housenumber: "15"
+phone: +41 62 771 41 41
 opening_hours: ""
-website: "https://www.wyna-garage.ch/"
+website: https://www.wyna-garage.ch/

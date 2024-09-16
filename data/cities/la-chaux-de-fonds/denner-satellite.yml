@@ -4,8 +4,9 @@ latitude: 47.10462
 longitude: 6.84362
 postcode: "2300"
 city: La Chaux-de-Fonds
-street: "Rue de la Croix-Federale"
-housenumber: 48
+street: Rue de la Croix-Federale
+housenumber: "48"
 phone: ""
-opening_hours: "Mo 08:00-12:00,14:00-18:30; Tu 08:00-12:00; We-Fr 08:00-12:00,14:00-18:30; Sa-Su 08:00-12:00"
+opening_hours: Mo 08:00-12:00,14:00-18:30; Tu 08:00-12:00; We-Fr 08:00-12:00,14:00-18:30;
+    Sa-Su 08:00-12:00
 website: ""

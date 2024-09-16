@@ -4,8 +4,8 @@ latitude: 46.50596
 longitude: 8.30324
 postcode: "3988"
 city: Ulrichen
-street: "Furkastrasse"
-housenumber: 12
-phone: "+41 27 973 35 35"
-opening_hours: "Mo-Sa 08:30-18:00; Su 08:30-17:00"
-website: "https://www.gommersport.ch/"
+street: Furkastrasse
+housenumber: "12"
+phone: +41 27 973 35 35
+opening_hours: Mo-Sa 08:30-18:00; Su 08:30-17:00
+website: https://www.gommersport.ch/

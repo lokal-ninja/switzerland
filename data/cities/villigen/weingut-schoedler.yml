@@ -4,8 +4,9 @@ latitude: 47.52575
 longitude: 8.21657
 postcode: "5234"
 city: Villigen
-street: "Kumetstrasse"
-housenumber: 15
-phone: "+41 56 284 17 67"
-opening_hours: "Sa 08:00-12:00; Mo-Fr nach telefon. Vereinbarung, Jederzeit auf gut Glück"
+street: Kumetstrasse
+housenumber: "15"
+phone: +41 56 284 17 67
+opening_hours: Sa 08:00-12:00; Mo-Fr "nach telefon. Vereinbarung, Jederzeit auf gut
+    Glück"
 website: ""

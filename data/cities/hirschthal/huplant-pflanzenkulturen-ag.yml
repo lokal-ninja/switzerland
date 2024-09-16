@@ -4,8 +4,9 @@ latitude: 47.31804
 longitude: 8.04408
 postcode: "5042"
 city: Hirschthal
-street: "Holzikerstrasse"
-housenumber: 11
-phone: "+41 62 739 11 11"
-opening_hours: "Oct-Feb: Mo-Fr 09:00-18:00, Sa 08:00-17:00; Mar-Sep: Mo-Fr 09:00-18:30, Sa 08:00-17:00"
-website: "https://www.huplant.ch/"
+street: Holzikerstrasse
+housenumber: "11"
+phone: +41 62 739 11 11
+opening_hours: 'Oct-Feb: Mo-Fr 09:00-18:00, Sa 08:00-17:00; Mar-Sep: Mo-Fr 09:00-18:30,
+    Sa 08:00-17:00'
+website: https://www.huplant.ch/

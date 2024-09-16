@@ -1,11 +1,11 @@
 id: 45661595
-type: way
+type: node
 latitude: 47.51043
 longitude: 8.58932
 postcode: "8424"
 city: Embrach
-street: "Tannenstrasse"
-housenumber: 112
+street: Tannenstrasse
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

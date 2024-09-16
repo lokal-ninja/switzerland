@@ -4,8 +4,8 @@ latitude: 47.52673
 longitude: 8.92223
 postcode: "9548"
 city: Matzingen
-street: "Frauenfelderstrasse"
-housenumber: 95
+street: Frauenfelderstrasse
+housenumber: "95"
 phone: ""
-opening_hours: "Mo-Fr 07:30-20:00, Sa 08:00-18:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-matzingen"
+opening_hours: Mo-Fr 07:30-20:00, Sa 08:00-18:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-matzingen

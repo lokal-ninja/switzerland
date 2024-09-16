@@ -4,8 +4,8 @@ latitude: 47.39631
 longitude: 8.62336
 postcode: "8600"
 city: Dübendorf
-street: "Usterstrasse"
-housenumber: 44
+street: Usterstrasse
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa 07:00-22:00"
-website: "https://www.migrolino.ch/de/standorte/socar-dubendorf-schmiede/"
+opening_hours: Mo-Fr 06:00-22:00; Sa 07:00-22:00
+website: https://www.migrolino.ch/de/standorte/socar-dubendorf-schmiede/

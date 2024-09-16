@@ -1,11 +1,11 @@
 id: 410572792
-type: way
+type: node
 latitude: 47.40202
 longitude: 8.60105
 postcode: "8600"
 city: Dübendorf
-street: "Hochbordstrasse"
-housenumber: 4
-phone: "+41 44 823 98 11"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-18:00; Su off; PH off"
-website: "https://www.mobitare.ch/"
+street: Hochbordstrasse
+housenumber: "4"
+phone: +41 44 823 98 11
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-18:00; Su off; PH off
+website: https://www.mobitare.ch/

@@ -4,8 +4,8 @@ latitude: 47.37765
 longitude: 9.53954
 postcode: "9450"
 city: Altstätten SG
-street: "Marktgasse"
-housenumber: 21
-phone: "+41 71 755 69 78"
-opening_hours: "Mo 13:30-18:00; Tu-Fr 09:00-11:30,13:30-18:00; Sa 09:00-14:00"
+street: Marktgasse
+housenumber: "21"
+phone: +41 71 755 69 78
+opening_hours: Mo 13:30-18:00; Tu-Fr 09:00-11:30,13:30-18:00; Sa 09:00-14:00
 website: ""

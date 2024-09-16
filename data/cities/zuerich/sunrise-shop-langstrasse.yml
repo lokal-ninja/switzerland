@@ -4,8 +4,8 @@ latitude: 47.38219
 longitude: 8.52933
 postcode: "8005"
 city: Zürich
-street: "Langstrasse"
-housenumber: 191
+street: Langstrasse
+housenumber: "191"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Th 09:00-20:00; Sa 09:00-17:00"
-website: "https://www.sunrise.ch/"
+opening_hours: Mo-Fr 09:00-18:30; Th 09:00-20:00; Sa 09:00-17:00
+website: https://www.sunrise.ch/

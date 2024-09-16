@@ -4,8 +4,8 @@ latitude: 47.04245
 longitude: 8.30619
 postcode: "6003"
 city: Luzern
-street: "Bleicherstrasse"
-housenumber: 12
+street: Bleicherstrasse
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-We 07:00-19:00; Th 07:00-20:00; Fr 07:00-19:00; Sa 07:00-17:00"
-website: "https://www.spar.ch/spar-maerkte/spar-luzern-bleicherstr/"
+opening_hours: Mo-We 07:00-19:00; Th 07:00-20:00; Fr 07:00-19:00; Sa 07:00-17:00
+website: https://www.spar.ch/spar-maerkte/spar-luzern-bleicherstr/

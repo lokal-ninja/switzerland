@@ -1,11 +1,11 @@
 id: 37037045
-type: way
+type: node
 latitude: 47.37386
 longitude: 8.53721
 postcode: "8001"
 city: Zürich
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:00-20:00"
-website: "https://www.jelmoli.ch/standorte/bahnhofstrasse"
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:00-20:00
+website: https://www.jelmoli.ch/standorte/bahnhofstrasse

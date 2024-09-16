@@ -4,8 +4,8 @@ latitude: 47.32689
 longitude: 8.5751
 postcode: "8700"
 city: Küsnacht
-street: "Seestrasse"
-housenumber: 39
+street: Seestrasse
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-18:00"
-website: "https://www.jumbo.ch/de/standorte/s/2252_POS"
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-18:00
+website: https://www.jumbo.ch/de/standorte/s/2252_POS

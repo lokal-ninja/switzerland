@@ -1,11 +1,11 @@
 id: 93015134
-type: way
+type: node
 latitude: 47.3546
 longitude: 8.45095
 postcode: "8903"
 city: Birmensdorf (ZH)
-street: "Stallikonerstrasse"
-housenumber: 85
+street: Stallikonerstrasse
+housenumber: "85"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.65609
 longitude: 7.06425
 postcode: "1633"
 city: Marsens
-street: "Route des Bugnons"
-housenumber: 2
-phone: "+41 26 915 28 42"
-opening_hours: "Mo-Sa 06:45-12:00,16:00-19:00; Su 06:45-11:30,17:00-19:00"
-website: "https://www.fromagerie-de-marsens.ch/"
+street: Route des Bugnons
+housenumber: "2"
+phone: +41 26 915 28 42
+opening_hours: Mo-Sa 06:45-12:00,16:00-19:00; Su 06:45-11:30,17:00-19:00
+website: https://www.fromagerie-de-marsens.ch/

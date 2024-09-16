@@ -4,8 +4,8 @@ latitude: 47.21143
 longitude: 7.52729
 postcode: "4500"
 city: Solothurn
-street: "Weissensteinstrasse"
-housenumber: 21
+street: Weissensteinstrasse
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Th 08:30-21:00; Sa 08:00-18:00"
-website: "https://www.jumbo.ch/de/filialen/jumbo-solothurn"
+opening_hours: Mo-Fr 08:30-18:30; Th 08:30-21:00; Sa 08:00-18:00
+website: https://www.jumbo.ch/de/filialen/jumbo-solothurn

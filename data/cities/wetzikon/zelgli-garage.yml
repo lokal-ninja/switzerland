@@ -1,11 +1,11 @@
 id: 251328839
-type: way
+type: node
 latitude: 47.3294
 longitude: 8.81399
 postcode: "8623"
 city: Wetzikon
-street: "Hinwilerstrasse"
-housenumber: 53
+street: Hinwilerstrasse
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.56101
 longitude: 8.15641
 postcode: "5276"
 city: Wil
-street: "Kapellenstrasse"
-housenumber: 61
-phone: "+41 62 875 00 66"
-opening_hours: "nach Vereinbarung oder auf gut Glück beim Weingut"
-website: "http://www.ni-ro.ch/"
+street: Kapellenstrasse
+housenumber: "61"
+phone: +41 62 875 00 66
+opening_hours: '"nach Vereinbarung oder auf gut Glück beim Weingut"'
+website: http://www.ni-ro.ch/

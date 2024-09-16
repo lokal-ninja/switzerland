@@ -4,8 +4,8 @@ latitude: 47.2062
 longitude: 8.69845
 postcode: "8805"
 city: Richterswil
-street: "Steingass"
-housenumber: 1
+street: Steingass
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://kaeseundwein.ch"
+website: https://kaeseundwein.ch

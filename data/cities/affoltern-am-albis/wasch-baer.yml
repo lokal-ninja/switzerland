@@ -4,8 +4,9 @@ latitude: 47.28089
 longitude: 8.45387
 postcode: "8910"
 city: Affoltern am Albis
-street: "Zürichstrasse"
-housenumber: 133
-phone: "+41 44 760 11 43"
-opening_hours: "Mo-We 08:30-12:00,14:00-18:00; Th 08:30-12:00; Fr 08:30-12:00,14:00-18:00; Sa 08:30-12:00; Su off; PH off"
-website: "https://www.wasch-baer.ch/"
+street: Zürichstrasse
+housenumber: "133"
+phone: +41 44 760 11 43
+opening_hours: Mo-We 08:30-12:00,14:00-18:00; Th 08:30-12:00; Fr 08:30-12:00,14:00-18:00;
+    Sa 08:30-12:00; Su off; PH off
+website: https://www.wasch-baer.ch/

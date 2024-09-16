@@ -4,8 +4,8 @@ latitude: 47.48274
 longitude: 8.45328
 postcode: "8157"
 city: Dielsdorf
-street: "Wehntalerstrasse"
-housenumber: 28
-phone: "+41 44 853 13 44"
-opening_hours: "Tu-Fr 08:00-12:00,13:30-18:30; Sa 08:00-16:00"
-website: "https://www.2-rad-jackmueller.ch/"
+street: Wehntalerstrasse
+housenumber: "28"
+phone: +41 44 853 13 44
+opening_hours: Tu-Fr 08:00-12:00,13:30-18:30; Sa 08:00-16:00
+website: https://www.2-rad-jackmueller.ch/

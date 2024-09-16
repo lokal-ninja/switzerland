@@ -4,8 +4,8 @@ latitude: 46.45976
 longitude: 6.84308
 postcode: "1800"
 city: Vevey
-street: "Grande Place"
-housenumber: 2
-phone: "+41 21 921 13 93"
-opening_hours: "Mo-Fr 09:00-12:00,13:30-18:30; Sa 09:00-17:00"
-website: "https://cyclescolin.ch"
+street: Grande Place
+housenumber: "2"
+phone: +41 21 921 13 93
+opening_hours: Mo-Fr 09:00-12:00,13:30-18:30; Sa 09:00-17:00
+website: https://cyclescolin.ch

@@ -4,8 +4,8 @@ latitude: 47.37484
 longitude: 8.53747
 postcode: "8001"
 city: Zürich
-street: "Gerbergasse"
-housenumber: 2
+street: Gerbergasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.c-and-a.com/ch/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.c-and-a.com/ch/

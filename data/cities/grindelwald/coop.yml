@@ -4,8 +4,8 @@ latitude: 46.6242
 longitude: 8.03521
 postcode: "3818"
 city: Grindelwald
-street: "Dorfstrasse"
-housenumber: 101
-phone: "+41 33 225 39 40"
-opening_hours: "Mo-Su 08:00-19:00"
-website: "https://www.coop.ch/"
+street: Dorfstrasse
+housenumber: "101"
+phone: +41 33 225 39 40
+opening_hours: Mo-Su 08:00-19:00
+website: https://www.coop.ch/

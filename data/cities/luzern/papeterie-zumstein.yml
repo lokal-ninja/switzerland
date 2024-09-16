@@ -4,8 +4,8 @@ latitude: 47.05066
 longitude: 8.30376
 postcode: "6003"
 city: Luzern
-street: "Krongasse"
-housenumber: 8
+street: Krongasse
+housenumber: "8"
 phone: "+41412101555"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.zumstein.ch/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.zumstein.ch/

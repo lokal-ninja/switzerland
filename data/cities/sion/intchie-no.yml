@@ -4,8 +4,8 @@ latitude: 46.23541
 longitude: 7.36067
 postcode: "1950"
 city: Sion
-street: "Rue du Grand-Pont"
-housenumber: 46
-phone: "+41 27 558 90 88"
-opening_hours: "Mo-Th 09:00-19:00; Fr 08:00-19:00; Sa 09:00-17:00"
-website: "https://intchieno.ch/fr"
+street: Rue du Grand-Pont
+housenumber: "46"
+phone: +41 27 558 90 88
+opening_hours: Mo-Th 09:00-19:00; Fr 08:00-19:00; Sa 09:00-17:00
+website: https://intchieno.ch/fr

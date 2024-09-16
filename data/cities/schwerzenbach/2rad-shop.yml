@@ -1,11 +1,11 @@
 id: 49679548
-type: way
+type: node
 latitude: 47.37993
 longitude: 8.65237
 postcode: "8603"
 city: Schwerzenbach
-street: "Greifenseestrasse"
+street: Greifenseestrasse
 housenumber: 1a
-phone: "+41 44 825 44 70"
-opening_hours: "Tu-Fr 09:00-12:00,13:30-18:30; Sa 09:00-14:00; Mo off"
-website: "https://2rad-shop.ch/"
+phone: +41 44 825 44 70
+opening_hours: Tu-Fr 09:00-12:00,13:30-18:30; Sa 09:00-14:00; Mo off
+website: https://2rad-shop.ch/

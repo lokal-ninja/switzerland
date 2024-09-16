@@ -4,8 +4,8 @@ latitude: 47.40418
 longitude: 8.5572
 postcode: "8051"
 city: Zürich
-street: "Ueberlandstrasse"
-housenumber: 14
-phone: "+41 789389090"
-opening_hours: "temporaryly closed"
+street: Ueberlandstrasse
+housenumber: "14"
+phone: +41 789389090
+opening_hours: '"temporaryly closed"'
 website: ""

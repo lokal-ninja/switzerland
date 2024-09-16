@@ -4,8 +4,8 @@ latitude: 47.12925
 longitude: 8.74696
 postcode: "8840"
 city: Einsiedeln
-street: "Eisenbahnstrasse"
-housenumber: 7
-phone: "+41 55 412 52 42"
-opening_hours: "Tu 14:00-17:00; We-Fr 09:00-11:45,14:00-18:30; Sa 09:00-15:30"
-website: "https://moebel-kaelin.ch"
+street: Eisenbahnstrasse
+housenumber: "7"
+phone: +41 55 412 52 42
+opening_hours: Tu 14:00-17:00; We-Fr 09:00-11:45,14:00-18:30; Sa 09:00-15:30
+website: https://moebel-kaelin.ch

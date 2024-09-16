@@ -1,11 +1,11 @@
 id: 160401536
-type: way
+type: node
 latitude: 47.4067
 longitude: 8.21527
 postcode: "5504"
 city: Othmarsingen
-street: "Bahnhofstrasse"
-housenumber: 16
+street: Bahnhofstrasse
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://www.la-macchia.ch/"
+website: https://www.la-macchia.ch/

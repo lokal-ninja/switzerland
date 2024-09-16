@@ -4,8 +4,8 @@ latitude: 47.01806
 longitude: 7.48804
 postcode: "3322"
 city: Urtenen-Schönbühl
-street: "Bernstrasse"
-housenumber: 79
+street: Bernstrasse
+housenumber: "79"
 phone: ""
-opening_hours: "Mo-Th 09:00-20:00, Fr 09:00-21:00, Sa 08:00-17:00; PH off"
-website: "https://www.moemax.ch/"
+opening_hours: Mo-Th 09:00-20:00, Fr 09:00-21:00, Sa 08:00-17:00; PH off
+website: https://www.moemax.ch/

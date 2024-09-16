@@ -1,11 +1,11 @@
 id: 230421919
-type: way
+type: node
 latitude: 47.24422
 longitude: 7.97213
 postcode: "6260"
 city: Reiden
-street: "Feldstrasse"
-housenumber: 3
+street: Feldstrasse
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

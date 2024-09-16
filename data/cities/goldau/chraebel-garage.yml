@@ -4,8 +4,8 @@ latitude: 47.04538
 longitude: 8.54851
 postcode: "6410"
 city: Goldau
-street: "Sonneggstrasse"
-housenumber: 28
-phone: "+41 41 855 22 55"
-opening_hours: "Mo-Th 07:30-12:00, 13:00-18:00; Fr  07:30-12:00, 13:00-17:00"
-website: "https://chraebel-garage.ch/"
+street: Sonneggstrasse
+housenumber: "28"
+phone: +41 41 855 22 55
+opening_hours: Mo-Th 07:30-12:00, 13:00-18:00; Fr  07:30-12:00, 13:00-17:00
+website: https://chraebel-garage.ch/

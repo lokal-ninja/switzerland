@@ -1,11 +1,11 @@
 id: 53336781
-type: way
+type: node
 latitude: 47.19988
 longitude: 7.57686
 postcode: "4528"
 city: Zuchwil
-street: "Waldeggstrasse"
-housenumber: 2
+street: Waldeggstrasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

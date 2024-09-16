@@ -1,11 +1,11 @@
 id: 275804341
-type: way
+type: node
 latitude: 47.33757
 longitude: 8.86036
 postcode: "8344"
 city: Bäretswil
-street: "Hüttenstrasse"
-housenumber: 32
-phone: "+41 79 817 72 63"
+street: Hüttenstrasse
+housenumber: "32"
+phone: +41 79 817 72 63
 opening_hours: ""
-website: "http://www.hörliiab.ch/"
+website: http://www.hörliiab.ch/

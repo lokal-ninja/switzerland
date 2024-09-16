@@ -4,8 +4,8 @@ latitude: 47.38173
 longitude: 8.53084
 postcode: "8005"
 city: Zürich
-street: "Ackerstrasse"
-housenumber: 3
-phone: "+41 43 818 28 29"
-opening_hours: "Tu-Fr 10:00-17:15; Sa 10:00-16:00"
-website: "https://www.velo-citta.ch/"
+street: Ackerstrasse
+housenumber: "3"
+phone: +41 43 818 28 29
+opening_hours: Tu-Fr 10:00-17:15; Sa 10:00-16:00
+website: https://www.velo-citta.ch/

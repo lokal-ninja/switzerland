@@ -4,8 +4,8 @@ latitude: 47.36995
 longitude: 8.52094
 postcode: "8003"
 city: Zürich
-street: "Birmensdorferstrasse"
-housenumber: 127
+street: Birmensdorferstrasse
+housenumber: "127"
 phone: ""
-opening_hours: "Mo, Tu, Th, Fr 07:30-17:00; We 07:30-18:30; Sa 10:00-16:00"
-website: "https://www.weber-widmer.ch/"
+opening_hours: Mo, Tu, Th, Fr 07:30-17:00; We 07:30-18:30; Sa 10:00-16:00
+website: https://www.weber-widmer.ch/

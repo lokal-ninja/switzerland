@@ -1,11 +1,11 @@
 id: 87761950
-type: way
+type: node
 latitude: 47.10295
 longitude: 8.37627
 postcode: "6037"
 city: Root
-street: "Oberfeld"
-housenumber: 2
+street: Oberfeld
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 98495377
-type: way
+type: node
 latitude: 47.42847
 longitude: 9.62513
 postcode: "9442"
 city: Berneck
-street: "Auerstrasse"
-housenumber: 35
+street: Auerstrasse
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

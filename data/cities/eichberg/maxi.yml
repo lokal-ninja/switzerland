@@ -1,11 +1,11 @@
 id: 294592085
-type: way
+type: node
 latitude: 47.34127
 longitude: 9.53105
 postcode: "9453"
 city: Eichberg
-street: "Oberrieterstrasse"
-housenumber: 24
+street: Oberrieterstrasse
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

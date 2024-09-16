@@ -4,8 +4,8 @@ latitude: 47.05245
 longitude: 8.30659
 postcode: "6004"
 city: Luzern
-street: "Kapellgasse"
-housenumber: 18
+street: Kapellgasse
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.beldona.com/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.beldona.com/

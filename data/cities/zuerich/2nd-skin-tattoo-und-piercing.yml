@@ -4,8 +4,8 @@ latitude: 47.40915
 longitude: 8.54567
 postcode: "8050"
 city: Zürich
-street: "Edisonstrasse"
-housenumber: 4
-phone: "+41 44 313 02 02"
-opening_hours: "Mo-Fr 12:00-19:00; Sa 12:00-17:00"
-website: "https://2ndskn.com/shops/oerlikon"
+street: Edisonstrasse
+housenumber: "4"
+phone: +41 44 313 02 02
+opening_hours: Mo-Fr 12:00-19:00; Sa 12:00-17:00
+website: https://2ndskn.com/shops/oerlikon

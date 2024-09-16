@@ -4,8 +4,8 @@ latitude: 47.22954
 longitude: 8.67038
 postcode: "8820"
 city: Wädenswil
-street: "Zugerstrasse"
-housenumber: 23
-phone: "+41 44 680 26 10"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "https://www.buchparadies.ch/"
+street: Zugerstrasse
+housenumber: "23"
+phone: +41 44 680 26 10
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
+website: https://www.buchparadies.ch/

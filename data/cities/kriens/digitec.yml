@@ -4,8 +4,9 @@ latitude: 47.02942
 longitude: 8.29761
 postcode: "6010"
 city: Kriens
-street: "Nidfeldstrasse"
-housenumber: 5
+street: Nidfeldstrasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Tu 09:30-18:30; We 09:30-20:00; Th 09:30-18:30; Fr 09:30-20:00; Sa 09:00-16:00"
-website: "https://www.digitec.ch/"
+opening_hours: Mo-Tu 09:30-18:30; We 09:30-20:00; Th 09:30-18:30; Fr 09:30-20:00;
+    Sa 09:00-16:00
+website: https://www.digitec.ch/

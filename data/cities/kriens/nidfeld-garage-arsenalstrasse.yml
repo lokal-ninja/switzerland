@@ -1,11 +1,11 @@
 id: 96651283
-type: way
+type: node
 latitude: 47.0355
 longitude: 8.29645
 postcode: "6010"
 city: Kriens
-street: "Arsenalstrasse"
-housenumber: 35
+street: Arsenalstrasse
+housenumber: "35"
 phone: "+41413109181"
-opening_hours: "Mo-Th 07:30-12:00,13:30-17:45; Fr 07:30-12:00,13:30-17:00; Sa 08:00-12:00"
-website: "https://www.windlin.ch/"
+opening_hours: Mo-Th 07:30-12:00,13:30-17:45; Fr 07:30-12:00,13:30-17:00; Sa 08:00-12:00
+website: https://www.windlin.ch/

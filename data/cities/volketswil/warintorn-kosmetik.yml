@@ -4,8 +4,8 @@ latitude: 47.38713
 longitude: 8.66434
 postcode: "8604"
 city: Volketswil
-street: "Riedstrasse"
-housenumber: 30
+street: Riedstrasse
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Su 09:00-19:00"
-website: "https://www.google.com/maps?q=Warintorn+Kosmetik,+Riedstrasse+30,+8604+Volketswil&ftid=0x479aa3c89c386efb:0x125ec7018e556ac0&hl=de-CH&gl=ch&shorturl=1"
+opening_hours: Mo-Su 09:00-19:00
+website: https://www.google.com/maps?q=Warintorn+Kosmetik,+Riedstrasse+30,+8604+Volketswil&ftid=0x479aa3c89c386efb:0x125ec7018e556ac0&hl=de-CH&gl=ch&shorturl=1

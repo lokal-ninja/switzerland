@@ -4,8 +4,8 @@ latitude: 46.80495
 longitude: 8.65931
 postcode: "6472"
 city: Erstfeld
-street: "Wilerstrasse"
-housenumber: 67
+street: Wilerstrasse
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://www.bielenhof.ch/"
+opening_hours: Mo-Su 08:00-20:00
+website: https://www.bielenhof.ch/

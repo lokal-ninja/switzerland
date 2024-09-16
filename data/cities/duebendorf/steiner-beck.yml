@@ -4,8 +4,8 @@ latitude: 47.40119
 longitude: 8.62508
 postcode: "8600"
 city: Dübendorf
-street: "Wangenstrasse"
-housenumber: 13
+street: Wangenstrasse
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:30; Sa 06:00-16:00"
-website: "https://www.steiner-beck.ch/filialen/duebendorf/"
+opening_hours: Mo-Fr 05:30-18:30; Sa 06:00-16:00
+website: https://www.steiner-beck.ch/filialen/duebendorf/

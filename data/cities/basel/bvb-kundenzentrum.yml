@@ -4,8 +4,8 @@ latitude: 47.55481
 longitude: 7.58914
 postcode: "4001"
 city: Basel
-street: "Barfüsserplatz"
-housenumber: 24
-phone: "+41 61 685 14 14"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-17:00"
-website: "https://www.bvb.ch"
+street: Barfüsserplatz
+housenumber: "24"
+phone: +41 61 685 14 14
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-17:00
+website: https://www.bvb.ch

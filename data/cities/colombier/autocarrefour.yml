@@ -1,11 +1,11 @@
 id: 54561500
-type: way
+type: node
 latitude: 46.96764
 longitude: 6.85056
 postcode: "2013"
 city: Colombier
-street: "Avenue de la Gare"
-housenumber: 28
-phone: "+41 32 841 35 70"
+street: Avenue de la Gare
+housenumber: "28"
+phone: +41 32 841 35 70
 opening_hours: ""
 website: ""

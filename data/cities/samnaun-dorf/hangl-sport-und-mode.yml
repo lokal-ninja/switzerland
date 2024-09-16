@@ -1,11 +1,11 @@
 id: 289929657
-type: way
+type: node
 latitude: 46.94425
 longitude: 10.36123
 postcode: "7563"
 city: Samnaun Dorf
-street: "Dorfstrasse"
-housenumber: 10
+street: Dorfstrasse
+housenumber: "10"
 phone: "+41818619334"
-opening_hours: "Mo-Sa 09:00-19:00; Su 10:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00; Su 10:00-19:00
 website: ""

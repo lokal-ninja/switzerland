@@ -4,8 +4,8 @@ latitude: 47.35838
 longitude: 8.49775
 postcode: "8055"
 city: Zürich
-street: "Zielweg"
-housenumber: 69
-phone: "+41 43 333 06 52"
-opening_hours: "Mo-Fr 09:00-17:00 open Abholung"
+street: Zielweg
+housenumber: "69"
+phone: +41 43 333 06 52
+opening_hours: Mo-Fr 09:00-17:00 open "Abholung"
 website: ""

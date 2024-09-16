@@ -1,11 +1,11 @@
 id: 564743566
-type: way
+type: node
 latitude: 47.52087
 longitude: 9.03322
 postcode: "9555"
 city: Tobel
-street: "Mühle"
-housenumber: 1
+street: Mühle
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Th 07:30-12:00, 13:30-18:00; Fr 07:30-12:00, 13:30-16:30; Sa 09:00-12:00"
+opening_hours: Mo-Th 07:30-12:00, 13:30-18:00; Fr 07:30-12:00, 13:30-16:30; Sa 09:00-12:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.95698
 longitude: 7.48428
 postcode: "3072"
 city: Ostermundigen
-street: "Bernstrasse"
-housenumber: 39
+street: Bernstrasse
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-16:00; Su off"
-website: "https://www.rosenkavalier.ch/gesch%C3%A4fte/ostermundigen/"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-16:00; Su off
+website: https://www.rosenkavalier.ch/gesch%C3%A4fte/ostermundigen/

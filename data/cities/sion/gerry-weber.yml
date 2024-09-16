@@ -4,8 +4,8 @@ latitude: 46.22957
 longitude: 7.35821
 postcode: "1950"
 city: Sion
-street: "Avenue de la Gare"
-housenumber: 15
-phone: "+41  27 322 72 73"
-opening_hours: "Mo 13:30-18:30; Tu-Fr 09:00-12:00,13:00-18:30; Sa 09:00-17:00"
-website: "https://www.modebayard.ch/fr/magasin-gerry-weber-sion"
+street: Avenue de la Gare
+housenumber: "15"
+phone: +41  27 322 72 73
+opening_hours: Mo 13:30-18:30; Tu-Fr 09:00-12:00,13:00-18:30; Sa 09:00-17:00
+website: https://www.modebayard.ch/fr/magasin-gerry-weber-sion

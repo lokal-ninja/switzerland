@@ -1,11 +1,11 @@
 id: 262046964
-type: way
+type: node
 latitude: 47.30337
 longitude: 8.83319
 postcode: "8340"
 city: Hinwil
-street: "Überlandstrasse"
-housenumber: 23
+street: Überlandstrasse
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

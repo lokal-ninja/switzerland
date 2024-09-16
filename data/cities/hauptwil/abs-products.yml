@@ -4,8 +4,8 @@ latitude: 47.47932
 longitude: 9.25476
 postcode: "9213"
 city: Hauptwil
-street: "Oberdorfstrasse"
-housenumber: 1
+street: Oberdorfstrasse
+housenumber: "1"
 phone: "+41714224545"
 opening_hours: ""
-website: "https://www.abs-products.ch"
+website: https://www.abs-products.ch

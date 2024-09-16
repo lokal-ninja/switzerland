@@ -4,8 +4,8 @@ latitude: 46.23153
 longitude: 7.36244
 postcode: "1950"
 city: Sion
-street: "Rue du Scex"
-housenumber: 2
+street: Rue du Scex
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 08:30-18:30; Fr 08:30-20:00; Sa 08:00-17:00"
-website: "https://www.coop.ch/"
+opening_hours: Mo-Th 08:30-18:30; Fr 08:30-20:00; Sa 08:00-17:00
+website: https://www.coop.ch/

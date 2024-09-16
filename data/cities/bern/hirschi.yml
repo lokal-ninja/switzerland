@@ -4,8 +4,8 @@ latitude: 46.94397
 longitude: 7.42755
 postcode: "3007"
 city: Bern
-street: "Mattenhofstrasse"
-housenumber: 41
-phone: "+41 31 3814279"
-opening_hours: "Mo-Fr 06:00-19:00; Sa-Su 07:00-14:00"
-website: "https://hirschibeck.ch/"
+street: Mattenhofstrasse
+housenumber: "41"
+phone: +41 31 3814279
+opening_hours: Mo-Fr 06:00-19:00; Sa-Su 07:00-14:00
+website: https://hirschibeck.ch/

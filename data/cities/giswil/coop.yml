@@ -4,8 +4,8 @@ latitude: 46.8376
 longitude: 8.18602
 postcode: "6074"
 city: Giswil
-street: "Brünigstrasse"
-housenumber: 42
+street: Brünigstrasse
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
-website: "https://www.coop.ch/de/standorte/coop-supermarkt-giswil/4956_POS"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00
+website: https://www.coop.ch/de/standorte/coop-supermarkt-giswil/4956_POS

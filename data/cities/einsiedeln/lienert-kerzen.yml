@@ -4,8 +4,8 @@ latitude: 47.12799
 longitude: 8.74927
 postcode: "8840"
 city: Einsiedeln
-street: "Schmiedenstrasse"
-housenumber: 29
-phone: "+41 55 412 15 44"
-opening_hours: "Mo-Fr 09:00-11:45,13:30-18:00; Sa 09:00-11:45,13:30-16:00"
-website: "https://www.lienert-kerzen.ch/"
+street: Schmiedenstrasse
+housenumber: "29"
+phone: +41 55 412 15 44
+opening_hours: Mo-Fr 09:00-11:45,13:30-18:00; Sa 09:00-11:45,13:30-16:00
+website: https://www.lienert-kerzen.ch/

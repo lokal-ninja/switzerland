@@ -4,8 +4,8 @@ latitude: 46.16985
 longitude: 8.79766
 postcode: "6600"
 city: Locarno
-street: "Piazza Grande"
-housenumber: 
+street: Piazza Grande
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:30; Sa 09:00-17:00"
-website: "https://www.tettamanti-arteor.ch/"
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:30; Sa 09:00-17:00
+website: https://www.tettamanti-arteor.ch/

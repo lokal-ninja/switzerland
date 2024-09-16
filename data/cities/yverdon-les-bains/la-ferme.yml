@@ -4,8 +4,8 @@ latitude: 46.77784
 longitude: 6.64297
 postcode: "1400"
 city: Yverdon-les-Bains
-street: "Rue de la Plaine"
-housenumber: 
-phone: "+41 24 425 66 56"
-opening_hours: "Mo 14:00-18:30; Tu-Th 08:30-12:15,13:30-18:30; Fr 08:30-18:30; Sa 08:30-17:00"
-website: "https://lafermeyverdon.ch/"
+street: Rue de la Plaine
+housenumber: ""
+phone: +41 24 425 66 56
+opening_hours: Mo 14:00-18:30; Tu-Th 08:30-12:15,13:30-18:30; Fr 08:30-18:30; Sa 08:30-17:00
+website: https://lafermeyverdon.ch/

@@ -4,8 +4,8 @@ latitude: 46.52342
 longitude: 6.62992
 postcode: "1003"
 city: Lausanne
-street: "Rue Neuve"
-housenumber: 8
-phone: "+41 21 323 12 18"
-opening_hours: "Tu-Fr 09:00-12:00,13:30-18:30; Sa 09:00-17:00"
-website: "https://www.wohnshop-projecto.ch/"
+street: Rue Neuve
+housenumber: "8"
+phone: +41 21 323 12 18
+opening_hours: Tu-Fr 09:00-12:00,13:30-18:30; Sa 09:00-17:00
+website: https://www.wohnshop-projecto.ch/

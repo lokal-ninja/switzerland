@@ -4,8 +4,8 @@ latitude: 46.75719
 longitude: 7.63085
 postcode: "3600"
 city: Thun
-street: "Freienhofgasse"
-housenumber: 5
-phone: "+41 33 222 00 50"
-opening_hours: "Tu-Fr 09:00-12:15,12:45-18:30; Th 09:00-12:15,12:45-20:00; Sa 09:00-17:00"
-website: "https://vanderheijden.ch/"
+street: Freienhofgasse
+housenumber: "5"
+phone: +41 33 222 00 50
+opening_hours: Tu-Fr 09:00-12:15,12:45-18:30; Th 09:00-12:15,12:45-20:00; Sa 09:00-17:00
+website: https://vanderheijden.ch/

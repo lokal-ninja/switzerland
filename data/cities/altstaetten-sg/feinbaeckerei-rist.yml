@@ -4,8 +4,8 @@ latitude: 47.37857
 longitude: 9.54107
 postcode: "9450"
 city: Altstätten SG
-street: "Trogenerstrasse"
-housenumber: 8
-phone: "+41 71 755 11 77"
-opening_hours: "Mo-Fr 05:30-18:30, Sa 05:30-16:00"
-website: "http://www.baeckerei-rist.ch/"
+street: Trogenerstrasse
+housenumber: "8"
+phone: +41 71 755 11 77
+opening_hours: Mo-Fr 05:30-18:30, Sa 05:30-16:00
+website: http://www.baeckerei-rist.ch/

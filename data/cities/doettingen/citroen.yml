@@ -1,11 +1,11 @@
 id: 498399152
-type: way
+type: node
 latitude: 47.55603
 longitude: 8.24931
 postcode: "5312"
 city: Döttingen
-street: "Vorhard"
-housenumber: 20
-phone: "+41 56 268 80 90"
+street: Vorhard
+housenumber: "20"
+phone: +41 56 268 80 90
 opening_hours: ""
 website: ""

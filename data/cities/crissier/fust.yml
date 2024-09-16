@@ -1,11 +1,11 @@
 id: 88411543
-type: way
+type: node
 latitude: 46.54839
 longitude: 6.56734
 postcode: ""
 city: Crissier
-street: "Rue de Morges"
-housenumber: 17
+street: Rue de Morges
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

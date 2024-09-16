@@ -1,11 +1,12 @@
 id: 51176138
-type: way
+type: node
 latitude: 46.90454
 longitude: 6.4833
 postcode: "2126"
 city: Les Verrières
-street: "Grand-Bourgeau"
-housenumber: 
+street: Grand-Bourgeau
+housenumber: ""
 phone: ""
-opening_hours: "Mo-We 06:00-12:00, 14:00-18:30; Th 06:00-12:00; Fr 6:00-12:00, 14:00-18:30; Sa-Su 06:00-12:00; "
+opening_hours: 'Mo-We 06:00-12:00, 14:00-18:30; Th 06:00-12:00; Fr 6:00-12:00, 14:00-18:30;
+    Sa-Su 06:00-12:00; '
 website: ""

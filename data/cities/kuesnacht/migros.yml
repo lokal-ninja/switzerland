@@ -4,8 +4,8 @@ latitude: 47.31846
 longitude: 8.58197
 postcode: "8700"
 city: Küsnacht
-street: "Zürichstrasse"
-housenumber: 149
-phone: "+41 44 914 20 80"
-opening_hours: "Mo-Sa 07:30-20:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-kuesnacht-zh"
+street: Zürichstrasse
+housenumber: "149"
+phone: +41 44 914 20 80
+opening_hours: Mo-Sa 07:30-20:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-kuesnacht-zh

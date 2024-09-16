@@ -1,11 +1,11 @@
 id: 597917303
-type: way
+type: node
 latitude: 47.64628
 longitude: 9.1854
 postcode: "8280"
 city: Kreuzlingen
-street: "Seetalstrasse"
-housenumber: 31
+street: Seetalstrasse
+housenumber: "31"
 phone: "+41716868530"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://www.tds-velo.ch/"
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://www.tds-velo.ch/

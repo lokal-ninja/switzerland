@@ -4,8 +4,8 @@ latitude: 46.45818
 longitude: 6.33894
 postcode: "1180"
 city: Rolle
-street: "Grand-Rue"
-housenumber: 25
-phone: "+41 76 616 81 24"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "https://www.ilbiolocale.ch/"
+street: Grand-Rue
+housenumber: "25"
+phone: +41 76 616 81 24
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
+website: https://www.ilbiolocale.ch/

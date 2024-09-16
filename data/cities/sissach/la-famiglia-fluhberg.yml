@@ -4,8 +4,9 @@ latitude: 47.47567
 longitude: 7.8143
 postcode: "4450"
 city: Sissach
-street: "Fluhberg"
-housenumber: 19
-phone: "+41 61 971 83 91"
-opening_hours: "Bure Märt Sissach: Fr. 7.45 - 11.00 Uhr. Bauernmarkt Liestal: Sa. 8.00 - 13.00 Uhr. Ab Hof: Mo.-Fr. nach Vereinbarung, Sa. 9.00-13.00 Uhr."
-website: "https://www.lafamiglia-fluhberg.ch/"
+street: Fluhberg
+housenumber: "19"
+phone: +41 61 971 83 91
+opening_hours: 'Bure Märt Sissach: Fr. 7.45 - 11.00 Uhr. Bauernmarkt Liestal: Sa.
+    8.00 - 13.00 Uhr. Ab Hof: Mo.-Fr. nach Vereinbarung, Sa. 9.00-13.00 Uhr.'
+website: https://www.lafamiglia-fluhberg.ch/

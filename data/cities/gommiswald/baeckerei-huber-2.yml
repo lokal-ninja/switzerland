@@ -1,11 +1,11 @@
 id: 1105971194
-type: way
+type: node
 latitude: 47.23138
 longitude: 9.02335
 postcode: "8737"
 city: Gommiswald
 street: ""
-housenumber: 6
-phone: "+41 55 280 49 72"
-opening_hours: "Mo-Fr 06:00-12:15,13:30-18:30; Sa 06:00-16:00"
-website: "https://www.beck-huber.ch/"
+housenumber: "6"
+phone: +41 55 280 49 72
+opening_hours: Mo-Fr 06:00-12:15,13:30-18:30; Sa 06:00-16:00
+website: https://www.beck-huber.ch/

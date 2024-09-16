@@ -1,11 +1,11 @@
 id: 239568908
-type: way
+type: node
 latitude: 47.19654
 longitude: 7.78883
 postcode: "4932"
 city: Lotzwil
-street: "Langenthalstrasse"
-housenumber: 62
+street: Langenthalstrasse
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

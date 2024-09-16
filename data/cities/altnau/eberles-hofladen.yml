@@ -1,11 +1,11 @@
 id: 234922584
-type: way
+type: node
 latitude: 47.60703
 longitude: 9.25822
 postcode: "8595"
 city: Altnau
-street: "Riggenloostrasse"
-housenumber: 1
+street: Riggenloostrasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.eberles-hofladen.ch/"
+website: https://www.eberles-hofladen.ch/

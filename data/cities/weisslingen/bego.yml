@@ -4,8 +4,8 @@ latitude: 47.43235
 longitude: 8.76332
 postcode: "8484"
 city: Weisslingen
-street: "Dorfstrasse"
-housenumber: 32
-phone: "+41 52 384 11 89"
-opening_hours: "Tu-Fr 08:00-19:00; Sa 07:30-14:00"
-website: "http://www.coiffeur-bego.ch/"
+street: Dorfstrasse
+housenumber: "32"
+phone: +41 52 384 11 89
+opening_hours: Tu-Fr 08:00-19:00; Sa 07:30-14:00
+website: http://www.coiffeur-bego.ch/

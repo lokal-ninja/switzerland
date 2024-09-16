@@ -4,8 +4,8 @@ latitude: 47.25339
 longitude: 8.18333
 postcode: "5734"
 city: Reinach AG
-street: "Neudorfstrasse"
-housenumber: 2
-phone: "+41 62 771 31 73"
-opening_hours: "Mo 13:30-18:30; Tu-Fr 08:30-12:00 ,13:30-18:30; Sa 09:00-16:00"
+street: Neudorfstrasse
+housenumber: "2"
+phone: +41 62 771 31 73
+opening_hours: Mo 13:30-18:30; Tu-Fr 08:30-12:00 ,13:30-18:30; Sa 09:00-16:00
 website: ""

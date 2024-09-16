@@ -1,11 +1,11 @@
 id: 99408809
-type: way
+type: node
 latitude: 46.2969
 longitude: 6.99585
 postcode: "1867"
 city: Ollon VD
-street: "Rue Demesse"
-housenumber: 18
-phone: "+41 24 499 12 16"
-opening_hours: "Tu-Fr 07:30-12:15,15:00-18:30; Sa 07:30-12:15,13:30-16:00"
+street: Rue Demesse
+housenumber: "18"
+phone: +41 24 499 12 16
+opening_hours: Tu-Fr 07:30-12:15,15:00-18:30; Sa 07:30-12:15,13:30-16:00
 website: ""

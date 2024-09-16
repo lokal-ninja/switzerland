@@ -1,11 +1,11 @@
 id: 114132949
-type: way
+type: node
 latitude: 47.51058
 longitude: 8.7607
 postcode: "8404"
 city: Winterthur
-street: "Hegmattenstrasse"
-housenumber: 3
-phone: "+41 52 244 77 77"
+street: Hegmattenstrasse
+housenumber: "3"
+phone: +41 52 244 77 77
 opening_hours: ""
-website: "https://www.hutterdynamics.ch/"
+website: https://www.hutterdynamics.ch/

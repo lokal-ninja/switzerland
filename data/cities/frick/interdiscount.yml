@@ -4,8 +4,8 @@ latitude: 47.50873
 longitude: 8.01901
 postcode: "5070"
 city: Frick
-street: "Hauptstrasse"
-housenumber: 37
+street: Hauptstrasse
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Th 08:00-19:00, Fr 08:00-20:00, Sa 08:00-18:00"
-website: "https://www.interdiscount.ch/"
+opening_hours: Mo-Th 08:00-19:00, Fr 08:00-20:00, Sa 08:00-18:00
+website: https://www.interdiscount.ch/

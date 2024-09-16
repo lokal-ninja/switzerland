@@ -4,8 +4,8 @@ latitude: 46.95472
 longitude: 7.54789
 postcode: "3067"
 city: Boll
-street: "Kernstrasse"
-housenumber: 9
-phone: "+41 58 567 69 80"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00; PH off"
-website: "https://www.voi-migrospartner.ch/de-CH/filialen#voi-voi-boll"
+street: Kernstrasse
+housenumber: "9"
+phone: +41 58 567 69 80
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00; PH off
+website: https://www.voi-migrospartner.ch/de-CH/filialen#voi-voi-boll

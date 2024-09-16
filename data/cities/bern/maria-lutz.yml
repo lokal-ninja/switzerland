@@ -4,8 +4,8 @@ latitude: 46.94902
 longitude: 7.44916
 postcode: "3011"
 city: Bern
-street: "Brunngasse"
-housenumber: 44
-phone: "+41 31 311 17 05"
-opening_hours: "Mo off; Tu-Fr 11:00-18:30; Sa 11:00-16:00; Su off; PH off"
-website: "https://www.marialutz.ch/"
+street: Brunngasse
+housenumber: "44"
+phone: +41 31 311 17 05
+opening_hours: Mo off; Tu-Fr 11:00-18:30; Sa 11:00-16:00; Su off; PH off
+website: https://www.marialutz.ch/

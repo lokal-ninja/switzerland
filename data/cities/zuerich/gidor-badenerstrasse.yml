@@ -4,8 +4,8 @@ latitude: 47.38803
 longitude: 8.48597
 postcode: "8048"
 city: Zürich
-street: "Badenerstrasse"
-housenumber: 676
+street: Badenerstrasse
+housenumber: "676"
 phone: ""
-opening_hours: "Mo-Th 08:00-18:30; Fr 08:00-20:00; Sa 08:00-17:00"
-website: "https://www.gidor.ch/filiale/zuerich-altstetten/"
+opening_hours: Mo-Th 08:00-18:30; Fr 08:00-20:00; Sa 08:00-17:00
+website: https://www.gidor.ch/filiale/zuerich-altstetten/

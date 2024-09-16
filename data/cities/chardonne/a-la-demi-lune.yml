@@ -1,11 +1,11 @@
 id: 358924217
-type: way
+type: node
 latitude: 46.4768
 longitude: 6.82963
 postcode: ""
 city: Chardonne
-street: "Rue du Village"
-housenumber: 7
+street: Rue du Village
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

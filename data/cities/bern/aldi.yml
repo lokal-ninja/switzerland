@@ -4,8 +4,8 @@ latitude: 46.94
 longitude: 7.4409
 postcode: "3007"
 city: Bern
-street: "Eigerstrasse"
-housenumber: 82
+street: Eigerstrasse
+housenumber: "82"
 phone: ""
-opening_hours: "Mo-Fr 07:30-20:00; Sa 07:30-17:00"
-website: "https://www.aldi-suisse.ch"
+opening_hours: Mo-Fr 07:30-20:00; Sa 07:30-17:00
+website: https://www.aldi-suisse.ch

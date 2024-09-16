@@ -1,11 +1,11 @@
 id: 204887110
-type: way
+type: node
 latitude: 47.42074
 longitude: 8.508
 postcode: "8046"
 city: Zürich
-street: "In Böden"
-housenumber: 174
+street: In Böden
+housenumber: "174"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

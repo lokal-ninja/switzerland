@@ -4,8 +4,8 @@ latitude: 47.37179
 longitude: 8.54343
 postcode: "8001"
 city: Zürich
-street: "Marktgasse"
-housenumber: 8
+street: Marktgasse
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://feinedinge.ch"
+website: https://feinedinge.ch

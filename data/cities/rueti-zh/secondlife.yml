@@ -1,11 +1,11 @@
 id: 245897688
-type: way
+type: node
 latitude: 47.25983
 longitude: 8.8541
 postcode: "8630"
 city: Rüti (ZH)
-street: "Dorfstrasse"
-housenumber: 54
+street: Dorfstrasse
+housenumber: "54"
 phone: ""
-opening_hours: "Th,Fr 10:30-17:30; Sa 10:30-15:00"
+opening_hours: Th,Fr 10:30-17:30; Sa 10:30-15:00
 website: ""

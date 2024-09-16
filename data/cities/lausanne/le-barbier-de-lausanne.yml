@@ -4,8 +4,8 @@ latitude: 46.52014
 longitude: 6.63724
 postcode: "1003"
 city: Lausanne
-street: "Rue Jenny Enning"
-housenumber: 1
-phone: "+41 78 916 10 46"
-opening_hours: "Mo-Fr 08:30-19:30; Sa 08:00-18:30"
-website: "https://www.lebarbier-de-lausanne.ch/"
+street: Rue Jenny Enning
+housenumber: "1"
+phone: +41 78 916 10 46
+opening_hours: Mo-Fr 08:30-19:30; Sa 08:00-18:30
+website: https://www.lebarbier-de-lausanne.ch/

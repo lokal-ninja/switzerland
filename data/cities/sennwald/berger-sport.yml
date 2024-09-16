@@ -4,8 +4,8 @@ latitude: 47.25808
 longitude: 9.49911
 postcode: "9466"
 city: Sennwald
-street: "Neudorf"
-housenumber: 
+street: Neudorf
+housenumber: ""
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 07:30-12:00,13:00-18:00; We 07:30-12:00; Sa 08:00-12:00"
-website: "http://bergersport.ch"
+opening_hours: Mo,Tu,Th,Fr 07:30-12:00,13:00-18:00; We 07:30-12:00; Sa 08:00-12:00
+website: http://bergersport.ch

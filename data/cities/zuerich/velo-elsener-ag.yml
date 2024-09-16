@@ -4,8 +4,8 @@ latitude: 47.3637
 longitude: 8.54881
 postcode: "8008"
 city: Zürich
-street: "Seefeldstrasse"
-housenumber: 24
-phone: "+41 44 261 51 51"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://velo-elsener.ch/"
+street: Seefeldstrasse
+housenumber: "24"
+phone: +41 44 261 51 51
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://velo-elsener.ch/

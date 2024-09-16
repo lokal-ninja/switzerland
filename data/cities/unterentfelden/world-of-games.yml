@@ -4,8 +4,8 @@ latitude: 47.36028
 longitude: 8.05188
 postcode: "5035"
 city: Unterentfelden
-street: "Schinhuetweg"
-housenumber: 3
+street: Schinhuetweg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-We,Fr 09:00-18:30; Th 09:00-20:00; Sa 09:00-17:00; PH closed"
-website: "https://www.wog.ch"
+opening_hours: Mo-We,Fr 09:00-18:30; Th 09:00-20:00; Sa 09:00-17:00; PH closed
+website: https://www.wog.ch

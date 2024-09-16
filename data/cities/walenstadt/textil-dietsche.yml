@@ -1,11 +1,11 @@
 id: 70295782
-type: way
+type: node
 latitude: 47.12324
 longitude: 9.31406
 postcode: "8880"
 city: Walenstadt
-street: "Bahnhofstrasse"
-housenumber: 14
+street: Bahnhofstrasse
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.textildietsche.ch/"
+website: https://www.textildietsche.ch/

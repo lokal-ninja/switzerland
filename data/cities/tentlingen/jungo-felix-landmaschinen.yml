@@ -1,11 +1,11 @@
 id: 188210137
-type: way
+type: node
 latitude: 46.76237
 longitude: 7.1974
 postcode: "1734"
 city: Tentlingen
-street: "Ärgerastrasse"
-housenumber: 6
-phone: "+41 26 418 25 24"
+street: Ärgerastrasse
+housenumber: "6"
+phone: +41 26 418 25 24
 opening_hours: ""
-website: "https://www.jungofelix.ch"
+website: https://www.jungofelix.ch

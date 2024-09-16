@@ -4,8 +4,8 @@ latitude: 47.49946
 longitude: 8.72626
 postcode: "8400"
 city: Winterthur
-street: "Untertor"
-housenumber: 2
-phone: "+41 52 511 12 55"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
+street: Untertor
+housenumber: "2"
+phone: +41 52 511 12 55
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.3605
 longitude: 8.52651
 postcode: "8002"
 city: Zürich
-street: "Schulhausstrasse"
-housenumber: 58
-phone: "+41 44 202 1626"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.mhaithai-massage.ch/"
+street: Schulhausstrasse
+housenumber: "58"
+phone: +41 44 202 1626
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.mhaithai-massage.ch/

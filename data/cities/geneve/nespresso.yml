@@ -4,8 +4,8 @@ latitude: 46.20304
 longitude: 6.14691
 postcode: "1204"
 city: Genève
-street: "Rue du Marché (les Rues Basses)"
-housenumber: 26
-phone: "+41 800 55 52 53"
-opening_hours: "Mo-Fr 09:00-19:00; Th 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.nespresso.com/ch/"
+street: Rue du Marché (les Rues Basses)
+housenumber: "26"
+phone: +41 800 55 52 53
+opening_hours: Mo-Fr 09:00-19:00; Th 09:00-20:00; Sa 09:00-18:00
+website: https://www.nespresso.com/ch/

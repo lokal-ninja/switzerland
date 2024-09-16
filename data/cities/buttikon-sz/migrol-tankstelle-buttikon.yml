@@ -4,8 +4,8 @@ latitude: 47.17293
 longitude: 8.95898
 postcode: "8863"
 city: Buttikon SZ
-street: "Kantonsstrasse"
-housenumber: 112
+street: Kantonsstrasse
+housenumber: "112"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.migrol.ch/de/"
+opening_hours: 24/7
+website: https://www.migrol.ch/de/

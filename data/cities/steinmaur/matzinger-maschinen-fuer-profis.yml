@@ -1,11 +1,11 @@
 id: 495739939
-type: way
+type: node
 latitude: 47.48739
 longitude: 8.44499
 postcode: "8162"
 city: Steinmaur
-street: "Rorstrasse"
-housenumber: 11
-phone: "+41 44 853 01 92"
-opening_hours: "Mo-Fr 07:00-12:00,13:00-17:00; Sa 08:00-12:00,13:00-15:00"
-website: "https://www.matzinger-maschinen.ch/"
+street: Rorstrasse
+housenumber: "11"
+phone: +41 44 853 01 92
+opening_hours: Mo-Fr 07:00-12:00,13:00-17:00; Sa 08:00-12:00,13:00-15:00
+website: https://www.matzinger-maschinen.ch/

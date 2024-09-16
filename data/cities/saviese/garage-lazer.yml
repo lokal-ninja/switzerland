@@ -4,8 +4,8 @@ latitude: 46.24292
 longitude: 7.34292
 postcode: "1965"
 city: Savièse
-street: "Route de Savièse"
-housenumber: 13
-phone: "+41 27 395 31 31"
-opening_hours: "Mo-Th 07:30-12:00,13:30-17:30; Fr 07:30-12:00,13:30-17:00"
-website: "https://garage-lazer.ch/"
+street: Route de Savièse
+housenumber: "13"
+phone: +41 27 395 31 31
+opening_hours: Mo-Th 07:30-12:00,13:30-17:30; Fr 07:30-12:00,13:30-17:00
+website: https://garage-lazer.ch/

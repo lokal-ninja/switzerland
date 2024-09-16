@@ -4,8 +4,8 @@ latitude: 47.10782
 longitude: 8.08401
 postcode: "6018"
 city: Buttisholz
-street: "Guglern"
-housenumber: 16
-phone: "+41 41 928 11 43"
-opening_hours: "Mo-Th 07:00-19:00; Fr 07:00-20:00; Sa 07:00-17:00; PH off"
-website: "https://www.spar.ch/standorte/detail/bucher-ernst"
+street: Guglern
+housenumber: "16"
+phone: +41 41 928 11 43
+opening_hours: Mo-Th 07:00-19:00; Fr 07:00-20:00; Sa 07:00-17:00; PH off
+website: https://www.spar.ch/standorte/detail/bucher-ernst

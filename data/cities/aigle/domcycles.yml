@@ -1,11 +1,11 @@
 id: 47122824
-type: way
+type: node
 latitude: 46.31766
 longitude: 6.95719
 postcode: "1860"
 city: Aigle
-street: "Chemin du Sillon"
-housenumber: 2
+street: Chemin du Sillon
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

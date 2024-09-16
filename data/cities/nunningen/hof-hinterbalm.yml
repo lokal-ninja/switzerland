@@ -4,8 +4,8 @@ latitude: 47.41106
 longitude: 7.60385
 postcode: "4208"
 city: Nunningen
-street: "Hof Hinterbalm"
-housenumber: 1
-phone: "+41 77 479 75 12"
-opening_hours: "Bitte vorher telefonisch kontaktieren."
+street: Hof Hinterbalm
+housenumber: "1"
+phone: +41 77 479 75 12
+opening_hours: '"Bitte vorher telefonisch kontaktieren."'
 website: ""

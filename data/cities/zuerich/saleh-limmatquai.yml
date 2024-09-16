@@ -4,8 +4,8 @@ latitude: 47.37507
 longitude: 8.54343
 postcode: "8001"
 city: Zürich
-street: "Limmatquai"
-housenumber: 108
+street: Limmatquai
+housenumber: "108"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:30-17:00"
-website: "https://coiffeur-saleh.ch/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:30-17:00
+website: https://coiffeur-saleh.ch/

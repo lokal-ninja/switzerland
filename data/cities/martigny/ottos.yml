@@ -1,11 +1,11 @@
 id: 193772355
-type: way
+type: node
 latitude: 46.10831
 longitude: 7.08823
 postcode: "1920"
 city: Martigny
-street: "Rue du Simplon"
-housenumber: 45
+street: Rue du Simplon
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

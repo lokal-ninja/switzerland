@@ -4,8 +4,8 @@ latitude: 46.21541
 longitude: 6.13188
 postcode: "1202"
 city: Genève
-street: "Rue du Grand-Pré"
-housenumber: 57
-phone: "+41 22 733 09 74"
-opening_hours: "Mo-Th 10:30-15:00,15:30-20:00; Fr 10:00-15:00,15:30-19:30; Sa 10:30-15:00,15:30-18:00"
-website: "https://melia-greekdeli.com/"
+street: Rue du Grand-Pré
+housenumber: "57"
+phone: +41 22 733 09 74
+opening_hours: Mo-Th 10:30-15:00,15:30-20:00; Fr 10:00-15:00,15:30-19:30; Sa 10:30-15:00,15:30-18:00
+website: https://melia-greekdeli.com/

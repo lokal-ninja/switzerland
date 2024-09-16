@@ -1,11 +1,11 @@
 id: 106466407
-type: way
+type: node
 latitude: 47.33723
 longitude: 9.59181
 postcode: "9462"
 city: Montlingen
-street: "Tännelistrasse"
-housenumber: 30
+street: Tännelistrasse
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.52
 longitude: 6.63243
 postcode: "1003"
 city: Lausanne
-street: "Rue Pépinet"
-housenumber: 5
-phone: "+41 21 312 22 51"
-opening_hours: "Mo 10:00-19:00; Tu-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "http://lunetteriedepepinet.ch"
+street: Rue Pépinet
+housenumber: "5"
+phone: +41 21 312 22 51
+opening_hours: Mo 10:00-19:00; Tu-Fr 09:00-19:00; Sa 09:00-18:00
+website: http://lunetteriedepepinet.ch

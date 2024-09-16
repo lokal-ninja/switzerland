@@ -4,8 +4,8 @@ latitude: 46.55435
 longitude: 6.50972
 postcode: "1122"
 city: Romanel-sur-Morges
-street: "Route de Cossonay"
-housenumber: 7
-phone: "+41 21 869 91 16"
-opening_hours: "Mo-Fr 07:30-12:00"
+street: Route de Cossonay
+housenumber: "7"
+phone: +41 21 869 91 16
+opening_hours: Mo-Fr 07:30-12:00
 website: ""

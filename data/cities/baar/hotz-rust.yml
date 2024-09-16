@@ -1,11 +1,11 @@
 id: 54677882
-type: way
+type: node
 latitude: 47.1983
 longitude: 8.53439
 postcode: "6340"
 city: Baar
-street: "Schutzengelstrasse"
-housenumber: 18
+street: Schutzengelstrasse
+housenumber: "18"
 phone: ""
 opening_hours: ""
-website: "https://www.zugerbeck.ch/"
+website: https://www.zugerbeck.ch/

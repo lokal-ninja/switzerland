@@ -4,8 +4,8 @@ latitude: 47.40162
 longitude: 8.61032
 postcode: "8600"
 city: Dübendorf
-street: "Giessenstrasse"
-housenumber: 4
+street: Giessenstrasse
+housenumber: "4"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.migrol.ch/de/"
+opening_hours: 24/7
+website: https://www.migrol.ch/de/

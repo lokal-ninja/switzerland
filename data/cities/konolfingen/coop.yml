@@ -4,8 +4,8 @@ latitude: 46.88121
 longitude: 7.62404
 postcode: "3510"
 city: Konolfingen
-street: "Emmentalstrasse"
-housenumber: 25
-phone: "+41 31 790 23 50"
-opening_hours: "Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa 07:30-17:30"
-website: "https://www.coop.ch/"
+street: Emmentalstrasse
+housenumber: "25"
+phone: +41 31 790 23 50
+opening_hours: Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa 07:30-17:30
+website: https://www.coop.ch/

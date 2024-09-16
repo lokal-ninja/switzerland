@@ -4,8 +4,8 @@ latitude: 46.51842
 longitude: 6.62662
 postcode: "1003"
 city: Lausanne
-street: "Avenue Louis-Ruchonnet"
-housenumber: 10
+street: Avenue Louis-Ruchonnet
+housenumber: "10"
 phone: ""
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-18:00"
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

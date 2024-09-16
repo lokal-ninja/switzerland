@@ -4,8 +4,8 @@ latitude: 46.94707
 longitude: 7.43847
 postcode: "3011"
 city: Bern
-street: "Bubenbergplatz"
-housenumber: 17
+street: Bubenbergplatz
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "http://shoplocator.swisscom.ch"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
+website: http://shoplocator.swisscom.ch

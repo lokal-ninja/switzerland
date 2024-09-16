@@ -1,11 +1,11 @@
 id: 263022863
-type: way
+type: node
 latitude: 47.23438
 longitude: 8.07636
 postcode: "6234"
 city: Triengen
-street: "Kantonsstrasse"
-housenumber: 45
+street: Kantonsstrasse
+housenumber: "45"
 phone: ""
 opening_hours: ""
-website: "https://hungerbaeckerei.com/"
+website: https://hungerbaeckerei.com/

@@ -1,11 +1,11 @@
 id: 448256083
-type: way
+type: node
 latitude: 46.23003
 longitude: 9.06832
 postcode: "6533"
 city: Lumino
-street: "Via Mesolcina"
-housenumber: 17
+street: Via Mesolcina
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 98733632
-type: way
+type: node
 latitude: 47.43639
 longitude: 9.63775
 postcode: "9434"
 city: Au SG
-street: "Hauptstrasse"
-housenumber: 29
+street: Hauptstrasse
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

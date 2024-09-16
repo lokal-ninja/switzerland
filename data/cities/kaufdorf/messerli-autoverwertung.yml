@@ -1,11 +1,11 @@
 id: 282002281
-type: way
+type: node
 latitude: 46.83664
 longitude: 7.50234
 postcode: "3126"
 city: Kaufdorf
-street: "Moosstrasse"
-housenumber: 46
+street: Moosstrasse
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

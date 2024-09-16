@@ -4,8 +4,8 @@ latitude: 47.37327
 longitude: 8.52889
 postcode: "8004"
 city: Zürich
-street: "Badenerstrasse"
-housenumber: 41
+street: Badenerstrasse
+housenumber: "41"
 phone: ""
-opening_hours: "Mo,Su off; Tu-Fr 09:00-12:30,13:30-18:30; Sa 09:00-17:00"
-website: "https://optikamstauffacher.ch/"
+opening_hours: Mo,Su off; Tu-Fr 09:00-12:30,13:30-18:30; Sa 09:00-17:00
+website: https://optikamstauffacher.ch/

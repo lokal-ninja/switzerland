@@ -1,11 +1,11 @@
 id: 73306063
-type: way
+type: node
 latitude: 47.38083
 longitude: 8.52476
 postcode: "8004"
 city: Zürich
-street: "Feldstrasse"
-housenumber: 147
-phone: "+41 44 291 12 00"
-opening_hours: "Mo-Fr 07:00-12:00,12:30-18:30; Sa 07:00-13:00"
+street: Feldstrasse
+housenumber: "147"
+phone: +41 44 291 12 00
+opening_hours: Mo-Fr 07:00-12:00,12:30-18:30; Sa 07:00-13:00
 website: ""

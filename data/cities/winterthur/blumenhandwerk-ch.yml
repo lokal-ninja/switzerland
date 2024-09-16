@@ -4,8 +4,8 @@ latitude: 47.50797
 longitude: 8.72577
 postcode: "8400"
 city: Winterthur
-street: "Blatterstrasse"
-housenumber: 8
+street: Blatterstrasse
+housenumber: "8"
 phone: ""
-opening_hours: "nur auf Bestellung"
+opening_hours: '"nur auf Bestellung"'
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.19668
 longitude: 6.1442
 postcode: "1205"
 city: Genève
-street: "Rue Leschot"
-housenumber: 11
+street: Rue Leschot
+housenumber: "11"
 phone: "+41227003860"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00"
-website: "https://auchienbleu.ch/"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-18:00
+website: https://auchienbleu.ch/

@@ -4,8 +4,8 @@ latitude: 46.55256
 longitude: 6.43124
 postcode: "1143"
 city: Apples
-street: "Route de Cottens"
-housenumber: 24
+street: Route de Cottens
+housenumber: "24"
 phone: ""
-opening_hours: "We 08:30-13:00,17:00-19:00; Fr 17:00-19:00; Sa 08:30-13:00"
-website: "https://marchepaysan.ch/169-60"
+opening_hours: We 08:30-13:00,17:00-19:00; Fr 17:00-19:00; Sa 08:30-13:00
+website: https://marchepaysan.ch/169-60

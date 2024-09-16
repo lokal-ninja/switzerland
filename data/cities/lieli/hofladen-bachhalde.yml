@@ -4,8 +4,8 @@ latitude: 47.20782
 longitude: 8.30042
 postcode: "6277"
 city: Lieli
-street: "Bachhalde"
-housenumber: 1
-phone: "+41 41 917 32 26"
-opening_hours: "Fr 07:00-12:00; Sa 07:00-13:00; Su-Th 07:00-18:00"
-website: "https://www.biohofbachhalde.ch/"
+street: Bachhalde
+housenumber: "1"
+phone: +41 41 917 32 26
+opening_hours: Fr 07:00-12:00; Sa 07:00-13:00; Su-Th 07:00-18:00
+website: https://www.biohofbachhalde.ch/

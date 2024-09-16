@@ -4,8 +4,8 @@ latitude: 47.38599
 longitude: 8.54869
 postcode: "8006"
 city: Zürich
-street: "Winterthurerstrasse"
+street: Winterthurerstrasse
 housenumber: 2-4
 phone: "+41585639797"
-opening_hours: "2024 Mo-Sa 7:30-21:00; PH off; "
-website: "https://filialen.migros.ch/de/migros-supermarkt-zuerich-rigiplatz"
+opening_hours: '2024 Mo-Sa 7:30-21:00; PH off; '
+website: https://filialen.migros.ch/de/migros-supermarkt-zuerich-rigiplatz

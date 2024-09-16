@@ -4,8 +4,8 @@ latitude: 47.31236
 longitude: 8.52538
 postcode: "8134"
 city: Adliswil
-street: "Albisstrasse"
-housenumber: 2
-phone: "+41 44 710 66 66"
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-19:00"
-website: "https://www.bestcut.ch/"
+street: Albisstrasse
+housenumber: "2"
+phone: +41 44 710 66 66
+opening_hours: Mo-Fr 08:30-20:00; Sa 08:30-19:00
+website: https://www.bestcut.ch/

@@ -4,8 +4,8 @@ latitude: 47.1715
 longitude: 8.51541
 postcode: "6300"
 city: Zug
-street: "Bundesplatz"
-housenumber: 8
+street: Bundesplatz
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.sunrise.ch/"
+website: https://www.sunrise.ch/

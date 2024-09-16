@@ -1,11 +1,11 @@
 id: 379582601
-type: way
+type: node
 latitude: 46.94921
 longitude: 7.44066
 postcode: "3011"
 city: Bern
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.exlibris.ch/"
+website: https://www.exlibris.ch/

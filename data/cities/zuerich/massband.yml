@@ -4,8 +4,8 @@ latitude: 47.37825
 longitude: 8.54413
 postcode: "8001"
 city: Zürich
-street: "Weinbergstrasse"
-housenumber: 15
+street: Weinbergstrasse
+housenumber: "15"
 phone: ""
-opening_hours: "Mo,Su off; Tu-Th 11:00-19:00; Fr 14:00-20:00; Sa 10:00-18:00"
-website: "https://maasband.ch"
+opening_hours: Mo,Su off; Tu-Th 11:00-19:00; Fr 14:00-20:00; Sa 10:00-18:00
+website: https://maasband.ch

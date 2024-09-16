@@ -4,8 +4,8 @@ latitude: 46.14953
 longitude: 7.13341
 postcode: "1926"
 city: Fully
-street: "Rue des Amis"
-housenumber: 33
-phone: "+41 27 746 25 06"
-opening_hours: "Mo-Th  Sur rendez-vous; Fr 16:00-18:00; Sa 10:00-18:00; PH off"
-website: "https://www.lacigale.ch/"
+street: Rue des Amis
+housenumber: "33"
+phone: +41 27 746 25 06
+opening_hours: Mo-Th  "Sur rendez-vous"; Fr 16:00-18:00; Sa 10:00-18:00; PH off
+website: https://www.lacigale.ch/

@@ -4,8 +4,8 @@ latitude: 46.76164
 longitude: 7.62808
 postcode: "3600"
 city: Thun
-street: "Grabenstrasse"
-housenumber: 2
-phone: "+41 33 222 37 63"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://hiob.ch/brockenstuben/thun/"
+street: Grabenstrasse
+housenumber: "2"
+phone: +41 33 222 37 63
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://hiob.ch/brockenstuben/thun/

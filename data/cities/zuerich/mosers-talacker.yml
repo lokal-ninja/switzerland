@@ -4,8 +4,8 @@ latitude: 47.37253
 longitude: 8.53504
 postcode: "8001"
 city: Zürich
-street: "Talacker"
-housenumber: 50
+street: Talacker
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 06:30-17:00"
-website: "https://www.backparadies.ch/standorte/zuerich/sihlporte"
+opening_hours: Mo-Fr 06:30-17:00
+website: https://www.backparadies.ch/standorte/zuerich/sihlporte

@@ -4,8 +4,9 @@ latitude: 47.69492
 longitude: 8.65061
 postcode: "8203"
 city: Schaffhausen
-street: "Buchthalerstrasse"
-housenumber: 88
-phone: "+41 52 533 79 33"
-opening_hours: "Mo 14:00-18:30; Tu, We, Fr 09:00-11:30, 14:00-18:30 || Sa nach Vereinbarung, ab August 2023 auch am Donnerstagnachmittag geöffnet"
-website: "https://nawelos.ch/"
+street: Buchthalerstrasse
+housenumber: "88"
+phone: +41 52 533 79 33
+opening_hours: Mo 14:00-18:30; Tu, We, Fr 09:00-11:30, 14:00-18:30 || "Sa nach Vereinbarung,
+    ab August 2023 auch am Donnerstagnachmittag geöffnet"
+website: https://nawelos.ch/

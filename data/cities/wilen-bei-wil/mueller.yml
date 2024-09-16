@@ -1,11 +1,11 @@
 id: 322724999
-type: way
+type: node
 latitude: 47.45374
 longitude: 9.04011
 postcode: "9535"
 city: Wilen bei Wil
-street: "Weidstrasse"
-housenumber: 6
+street: Weidstrasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00"
-website: "https://www.mueller.ch/"
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-18:00
+website: https://www.mueller.ch/

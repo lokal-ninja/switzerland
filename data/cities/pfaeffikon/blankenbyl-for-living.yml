@@ -1,11 +1,11 @@
 id: 96356365
-type: way
+type: node
 latitude: 47.36863
 longitude: 8.77962
 postcode: "8330"
 city: Pfäffikon
-street: "Kempttalstrasse"
-housenumber: 48
-phone: "+41 44 950 03 22"
-opening_hours: "We-Fr 11:00-18:00; Sa 11:00-17:00; Mo, Tu off"
-website: "https://blankenbyl.ch/"
+street: Kempttalstrasse
+housenumber: "48"
+phone: +41 44 950 03 22
+opening_hours: We-Fr 11:00-18:00; Sa 11:00-17:00; Mo, Tu off
+website: https://blankenbyl.ch/

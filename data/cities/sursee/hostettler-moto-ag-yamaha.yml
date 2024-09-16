@@ -4,8 +4,8 @@ latitude: 47.17779
 longitude: 8.09603
 postcode: "6210"
 city: Sursee
-street: "Haldenmattstrasse"
-housenumber: 4
-phone: "+41 41 926 64 80"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-16:00"
-website: "https://www.hostettler-moto.ch/sursee/"
+street: Haldenmattstrasse
+housenumber: "4"
+phone: +41 41 926 64 80
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-16:00
+website: https://www.hostettler-moto.ch/sursee/

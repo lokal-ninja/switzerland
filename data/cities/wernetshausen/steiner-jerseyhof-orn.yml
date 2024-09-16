@@ -4,8 +4,8 @@ latitude: 47.28905
 longitude: 8.884
 postcode: "8342"
 city: Wernetshausen
-street: "Bachtelstrasse"
-housenumber: 104
-phone: "+41 438 437 862"
-opening_hours: "24/7"
-website: "https://www.jerseyhoforn.ch/hofladen"
+street: Bachtelstrasse
+housenumber: "104"
+phone: +41 438 437 862
+opening_hours: 24/7
+website: https://www.jerseyhoforn.ch/hofladen

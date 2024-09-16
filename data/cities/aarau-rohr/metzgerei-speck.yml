@@ -1,11 +1,11 @@
 id: 169994664
-type: way
+type: node
 latitude: 47.40164
 longitude: 8.07943
 postcode: "5032"
 city: Aarau Rohr
-street: "Hauptstrasse"
-housenumber: 42
-phone: "+41 62 824 47 59"
-opening_hours: "Mo-Fr 07:30-12:15, Mo,Tu,Th,Fr 14:00-18:30, Sa 07:30-16:00"
-website: "https://www.speck-metzgerei.ch/"
+street: Hauptstrasse
+housenumber: "42"
+phone: +41 62 824 47 59
+opening_hours: Mo-Fr 07:30-12:15, Mo,Tu,Th,Fr 14:00-18:30, Sa 07:30-16:00
+website: https://www.speck-metzgerei.ch/

@@ -4,8 +4,8 @@ latitude: 47.37464
 longitude: 8.48455
 postcode: "8047"
 city: Zürich
-street: "Püntstrasse"
-housenumber: 12
+street: Püntstrasse
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-16:00"
-website: "https://www.st-jakob.ch/de/kontakt/albisrieden.html"
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-16:00
+website: https://www.st-jakob.ch/de/kontakt/albisrieden.html

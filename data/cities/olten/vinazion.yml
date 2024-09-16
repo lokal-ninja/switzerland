@@ -4,8 +4,8 @@ latitude: 47.34657
 longitude: 7.90978
 postcode: "4600"
 city: Olten
-street: "Louis-Giroud-Strasse"
-housenumber: 20
+street: Louis-Giroud-Strasse
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Th 08:30-20:00; Sa 08:00-18:00"
-website: "https://vinazion.ch/store/vinazion-einkaufszentrum-salipark/"
+opening_hours: Mo-Fr 08:30-18:30; Th 08:30-20:00; Sa 08:00-18:00
+website: https://vinazion.ch/store/vinazion-einkaufszentrum-salipark/

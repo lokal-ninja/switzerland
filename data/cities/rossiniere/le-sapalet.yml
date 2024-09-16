@@ -4,8 +4,8 @@ latitude: 46.46164
 longitude: 7.08293
 postcode: "1658"
 city: Rossinière
-street: "Route du Revers"
-housenumber: 19
+street: Route du Revers
+housenumber: "19"
 phone: ""
-opening_hours: "24/7"
-website: "https://sapalet.ch/"
+opening_hours: 24/7
+website: https://sapalet.ch/

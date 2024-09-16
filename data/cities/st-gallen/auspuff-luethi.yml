@@ -4,8 +4,8 @@ latitude: 47.42191
 longitude: 9.37444
 postcode: "9000"
 city: St. Gallen
-street: "Gartenstrasse"
-housenumber: 3
-phone: "+41 71 222 38 80;+41 79 356 73 66"
-opening_hours: "Mo-Fr 07:30-12:00, 13:30-18:00"
-website: "https://www.auspuff-luethi.ch/"
+street: Gartenstrasse
+housenumber: "3"
+phone: +41 71 222 38 80;+41 79 356 73 66
+opening_hours: Mo-Fr 07:30-12:00, 13:30-18:00
+website: https://www.auspuff-luethi.ch/

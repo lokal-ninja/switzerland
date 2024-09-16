@@ -1,11 +1,11 @@
 id: 286601752
-type: way
+type: node
 latitude: 47.38687
 longitude: 8.75562
 postcode: "8320"
 city: Fehraltorf
-street: "Grundstrasse"
-housenumber: 4
+street: Grundstrasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-19:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-fehraltorf"
+opening_hours: Mo-Fr 08:00-20:00, Sa 08:00-19:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-fehraltorf

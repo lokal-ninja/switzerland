@@ -1,11 +1,11 @@
 id: 365181699
-type: way
+type: node
 latitude: 46.79781
 longitude: 7.15347
 postcode: "1700"
 city: Fribourg
-street: "Boulevard de Pérolles"
-housenumber: 35
+street: Boulevard de Pérolles
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa,Su 07:00-18:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa,Su 07:00-18:00
 website: ""

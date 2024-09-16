@@ -1,11 +1,11 @@
 id: 192437108
-type: way
+type: node
 latitude: 47.1738
 longitude: 8.10011
 postcode: "6210"
 city: Sursee
-street: "Zeughausstrasse"
-housenumber: 38
+street: Zeughausstrasse
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00, Su 07:00-21:00"
-website: "https://www.migrolino.ch/de/standorte/migrol-service-sursee/"
+opening_hours: Mo-Sa 06:00-22:00, Su 07:00-21:00
+website: https://www.migrolino.ch/de/standorte/migrol-service-sursee/

@@ -4,8 +4,8 @@ latitude: 47.208
 longitude: 7.5158
 postcode: "4500"
 city: Solothurn
-street: "Brunngrabenstrasse"
-housenumber: 2
+street: Brunngrabenstrasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 07:30-17:00; Su closed"
+opening_hours: Mo-Fr 08:00-18:30; Sa 07:30-17:00; Su closed
 website: ""

@@ -1,11 +1,11 @@
 id: 230392069
-type: way
+type: node
 latitude: 47.40279
 longitude: 8.1275
 postcode: "5102"
 city: Rupperswil
-street: "Mitteldorf"
-housenumber: 13
+street: Mitteldorf
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

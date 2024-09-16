@@ -4,8 +4,8 @@ latitude: 47.17112
 longitude: 7.56753
 postcode: "4563"
 city: Gerlafingen
-street: "Bahnhofstrasse"
-housenumber: 8
+street: Bahnhofstrasse
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Th 07:30-18:30; Fr 07:30-20:00; Sa 07:30-18:00"
-website: "https://www.aldi-suisse.ch"
+opening_hours: Mo-Th 07:30-18:30; Fr 07:30-20:00; Sa 07:30-18:00
+website: https://www.aldi-suisse.ch

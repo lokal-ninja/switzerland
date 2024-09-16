@@ -4,8 +4,8 @@ latitude: 46.88027
 longitude: 7.61391
 postcode: "3510"
 city: Konolfingen
-street: "Haldenweg"
-housenumber: 5
-phone: "+41 58 476 59 06"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-17:00"
-website: "https://www.landiaare.ch/"
+street: Haldenweg
+housenumber: "5"
+phone: +41 58 476 59 06
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-17:00
+website: https://www.landiaare.ch/

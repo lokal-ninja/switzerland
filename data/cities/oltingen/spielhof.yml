@@ -4,8 +4,8 @@ latitude: 47.43512
 longitude: 7.93539
 postcode: "4494"
 city: Oltingen
-street: "Spielhof"
-housenumber: 27
-phone: "+41 61 991 94 16"
-opening_hours: "nach Vereinbarung"
-website: "http://www.erlebnis-spielhof.ch"
+street: Spielhof
+housenumber: "27"
+phone: +41 61 991 94 16
+opening_hours: nach Vereinbarung
+website: http://www.erlebnis-spielhof.ch

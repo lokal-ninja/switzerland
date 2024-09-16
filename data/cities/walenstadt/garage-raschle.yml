@@ -1,11 +1,11 @@
 id: 384016769
-type: way
+type: node
 latitude: 47.11672
 longitude: 9.32286
 postcode: "8880"
 city: Walenstadt
-street: "Sarganserstrasse"
-housenumber: 40
-phone: "+41 81 735 18 80"
-opening_hours: "Mo-Th 07:30-12:00,13:30-17:30; Fr 07:30-12:00,13:30-17:00"
-website: "https://garage-raschle.ch/"
+street: Sarganserstrasse
+housenumber: "40"
+phone: +41 81 735 18 80
+opening_hours: Mo-Th 07:30-12:00,13:30-17:30; Fr 07:30-12:00,13:30-17:00
+website: https://garage-raschle.ch/

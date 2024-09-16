@@ -1,11 +1,11 @@
 id: 166509475
-type: way
+type: node
 latitude: 47.65012
 longitude: 9.17188
 postcode: "8280"
 city: Kreuzlingen
-street: "Sonnenstrasse"
-housenumber: 16
+street: Sonnenstrasse
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00, Su 08:00-20:00"
-website: "https://www.coop-pronto.ch/"
+opening_hours: Mo-Sa 06:00-22:00, Su 08:00-20:00
+website: https://www.coop-pronto.ch/

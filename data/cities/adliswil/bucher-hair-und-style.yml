@@ -4,8 +4,8 @@ latitude: 47.30836
 longitude: 8.52514
 postcode: "8134"
 city: Adliswil
-street: "Albisstrasse"
-housenumber: 33
+street: Albisstrasse
+housenumber: "33"
 phone: ""
-opening_hours: "Mo 09:00-18:30; Tu-Th 08:00-18:30; Fr 08:00-20:00; Sa 07:30-14:00"
-website: "https://bucher-hair.ch/"
+opening_hours: Mo 09:00-18:30; Tu-Th 08:00-18:30; Fr 08:00-20:00; Sa 07:30-14:00
+website: https://bucher-hair.ch/

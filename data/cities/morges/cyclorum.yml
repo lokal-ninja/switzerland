@@ -4,8 +4,8 @@ latitude: 46.38425
 longitude: 6.23244
 postcode: "1260"
 city: Morges
-street: "Rue de la Morâche"
-housenumber: 19
-phone: "+41 22 361 93 60"
-opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://cyclorum.ch"
+street: Rue de la Morâche
+housenumber: "19"
+phone: +41 22 361 93 60
+opening_hours: Tu-Fr 08:00-18:00; Sa 08:00-17:00
+website: https://cyclorum.ch

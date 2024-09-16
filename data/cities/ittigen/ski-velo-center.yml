@@ -4,8 +4,8 @@ latitude: 46.9745
 longitude: 7.47653
 postcode: "3063"
 city: Ittigen
-street: "Papiermühlestrasse"
-housenumber: 159
+street: Papiermühlestrasse
+housenumber: "159"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.ski-velo-center.ch/de/ittigen"
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.ski-velo-center.ch/de/ittigen

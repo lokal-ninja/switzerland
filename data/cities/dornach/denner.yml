@@ -4,8 +4,8 @@ latitude: 47.48001
 longitude: 7.61566
 postcode: "4143"
 city: Dornach
-street: "Hauptstrasse"
-housenumber: 4
+street: Hauptstrasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-17:00; Su 08:00-18:00"
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-17:00; Su 08:00-18:00
 website: ""

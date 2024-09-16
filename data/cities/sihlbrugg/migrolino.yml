@@ -4,8 +4,8 @@ latitude: 47.21703
 longitude: 8.57623
 postcode: "6340"
 city: Sihlbrugg
-street: "Zugerstrasse"
-housenumber: 2
+street: Zugerstrasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 05:30-22:00, Su 07:00-20:00"
-website: "https://www.migrolino.ch/de/standorte/migrol-sihlbrugg/"
+opening_hours: Mo-Sa 05:30-22:00, Su 07:00-20:00
+website: https://www.migrolino.ch/de/standorte/migrol-sihlbrugg/

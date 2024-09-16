@@ -4,8 +4,8 @@ latitude: 46.76003
 longitude: 6.70096
 postcode: "1406"
 city: Cronay
-street: "Rue de la Crause"
-housenumber: 13
-phone: "+41 24 433 11 69"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:00; Sa 08:00-17:00"
-website: "http://guidoux-fruits.ch/"
+street: Rue de la Crause
+housenumber: "13"
+phone: +41 24 433 11 69
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:00; Sa 08:00-17:00
+website: http://guidoux-fruits.ch/

@@ -1,11 +1,11 @@
 id: 238935660
-type: way
+type: node
 latitude: 47.39151
 longitude: 8.41792
 postcode: "8902"
 city: Urdorf
-street: "Birmensdorferstrasse"
-housenumber: 28
-phone: "+41 44 736 17 36"
+street: Birmensdorferstrasse
+housenumber: "28"
+phone: +41 44 736 17 36
 opening_hours: ""
-website: "https://www.foitek.ch/"
+website: https://www.foitek.ch/

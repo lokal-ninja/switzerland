@@ -4,8 +4,8 @@ latitude: 47.27293
 longitude: 8.44729
 postcode: "8910"
 city: Affoltern am Albis
-street: "Industriestrasse"
-housenumber: 5
+street: Industriestrasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00; PH off"
-website: "https://www.aldi-suisse.ch/"
+opening_hours: Mo-Sa 07:30-20:00; PH off
+website: https://www.aldi-suisse.ch/

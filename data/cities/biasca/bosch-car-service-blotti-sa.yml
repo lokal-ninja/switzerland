@@ -1,11 +1,11 @@
 id: 409593672
-type: way
+type: node
 latitude: 46.34443
 longitude: 8.97605
 postcode: "6710"
 city: Biasca
-street: "Via Chiasso"
-housenumber: 17
+street: Via Chiasso
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

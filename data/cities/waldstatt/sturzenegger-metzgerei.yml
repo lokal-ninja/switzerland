@@ -1,11 +1,11 @@
 id: 319257803
-type: way
+type: node
 latitude: 47.35892
 longitude: 9.28697
 postcode: "9104"
 city: Waldstatt
-street: "Herisauerstrasse"
-housenumber: 3
+street: Herisauerstrasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo off;Tu-Fr 07:30-12:15,14:00-18:30;Sa 07:30-15:00"
-website: "https://www.sturzenegger-metzgerei.ch/"
+opening_hours: Mo off;Tu-Fr 07:30-12:15,14:00-18:30;Sa 07:30-15:00
+website: https://www.sturzenegger-metzgerei.ch/

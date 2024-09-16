@@ -5,7 +5,7 @@ longitude: 8.37465
 postcode: "6034"
 city: Inwil
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://www.migrolino.ch/de/standorte/socar-st-katharina-nord/"
+opening_hours: 24/7
+website: https://www.migrolino.ch/de/standorte/socar-st-katharina-nord/

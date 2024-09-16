@@ -4,8 +4,8 @@ latitude: 47.37936
 longitude: 8.65316
 postcode: "8603"
 city: Schwerzenbach
-street: "Greifenseestrasse"
-housenumber: 8
+street: Greifenseestrasse
+housenumber: "8"
 phone: ""
-opening_hours: "Mo off; Tu,Th 16:00-17:30; We off; Fr 09:30-11:30,16:00-17:30; Sa 09:30-13:00"
-website: "https://www.hof-wiederkehr.ch/"
+opening_hours: Mo off; Tu,Th 16:00-17:30; We off; Fr 09:30-11:30,16:00-17:30; Sa 09:30-13:00
+website: https://www.hof-wiederkehr.ch/

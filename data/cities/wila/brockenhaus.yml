@@ -1,11 +1,11 @@
 id: 249478034
-type: way
+type: node
 latitude: 47.41883
 longitude: 8.84857
 postcode: "8492"
 city: Wila
-street: "Schochenstrasse"
-housenumber: 19
+street: Schochenstrasse
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "https://www.brocki.ch/de/filialen/wila/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
+website: https://www.brocki.ch/de/filialen/wila/

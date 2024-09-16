@@ -4,8 +4,9 @@ latitude: 47.45959
 longitude: 7.732
 postcode: "4416"
 city: Bubendorf
-street: "Bärhalde"
-housenumber: 69
-phone: "+41 61 931 16 81"
-opening_hours: "Verkauf ab Hof nach Absprache, Bestellungen telefonisch oder per E-Mail, Hauslieferdienst."
-website: "https://www.baerhalde.ch/"
+street: Bärhalde
+housenumber: "69"
+phone: +41 61 931 16 81
+opening_hours: Verkauf ab Hof nach Absprache, Bestellungen telefonisch oder per E-Mail,
+    Hauslieferdienst.
+website: https://www.baerhalde.ch/

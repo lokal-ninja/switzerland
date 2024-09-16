@@ -4,8 +4,8 @@ latitude: 47.0443
 longitude: 8.3143
 postcode: "6002"
 city: Luzern
-street: "Werkhofstrasse"
-housenumber: 20
+street: Werkhofstrasse
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 06:15-19:00; Sa 07:00-17:00"
-website: "https://www.confiserie.ch/de/tribschenstadt"
+opening_hours: Mo-Fr 06:15-19:00; Sa 07:00-17:00
+website: https://www.confiserie.ch/de/tribschenstadt

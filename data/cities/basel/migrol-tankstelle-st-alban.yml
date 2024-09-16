@@ -4,8 +4,8 @@ latitude: 47.55374
 longitude: 7.60852
 postcode: "4052"
 city: Basel
-street: "Zürcherstrasse"
-housenumber: 35
+street: Zürcherstrasse
+housenumber: "35"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.migrol.ch/de/"
+opening_hours: 24/7
+website: https://www.migrol.ch/de/

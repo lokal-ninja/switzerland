@@ -4,8 +4,8 @@ latitude: 46.01202
 longitude: 8.95736
 postcode: "6900"
 city: Lugano
-street: "Via Camoghè"
-housenumber: 1
+street: Via Camoghè
+housenumber: "1"
 phone: "+41919210404"
-opening_hours: "Tu, Sa 8:30-18:00, We 8:30-14:00, Th 8:30-20:00, Fr 8:30-17:00"
-website: "https://www.nuova-immagine.ch/"
+opening_hours: Tu, Sa 8:30-18:00, We 8:30-14:00, Th 8:30-20:00, Fr 8:30-17:00
+website: https://www.nuova-immagine.ch/

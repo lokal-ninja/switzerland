@@ -4,8 +4,8 @@ latitude: 47.55565
 longitude: 7.5803
 postcode: "4051"
 city: Basel
-street: "Schützenmattstrasse"
-housenumber: 30
-phone: "+41 61 274 02 60"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-17:00"
-website: "http://www.hoeheners.ch"
+street: Schützenmattstrasse
+housenumber: "30"
+phone: +41 61 274 02 60
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-17:00
+website: http://www.hoeheners.ch

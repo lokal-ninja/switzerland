@@ -1,11 +1,11 @@
 id: 153188975
-type: way
+type: node
 latitude: 47.17868
 longitude: 9.46806
 postcode: "9470"
 city: Buchs SG
-street: "Eichenaustrasse"
-housenumber: 35
+street: Eichenaustrasse
+housenumber: "35"
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.ch/"
+website: https://www.lidl.ch/

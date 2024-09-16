@@ -1,11 +1,11 @@
 id: 962016876
-type: way
+type: node
 latitude: 46.26646
 longitude: 6.95454
 postcode: "1868"
 city: Collombey
-street: "Zone Artisanale Entre deux Fossaux"
-housenumber: 10
+street: Zone Artisanale Entre deux Fossaux
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

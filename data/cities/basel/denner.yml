@@ -4,8 +4,8 @@ latitude: 47.56712
 longitude: 7.59483
 postcode: "4057"
 city: Basel
-street: "Hammerstrasse"
-housenumber: 129
+street: Hammerstrasse
+housenumber: "129"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 07:30-18:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 07:30-18:00
 website: ""

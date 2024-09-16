@@ -1,11 +1,11 @@
 id: 406593717
-type: way
+type: node
 latitude: 47.41536
 longitude: 8.518
 postcode: "8046"
 city: Zürich
-street: "Fronwaldstrasse"
-housenumber: 15
+street: Fronwaldstrasse
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

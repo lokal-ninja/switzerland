@@ -1,11 +1,11 @@
 id: 110270859
-type: way
+type: node
 latitude: 47.18186
 longitude: 8.87863
 postcode: "8854"
 city: Galgenen
-street: "Kantonsstrasse"
-housenumber: 61
+street: Kantonsstrasse
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Th 07:00-20:00; Fr 07:00-21:00; Sa 07:00-18:00"
-website: "https://www.hornbach.ch/"
+opening_hours: Mo-Th 07:00-20:00; Fr 07:00-21:00; Sa 07:00-18:00
+website: https://www.hornbach.ch/

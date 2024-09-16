@@ -1,11 +1,11 @@
 id: 219186137
-type: way
+type: node
 latitude: 46.79668
 longitude: 7.25604
 postcode: "1715"
 city: Alterswil
-street: "Ächerli"
-housenumber: 3
-phone: "+41 26 494 24 72"
+street: Ächerli
+housenumber: "3"
+phone: +41 26 494 24 72
 opening_hours: ""
-website: "https://bruegger-alterswil.ch/"
+website: https://bruegger-alterswil.ch/

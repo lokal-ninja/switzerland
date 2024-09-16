@@ -1,11 +1,11 @@
 id: 253656172
-type: way
+type: node
 latitude: 46.7784
 longitude: 7.59097
 postcode: "3661"
 city: Uetendorf
 street: ""
-housenumber: 60
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

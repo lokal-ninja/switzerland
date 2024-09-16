@@ -4,8 +4,8 @@ latitude: 47.32594
 longitude: 8.46826
 postcode: "8906"
 city: Bonstetten
-street: "Stationsstrasse"
-housenumber: 32
+street: Stationsstrasse
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 08:45-12:15,13:15-17:45; PH off"
-website: "https://www.sbb.ch/de/bahnhof-services/am-bahnhof/bahnhoefe/bahnhof.2222.html"
+opening_hours: Mo-Fr 08:45-12:15,13:15-17:45; PH off
+website: https://www.sbb.ch/de/bahnhof-services/am-bahnhof/bahnhoefe/bahnhof.2222.html

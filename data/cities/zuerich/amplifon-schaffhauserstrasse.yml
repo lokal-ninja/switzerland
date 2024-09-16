@@ -4,8 +4,8 @@ latitude: 47.41076
 longitude: 8.54641
 postcode: "8050"
 city: Zürich
-street: "Schaffhauserstrasse"
-housenumber: 359
-phone: "+41 44 310 27 07"
-opening_hours: "Mo-Fr 08:30-12:00, 13:00-17:30"
-website: "https://www.amplifon.com/web/ch-de/home"
+street: Schaffhauserstrasse
+housenumber: "359"
+phone: +41 44 310 27 07
+opening_hours: Mo-Fr 08:30-12:00, 13:00-17:30
+website: https://www.amplifon.com/web/ch-de/home

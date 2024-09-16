@@ -1,11 +1,11 @@
 id: 250514855
-type: way
+type: node
 latitude: 47.478
 longitude: 7.7439
 postcode: "4410"
 city: Liestal
-street: "Kasernenstrasse"
-housenumber: 70
+street: Kasernenstrasse
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00, Sa 08:00-14:00"
-website: "https://cellovelo.ch/"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00, Sa 08:00-14:00
+website: https://cellovelo.ch/

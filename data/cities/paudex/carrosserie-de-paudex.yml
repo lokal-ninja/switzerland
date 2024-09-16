@@ -1,11 +1,11 @@
 id: 88914387
-type: way
+type: node
 latitude: 46.50655
 longitude: 6.66998
 postcode: "1094"
 city: Paudex
-street: "Route du Lac"
-housenumber: 1
+street: Route du Lac
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

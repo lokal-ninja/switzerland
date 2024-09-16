@@ -4,8 +4,8 @@ latitude: 47.1962
 longitude: 8.71924
 postcode: "8832"
 city: Wollerau
-street: "Felsenstrasse"
-housenumber: 2
+street: Felsenstrasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:00-12:15,13:30-18:30; Sa 06:00-15:00; Su 07:30-11:30"
-website: "https://baeckereiwuest.ch/"
+opening_hours: Mo-Fr 06:00-12:15,13:30-18:30; Sa 06:00-15:00; Su 07:30-11:30
+website: https://baeckereiwuest.ch/

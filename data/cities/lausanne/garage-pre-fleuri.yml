@@ -1,11 +1,11 @@
 id: 1178052625
-type: way
+type: node
 latitude: 46.51485
 longitude: 6.63766
 postcode: "1006"
 city: Lausanne
-street: "Avenue des Alpes"
-housenumber: 3
-phone: "+41 21 320 11 31"
+street: Avenue des Alpes
+housenumber: "3"
+phone: +41 21 320 11 31
 opening_hours: ""
-website: "https://prefleuri.unicar.ch/"
+website: https://prefleuri.unicar.ch/

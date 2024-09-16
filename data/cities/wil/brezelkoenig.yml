@@ -1,11 +1,11 @@
 id: 387097509
-type: way
+type: node
 latitude: 47.46237
 longitude: 9.04167
 postcode: "9500"
 city: Wil
-street: "Bahnhofplatz"
-housenumber: 
+street: Bahnhofplatz
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 05:00-20:00"
-website: "https://brezelkoenig.ch/de/"
+opening_hours: Mo-Sa 05:00-20:00
+website: https://brezelkoenig.ch/de/

@@ -1,11 +1,11 @@
 id: 297756427
-type: way
+type: node
 latitude: 47.43465
 longitude: 8.85996
 postcode: "8488"
 city: Turbenthal
-street: "Mettlenstrasse"
-housenumber: 7
+street: Mettlenstrasse
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

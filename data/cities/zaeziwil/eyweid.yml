@@ -1,11 +1,11 @@
 id: 369971144
-type: way
+type: node
 latitude: 46.90355
 longitude: 7.65992
 postcode: "3532"
 city: Zäziwil
-street: "Oberthalstrasse"
-housenumber: 17
+street: Oberthalstrasse
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:15,13:30-18:30; Sa 07:30-15:30"
+opening_hours: Mo-Fr 07:30-12:15,13:30-18:30; Sa 07:30-15:30
 website: ""

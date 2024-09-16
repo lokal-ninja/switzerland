@@ -4,8 +4,8 @@ latitude: 47.3676
 longitude: 8.53418
 postcode: "8002"
 city: Zürich
-street: "Bleicherweg"
-housenumber: 54
+street: Bleicherweg
+housenumber: "54"
 phone: ""
-opening_hours: "Tu,Th 11:00-18:00; Mo,We,Fr 10:00-13:00,15:15-18:00"
+opening_hours: Tu,Th 11:00-18:00; Mo,We,Fr 10:00-13:00,15:15-18:00
 website: ""

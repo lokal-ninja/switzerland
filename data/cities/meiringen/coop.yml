@@ -1,11 +1,11 @@
 id: 288636545
-type: way
+type: node
 latitude: 46.72826
 longitude: 8.18156
 postcode: "3860"
 city: Meiringen
-street: "Alpwegern"
-housenumber: 2
+street: Alpwegern
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

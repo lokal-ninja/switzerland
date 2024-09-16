@@ -1,11 +1,11 @@
 id: 345367218
-type: way
+type: node
 latitude: 46.90843
 longitude: 8.39556
 postcode: "6386"
 city: Wolfenschiessen
-street: "Hauptstrasse"
-housenumber: 26
+street: Hauptstrasse
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

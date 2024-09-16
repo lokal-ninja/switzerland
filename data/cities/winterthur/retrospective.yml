@@ -4,8 +4,8 @@ latitude: 47.49927
 longitude: 8.72901
 postcode: "8400"
 city: Winterthur
-street: "Kirchplatz"
-housenumber: 4
-phone: "+41 52 203 35 00"
-opening_hours: "We-Fr 10:00-18:00; Sa 10:00-16:30; PH off"
+street: Kirchplatz
+housenumber: "4"
+phone: +41 52 203 35 00
+opening_hours: We-Fr 10:00-18:00; Sa 10:00-16:30; PH off
 website: ""

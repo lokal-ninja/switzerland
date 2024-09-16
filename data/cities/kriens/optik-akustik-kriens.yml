@@ -4,8 +4,8 @@ latitude: 47.03327
 longitude: 8.2824
 postcode: "6010"
 city: Kriens
-street: "Hofmattweg"
-housenumber: 4
+street: Hofmattweg
+housenumber: "4"
 phone: "+41413224400"
-opening_hours: "Tu-Fr 09:00-12:00,13:00-18:30; Sa 08:30-16:00"
-website: "https://www.kriensoptik.ch/"
+opening_hours: Tu-Fr 09:00-12:00,13:00-18:30; Sa 08:30-16:00
+website: https://www.kriensoptik.ch/

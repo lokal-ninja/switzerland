@@ -4,8 +4,8 @@ latitude: 47.17282
 longitude: 8.10217
 postcode: "6210"
 city: Sursee
-street: "Bahnhofstrasse"
-housenumber: 28
+street: Bahnhofstrasse
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Th 08:00-21:00; Sa 08:00-17:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-surseepark"
+opening_hours: Mo-Fr 08:00-19:00; Th 08:00-21:00; Sa 08:00-17:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-surseepark

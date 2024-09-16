@@ -4,8 +4,8 @@ latitude: 46.52488
 longitude: 6.6135
 postcode: "1004"
 city: Lausanne
-street: "Rue de Genève"
-housenumber: 85
+street: Rue de Genève
+housenumber: "85"
 phone: ""
-opening_hours: "07:00-24:00"
-website: "https://www.lavotech.ch/"
+opening_hours: 07:00-24:00
+website: https://www.lavotech.ch/

@@ -1,11 +1,11 @@
 id: 155439823
-type: way
+type: node
 latitude: 47.31521
 longitude: 8.52598
 postcode: "8134"
 city: Adliswil
-street: "Soodstrasse"
-housenumber: 6
-phone: "+44 710 81 80"
-opening_hours: "Mo-Fr 08:00-12:30,13:30-19:00; Sa 08:00-17:00"
-website: "http://www.rio-getraenke.ch/nc/standorte/tb/swiss/detail/rio-getraenkemarkt-adliswil.html"
+street: Soodstrasse
+housenumber: "6"
+phone: +44 710 81 80
+opening_hours: Mo-Fr 08:00-12:30,13:30-19:00; Sa 08:00-17:00
+website: http://www.rio-getraenke.ch/nc/standorte/tb/swiss/detail/rio-getraenkemarkt-adliswil.html

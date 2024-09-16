@@ -4,8 +4,8 @@ latitude: 47.42099
 longitude: 7.87534
 postcode: "4445"
 city: Häfelfingen
-street: "Mattenhof"
-housenumber: 33
-phone: "+41 62 299 27 32"
-opening_hours: "Abholung ab Hof oder Lieferdienst"
-website: "https://www.strub-mattenhof.ch/"
+street: Mattenhof
+housenumber: "33"
+phone: +41 62 299 27 32
+opening_hours: Abholung ab Hof oder Lieferdienst
+website: https://www.strub-mattenhof.ch/

@@ -1,11 +1,11 @@
 id: 263462759
-type: way
+type: node
 latitude: 46.96562
 longitude: 8.35404
 postcode: "6370"
 city: Stans
-street: "Bitzistrasse"
-housenumber: 2
-phone: "+41 41 6188855"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:00-18:00"
-website: "https://www.laenderpark.ch/"
+street: Bitzistrasse
+housenumber: "2"
+phone: +41 41 6188855
+opening_hours: Mo-Fr 09:00-20:00; Sa 08:00-18:00
+website: https://www.laenderpark.ch/

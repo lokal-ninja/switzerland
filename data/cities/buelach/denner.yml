@@ -4,8 +4,8 @@ latitude: 47.52103
 longitude: 8.54083
 postcode: "8180"
 city: Bülach
-street: "Bahnhofstrasse"
-housenumber: 28
-phone: "+41 44 860 56 00"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
-website: "https://www.denner.ch/de/filialen/store-controller/stores/store/einkaufszentrum-sonnenhof"
+street: Bahnhofstrasse
+housenumber: "28"
+phone: +41 44 860 56 00
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
+website: https://www.denner.ch/de/filialen/store-controller/stores/store/einkaufszentrum-sonnenhof

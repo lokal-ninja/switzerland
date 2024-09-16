@@ -1,11 +1,11 @@
 id: 231126493
-type: way
+type: node
 latitude: 47.54797
 longitude: 7.54968
 postcode: "4123"
 city: Allschwil
-street: "Binningerstrasse"
-housenumber: 117
+street: Binningerstrasse
+housenumber: "117"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 34426080
-type: way
+type: node
 latitude: 47.4563
 longitude: 8.28294
 postcode: "5405"
 city: Dättwil
-street: "Zelgweg"
-housenumber: 17
+street: Zelgweg
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Su 05:00-24:00"
-website: "https://www.migrolino.ch/de/standorte/shell-dattwil-baregg/"
+opening_hours: Mo-Su 05:00-24:00
+website: https://www.migrolino.ch/de/standorte/shell-dattwil-baregg/

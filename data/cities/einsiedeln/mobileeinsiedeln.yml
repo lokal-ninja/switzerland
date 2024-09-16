@@ -4,8 +4,8 @@ latitude: 47.12694
 longitude: 8.74843
 postcode: "8840"
 city: Einsiedeln
-street: "Hauptstrasse"
-housenumber: 58
-phone: "+41 55 422 12 45"
-opening_hours: "Tu-Fr 09:00-12:00,13:30-18:30; Sa 09:00-16:00"
-website: "https://www.mobileeinsiedeln.ch/"
+street: Hauptstrasse
+housenumber: "58"
+phone: +41 55 422 12 45
+opening_hours: Tu-Fr 09:00-12:00,13:30-18:30; Sa 09:00-16:00
+website: https://www.mobileeinsiedeln.ch/

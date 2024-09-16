@@ -1,11 +1,11 @@
 id: 508186074
-type: way
+type: node
 latitude: 47.46635
 longitude: 9.28141
 postcode: "9205"
 city: Waldkirch
-street: "Arneggerstrasse"
-housenumber: 25
+street: Arneggerstrasse
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

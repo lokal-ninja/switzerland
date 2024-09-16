@@ -4,8 +4,9 @@ latitude: 47.3757
 longitude: 8.4866
 postcode: "8047"
 city: Zürich
-street: "Albisriederstrasse"
-housenumber: 342
+street: Albisriederstrasse
+housenumber: "342"
 phone: ""
-opening_hours: "Jan-Oct Tu-Fr 09:00-18:30; Jan-Oct Sa 08:00-16:00; Nov-Dec Mo 14:00-18:30; Nov-Dec Tu-Fr 09:00-18:30; Nov-Dec Sa 08:00-16:00"
-website: "http://www.voitsport.ch/"
+opening_hours: Jan-Oct Tu-Fr 09:00-18:30; Jan-Oct Sa 08:00-16:00; Nov-Dec Mo 14:00-18:30;
+    Nov-Dec Tu-Fr 09:00-18:30; Nov-Dec Sa 08:00-16:00
+website: http://www.voitsport.ch/

@@ -1,11 +1,11 @@
 id: 211170731
-type: way
+type: node
 latitude: 46.75887
 longitude: 7.61702
 postcode: "3600"
 city: Thun
-street: "Kasernenstrasse"
-housenumber: 47
+street: Kasernenstrasse
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://hairdesigne-meli.ch/"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://hairdesigne-meli.ch/

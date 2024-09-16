@@ -1,11 +1,11 @@
 id: 262926804
-type: way
+type: node
 latitude: 47.32385
 longitude: 8.90125
 postcode: "8498"
 city: Chli Bäretswil
-street: "Ghöchstrasse"
-housenumber: 128
+street: Ghöchstrasse
+housenumber: "128"
 phone: ""
 opening_hours: ""
 website: ""

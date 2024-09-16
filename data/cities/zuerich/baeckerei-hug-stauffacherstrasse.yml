@@ -4,8 +4,8 @@ latitude: 47.37334
 longitude: 8.5293
 postcode: "8004"
 city: Zürich
-street: "Stauffacherstrasse"
-housenumber: 28
+street: Stauffacherstrasse
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00, Sa 07:00-17:00, Su 07:00-17:00"
-website: "https://www.baeckerei-hug.ch/filialen/standorte/zuerich-stauffacher/"
+opening_hours: Mo-Fr 06:00-19:00, Sa 07:00-17:00, Su 07:00-17:00
+website: https://www.baeckerei-hug.ch/filialen/standorte/zuerich-stauffacher/

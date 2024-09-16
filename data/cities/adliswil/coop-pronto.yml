@@ -4,8 +4,8 @@ latitude: 47.32757
 longitude: 8.52996
 postcode: "8134"
 city: Adliswil
-street: "Zürichstrasse"
-housenumber: 114
+street: Zürichstrasse
+housenumber: "114"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.coop-pronto.ch/"
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.coop-pronto.ch/

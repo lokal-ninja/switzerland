@@ -1,11 +1,11 @@
 id: 113259482
-type: way
+type: node
 latitude: 46.50714
 longitude: 6.48586
 postcode: "1110"
 city: Morges
-street: "Avenue de la Gottaz"
-housenumber: 28
+street: Avenue de la Gottaz
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Th 08:00-18:45; Fr 08:00-20:00; Sa 08:00-18:00"
+opening_hours: Mo-Th 08:00-18:45; Fr 08:00-20:00; Sa 08:00-18:00
 website: ""

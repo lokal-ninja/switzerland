@@ -1,11 +1,11 @@
 id: 322889012
-type: way
+type: node
 latitude: 47.29578
 longitude: 8.22763
 postcode: "5616"
 city: Meisterschwanden
-street: "Hauptstrasse"
-housenumber: 10
-phone: "+41 56 404 50 50"
-opening_hours: "Mo-Fr 08:00-12:00; Sa 07:30-20:00"
+street: Hauptstrasse
+housenumber: "10"
+phone: +41 56 404 50 50
+opening_hours: Mo-Fr 08:00-12:00; Sa 07:30-20:00
 website: ""

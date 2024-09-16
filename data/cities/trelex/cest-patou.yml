@@ -4,8 +4,8 @@ latitude: 46.41548
 longitude: 6.20483
 postcode: ""
 city: Trélex
-street: "Route de Genolier"
-housenumber: 1
+street: Route de Genolier
+housenumber: "1"
 phone: "+41225434880"
-opening_hours: "Tu-Fr 09:00-12:00, 14:00-19:00; Sa 09:00-12:00"
-website: "https://www.patou.ch"
+opening_hours: Tu-Fr 09:00-12:00, 14:00-19:00; Sa 09:00-12:00
+website: https://www.patou.ch

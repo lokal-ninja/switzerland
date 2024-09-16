@@ -4,8 +4,8 @@ latitude: 47.4233
 longitude: 9.37403
 postcode: "9000"
 city: St. Gallen
-street: "Oberer Graben"
-housenumber: 22
+street: Oberer Graben
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Th 09:00-21:00; Sa 09:00-17:00; PH off"
-website: "https://www.botty.ch/"
+opening_hours: Mo-Fr 09:00-19:00; Th 09:00-21:00; Sa 09:00-17:00; PH off
+website: https://www.botty.ch/

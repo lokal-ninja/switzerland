@@ -1,11 +1,11 @@
 id: 71393742
-type: way
+type: node
 latitude: 47.10669
 longitude: 8.38096
 postcode: "6037"
 city: Root
-street: "Oberfeld"
-housenumber: 25
+street: Oberfeld
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

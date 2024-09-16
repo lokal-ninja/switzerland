@@ -4,8 +4,8 @@ latitude: 47.39045
 longitude: 9.56616
 postcode: "9437"
 city: Marbach
-street: "Staatsstrasse"
-housenumber: 53
+street: Staatsstrasse
+housenumber: "53"
 phone: "+41717771525"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 07:30-16:00"
-website: "http://www.maeser.ch/de"
+opening_hours: Mo-Fr 08:00-19:00; Sa 07:30-16:00
+website: http://www.maeser.ch/de

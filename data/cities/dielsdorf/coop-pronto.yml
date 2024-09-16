@@ -1,11 +1,11 @@
 id: 38873049
-type: way
+type: node
 latitude: 47.48358
 longitude: 8.46637
 postcode: "8157"
 city: Dielsdorf
-street: "Niederhaslistrasse"
-housenumber: 9
-phone: "+41 44 885 43 10"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.coop-pronto.ch/"
+street: Niederhaslistrasse
+housenumber: "9"
+phone: +41 44 885 43 10
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.coop-pronto.ch/

@@ -1,11 +1,11 @@
 id: 48405626
-type: way
+type: node
 latitude: 47.3808
 longitude: 8.67429
 postcode: "8604"
 city: Volketswil
-street: "Industriestrasse"
+street: Industriestrasse
 housenumber: 20a
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.migrolino.ch/de/standorte/migrol-service-volketswil/"
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.migrolino.ch/de/standorte/migrol-service-volketswil/

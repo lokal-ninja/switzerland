@@ -1,11 +1,11 @@
 id: 263991391
-type: way
+type: node
 latitude: 46.96445
 longitude: 8.38473
 postcode: "6370"
 city: Stans
-street: "Riedenmatt"
-housenumber: 5
+street: Riedenmatt
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

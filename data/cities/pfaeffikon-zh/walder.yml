@@ -4,8 +4,8 @@ latitude: 47.36632
 longitude: 8.78189
 postcode: "8330"
 city: Pfäffikon ZH
-street: "Seestrasse"
-housenumber: 27
-phone: "+41 442 103 280"
-opening_hours: "Mo-Fr 09:30-12:00,13:00-18:30; Sa 09:00-16:00; PH off"
-website: "https://www.walder.ch/walder-pfaeffikon-zh"
+street: Seestrasse
+housenumber: "27"
+phone: +41 442 103 280
+opening_hours: Mo-Fr 09:30-12:00,13:00-18:30; Sa 09:00-16:00; PH off
+website: https://www.walder.ch/walder-pfaeffikon-zh

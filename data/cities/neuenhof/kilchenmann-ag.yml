@@ -4,8 +4,8 @@ latitude: 47.4561
 longitude: 8.32666
 postcode: "5432"
 city: Neuenhof
-street: "Industriestrasse"
-housenumber: 7
-phone: "+41 44 315 10 40"
-opening_hours: "Mo-Fr 07:45-12:00,13:00-17:00"
-website: "https://www.kilchenmann.ch/"
+street: Industriestrasse
+housenumber: "7"
+phone: +41 44 315 10 40
+opening_hours: Mo-Fr 07:45-12:00,13:00-17:00
+website: https://www.kilchenmann.ch/

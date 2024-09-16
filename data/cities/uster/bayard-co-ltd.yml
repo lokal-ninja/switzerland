@@ -4,8 +4,8 @@ latitude: 47.34944
 longitude: 8.71768
 postcode: "8610"
 city: Uster
-street: "Poststrasse"
-housenumber: 7
+street: Poststrasse
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "https://www.modebayard.ch/de/filiale-bayard-uster-women/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
+website: https://www.modebayard.ch/de/filiale-bayard-uster-women/

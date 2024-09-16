@@ -1,11 +1,11 @@
 id: 166968573
-type: way
+type: node
 latitude: 46.68528
 longitude: 7.85419
 postcode: "3800"
 city: Interlaken
-street: "Höheweg"
-housenumber: 1
+street: Höheweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

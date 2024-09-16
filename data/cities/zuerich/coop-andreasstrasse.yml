@@ -4,8 +4,8 @@ latitude: 47.41287
 longitude: 8.54701
 postcode: "8050"
 city: Zürich
-street: "Andreasstrasse"
-housenumber: 5
+street: Andreasstrasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 06:30-20:00; Sa 08:00-20:00"
+opening_hours: Mo-Fr 06:30-20:00; Sa 08:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.13077
 longitude: 7.99903
 postcode: "6130"
 city: Willisau
-street: "Ettiswilerstrasse"
-housenumber: 46
-phone: "+41 41 972 62 72"
-opening_hours: "Mo-Th 08:30-19:00; Fr 08:30-21:00; Sa 08:00-17:00"
-website: "https://www.jumbo.ch/de/filialen/jumbo-willisau"
+street: Ettiswilerstrasse
+housenumber: "46"
+phone: +41 41 972 62 72
+opening_hours: Mo-Th 08:30-19:00; Fr 08:30-21:00; Sa 08:00-17:00
+website: https://www.jumbo.ch/de/filialen/jumbo-willisau

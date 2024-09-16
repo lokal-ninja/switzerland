@@ -4,8 +4,8 @@ latitude: 47.46761
 longitude: 8.32164
 postcode: "5430"
 city: Wettingen
-street: "Staffelstrasse"
-housenumber: 61
-phone: "+41 56 426 49 29"
-opening_hours: "Mo 13:30-18:30; Tu-Fr 08:30-12:00,13:30-18:30; Sa 08:30-17:00"
-website: "https://playlandag.ch/"
+street: Staffelstrasse
+housenumber: "61"
+phone: +41 56 426 49 29
+opening_hours: Mo 13:30-18:30; Tu-Fr 08:30-12:00,13:30-18:30; Sa 08:30-17:00
+website: https://playlandag.ch/

@@ -4,8 +4,8 @@ latitude: 47.47309
 longitude: 8.30787
 postcode: "5400"
 city: Baden
-street: "Weite Gasse"
-housenumber: 37
-phone: "+41 56 203 32 20"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"
-website: "https://www.hotelplan.ch/hotelplan-baden"
+street: Weite Gasse
+housenumber: "37"
+phone: +41 56 203 32 20
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00
+website: https://www.hotelplan.ch/hotelplan-baden

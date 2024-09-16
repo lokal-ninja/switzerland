@@ -1,11 +1,11 @@
 id: 318936315
-type: way
+type: node
 latitude: 47.35601
 longitude: 8.27578
 postcode: "5610"
 city: Wohlen AG
-street: "Anglikerstrasse"
-housenumber: 2
+street: Anglikerstrasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

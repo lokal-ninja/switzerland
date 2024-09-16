@@ -1,11 +1,11 @@
 id: 55806894
-type: way
+type: node
 latitude: 47.52977
 longitude: 7.80868
 postcode: "4312"
 city: Magden
-street: "Hauptstrasse"
-housenumber: 57
+street: Hauptstrasse
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

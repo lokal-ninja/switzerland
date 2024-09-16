@@ -4,8 +4,8 @@ latitude: 47.12703
 longitude: 8.746
 postcode: "8840"
 city: Einsiedeln
-street: "Schwanenstrasse"
-housenumber: 3
-phone: "+41 55 412 43 33"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:00; Sa 08:00-12:00"
-website: "https://texsana.ch/filiale-einsiedeln"
+street: Schwanenstrasse
+housenumber: "3"
+phone: +41 55 412 43 33
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:00; Sa 08:00-12:00
+website: https://texsana.ch/filiale-einsiedeln

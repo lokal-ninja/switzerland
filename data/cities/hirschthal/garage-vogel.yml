@@ -1,11 +1,11 @@
 id: 191498519
-type: way
+type: node
 latitude: 47.32274
 longitude: 8.05391
 postcode: "5042"
 city: Hirschthal
-street: "Hauptstrasse"
-housenumber: 38
+street: Hauptstrasse
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

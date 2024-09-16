@@ -4,8 +4,8 @@ latitude: 46.94883
 longitude: 7.39679
 postcode: "3027"
 city: Bern
-street: "Bümplizstrasse"
-housenumber: 8
+street: Bümplizstrasse
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.migrolino.ch/de/standorte/socar-bern-bumpliz/"
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.migrolino.ch/de/standorte/socar-bern-bumpliz/

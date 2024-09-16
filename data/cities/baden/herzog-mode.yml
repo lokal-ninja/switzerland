@@ -4,8 +4,8 @@ latitude: 47.47224
 longitude: 8.3077
 postcode: "5400"
 city: Baden
-street: "Weite Gasse"
-housenumber: 16
+street: Weite Gasse
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://www.herzog-mode.ch/baden"
+website: https://www.herzog-mode.ch/baden

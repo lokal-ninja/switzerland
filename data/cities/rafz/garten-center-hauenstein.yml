@@ -1,11 +1,11 @@
 id: 49714313
-type: way
+type: node
 latitude: 47.60803
 longitude: 8.54339
 postcode: "8197"
 city: Rafz
-street: "Imstlerwäg"
-housenumber: 2
-phone: "+41 44 879 11 60"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 08:00-17:00"
-website: "https://www.hauenstein-rafz.ch/de/gartencenter/rafz/"
+street: Imstlerwäg
+housenumber: "2"
+phone: +41 44 879 11 60
+opening_hours: Mo-Fr 09:00-18:30; Sa 08:00-17:00
+website: https://www.hauenstein-rafz.ch/de/gartencenter/rafz/

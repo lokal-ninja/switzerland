@@ -4,8 +4,8 @@ latitude: 47.42064
 longitude: 9.36514
 postcode: "9000"
 city: St. Gallen
-street: "St. Leonhard-Strasse"
-housenumber: 69
-phone: "+41 76 222 86 86"
-opening_hours: "Tu-Fr 16:00-19:00; Sa 10:00-12:00"
-website: "https://www.velotob.ch"
+street: St. Leonhard-Strasse
+housenumber: "69"
+phone: +41 76 222 86 86
+opening_hours: Tu-Fr 16:00-19:00; Sa 10:00-12:00
+website: https://www.velotob.ch

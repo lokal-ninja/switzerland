@@ -1,11 +1,11 @@
 id: 504574665
-type: way
+type: node
 latitude: 46.77887
 longitude: 9.22129
 postcode: ""
 city: Schluein
-street: "Via Isla"
-housenumber: 51
+street: Via Isla
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Fr 07:30-20:00; Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-20:00; Sa 07:30-18:00
 website: ""

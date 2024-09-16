@@ -4,8 +4,8 @@ latitude: 47.0412
 longitude: 9.06796
 postcode: "8750"
 city: Glarus
-street: "Kirchstrasse"
-housenumber: 8
-phone: "+41 76 511 22 06"
-opening_hours: "We,Fr 09:00-12:30,14:00-18:30; Sa 08:00-16:00"
-website: "https://www.ursis-fuellbar.ch"
+street: Kirchstrasse
+housenumber: "8"
+phone: +41 76 511 22 06
+opening_hours: We,Fr 09:00-12:30,14:00-18:30; Sa 08:00-16:00
+website: https://www.ursis-fuellbar.ch

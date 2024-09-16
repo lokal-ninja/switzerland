@@ -4,8 +4,8 @@ latitude: 47.55532
 longitude: 7.79775
 postcode: "4310"
 city: Rheinfelden
-street: "Lindenstrasse"
-housenumber: 3
+street: Lindenstrasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-We 08:00-19:00, Th-Fr 08:00-20:00, Sa 07:30-18:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-rheinfelden"
+opening_hours: Mo-We 08:00-19:00, Th-Fr 08:00-20:00, Sa 07:30-18:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-rheinfelden

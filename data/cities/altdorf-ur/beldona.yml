@@ -4,8 +4,8 @@ latitude: 46.88116
 longitude: 8.64389
 postcode: "6460"
 city: Altdorf UR
-street: "Schmiedgasse"
-housenumber: 5
+street: Schmiedgasse
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Fr 08:30-12:00; Mo-Fr 13:30-18:30; Sa 08:30-16:00"
-website: "https://www.beldona.com/"
+opening_hours: Tu-Fr 08:30-12:00; Mo-Fr 13:30-18:30; Sa 08:30-16:00
+website: https://www.beldona.com/

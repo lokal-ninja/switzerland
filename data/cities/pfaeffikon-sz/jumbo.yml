@@ -1,11 +1,11 @@
 id: 150270005
-type: way
+type: node
 latitude: 47.20213
 longitude: 8.78976
 postcode: "8808"
 city: Pfäffikon (SZ)
-street: "Churerstrasse"
-housenumber: 133
+street: Churerstrasse
+housenumber: "133"
 phone: ""
 opening_hours: ""
 website: ""

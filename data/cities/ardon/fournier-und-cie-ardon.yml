@@ -4,8 +4,8 @@ latitude: 46.20498
 longitude: 7.26763
 postcode: "1957"
 city: Ardon
-street: "Rue de Transit-Sud"
-housenumber: 31
-phone: "+41 27 305 30 20"
-opening_hours: "Mo-Fr 07:00-17:30"
-website: "https://www.fournierbois.ch/"
+street: Rue de Transit-Sud
+housenumber: "31"
+phone: +41 27 305 30 20
+opening_hours: Mo-Fr 07:00-17:30
+website: https://www.fournierbois.ch/

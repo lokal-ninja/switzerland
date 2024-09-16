@@ -4,8 +4,8 @@ latitude: 47.37088
 longitude: 8.54152
 postcode: "8001"
 city: Zürich
-street: "Storchengasse"
-housenumber: 12
+street: Storchengasse
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.valentino.com/"
+website: https://www.valentino.com/

@@ -4,8 +4,8 @@ latitude: 47.05277
 longitude: 8.30576
 postcode: "6004"
 city: Luzern
-street: "Weggisgasse"
-housenumber: 25
+street: Weggisgasse
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "http://www.kurzschmuckuhren.ch/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: http://www.kurzschmuckuhren.ch/

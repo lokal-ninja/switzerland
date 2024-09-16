@@ -4,8 +4,8 @@ latitude: 47.35773
 longitude: 8.5235
 postcode: "8045"
 city: Zürich
-street: "Kalanderplatz"
-housenumber: 1
+street: Kalanderplatz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.laderach.com/de/locations/location-details/zürich-sihlcity-zürich-77"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.laderach.com/de/locations/location-details/zürich-sihlcity-zürich-77

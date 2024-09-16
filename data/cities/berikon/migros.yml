@@ -1,11 +1,11 @@
 id: 164483435
-type: way
+type: node
 latitude: 47.36313
 longitude: 8.36572
 postcode: "8965"
 city: Berikon
-street: "Bellikerstrasse"
-housenumber: 13
+street: Bellikerstrasse
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-We 08:00-19:00;Th-Fr 08:00-20:00;Sa 08:00-18:00;PH closed"
-website: "https://filialen.migros.ch/de/migros-supermarkt-berikon-mutschellen"
+opening_hours: Mo-We 08:00-19:00;Th-Fr 08:00-20:00;Sa 08:00-18:00;PH closed
+website: https://filialen.migros.ch/de/migros-supermarkt-berikon-mutschellen

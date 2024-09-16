@@ -4,8 +4,8 @@ latitude: 46.55918
 longitude: 6.63614
 postcode: "1052"
 city: Le Mont-sur-Lausanne
-street: "Place de Coppoz"
-housenumber: 6
+street: Place de Coppoz
+housenumber: "6"
 phone: "+41216526883"
-opening_hours: "Mo-Th 07:30-12:00, 13:30-17:30; Fr 07:30-12:00, 13:30-17:00"
-website: "https://www.garage-croix-blanche.ch"
+opening_hours: Mo-Th 07:30-12:00, 13:30-17:30; Fr 07:30-12:00, 13:30-17:00
+website: https://www.garage-croix-blanche.ch

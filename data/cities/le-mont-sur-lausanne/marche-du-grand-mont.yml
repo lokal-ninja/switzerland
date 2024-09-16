@@ -4,8 +4,8 @@ latitude: 46.56224
 longitude: 6.63232
 postcode: "1052"
 city: Le Mont-sur-Lausanne
-street: "Route du Grand Mont"
-housenumber: 16
-phone: "+41 21 653 24 49"
-opening_hours: "Mo-Fr 08:00-12:30, 14:00-18:30; Sa 08:00-12:30, 13:30-16:30; Su 08:00-12:30"
+street: Route du Grand Mont
+housenumber: "16"
+phone: +41 21 653 24 49
+opening_hours: Mo-Fr 08:00-12:30, 14:00-18:30; Sa 08:00-12:30, 13:30-16:30; Su 08:00-12:30
 website: ""

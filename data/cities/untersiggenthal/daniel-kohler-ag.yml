@@ -1,11 +1,11 @@
 id: 219931576
-type: way
+type: node
 latitude: 47.49663
 longitude: 8.26829
 postcode: "5417"
 city: Untersiggenthal
-street: "Landstrasse"
-housenumber: 15
+street: Landstrasse
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://www.garage-kohler.ch/"
+website: https://www.garage-kohler.ch/

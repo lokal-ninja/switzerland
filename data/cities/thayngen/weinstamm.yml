@@ -1,11 +1,11 @@
 id: 609943508
-type: way
+type: node
 latitude: 47.74525
 longitude: 8.70812
 postcode: "8240"
 city: Thayngen
-street: "Tonwerkstrasse"
-housenumber: 4
+street: Tonwerkstrasse
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-We 16:00-19:00; Th-Fr 10:00-12:00, 16:00-19:00; Sa 10:00-14:00"
-website: "https://weinstamm.ch/"
+opening_hours: Tu-We 16:00-19:00; Th-Fr 10:00-12:00, 16:00-19:00; Sa 10:00-14:00
+website: https://weinstamm.ch/

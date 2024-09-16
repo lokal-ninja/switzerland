@@ -4,8 +4,8 @@ latitude: 47.54816
 longitude: 7.58939
 postcode: "4001"
 city: Basel
-street: "Centralbahnplatz"
-housenumber: 7
+street: Centralbahnplatz
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.confiserie-bachmann.ch/confiserie-bachmann-basel-bahnhof-sbb/"
+website: https://www.confiserie-bachmann.ch/confiserie-bachmann-basel-bahnhof-sbb/

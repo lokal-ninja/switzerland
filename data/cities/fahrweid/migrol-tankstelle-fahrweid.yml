@@ -4,8 +4,8 @@ latitude: 47.41307
 longitude: 8.41498
 postcode: "8951"
 city: Fahrweid
-street: "Fahrweidstrasse"
-housenumber: 54
+street: Fahrweidstrasse
+housenumber: "54"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.migrol.ch/de/"
+opening_hours: 24/7
+website: https://www.migrol.ch/de/

@@ -1,11 +1,11 @@
 id: 32119736
-type: way
+type: node
 latitude: 47.31217
 longitude: 8.72124
 postcode: "8617"
 city: Mönchaltorf
-street: "Usterstrasse"
-housenumber: 31
+street: Usterstrasse
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

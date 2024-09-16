@@ -4,8 +4,8 @@ latitude: 47.50242
 longitude: 7.59606
 postcode: "4153"
 city: Reinach BL
-street: "Niederbergstrasse"
-housenumber: 1
+street: Niederbergstrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-17:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-reinach-mischeli"
+opening_hours: Mo-Fr 08:00-19:00, Sa 08:00-17:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-reinach-mischeli

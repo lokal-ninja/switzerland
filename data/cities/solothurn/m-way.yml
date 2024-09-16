@@ -4,8 +4,9 @@ latitude: 47.21008
 longitude: 7.53026
 postcode: "4500"
 city: Solothurn
-street: "Bielstrasse"
-housenumber: 32
+street: Bielstrasse
+housenumber: "32"
 phone: ""
-opening_hours: "Nov-Feb: Tu-Fr 10:00-13:00,14:00-18:30; Nov-Feb: Sa 10:00-16:00; Mar-Oct: Tu-Fr 09:30-18:30; Mar-Oct: Sa 09:30-16:00; PH off"
+opening_hours: 'Nov-Feb: Tu-Fr 10:00-13:00,14:00-18:30; Nov-Feb: Sa 10:00-16:00; Mar-Oct:
+    Tu-Fr 09:30-18:30; Mar-Oct: Sa 09:30-16:00; PH off'
 website: ""

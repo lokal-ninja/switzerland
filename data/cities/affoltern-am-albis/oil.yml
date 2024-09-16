@@ -1,11 +1,11 @@
 id: 172395138
-type: way
+type: node
 latitude: 47.27268
 longitude: 8.43901
 postcode: "8910"
 city: Affoltern am Albis
-street: "Moosbachstrasse"
-housenumber: 2
+street: Moosbachstrasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

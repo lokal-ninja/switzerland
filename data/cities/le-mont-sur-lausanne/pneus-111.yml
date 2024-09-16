@@ -1,11 +1,11 @@
 id: 321990542
-type: way
+type: node
 latitude: 46.54324
 longitude: 6.6345
 postcode: ""
 city: Le Mont-sur-Lausanne
-street: "Route des Martines"
-housenumber: 111
+street: Route des Martines
+housenumber: "111"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00, 13:30-18:00; Fr 08:00-12:00, 13:30-17:00; Sa 08:00-12:00"
+opening_hours: Mo-Th 08:00-12:00, 13:30-18:00; Fr 08:00-12:00, 13:30-17:00; Sa 08:00-12:00
 website: ""

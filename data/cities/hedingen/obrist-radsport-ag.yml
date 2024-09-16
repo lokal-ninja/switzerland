@@ -4,8 +4,8 @@ latitude: 47.30016
 longitude: 8.44829
 postcode: "8908"
 city: Hedingen
-street: "Zürcherstrasse"
-housenumber: 31
-phone: "+41 44 761 00 56"
-opening_hours: "Tu-Fr 08:00-12:00,13:30-18:30; Sa 08:00-16:00; Su-Mo off"
-website: "https://www.2rad.ch/"
+street: Zürcherstrasse
+housenumber: "31"
+phone: +41 44 761 00 56
+opening_hours: Tu-Fr 08:00-12:00,13:30-18:30; Sa 08:00-16:00; Su-Mo off
+website: https://www.2rad.ch/

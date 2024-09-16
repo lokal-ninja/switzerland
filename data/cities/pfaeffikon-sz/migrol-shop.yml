@@ -4,8 +4,8 @@ latitude: 47.20056
 longitude: 8.79125
 postcode: "8808"
 city: Pfäffikon SZ
-street: "Gwattstrasse"
-housenumber: 7
+street: Gwattstrasse
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:15, Sa 08:00-18:00; PH off"
-website: "https://www.migrol.ch/de/"
+opening_hours: Mo-Fr 07:00-21:15, Sa 08:00-18:00; PH off
+website: https://www.migrol.ch/de/

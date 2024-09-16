@@ -1,11 +1,11 @@
 id: 101766495
-type: way
+type: node
 latitude: 47.45721
 longitude: 8.7724
 postcode: "8483"
 city: Kollbrunn
-street: "Tösstalstrasse"
-housenumber: 31
+street: Tösstalstrasse
+housenumber: "31"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.migrol.ch/de/"
+opening_hours: 24/7
+website: https://www.migrol.ch/de/

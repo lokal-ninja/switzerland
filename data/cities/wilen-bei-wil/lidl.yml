@@ -1,11 +1,11 @@
 id: 327870440
-type: way
+type: node
 latitude: 47.45412
 longitude: 9.04081
 postcode: "9535"
 city: Wilen bei Wil
-street: "Glärnischstrasse"
-housenumber: 5
+street: Glärnischstrasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-We,Fr,Sa 07:30-20:00; Th 07:30-21:00"
+opening_hours: Mo-We,Fr,Sa 07:30-20:00; Th 07:30-21:00
 website: ""

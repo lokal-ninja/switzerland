@@ -4,8 +4,8 @@ latitude: 47.23273
 longitude: 8.83675
 postcode: "8645"
 city: Jona
-street: "Almeindstrassse"
-housenumber: 29
-phone: "+41 55 212 85 86"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:30; Sa 08:00-16:00"
-website: "https://www.blumen-jasmin.ch/"
+street: Almeindstrassse
+housenumber: "29"
+phone: +41 55 212 85 86
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:30; Sa 08:00-16:00
+website: https://www.blumen-jasmin.ch/

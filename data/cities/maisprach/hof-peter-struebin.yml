@@ -4,8 +4,8 @@ latitude: 47.52443
 longitude: 7.84675
 postcode: "4464"
 city: Maisprach
-street: "Wintersingerstrasse"
-housenumber: 2
-phone: "+41 61 841 20 48"
-opening_hours: "Fr 06:00-19:00; Sa 07:00-12:00"
-website: "http://www.struebin-maisprach.ch/"
+street: Wintersingerstrasse
+housenumber: "2"
+phone: +41 61 841 20 48
+opening_hours: Fr 06:00-19:00; Sa 07:00-12:00
+website: http://www.struebin-maisprach.ch/

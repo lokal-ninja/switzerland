@@ -4,8 +4,10 @@ latitude: 47.41907
 longitude: 7.81222
 postcode: "4457"
 city: Diegten
-street: "Hof Grund"
-housenumber: 8
-phone: "+41 61 971 27 44"
-opening_hours: "Öpfelegge: (Hof Grund) Mo-So 8-20 Uhr (Selbstbedienung) Bedienung: Fr. 13.30-17.30 Uhr Sa. 8 -12 Uhr. Selbstbedienungsstand (nur Äpfel)  8-20 Uhr Hauptstrasse 82, Diegten."
-website: "https://www.oepfelegge.ch/"
+street: Hof Grund
+housenumber: "8"
+phone: +41 61 971 27 44
+opening_hours: 'Öpfelegge: (Hof Grund) Mo-So 8-20 Uhr (Selbstbedienung) Bedienung:
+    Fr. 13.30-17.30 Uhr Sa. 8 -12 Uhr. Selbstbedienungsstand (nur Äpfel)  8-20 Uhr
+    Hauptstrasse 82, Diegten.'
+website: https://www.oepfelegge.ch/

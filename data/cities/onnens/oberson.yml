@@ -4,8 +4,8 @@ latitude: 46.7746
 longitude: 7.03729
 postcode: "1756"
 city: Onnens
-street: "Route de l'Ecole"
-housenumber: 22
-phone: "+41 26 470 20 50"
-opening_hours: "Mo-Fr 07:00-12:00,14:00-18:30; We off; Sa 07:00-16:00; Su 07:30-11:30"
+street: Route de l'Ecole
+housenumber: "22"
+phone: +41 26 470 20 50
+opening_hours: Mo-Fr 07:00-12:00,14:00-18:30; We off; Sa 07:00-16:00; Su 07:30-11:30
 website: ""

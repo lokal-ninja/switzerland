@@ -1,11 +1,11 @@
 id: 237294760
-type: way
+type: node
 latitude: 47.50224
 longitude: 9.24568
 postcode: "8589"
 city: Sitterdorf
-street: "Amriswilerstrasse"
-housenumber: 43
+street: Amriswilerstrasse
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 346111523
-type: way
+type: node
 latitude: 46.7551
 longitude: 9.11787
 postcode: "7133"
 city: Affeier
-street: "Affeier"
-housenumber: 53
+street: Affeier
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,9 @@ latitude: 46.8972
 longitude: 8.62333
 postcode: "6454"
 city: Flüelen
-street: "Bahnhofstrasse"
-housenumber: 30
-phone: "+41 58 200 73 60"
-opening_hours: "Mo-Th 07:30-12:00, 13:30-17:30; Fr 07:30-12:00, 13:30-17:00; Sa,Su,PH off"
+street: Bahnhofstrasse
+housenumber: "30"
+phone: +41 58 200 73 60
+opening_hours: Mo-Th 07:30-12:00, 13:30-17:30; Fr 07:30-12:00, 13:30-17:00; Sa,Su,PH
+    off
 website: ""

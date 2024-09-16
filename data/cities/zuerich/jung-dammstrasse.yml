@@ -4,8 +4,8 @@ latitude: 47.39308
 longitude: 8.52923
 postcode: "8037"
 city: Zürich
-street: "Dammstrasse"
-housenumber: 54
-phone: "+41 44 271 16 55"
-opening_hours: "Mo-Fr 06:30-18:00, Sa 07:30-16:00, Su 08:00-14:00"
-website: "https://jung.ag/"
+street: Dammstrasse
+housenumber: "54"
+phone: +41 44 271 16 55
+opening_hours: Mo-Fr 06:30-18:00, Sa 07:30-16:00, Su 08:00-14:00
+website: https://jung.ag/

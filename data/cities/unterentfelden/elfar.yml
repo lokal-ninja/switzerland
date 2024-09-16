@@ -4,8 +4,8 @@ latitude: 47.36699
 longitude: 8.04297
 postcode: "5035"
 city: Unterentfelden
-street: "Feuerwehrweg"
-housenumber: 1
-phone: "+41 62 723 91 48"
+street: Feuerwehrweg
+housenumber: "1"
+phone: +41 62 723 91 48
 opening_hours: ""
-website: "https://www.elfar.ch/"
+website: https://www.elfar.ch/

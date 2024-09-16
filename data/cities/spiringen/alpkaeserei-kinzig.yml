@@ -1,11 +1,11 @@
 id: 863189520
-type: way
+type: node
 latitude: 46.90206
 longitude: 8.71689
 postcode: "6464"
 city: Spiringen
-street: "Bielstrasse"
+street: Bielstrasse
 housenumber: 10a
 phone: ""
 opening_hours: ""
-website: "https://www.alpkaeserei-kinzig.ch/"
+website: https://www.alpkaeserei-kinzig.ch/

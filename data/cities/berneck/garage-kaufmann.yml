@@ -4,8 +4,8 @@ latitude: 47.42797
 longitude: 9.62373
 postcode: "9442"
 city: Berneck
-street: "Auerstrasse"
-housenumber: 34
+street: Auerstrasse
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00,13:30-17:30; Sa 08:00-12:00"
-website: "https://www.kaufmann-garage.ch/"
+opening_hours: Mo-Fr 07:30-12:00,13:30-17:30; Sa 08:00-12:00
+website: https://www.kaufmann-garage.ch/

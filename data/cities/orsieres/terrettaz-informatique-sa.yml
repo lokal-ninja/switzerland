@@ -1,11 +1,11 @@
 id: 285468906
-type: way
+type: node
 latitude: 46.02762
 longitude: 7.14339
 postcode: "1937"
 city: Orsières
-street: "Route des Ecoles"
-housenumber: 10
-phone: "+41 27 783 50 50"
+street: Route des Ecoles
+housenumber: "10"
+phone: +41 27 783 50 50
 opening_hours: ""
-website: "https://www.terrettaz.ch"
+website: https://www.terrettaz.ch

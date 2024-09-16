@@ -4,8 +4,8 @@ latitude: 46.95731
 longitude: 7.4855
 postcode: "3072"
 city: Ostermundigen
-street: "Bernstrasse"
-housenumber: 49
+street: Bernstrasse
+housenumber: "49"
 phone: ""
-opening_hours: "Mo off; Tu-Fr 08:30-12:30, 13:30-18:30; Sa 08:30-14:00; Su 09:00-12:00"
-website: "https://derflorist.ch/"
+opening_hours: Mo off; Tu-Fr 08:30-12:30, 13:30-18:30; Sa 08:30-14:00; Su 09:00-12:00
+website: https://derflorist.ch/

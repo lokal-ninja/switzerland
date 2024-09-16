@@ -4,8 +4,8 @@ latitude: 47.37433
 longitude: 8.50296
 postcode: "8055"
 city: Zürich
-street: "Gutstrasse"
-housenumber: 160
+street: Gutstrasse
+housenumber: "160"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "http://fusspflege-maria.ch/"
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-14:00
+website: http://fusspflege-maria.ch/

@@ -4,8 +4,8 @@ latitude: 47.3858
 longitude: 8.53173
 postcode: "8005"
 city: Zürich
-street: "Limmatstrasse"
-housenumber: 152
+street: Limmatstrasse
+housenumber: "152"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
-website: "https://www.exlibris.ch/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
+website: https://www.exlibris.ch/

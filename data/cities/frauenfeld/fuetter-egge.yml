@@ -4,8 +4,8 @@ latitude: 47.56639
 longitude: 8.85875
 postcode: ""
 city: Frauenfeld
-street: "Schaffhauserstrasse"
-housenumber: 181
+street: Schaffhauserstrasse
+housenumber: "181"
 phone: ""
-opening_hours: "Mo-Th 09:30-12:00,13:15-17:00; Fr 09:30-12:00,13:15-16:30; PH off"
-website: "https://www.thurtalfutter.ch/futterverkaufsladen/"
+opening_hours: Mo-Th 09:30-12:00,13:15-17:00; Fr 09:30-12:00,13:15-16:30; PH off
+website: https://www.thurtalfutter.ch/futterverkaufsladen/

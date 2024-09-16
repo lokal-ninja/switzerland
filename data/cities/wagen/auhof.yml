@@ -4,8 +4,8 @@ latitude: 47.22595
 longitude: 8.87315
 postcode: "8646"
 city: Wagen
-street: "Austrasse"
-housenumber: 66
+street: Austrasse
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:30; Sa 08:00-15:00; PH off"
-website: "https://www.auhofwagen.ch/"
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:30; Sa 08:00-15:00; PH off
+website: https://www.auhofwagen.ch/

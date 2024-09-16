@@ -1,11 +1,11 @@
 id: 93634863
-type: way
+type: node
 latitude: 47.08196
 longitude: 8.28346
 postcode: "6020"
 city: Emmenbrücke
-street: "Rüeggisingerstrasse"
-housenumber: 61
+street: Rüeggisingerstrasse
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

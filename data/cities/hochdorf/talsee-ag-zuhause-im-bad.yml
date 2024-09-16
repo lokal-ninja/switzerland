@@ -1,11 +1,11 @@
 id: 192270865
-type: way
+type: node
 latitude: 47.16401
 longitude: 8.2797
 postcode: "6280"
 city: Hochdorf
-street: "4B Strasse"
-housenumber: 1
-phone: "+41 41 914 59 59"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-17:30; Sa 09:00-13:00"
+street: 4B Strasse
+housenumber: "1"
+phone: +41 41 914 59 59
+opening_hours: Mo-Fr 08:00-12:00,13:30-17:30; Sa 09:00-13:00
 website: ""

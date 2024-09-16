@@ -4,8 +4,9 @@ latitude: 46.64128
 longitude: 6.63381
 postcode: "1040"
 city: Echallens
-street: "Grand'Rue"
-housenumber: 5
-phone: "+41 21 881 15 80"
-opening_hours: "Ma-Me 09:00-12:00, 14:00-18:00; Je 09:00-12:00; Ve 14:00-18:00; Sa 09:00-12:00, 14:00-16:00"
-website: "https://marinebrunner.ch/"
+street: Grand'Rue
+housenumber: "5"
+phone: +41 21 881 15 80
+opening_hours: Ma-Me 09:00-12:00, 14:00-18:00; Je 09:00-12:00; Ve 14:00-18:00; Sa
+    09:00-12:00, 14:00-16:00
+website: https://marinebrunner.ch/

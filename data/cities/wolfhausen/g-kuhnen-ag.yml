@@ -4,8 +4,8 @@ latitude: 47.255
 longitude: 8.79675
 postcode: "8633"
 city: Wolfhausen
-street: "Landstrasse"
-housenumber: 1
+street: Landstrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo 13:30-18:00; Fr 13:30-18:00; Sa 08:00-12:00"
-website: "https://www.kuhnen.ch/"
+opening_hours: Mo 13:30-18:00; Fr 13:30-18:00; Sa 08:00-12:00
+website: https://www.kuhnen.ch/

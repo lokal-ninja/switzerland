@@ -1,11 +1,11 @@
 id: 341919449
-type: way
+type: node
 latitude: 46.08154
 longitude: 7.50828
 postcode: "1984"
 city: Les Haudères
-street: "Route Principale"
-housenumber: 56
-phone: "+41 27 283 22 54"
+street: Route Principale
+housenumber: "56"
+phone: +41 27 283 22 54
 opening_hours: ""
 website: ""

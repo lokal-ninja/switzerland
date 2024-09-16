@@ -4,8 +4,8 @@ latitude: 46.54475
 longitude: 6.58772
 postcode: "1020"
 city: RENENS
-street: "Av. des Baumettes"
-housenumber: 13
-phone: "+41 21 636 35 05"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.franic.eu/"
+street: Av. des Baumettes
+housenumber: "13"
+phone: +41 21 636 35 05
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.franic.eu/

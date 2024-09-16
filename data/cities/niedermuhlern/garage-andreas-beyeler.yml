@@ -1,11 +1,11 @@
 id: 408582332
-type: way
+type: node
 latitude: 46.86373
 longitude: 7.45474
 postcode: "3087"
 city: Niedermuhlern
-street: "Brügglimatt"
-housenumber: 157
+street: Brügglimatt
+housenumber: "157"
 phone: ""
 opening_hours: ""
 website: ""

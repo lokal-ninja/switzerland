@@ -1,11 +1,11 @@
 id: 213519622
-type: way
+type: node
 latitude: 47.33768
 longitude: 9.08391
 postcode: "9615"
 city: Dietfurt
-street: "Langensteig"
-housenumber: 11
-phone: "071 980 04 77"
-opening_hours: "Mo-Fr 07:30-11:45,13:00-17:30; Sa 09:00-12:00"
+street: Langensteig
+housenumber: "11"
+phone: 071 980 04 77
+opening_hours: Mo-Fr 07:30-11:45,13:00-17:30; Sa 09:00-12:00
 website: ""

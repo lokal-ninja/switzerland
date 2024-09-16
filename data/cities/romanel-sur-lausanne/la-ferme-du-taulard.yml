@@ -4,8 +4,8 @@ latitude: 46.56584
 longitude: 6.59432
 postcode: "1032"
 city: Romanel-sur-Lausanne
-street: "Chemin du Boulard"
-housenumber: 1
-phone: "+41 21 647 81 22"
-opening_hours: "Tu, Fr 15:00-18:30"
-website: "https://www.taulard.ch"
+street: Chemin du Boulard
+housenumber: "1"
+phone: +41 21 647 81 22
+opening_hours: Tu, Fr 15:00-18:30
+website: https://www.taulard.ch

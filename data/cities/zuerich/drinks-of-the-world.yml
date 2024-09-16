@@ -5,7 +5,7 @@ longitude: 8.54056
 postcode: "8001"
 city: Zürich
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 09:00-22:00"
-website: "https://beerworld.ch/"
+opening_hours: Mo-Su 09:00-22:00
+website: https://beerworld.ch/

@@ -1,11 +1,11 @@
 id: 206425604
-type: way
+type: node
 latitude: 47.25925
 longitude: 8.18395
 postcode: "5734"
 city: Reinach AG
-street: "Sandgasse"
-housenumber: 23
-phone: "+41 62 771 47 91"
+street: Sandgasse
+housenumber: "23"
+phone: +41 62 771 47 91
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.37584
 longitude: 7.87369
 postcode: "4463"
 city: Hauenstein-Ifenthal
-street: "Neumatt"
-housenumber: 1
-phone: "+41 32 665 35 11"
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://neumatt1.ch/"
+street: Neumatt
+housenumber: "1"
+phone: +41 32 665 35 11
+opening_hours: Mo-Sa 08:00-19:00
+website: https://neumatt1.ch/

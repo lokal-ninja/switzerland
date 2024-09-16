@@ -1,11 +1,11 @@
 id: 268204756
-type: way
+type: node
 latitude: 47.2779
 longitude: 8.81874
 postcode: "8608"
 city: Bubikon
-street: "Industriestrasse"
-housenumber: 2
-phone: "+41 55 246 15 85"
+street: Industriestrasse
+housenumber: "2"
+phone: +41 55 246 15 85
 opening_hours: ""
-website: "https://www.minnig-metzgerei.ch/"
+website: https://www.minnig-metzgerei.ch/

@@ -4,8 +4,8 @@ latitude: 47.36079
 longitude: 7.91412
 postcode: "4601"
 city: Olten
-street: "Industriestrasse"
-housenumber: 78
+street: Industriestrasse
+housenumber: "78"
 phone: ""
-opening_hours: "Tu-Fr 16:30-18:30; Sa 10:00-16:00; PH off"
-website: "https://www.delinat.com/weindepot-olten"
+opening_hours: Tu-Fr 16:30-18:30; Sa 10:00-16:00; PH off
+website: https://www.delinat.com/weindepot-olten

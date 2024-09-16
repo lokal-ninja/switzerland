@@ -4,8 +4,8 @@ latitude: 47.37629
 longitude: 8.54404
 postcode: "8001"
 city: Zürich
-street: "Niederdorfstrasse"
-housenumber: 90
+street: Niederdorfstrasse
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:30-17:30"
+opening_hours: Mo-Fr 09:00-20:00; Sa 08:30-17:30
 website: ""

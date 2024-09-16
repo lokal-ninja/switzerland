@@ -4,8 +4,8 @@ latitude: 47.27936
 longitude: 7.37131
 postcode: "2740"
 city: Moutier
-street: "Rue Centrale"
-housenumber: 72
-phone: "+41 79 583 25 39"
-opening_hours: "Tu-Fr 09:00-11:00,14:00-18:00; Sa 09:00-11:30"
-website: "https://www.mdm.ch/magasins/moutier"
+street: Rue Centrale
+housenumber: "72"
+phone: +41 79 583 25 39
+opening_hours: Tu-Fr 09:00-11:00,14:00-18:00; Sa 09:00-11:30
+website: https://www.mdm.ch/magasins/moutier

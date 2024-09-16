@@ -4,8 +4,8 @@ latitude: 47.37891
 longitude: 8.50916
 postcode: "8004"
 city: Zürich
-street: "Badenerstrasse"
-housenumber: 368
+street: Badenerstrasse
+housenumber: "368"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-16:00; PH off"
-website: "https://albisschneiderei.ch/"
+opening_hours: Mo-Fr 09:00-18:30, Sa 09:00-16:00; PH off
+website: https://albisschneiderei.ch/

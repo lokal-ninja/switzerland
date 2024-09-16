@@ -4,8 +4,8 @@ latitude: 47.05585
 longitude: 8.31072
 postcode: "6000"
 city: Luzern
-street: "Alpenstrasse"
-housenumber: 12
+street: Alpenstrasse
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.hotelplan.ch/hotelplan-luzern"
+website: https://www.hotelplan.ch/hotelplan-luzern

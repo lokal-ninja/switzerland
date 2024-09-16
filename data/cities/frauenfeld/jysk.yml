@@ -4,8 +4,8 @@ latitude: 47.55607
 longitude: 8.89342
 postcode: "8500"
 city: Frauenfeld
-street: "Bahnhofstrasse"
-housenumber: 53
+street: Bahnhofstrasse
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Th 09:00-18:30; Fr 09:00-19:00; Sa 08:30-17:00; PH closed"
-website: "https://www.jysk.ch/"
+opening_hours: Mo-Th 09:00-18:30; Fr 09:00-19:00; Sa 08:30-17:00; PH closed
+website: https://www.jysk.ch/

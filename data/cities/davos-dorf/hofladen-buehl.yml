@@ -4,8 +4,8 @@ latitude: 46.80379
 longitude: 9.84057
 postcode: "7260"
 city: Davos Dorf
-street: "Dischmastrasse"
-housenumber: 29
+street: Dischmastrasse
+housenumber: "29"
 phone: ""
-opening_hours: "24/7"
-website: "http://www.hoffmann-davos.ch/"
+opening_hours: 24/7
+website: http://www.hoffmann-davos.ch/

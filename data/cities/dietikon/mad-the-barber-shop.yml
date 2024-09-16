@@ -4,8 +4,8 @@ latitude: 47.40494
 longitude: 8.40111
 postcode: "8953"
 city: Dietikon
-street: "Zentralstrasse"
-housenumber: 8
+street: Zentralstrasse
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.madbarber.ch/filiale-dietikon/"
+website: https://www.madbarber.ch/filiale-dietikon/

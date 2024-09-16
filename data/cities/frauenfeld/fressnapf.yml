@@ -4,8 +4,8 @@ latitude: 47.56442
 longitude: 8.91041
 postcode: "8500"
 city: Frauenfeld
-street: "Zürcherstrasse"
-housenumber: 306
+street: Zürcherstrasse
+housenumber: "306"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
-website: "https://www.fressnapf.ch/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
+website: https://www.fressnapf.ch/

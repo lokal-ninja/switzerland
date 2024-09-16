@@ -4,8 +4,8 @@ latitude: 47.42657
 longitude: 9.24179
 postcode: "9200"
 city: Gossau SG
-street: "Bischofszellerstrasse"
-housenumber: 126
-phone: "+41 58 400 64 50"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-16:00"
-website: "http://www.landifuerstenland.ch"
+street: Bischofszellerstrasse
+housenumber: "126"
+phone: +41 58 400 64 50
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-16:00
+website: http://www.landifuerstenland.ch

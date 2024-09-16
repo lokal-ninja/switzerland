@@ -4,8 +4,8 @@ latitude: 46.7955
 longitude: 9.82484
 postcode: "7270"
 city: Davos Platz
-street: "Talstrasse"
-housenumber: 22
+street: Talstrasse
+housenumber: "22"
 phone: "+41814133909"
-opening_hours: "Tu-Fr 10:00-13:00,14:30-18:00; Sa 09:00-15:00; Su,Mo off"
-website: "https://www.ivansvelosport.ch/"
+opening_hours: Tu-Fr 10:00-13:00,14:30-18:00; Sa 09:00-15:00; Su,Mo off
+website: https://www.ivansvelosport.ch/

@@ -4,8 +4,8 @@ latitude: 46.96562
 longitude: 7.45929
 postcode: "3014"
 city: Bern
-street: "Wankdorffeldstrasse"
-housenumber: 90
+street: Wankdorffeldstrasse
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-We 09:00-19:00, Th-Fr 09:00-20:00, Sa 08:00-17:00; PH off"
-website: "https://www.micasa.ch/"
+opening_hours: Mo-We 09:00-19:00, Th-Fr 09:00-20:00, Sa 08:00-17:00; PH off
+website: https://www.micasa.ch/

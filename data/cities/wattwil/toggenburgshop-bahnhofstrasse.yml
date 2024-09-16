@@ -4,8 +4,8 @@ latitude: 47.3013
 longitude: 9.086
 postcode: "9630"
 city: Wattwil
-street: "Bahnhofstrasse"
-housenumber: 4
+street: Bahnhofstrasse
+housenumber: "4"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.toggenburgshop.ch/"
+opening_hours: 24/7
+website: https://www.toggenburgshop.ch/

@@ -4,8 +4,8 @@ latitude: 47.37118
 longitude: 8.54419
 postcode: "8001"
 city: Zürich
-street: "Münstergasse"
-housenumber: 13
+street: Münstergasse
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://locodoro.ch"
+website: https://locodoro.ch

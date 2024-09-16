@@ -1,11 +1,11 @@
 id: 101768435
-type: way
+type: node
 latitude: 47.06428
 longitude: 8.28037
 postcode: "6015"
 city: Luzern
-street: "Ruopigenstrasse"
-housenumber: 18
+street: Ruopigenstrasse
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 10:30-18:30; Sa 09:00-16:00"
+opening_hours: Mo-Fr 10:30-18:30; Sa 09:00-16:00
 website: ""

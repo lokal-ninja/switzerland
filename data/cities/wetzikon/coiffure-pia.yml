@@ -4,8 +4,8 @@ latitude: 47.32002
 longitude: 8.79328
 postcode: "8620"
 city: Wetzikon
-street: "Bahnhofstrasse"
-housenumber: 31
+street: Bahnhofstrasse
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa 07:30-14:00"
-website: "https://www.coiffurepia.ch/"
+opening_hours: Mo-Fr 08:30-18:30; Sa 07:30-14:00
+website: https://www.coiffurepia.ch/

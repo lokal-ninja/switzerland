@@ -4,8 +4,8 @@ latitude: 46.23221
 longitude: 7.36061
 postcode: "1950"
 city: Sion
-street: "Rue de la Porte-Neuve"
-housenumber: 21
-phone: "+41 27 323 81 70"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 08:30-17:00"
-website: "https://www.gidor.ch/fr/filiale/sion/"
+street: Rue de la Porte-Neuve
+housenumber: "21"
+phone: +41 27 323 81 70
+opening_hours: Mo-Fr 09:00-18:30; Sa 08:30-17:00
+website: https://www.gidor.ch/fr/filiale/sion/

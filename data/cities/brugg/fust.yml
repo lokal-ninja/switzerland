@@ -4,8 +4,8 @@ latitude: 47.48321
 longitude: 8.20829
 postcode: "5200"
 city: Brugg
-street: "Hauptstrasse"
-housenumber: 2
+street: Hauptstrasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.fust.ch/"
+website: https://www.fust.ch/

@@ -1,11 +1,11 @@
 id: 223211191
-type: way
+type: node
 latitude: 47.19073
 longitude: 9.27711
 postcode: "9656"
 city: Alt St. Johann
-street: "Hauptstrasse"
-housenumber: 6
+street: Hauptstrasse
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

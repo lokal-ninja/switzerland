@@ -4,8 +4,8 @@ latitude: 46.79891
 longitude: 7.1532
 postcode: "1700"
 city: Fribourg
-street: "Boulevard de Pérolles"
-housenumber: 32
-phone: "+41 26 322 07 17"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-16:00"
-website: "https://boutiques-zigzag.ch"
+street: Boulevard de Pérolles
+housenumber: "32"
+phone: +41 26 322 07 17
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-16:00
+website: https://boutiques-zigzag.ch

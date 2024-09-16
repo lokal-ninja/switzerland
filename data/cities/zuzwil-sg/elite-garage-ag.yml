@@ -1,11 +1,11 @@
 id: 305011582
-type: way
+type: node
 latitude: 47.47222
 longitude: 9.11261
 postcode: "9524"
 city: Zuzwil SG
-street: "Industriestrasse"
-housenumber: 2
+street: Industriestrasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

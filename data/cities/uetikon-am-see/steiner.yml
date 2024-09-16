@@ -4,8 +4,8 @@ latitude: 47.26721
 longitude: 8.67538
 postcode: "8707"
 city: Uetikon am See
-street: "Bergstrasse"
-housenumber: 195
+street: Bergstrasse
+housenumber: "195"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-17:00"
-website: "https://www.steiner-beck.ch/filialen/uetikon-am-see/"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-17:00
+website: https://www.steiner-beck.ch/filialen/uetikon-am-see/

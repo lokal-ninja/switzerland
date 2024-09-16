@@ -4,8 +4,8 @@ latitude: 46.96541
 longitude: 7.458
 postcode: "3014"
 city: Bern
-street: "Wankdorffeldstrasse"
-housenumber: 90
+street: Wankdorffeldstrasse
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:30, Sa 07:30-17:00; PH off"
-website: "https://www.migrol.ch/de/"
+opening_hours: Mo-Fr 07:30-18:30, Sa 07:30-17:00; PH off
+website: https://www.migrol.ch/de/

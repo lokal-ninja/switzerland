@@ -4,8 +4,8 @@ latitude: 47.12719
 longitude: 9.05533
 postcode: "8867"
 city: Niederurnen
-street: "Ziegelbrückstrasse"
-housenumber: 16
-phone: "+41 55 617 21 70"
-opening_hours: "Mo-Fr 07:30-20:00; Sa 07:30-18:00"
-website: "https://www.coop.ch/"
+street: Ziegelbrückstrasse
+housenumber: "16"
+phone: +41 55 617 21 70
+opening_hours: Mo-Fr 07:30-20:00; Sa 07:30-18:00
+website: https://www.coop.ch/

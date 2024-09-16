@@ -4,8 +4,8 @@ latitude: 47.50624
 longitude: 8.20431
 postcode: "5235"
 city: Rüfenach
-street: "Hauptstrasse"
-housenumber: 5
-phone: "+41 56 284 12 31"
-opening_hours: "Sa: 09:00-12:00 || nach Vereinbarung"
-website: "https://www.zelglihof.ch/"
+street: Hauptstrasse
+housenumber: "5"
+phone: +41 56 284 12 31
+opening_hours: 'Sa: 09:00-12:00 || "nach Vereinbarung"'
+website: https://www.zelglihof.ch/

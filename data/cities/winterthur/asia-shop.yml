@@ -4,8 +4,8 @@ latitude: 47.498
 longitude: 8.72693
 postcode: "8400"
 city: Winterthur
-street: "Technikumstrasse"
-housenumber: 72
+street: Technikumstrasse
+housenumber: "72"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30, Th 10:09-19:00, Sa 09:00-17:00"
-website: "https://www.sala-thai.ch/"
+opening_hours: Mo-Fr 10:00-18:30, Th 10:09-19:00, Sa 09:00-17:00
+website: https://www.sala-thai.ch/

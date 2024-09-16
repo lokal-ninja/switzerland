@@ -4,8 +4,8 @@ latitude: 47.36994
 longitude: 8.50867
 postcode: "8055"
 city: Zürich
-street: "Birmensdorferstrasse"
-housenumber: 320
-phone: "+41 43 811 54 25"
-opening_hours: "Mo-Fr 8:00-20:00, Sa 8:00-18:00"
-website: "https://mcoptic.ch/"
+street: Birmensdorferstrasse
+housenumber: "320"
+phone: +41 43 811 54 25
+opening_hours: Mo-Fr 8:00-20:00, Sa 8:00-18:00
+website: https://mcoptic.ch/

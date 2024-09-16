@@ -4,8 +4,8 @@ latitude: 47.38618
 longitude: 8.4986
 postcode: "8048"
 city: Zürich
-street: "Baslerstrasse"
-housenumber: 50
+street: Baslerstrasse
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.fust.ch/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.fust.ch/

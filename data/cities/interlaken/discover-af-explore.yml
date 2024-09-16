@@ -1,11 +1,11 @@
 id: 193842888
-type: way
+type: node
 latitude: 46.68567
 longitude: 7.85376
 postcode: "3800"
 city: Interlaken
-street: "Marktgasse"
-housenumber: 16
+street: Marktgasse
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

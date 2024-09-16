@@ -1,11 +1,11 @@
 id: 201132981
-type: way
+type: node
 latitude: 47.43714
 longitude: 9.13371
 postcode: "9240"
 city: Uzwil
-street: "Lindenstrasse"
-housenumber: 1
+street: Lindenstrasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.80355
 longitude: 7.1502
 postcode: "1701"
 city: Fribourg
-street: "Rue Louis-d'Affry"
-housenumber: 2
+street: Rue Louis-d'Affry
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-19:00"
-website: "https://filialen.migros.ch/fr/supermarche-migros-fribourg-gare"
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-19:00
+website: https://filialen.migros.ch/fr/supermarche-migros-fribourg-gare

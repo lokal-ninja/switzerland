@@ -4,8 +4,8 @@ latitude: 47.42563
 longitude: 8.49698
 postcode: "8046"
 city: Zürich
-street: "Mühlackerstrasse"
-housenumber: 199
+street: Mühlackerstrasse
+housenumber: "199"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.coop.ch/de/services/standorte-und-oeffnungszeiten/detail.html/4557/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.coop.ch/de/services/standorte-und-oeffnungszeiten/detail.html/4557/

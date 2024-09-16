@@ -1,11 +1,11 @@
 id: 210338711
-type: way
+type: node
 latitude: 46.08731
 longitude: 7.05445
 postcode: "1921"
 city: Martigny-Croix
-street: "Route du Grand-Saint-Bernard"
-housenumber: 22
+street: Route du Grand-Saint-Bernard
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.47787
 longitude: 8.99823
 postcode: "9542"
 city: Münchwilen TG
-street: "Wilerstrasse"
-housenumber: 5
+street: Wilerstrasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-19:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-muenchwilen"
+opening_hours: Mo-Fr 08:00-20:00, Sa 08:00-19:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-muenchwilen

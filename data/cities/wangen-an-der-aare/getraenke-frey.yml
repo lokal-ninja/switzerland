@@ -1,11 +1,11 @@
 id: 194271806
-type: way
+type: node
 latitude: 47.2337
 longitude: 7.65774
 postcode: "3380"
 city: Wangen an der Aare
-street: "Sternenstrasse"
-housenumber: 20
+street: Sternenstrasse
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

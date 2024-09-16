@@ -4,8 +4,8 @@ latitude: 47.21652
 longitude: 8.57626
 postcode: "6340"
 city: Sihlbrugg
-street: "Zugerstrasse"
-housenumber: 7
+street: Zugerstrasse
+housenumber: "7"
 phone: ""
-opening_hours: "24/7"
-website: "https://find.shell.com/ch/fuel/10023453-emil-frey-ag/de_CH"
+opening_hours: 24/7
+website: https://find.shell.com/ch/fuel/10023453-emil-frey-ag/de_CH

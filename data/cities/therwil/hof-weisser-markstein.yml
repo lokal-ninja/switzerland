@@ -4,8 +4,9 @@ latitude: 47.49129
 longitude: 7.54107
 postcode: "4106"
 city: Therwil
-street: "Weisser Markstein"
-housenumber: 16
-phone: "+41 61 721 75 89"
-opening_hours: "Erntetelefon 061 721 50 90 Verkaufs-Kioske in Binningen, Therwil, Reinach und Bättwil."
-website: "https://brunner-beeren.ch/"
+street: Weisser Markstein
+housenumber: "16"
+phone: +41 61 721 75 89
+opening_hours: Erntetelefon 061 721 50 90 Verkaufs-Kioske in Binningen, Therwil, Reinach
+    und Bättwil.
+website: https://brunner-beeren.ch/

@@ -4,8 +4,8 @@ latitude: 47.17108
 longitude: 8.51411
 postcode: "6300"
 city: Zug
-street: "Bundesplatz"
-housenumber: 9
+street: Bundesplatz
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.kuoni.ch/beratung/kuoni-reisebuero-zug/"
+website: https://www.kuoni.ch/beratung/kuoni-reisebuero-zug/

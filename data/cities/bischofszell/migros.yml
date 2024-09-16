@@ -1,11 +1,11 @@
 id: 406668126
-type: way
+type: node
 latitude: 47.49255
 longitude: 9.24412
 postcode: "9220"
 city: Bischofszell
-street: "Steigstrasse"
-housenumber: 5
+street: Steigstrasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-19:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-bischofszell"
+opening_hours: Mo-Fr 08:00-20:00, Sa 08:00-19:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-bischofszell

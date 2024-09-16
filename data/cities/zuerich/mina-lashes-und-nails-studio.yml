@@ -4,8 +4,8 @@ latitude: 47.36428
 longitude: 8.56639
 postcode: "8032"
 city: Zürich
-street: "Hegibachstrasse"
-housenumber: 90
-phone: "+41775 070 699"
-opening_hours: "Mo - Sa 9:30-19:00"
-website: "https://minalashes.ch/"
+street: Hegibachstrasse
+housenumber: "90"
+phone: +41775 070 699
+opening_hours: Mo - Sa 9:30-19:00
+website: https://minalashes.ch/

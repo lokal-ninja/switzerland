@@ -1,11 +1,11 @@
 id: 110538148
-type: way
+type: node
 latitude: 46.82523
 longitude: 8.64987
 postcode: "6472"
 city: Erstfeld
-street: "Gotthardstrasse"
-housenumber: 144
+street: Gotthardstrasse
+housenumber: "144"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:30, Sa 07:30-17:00"
-website: "https://filialen.migros.ch/de/migros-supermarkt-erstfeld"
+opening_hours: Mo-Fr 07:30-18:30, Sa 07:30-17:00
+website: https://filialen.migros.ch/de/migros-supermarkt-erstfeld

@@ -4,8 +4,8 @@ latitude: 47.39936
 longitude: 8.48936
 postcode: "8049"
 city: Zürich
-street: "Werdinsel"
+street: Werdinsel
 housenumber: 1a
-phone: "+41 44 341 74 72"
-opening_hours: "Mo-Su 09:00-20:00 open nur bei schönem Wetter"
-website: "https://www.werdinsel.com/"
+phone: +41 44 341 74 72
+opening_hours: Mo-Su 09:00-20:00 open "nur bei schönem Wetter"
+website: https://www.werdinsel.com/

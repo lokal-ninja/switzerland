@@ -4,8 +4,8 @@ latitude: 46.22381
 longitude: 7.30258
 postcode: "1964"
 city: Conthey
-street: "Route des Rottes"
-housenumber: 15
-phone: "+41 27 346 42 20"
-opening_hours: "Mo-Th 09:00-18:30; Fr 09:00-20:00; Sa 09:00-17:00"
-website: "https://www.fcw.ch/fr/"
+street: Route des Rottes
+housenumber: "15"
+phone: +41 27 346 42 20
+opening_hours: Mo-Th 09:00-18:30; Fr 09:00-20:00; Sa 09:00-17:00
+website: https://www.fcw.ch/fr/

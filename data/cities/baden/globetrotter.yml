@@ -4,8 +4,8 @@ latitude: 47.47402
 longitude: 8.308
 postcode: "5400"
 city: Baden
-street: "Badstrasse"
-housenumber: 8
+street: Badstrasse
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.globetrotter.ch/"
+website: https://www.globetrotter.ch/

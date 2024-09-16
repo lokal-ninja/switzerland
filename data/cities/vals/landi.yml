@@ -1,11 +1,11 @@
 id: 227935111
-type: way
+type: node
 latitude: 46.61682
 longitude: 9.17945
 postcode: "7132"
 city: Vals
-street: "Valléestrasse"
+street: Valléestrasse
 housenumber: 133a
 phone: ""
-opening_hours: "Tu 09:00-11:30,14:00-16:00; Th 09:00-11:30; Fr 14:00-17:30; Sa 09:00-11:30"
+opening_hours: Tu 09:00-11:30,14:00-16:00; Th 09:00-11:30; Fr 14:00-17:30; Sa 09:00-11:30
 website: ""

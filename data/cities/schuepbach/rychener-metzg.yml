@@ -1,11 +1,11 @@
 id: 226313515
-type: way
+type: node
 latitude: 46.92625
 longitude: 7.7359
 postcode: "3535"
 city: Schüpbach
-street: "Eggiwilstrasse"
-housenumber: 13
+street: Eggiwilstrasse
+housenumber: "13"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 07:30-12:00,14:00-18:30; We 07:30-12:00; Sa 07:30-14:00"
+opening_hours: Mo,Tu,Th,Fr 07:30-12:00,14:00-18:30; We 07:30-12:00; Sa 07:30-14:00
 website: ""

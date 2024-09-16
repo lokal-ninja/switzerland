@@ -1,11 +1,12 @@
 id: 182691321
-type: way
+type: node
 latitude: 46.8505
 longitude: 7.19177
 postcode: "3186"
 city: Düdingen
-street: "Bahnhofstrasse"
-housenumber: 7
-phone: "+41 26 493 33 44"
-opening_hours: "Tu-Fr 08:00-12:00, 13:30-18:00; Sa 08:00-12:00, 13:30-15:30; Su-Mo off"
-website: "http://www.sensat.ch"
+street: Bahnhofstrasse
+housenumber: "7"
+phone: +41 26 493 33 44
+opening_hours: Tu-Fr 08:00-12:00, 13:30-18:00; Sa 08:00-12:00, 13:30-15:30; Su-Mo
+    off
+website: http://www.sensat.ch

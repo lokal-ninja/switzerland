@@ -4,8 +4,8 @@ latitude: 47.37455
 longitude: 8.53607
 postcode: "8001"
 city: Zürich
-street: "Löwenstrasse"
-housenumber: 30
+street: Löwenstrasse
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; PH off"
-website: "https://sonho.ch/"
+opening_hours: Mo-Sa 10:00-19:00; PH off
+website: https://sonho.ch/

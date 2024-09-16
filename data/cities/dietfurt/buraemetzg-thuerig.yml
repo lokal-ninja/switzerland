@@ -1,11 +1,11 @@
 id: 398368501
-type: way
+type: node
 latitude: 47.34559
 longitude: 9.07882
 postcode: "9615"
 city: Dietfurt
-street: "Bahnhofstrasse"
-housenumber: 2
+street: Bahnhofstrasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

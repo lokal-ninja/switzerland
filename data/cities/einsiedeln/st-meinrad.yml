@@ -4,8 +4,8 @@ latitude: 47.12708
 longitude: 8.74825
 postcode: "8840"
 city: Einsiedeln
-street: "Hauptstrasse"
-housenumber: 65
-phone: "+41 55 412 58 42"
-opening_hours: "Tu-Fr 09:00-12:00,13:30-18:30; Sa 09:00-16:00"
-website: "https://www.st-meinrad-optik.ch"
+street: Hauptstrasse
+housenumber: "65"
+phone: +41 55 412 58 42
+opening_hours: Tu-Fr 09:00-12:00,13:30-18:30; Sa 09:00-16:00
+website: https://www.st-meinrad-optik.ch

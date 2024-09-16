@@ -1,11 +1,11 @@
 id: 282039208
-type: way
+type: node
 latitude: 46.99357
 longitude: 7.14965
 postcode: "3225"
 city: Müntschemier
-street: "Lagerhausweg"
-housenumber: 16
-phone: "+41 32 312 92 92"
+street: Lagerhausweg
+housenumber: "16"
+phone: +41 32 312 92 92
 opening_hours: ""
-website: "https://frugem.ch/"
+website: https://frugem.ch/

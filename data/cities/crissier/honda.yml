@@ -1,11 +1,11 @@
 id: 88411464
-type: way
+type: node
 latitude: 46.54899
 longitude: 6.56905
 postcode: ""
 city: Crissier
-street: "Chemin de Saugy"
-housenumber: 11
+street: Chemin de Saugy
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

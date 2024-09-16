@@ -4,8 +4,8 @@ latitude: 47.52782
 longitude: 7.9415
 postcode: "4324"
 city: Obermumpf
-street: "Hauptstrasse"
-housenumber: 1
+street: Hauptstrasse
+housenumber: "1"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

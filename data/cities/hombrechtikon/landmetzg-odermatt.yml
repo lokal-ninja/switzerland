@@ -1,11 +1,11 @@
 id: 104037648
-type: way
+type: node
 latitude: 47.2533
 longitude: 8.77434
 postcode: "8634"
 city: Hombrechtikon
-street: "Rütistrasse"
-housenumber: 40
+street: Rütistrasse
+housenumber: "40"
 phone: ""
-opening_hours: "Tu-Fr 08:00-18:30; Sa 06:30-14:00"
-website: "https://www.metzgerei-odermatt.ch/"
+opening_hours: Tu-Fr 08:00-18:30; Sa 06:30-14:00
+website: https://www.metzgerei-odermatt.ch/

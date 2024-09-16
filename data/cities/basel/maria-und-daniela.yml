@@ -4,8 +4,8 @@ latitude: 47.56223
 longitude: 7.6006
 postcode: "4058"
 city: Basel
-street: "Riehenstrasse"
-housenumber: 70
-phone: "+41 61 681 07 21"
-opening_hours: "Mo off; Tu-Fr 09:00-18:30; Sa 09:00-16:00; Su off"
-website: "https://mariadaniela-basel.ch/"
+street: Riehenstrasse
+housenumber: "70"
+phone: +41 61 681 07 21
+opening_hours: Mo off; Tu-Fr 09:00-18:30; Sa 09:00-16:00; Su off
+website: https://mariadaniela-basel.ch/

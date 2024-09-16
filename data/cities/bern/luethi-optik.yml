@@ -4,8 +4,9 @@ latitude: 46.94542
 longitude: 7.39095
 postcode: "3018"
 city: Bern
-street: "Mühledorfstrasse"
-housenumber: 9
+street: Mühledorfstrasse
+housenumber: "9"
 phone: ""
-opening_hours: "Mo off; Tu-Fr 09:00-12:00, 13:00-18:00; Sa 08:00-14:00; Su off; PH off"
-website: "https://www.luethioptik.com/"
+opening_hours: Mo off; Tu-Fr 09:00-12:00, 13:00-18:00; Sa 08:00-14:00; Su off; PH
+    off
+website: https://www.luethioptik.com/

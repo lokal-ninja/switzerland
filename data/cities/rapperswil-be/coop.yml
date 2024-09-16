@@ -1,11 +1,11 @@
 id: 183215037
-type: way
+type: node
 latitude: 47.06489
 longitude: 7.41015
 postcode: "3255"
 city: Rapperswil BE
-street: "Hauptstrasse"
-housenumber: 29
+street: Hauptstrasse
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

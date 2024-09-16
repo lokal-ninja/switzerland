@@ -4,8 +4,8 @@ latitude: 46.56034
 longitude: 6.34018
 postcode: "1149"
 city: Berolle
-street: "Route des Molliettes"
-housenumber: 5
+street: Route des Molliettes
+housenumber: "5"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.ladauphine.ch/"
+opening_hours: 24/7
+website: https://www.ladauphine.ch/

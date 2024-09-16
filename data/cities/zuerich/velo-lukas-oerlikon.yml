@@ -4,8 +4,9 @@ latitude: 47.4076
 longitude: 8.54842
 postcode: "8050"
 city: Zürich
-street: "Schwamendingenstrasse"
-housenumber: 25
-phone: "+41 44 341 88 77"
-opening_hours: "Mo off; Tu 08:30-12:30,14:00-18:30; We 14:00-18:30; Th-Fr 08:30-12:30,14:00-18:30; Sa 09:00-16:00"
-website: "https://www.velolukas.ch/"
+street: Schwamendingenstrasse
+housenumber: "25"
+phone: +41 44 341 88 77
+opening_hours: Mo off; Tu 08:30-12:30,14:00-18:30; We 14:00-18:30; Th-Fr 08:30-12:30,14:00-18:30;
+    Sa 09:00-16:00
+website: https://www.velolukas.ch/

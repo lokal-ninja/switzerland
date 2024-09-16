@@ -1,11 +1,11 @@
 id: 307168568
-type: way
+type: node
 latitude: 46.53772
 longitude: 6.58156
 postcode: "1020"
 city: Renens
-street: "Rue du Midi"
-housenumber: 10
+street: Rue du Midi
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

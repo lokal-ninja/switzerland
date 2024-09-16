@@ -4,8 +4,8 @@ latitude: 47.39149
 longitude: 8.04703
 postcode: "5000"
 city: Aarau
-street: "Kasinostrasse"
-housenumber: 38
+street: Kasinostrasse
+housenumber: "38"
 phone: ""
 opening_hours: ""
-website: "https://www.c-and-a.com/ch/"
+website: https://www.c-and-a.com/ch/

@@ -4,8 +4,8 @@ latitude: 47.56683
 longitude: 7.59741
 postcode: "4057"
 city: Basel
-street: "Haltingerstrasse"
-housenumber: 101
+street: Haltingerstrasse
+housenumber: "101"
 phone: ""
-opening_hours: "Tu-Fr 10:00-19:00; Sa 09:00-18:00"
-website: "https://www.moevenpick-wein.com/de/moevenpick-wein-basel"
+opening_hours: Tu-Fr 10:00-19:00; Sa 09:00-18:00
+website: https://www.moevenpick-wein.com/de/moevenpick-wein-basel

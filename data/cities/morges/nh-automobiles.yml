@@ -4,8 +4,8 @@ latitude: 46.5076
 longitude: 6.49671
 postcode: "1110"
 city: Morges
-street: "Grand-Rue"
-housenumber: 101
-phone: "+41 (0) 21 802 12 12"
+street: Grand-Rue
+housenumber: "101"
+phone: +41 (0) 21 802 12 12
 opening_hours: ""
-website: "https://www.nh-automobiles.ch"
+website: https://www.nh-automobiles.ch

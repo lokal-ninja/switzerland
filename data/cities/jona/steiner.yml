@@ -4,8 +4,8 @@ latitude: 47.23005
 longitude: 8.83561
 postcode: "8645"
 city: Jona
-street: "Bühlstrasse"
-housenumber: 9
+street: Bühlstrasse
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 06:00-17:00; Sa 07:00-14:00; PH off"
-website: "https://www.steiner-beck.ch/filialen/jona/"
+opening_hours: Mo-Fr 06:00-17:00; Sa 07:00-14:00; PH off
+website: https://www.steiner-beck.ch/filialen/jona/

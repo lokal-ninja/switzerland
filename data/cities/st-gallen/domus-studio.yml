@@ -4,8 +4,8 @@ latitude: 47.42442
 longitude: 9.3791
 postcode: "9000"
 city: St. Gallen
-street: "Spisergasse"
-housenumber: 42
+street: Spisergasse
+housenumber: "42"
 phone: ""
 opening_hours: ""
-website: "https://domusag.ch/studio/"
+website: https://domusag.ch/studio/

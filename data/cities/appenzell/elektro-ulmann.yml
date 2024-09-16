@@ -1,11 +1,11 @@
 id: 971465076
-type: way
+type: node
 latitude: 47.33069
 longitude: 9.4106
 postcode: "9050"
 city: Appenzell
-street: "Hauptgasse"
-housenumber: 3
-phone: "+41 71 787 11 15"
+street: Hauptgasse
+housenumber: "3"
+phone: +41 71 787 11 15
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.37525
 longitude: 8.54396
 postcode: "8001"
 city: Zürich
-street: "Niederdorfstrasse"
-housenumber: 58
-phone: "+41 79 617 14 71"
-opening_hours: "Mo-Th 11:00-22:00, Fr-Sa 11:00-23:00"
-website: "https://marryjane.ch"
+street: Niederdorfstrasse
+housenumber: "58"
+phone: +41 79 617 14 71
+opening_hours: Mo-Th 11:00-22:00, Fr-Sa 11:00-23:00
+website: https://marryjane.ch

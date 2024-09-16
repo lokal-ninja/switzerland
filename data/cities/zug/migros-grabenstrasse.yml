@@ -4,8 +4,8 @@ latitude: 47.16526
 longitude: 8.51513
 postcode: "6300"
 city: Zug
-street: "Grabenstrasse"
-housenumber: 5
+street: Grabenstrasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-17:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-zug-grabenstrasse"
+opening_hours: Mo-Fr 08:00-19:00, Sa 08:00-17:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-zug-grabenstrasse

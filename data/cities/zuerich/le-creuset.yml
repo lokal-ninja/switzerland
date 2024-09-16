@@ -4,8 +4,8 @@ latitude: 47.36895
 longitude: 8.54511
 postcode: ""
 city: Zürich
-street: "Oberdorfstrasse"
-housenumber: 
+street: Oberdorfstrasse
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:30-17:00"
-website: "https://lecreuset.ch"
+opening_hours: Mo-Fr 10:00-18:30; Sa 09:30-17:00
+website: https://lecreuset.ch

@@ -4,8 +4,8 @@ latitude: 46.96373
 longitude: 8.35558
 postcode: "6370"
 city: Stans
-street: "Bitzistrasse"
-housenumber: 5
+street: Bitzistrasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.qualipet.ch/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.qualipet.ch/

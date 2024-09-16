@@ -1,11 +1,11 @@
 id: 143056634
-type: way
+type: node
 latitude: 47.47489
 longitude: 9.46752
 postcode: "9403"
 city: Goldach
-street: "Ulrich-Rösch-Strasse"
-housenumber: 5
+street: Ulrich-Rösch-Strasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:00"
+opening_hours: Mo-Sa 07:00-19:00
 website: ""

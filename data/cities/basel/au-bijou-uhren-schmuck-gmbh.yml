@@ -4,8 +4,8 @@ latitude: 47.55672
 longitude: 7.58895
 postcode: "4001"
 city: Basel
-street: "Rüdengasse"
-housenumber: 3
-phone: "+41 61 2620242"
+street: Rüdengasse
+housenumber: "3"
+phone: +41 61 2620242
 opening_hours: ""
-website: "https://www.aubijoubasel.ch/"
+website: https://www.aubijoubasel.ch/

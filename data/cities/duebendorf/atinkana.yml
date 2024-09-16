@@ -4,8 +4,8 @@ latitude: 47.40057
 longitude: 8.59894
 postcode: "8600"
 city: Dübendorf
-street: "Zukunftsstrasse"
-housenumber: 9
-phone: "+41 44 527 20 50"
-opening_hours: "Mo 14:00-17:00; We 09:00-18:30; Fr 10:00-17:00"
-website: "https://atinkana-kaffee.ch"
+street: Zukunftsstrasse
+housenumber: "9"
+phone: +41 44 527 20 50
+opening_hours: Mo 14:00-17:00; We 09:00-18:30; Fr 10:00-17:00
+website: https://atinkana-kaffee.ch

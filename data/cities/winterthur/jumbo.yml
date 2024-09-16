@@ -4,8 +4,8 @@ latitude: 47.49566
 longitude: 8.75876
 postcode: "8404"
 city: Winterthur
-street: "Rudolf-Diesel-Strasse"
-housenumber: 19
+street: Rudolf-Diesel-Strasse
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.jumbo.ch/de/standorte/jumbo-gr%C3%BCzemarkt/s/2646_POS"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.jumbo.ch/de/standorte/jumbo-gr%C3%BCzemarkt/s/2646_POS

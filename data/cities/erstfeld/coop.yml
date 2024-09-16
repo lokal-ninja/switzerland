@@ -1,11 +1,11 @@
 id: 110495035
-type: way
+type: node
 latitude: 46.82438
 longitude: 8.64864
 postcode: "6472"
 city: Erstfeld
-street: "Vordere Hofstatt"
-housenumber: 4
+street: Vordere Hofstatt
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Th 07:30-18:30; Fr 07:30-20:00; Sa 07:30-17:00"
+opening_hours: Mo-Th 07:30-18:30; Fr 07:30-20:00; Sa 07:30-17:00
 website: ""

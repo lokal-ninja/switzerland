@@ -4,8 +4,8 @@ latitude: 46.23558
 longitude: 6.12555
 postcode: "1218"
 city: Le Grand-Saconnex
-street: "Route de Colovrex"
-housenumber: 29
-phone: "+41 22 788 05 04"
-opening_hours: "Tu-Fr 06:00-18:30, Sa 06:00-17:00, Su 06:30-13:30"
+street: Route de Colovrex
+housenumber: "29"
+phone: +41 22 788 05 04
+opening_hours: Tu-Fr 06:00-18:30, Sa 06:00-17:00, Su 06:30-13:30
 website: ""

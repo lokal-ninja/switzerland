@@ -4,8 +4,8 @@ latitude: 47.35473
 longitude: 8.55753
 postcode: "8008"
 city: Zürich
-street: "Seefeldstrasse"
-housenumber: 181
+street: Seefeldstrasse
+housenumber: "181"
 phone: ""
-opening_hours: "Mo- Fr 09:00-13:00, 14:30-18:30; Sa 08:00-16:00"
-website: "http://www.seefeldmetzgerei.ch/"
+opening_hours: Mo- Fr 09:00-13:00, 14:30-18:30; Sa 08:00-16:00
+website: http://www.seefeldmetzgerei.ch/

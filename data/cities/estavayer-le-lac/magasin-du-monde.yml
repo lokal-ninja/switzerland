@@ -4,8 +4,8 @@ latitude: 46.84943
 longitude: 6.84696
 postcode: "1470"
 city: Estavayer-le-Lac
-street: "Rue de l'Hôtel de Ville"
-housenumber: 6
-phone: "+41 26 663 49 23"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00,13:30-16:00"
-website: "https://www.mdm.ch/magasins/estavayer"
+street: Rue de l'Hôtel de Ville
+housenumber: "6"
+phone: +41 26 663 49 23
+opening_hours: Tu-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00,13:30-16:00
+website: https://www.mdm.ch/magasins/estavayer

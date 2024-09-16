@@ -4,8 +4,8 @@ latitude: 47.23792
 longitude: 8.66039
 postcode: "8820"
 city: Wädenswil
-street: "Seestrasse"
-housenumber: 198
+street: Seestrasse
+housenumber: "198"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.migrolino.ch/de/standorte/socar-wadenswil-see/"
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.migrolino.ch/de/standorte/socar-wadenswil-see/

@@ -4,8 +4,8 @@ latitude: 47.37439
 longitude: 8.5247
 postcode: "8004"
 city: Zürich
-street: "Badenerstrasse"
-housenumber: 110
+street: Badenerstrasse
+housenumber: "110"
 phone: ""
-opening_hours: "Mo-Fr 08:15-18:00;PH closed"
-website: "https://www.sautercopy.ch/"
+opening_hours: Mo-Fr 08:15-18:00;PH closed
+website: https://www.sautercopy.ch/

@@ -4,8 +4,8 @@ latitude: 47.42232
 longitude: 8.5049
 postcode: "8046"
 city: Zürich
-street: "Nettie-Sutro-Strasse"
-housenumber: 9
-phone: "+41 44 520 88 08"
-opening_hours: "Mo-We 09:00-19:00; Sa 08:00-16:00; Th 09:00-20:00; Fr 09:00-19:00"
-website: "https://mynicenails.ch"
+street: Nettie-Sutro-Strasse
+housenumber: "9"
+phone: +41 44 520 88 08
+opening_hours: Mo-We 09:00-19:00; Sa 08:00-16:00; Th 09:00-20:00; Fr 09:00-19:00
+website: https://mynicenails.ch

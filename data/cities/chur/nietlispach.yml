@@ -4,8 +4,8 @@ latitude: 46.85523
 longitude: 9.52029
 postcode: "7000"
 city: Chur
-street: "Distelweg"
-housenumber: 1
+street: Distelweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00,13:30-18:30, Sa 07:30-14:00"
+opening_hours: Mo-Fr 07:30-12:00,13:30-18:30, Sa 07:30-14:00
 website: ""

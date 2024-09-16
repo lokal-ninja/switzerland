@@ -1,11 +1,11 @@
 id: 273851410
-type: way
+type: node
 latitude: 47.33579
 longitude: 8.8564
 postcode: "8344"
 city: Bäretswil
-street: "Baumastrasse"
-housenumber: 1
-phone: "+41 44 939 16 85"
+street: Baumastrasse
+housenumber: "1"
+phone: +41 44 939 16 85
 opening_hours: ""
 website: ""

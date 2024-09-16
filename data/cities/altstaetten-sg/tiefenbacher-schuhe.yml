@@ -4,8 +4,8 @@ latitude: 47.37833
 longitude: 9.54016
 postcode: "9450"
 city: Altstätten SG
-street: "Obergasse"
-housenumber: 1
-phone: "+41 71 755 76 85"
-opening_hours: "Mo 13:30-18:30; Tu-Fr 09:00-12:00,13:30-18:30; Sa 08:30-16:00; Su off"
-website: "https://www.tiefenbacher.ch/filiale.asp?shoid=7224"
+street: Obergasse
+housenumber: "1"
+phone: +41 71 755 76 85
+opening_hours: Mo 13:30-18:30; Tu-Fr 09:00-12:00,13:30-18:30; Sa 08:30-16:00; Su off
+website: https://www.tiefenbacher.ch/filiale.asp?shoid=7224

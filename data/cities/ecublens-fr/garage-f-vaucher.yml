@@ -1,11 +1,11 @@
 id: 1003892283
-type: way
+type: node
 latitude: 46.60983
 longitude: 6.81056
 postcode: "1673"
 city: Ecublens FR
-street: "Route de la Gare"
-housenumber: 10
+street: Route de la Gare
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

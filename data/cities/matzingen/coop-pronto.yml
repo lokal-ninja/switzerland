@@ -4,8 +4,8 @@ latitude: 47.52627
 longitude: 8.9229
 postcode: "9548"
 city: Matzingen
-street: "Frauenfelderstrasse"
-housenumber: 93
+street: Frauenfelderstrasse
+housenumber: "93"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00, Su 08:00-20:00"
-website: "https://www.coop-pronto.ch/"
+opening_hours: Mo-Sa 06:00-22:00, Su 08:00-20:00
+website: https://www.coop-pronto.ch/

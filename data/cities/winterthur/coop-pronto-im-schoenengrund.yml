@@ -1,11 +1,11 @@
 id: 1228818264
-type: way
+type: node
 latitude: 47.49988
 longitude: 8.76372
 postcode: "8404"
 city: Winterthur
-street: "Im Schönengrund"
+street: Im Schönengrund
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.coop-pronto.ch/de/standort/winterthur-schoenengrund/"
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.coop-pronto.ch/de/standort/winterthur-schoenengrund/

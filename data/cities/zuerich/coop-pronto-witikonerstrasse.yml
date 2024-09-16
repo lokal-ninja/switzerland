@@ -4,8 +4,8 @@ latitude: 47.36399
 longitude: 8.56708
 postcode: "8032"
 city: Zürich
-street: "Witikonerstrasse"
-housenumber: 15
+street: Witikonerstrasse
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 06:00-23:00"
-website: "https://www.coop-pronto.ch/"
+opening_hours: Mo-Sa 06:00-23:00
+website: https://www.coop-pronto.ch/

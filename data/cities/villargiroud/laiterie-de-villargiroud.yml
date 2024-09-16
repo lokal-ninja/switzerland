@@ -1,11 +1,11 @@
 id: 151506581
-type: way
+type: node
 latitude: 46.70343
 longitude: 7.0012
 postcode: "1694"
 city: Villargiroud
-street: "Route du Châtelard"
-housenumber: 8
+street: Route du Châtelard
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

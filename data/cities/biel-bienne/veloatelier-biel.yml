@@ -1,11 +1,11 @@
 id: 520550472
-type: way
+type: node
 latitude: 47.14285
 longitude: 7.24787
 postcode: "2502"
 city: Biel/Bienne
-street: "Faubourg du Jura / Juravorstadt"
-housenumber: 6
+street: Faubourg du Jura / Juravorstadt
+housenumber: "6"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:30,14:00-18:30; Sa 09:00-14:00"
-website: "https://www.veloatelier-biel.ch"
+opening_hours: Tu-Fr 09:00-12:30,14:00-18:30; Sa 09:00-14:00
+website: https://www.veloatelier-biel.ch

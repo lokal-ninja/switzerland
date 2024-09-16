@@ -4,8 +4,8 @@ latitude: 47.34989
 longitude: 7.89862
 postcode: "4600"
 city: Olten
-street: "Solothurnerstrasse"
-housenumber: 21
+street: Solothurnerstrasse
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Th 08:00-20:00; Sa 08:00-18:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-olten-hammer"
+opening_hours: Mo-Fr 08:00-18:30; Th 08:00-20:00; Sa 08:00-18:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-olten-hammer

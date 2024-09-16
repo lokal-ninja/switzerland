@@ -1,11 +1,11 @@
 id: 365114915
-type: way
+type: node
 latitude: 47.42358
 longitude: 7.50465
 postcode: "4242"
 city: Laufen
-street: "Baselstrasse"
-housenumber: 48
+street: Baselstrasse
+housenumber: "48"
 phone: "+41615155981"
 opening_hours: ""
-website: "https://www.squadrarosso.com/"
+website: https://www.squadrarosso.com/

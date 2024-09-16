@@ -1,11 +1,11 @@
 id: 226528232
-type: way
+type: node
 latitude: 47.32794
 longitude: 8.80068
 postcode: "8620"
 city: Wetzikon
-street: "Bahnhofstrasse"
-housenumber: 151
+street: Bahnhofstrasse
+housenumber: "151"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-19:00"
-website: "https://www.oberlandmaert.ch/"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-19:00
+website: https://www.oberlandmaert.ch/

@@ -4,8 +4,8 @@ latitude: 47.51785
 longitude: 8.54272
 postcode: "8180"
 city: Bülach
-street: "Schaffhauserstrasse"
-housenumber: 18
-phone: "+41 43 545 89 29"
-opening_hours: "Tu-Sa 11:00-13:30,17:00-20:00"
-website: "http://mimisan.ch/mimisan-start.html"
+street: Schaffhauserstrasse
+housenumber: "18"
+phone: +41 43 545 89 29
+opening_hours: Tu-Sa 11:00-13:30,17:00-20:00
+website: http://mimisan.ch/mimisan-start.html

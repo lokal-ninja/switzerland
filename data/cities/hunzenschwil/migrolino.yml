@@ -4,8 +4,8 @@ latitude: 47.38681
 longitude: 8.11397
 postcode: "5502"
 city: Hunzenschwil
-street: "Hauptstrasse"
-housenumber: 43
+street: Hauptstrasse
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 05:00-24:00, Sa 06:00-24:00, Su 07:00-24:00"
-website: "https://www.migrolino.ch/de/standorte/shell-hunzenschwil/"
+opening_hours: Mo-Fr 05:00-24:00, Sa 06:00-24:00, Su 07:00-24:00
+website: https://www.migrolino.ch/de/standorte/shell-hunzenschwil/

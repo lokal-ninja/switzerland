@@ -5,7 +5,7 @@ longitude: 6.58099
 postcode: "1372"
 city: Bavois
 street: ""
-housenumber: 1
-phone: "+41 21 866 11 16"
-opening_hours: "Fr 14:00-18:00"
-website: "https://bovigny.ch/ferme-bio-du-moulin/"
+housenumber: "1"
+phone: +41 21 866 11 16
+opening_hours: Fr 14:00-18:00
+website: https://bovigny.ch/ferme-bio-du-moulin/

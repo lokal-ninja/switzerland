@@ -1,11 +1,11 @@
 id: 252155899
-type: way
+type: node
 latitude: 47.302
 longitude: 8.84589
 postcode: "8340"
 city: Hinwil
-street: "Oberdorfstrasse"
-housenumber: 6
+street: Oberdorfstrasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Th 07:00-12:00,13:30-17:30; Fr 07:00-12:00,13:30-16:30; PH off"
+opening_hours: Mo-Th 07:00-12:00,13:30-17:30; Fr 07:00-12:00,13:30-16:30; PH off
 website: ""

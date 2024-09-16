@@ -1,11 +1,11 @@
 id: 331123283
-type: way
+type: node
 latitude: 47.55136
 longitude: 7.53762
 postcode: "4123"
 city: Allschwil
-street: "Baslerstrasse"
-housenumber: 12
-phone: "+41 61 481 22 88"
-opening_hours: "Mo 09:00-12:00; Tu 08:00-12:00; We-Fr 08:00-12:00,15:00-18:30, Sa 08:00-16:00"
-website: "https://www.kaez.ch"
+street: Baslerstrasse
+housenumber: "12"
+phone: +41 61 481 22 88
+opening_hours: Mo 09:00-12:00; Tu 08:00-12:00; We-Fr 08:00-12:00,15:00-18:30, Sa 08:00-16:00
+website: https://www.kaez.ch

@@ -1,11 +1,11 @@
 id: 319028352
-type: way
+type: node
 latitude: 47.30474
 longitude: 7.94376
 postcode: "4665"
 city: Oftringen
-street: "Obere Hauptstrasse"
-housenumber: 3
+street: Obere Hauptstrasse
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

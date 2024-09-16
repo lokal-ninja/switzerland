@@ -4,8 +4,8 @@ latitude: 47.39786
 longitude: 8.61682
 postcode: "8600"
 city: Dübendorf
-street: "Marktgasse"
-housenumber: 5
+street: Marktgasse
+housenumber: "5"
 phone: "+41445945252"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-17:00; PH closed"
-website: "https://bn-neauty.ch"
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-17:00; PH closed
+website: https://bn-neauty.ch

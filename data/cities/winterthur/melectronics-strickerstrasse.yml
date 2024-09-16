@@ -4,8 +4,8 @@ latitude: 47.49906
 longitude: 8.72042
 postcode: "8400"
 city: Winterthur
-street: "Strickerstrasse"
-housenumber: 3
+street: Strickerstrasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:00, Sa 08:30-18:00; PH off"
-website: "https://www.melectronics.ch/"
+opening_hours: Mo-Fr 08:30-20:00, Sa 08:30-18:00; PH off
+website: https://www.melectronics.ch/

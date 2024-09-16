@@ -4,8 +4,8 @@ latitude: 47.39364
 longitude: 8.52647
 postcode: "8037"
 city: Zürich
-street: "Röschibachstrasse"
-housenumber: 55
-phone: "+41 44 272 03 55"
-opening_hours: "Tu-Fr 08:00-12:00,14:00-18:30; Sa 10:00-16:00"
-website: "https://www.velotech.ch/"
+street: Röschibachstrasse
+housenumber: "55"
+phone: +41 44 272 03 55
+opening_hours: Tu-Fr 08:00-12:00,14:00-18:30; Sa 10:00-16:00
+website: https://www.velotech.ch/

@@ -1,11 +1,11 @@
 id: 34079998
-type: way
+type: node
 latitude: 46.91783
 longitude: 7.10767
 postcode: "1796"
 city: Gurwolf
-street: "Länggasse"
-housenumber: 47
+street: Länggasse
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Th 07:30-19:00; Fr 07:30-21:00; Sa 07:30-17:00"
-website: "https://www.aldi-suisse.ch"
+opening_hours: Mo-Th 07:30-19:00; Fr 07:30-21:00; Sa 07:30-17:00
+website: https://www.aldi-suisse.ch

@@ -1,11 +1,11 @@
 id: 210852316
-type: way
+type: node
 latitude: 46.81294
 longitude: 7.50453
 postcode: "3127"
 city: Mühlethurnen
-street: "Löhlistrasse"
-housenumber: 23
-phone: "+41 31 808 07 70"
-opening_hours: "Mo-Fr 07:30-11:45, 13:00-17:30; Sa 07:30-11:00"
-website: "https://www.hofermuehlethurnen.ch/"
+street: Löhlistrasse
+housenumber: "23"
+phone: +41 31 808 07 70
+opening_hours: Mo-Fr 07:30-11:45, 13:00-17:30; Sa 07:30-11:00
+website: https://www.hofermuehlethurnen.ch/

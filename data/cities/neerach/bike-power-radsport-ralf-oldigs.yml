@@ -4,8 +4,8 @@ latitude: 47.51194
 longitude: 8.47746
 postcode: "8173"
 city: Neerach
-street: "Zürcherstrasse"
-housenumber: 17
-phone: "+41 44 885 85 70"
-opening_hours: "Mo off; Tu 09:30-18:30; We-Fr 08:30-12:00,14:00-18:30; Sa 09:00-16:00"
-website: "http://www.bikepower.ch/"
+street: Zürcherstrasse
+housenumber: "17"
+phone: +41 44 885 85 70
+opening_hours: Mo off; Tu 09:30-18:30; We-Fr 08:30-12:00,14:00-18:30; Sa 09:00-16:00
+website: http://www.bikepower.ch/

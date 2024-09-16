@@ -1,11 +1,11 @@
 id: 257527037
-type: way
+type: node
 latitude: 47.49431
 longitude: 8.87357
 postcode: "8353"
 city: Elgg
-street: "Aadorferstrasse"
-housenumber: 36
+street: Aadorferstrasse
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

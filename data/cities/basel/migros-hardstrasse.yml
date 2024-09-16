@@ -1,11 +1,11 @@
 id: 102261217
-type: way
+type: node
 latitude: 47.54936
 longitude: 7.60701
 postcode: "4052"
 city: Basel
-street: "Hardstrasse"
-housenumber: 105
+street: Hardstrasse
+housenumber: "105"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00, Sa 07:30-18:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-basel-hardstrasse"
+opening_hours: Mo-Fr 07:30-19:00, Sa 07:30-18:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-basel-hardstrasse

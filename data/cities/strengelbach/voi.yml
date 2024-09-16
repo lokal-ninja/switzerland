@@ -4,8 +4,8 @@ latitude: 47.27837
 longitude: 7.92885
 postcode: "4802"
 city: Strengelbach
-street: "Langenthalerstrasse"
-housenumber: 1
+street: Langenthalerstrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00, Sa 07:30-18:00"
-website: "https://www.voi-migrospartner.ch/de-CH/filialen#voi-voi-strengelbach"
+opening_hours: Mo-Fr 07:30-19:00, Sa 07:30-18:00
+website: https://www.voi-migrospartner.ch/de-CH/filialen#voi-voi-strengelbach

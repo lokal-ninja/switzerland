@@ -4,8 +4,8 @@ latitude: 47.51813
 longitude: 8.59513
 postcode: "8424"
 city: Embrach
-street: "Hardhofstrasse"
-housenumber: 15
-phone: "+41 44 865 00 26"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-17:00; Sa 09:00-16:00"
-website: "https://www.simatrain.ch"
+street: Hardhofstrasse
+housenumber: "15"
+phone: +41 44 865 00 26
+opening_hours: Tu-Fr 09:00-12:00,14:00-17:00; Sa 09:00-16:00
+website: https://www.simatrain.ch

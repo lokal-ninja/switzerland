@@ -4,8 +4,8 @@ latitude: 47.49378
 longitude: 8.7581
 postcode: "8404"
 city: Winterthur
-street: "Rudolf-Diesel-Strasse"
-housenumber: 20
+street: Rudolf-Diesel-Strasse
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://maxibazar.fr/ch/de/cherchez-un-maxibazar/"
+website: https://maxibazar.fr/ch/de/cherchez-un-maxibazar/

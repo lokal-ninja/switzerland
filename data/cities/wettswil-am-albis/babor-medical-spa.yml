@@ -4,8 +4,8 @@ latitude: 47.33952
 longitude: 8.47313
 postcode: "8907"
 city: Wettswil am Albis
-street: "Ettenbergstrasse"
-housenumber: 5
-phone: "+41 44 710 15 51"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://www.babor-medical-spa.ch"
+street: Ettenbergstrasse
+housenumber: "5"
+phone: +41 44 710 15 51
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://www.babor-medical-spa.ch

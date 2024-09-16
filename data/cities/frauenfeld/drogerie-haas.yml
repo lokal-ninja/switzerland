@@ -4,8 +4,8 @@ latitude: 47.5563
 longitude: 8.89838
 postcode: "8500"
 city: Frauenfeld
-street: "Freie Strasse"
-housenumber: 22
+street: Freie Strasse
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:30,13:30-18:30; Sa 08:00-16:00; PH closed"
-website: "https://www.drogeriehaas.ch/"
+opening_hours: Mo-Fr 08:30-12:30,13:30-18:30; Sa 08:00-16:00; PH closed
+website: https://www.drogeriehaas.ch/

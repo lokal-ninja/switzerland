@@ -4,8 +4,8 @@ latitude: 47.49526
 longitude: 8.71698
 postcode: "8406"
 city: Winterthur
-street: "Technoparkstrasse"
-housenumber: 5
+street: Technoparkstrasse
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Fr 16:00-19:00; Sa 10:00-17:00"
-website: "https://www.delinat.com/weindepot-winterthur"
+opening_hours: Tu-Fr 16:00-19:00; Sa 10:00-17:00
+website: https://www.delinat.com/weindepot-winterthur

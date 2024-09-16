@@ -1,11 +1,11 @@
 id: 471962209
-type: way
+type: node
 latitude: 46.7538
 longitude: 9.06002
 postcode: "7162"
 city: Tavanasa
-street: "Stradun"
-housenumber: 56
+street: Stradun
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 379379825
-type: way
+type: node
 latitude: 47.04961
 longitude: 8.30949
 postcode: "6003"
 city: Luzern
-street: "Zentralstrasse"
-housenumber: 7
+street: Zentralstrasse
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-22:00"
-website: "https://filialen.migros.ch/de/migros-daily-luzern-bahnhof-daily"
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-22:00
+website: https://filialen.migros.ch/de/migros-daily-luzern-bahnhof-daily

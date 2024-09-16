@@ -4,8 +4,8 @@ latitude: 45.86976
 longitude: 8.98931
 postcode: "6850"
 city: Mendrisio
-street: "Largo Mario Soldini"
-housenumber: 1
+street: Largo Mario Soldini
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 13:30-18:00;Sa 13:30-17:00"
-website: "https://www.crocerossaticino.ch/"
+opening_hours: Tu-Fr 13:30-18:00;Sa 13:30-17:00
+website: https://www.crocerossaticino.ch/

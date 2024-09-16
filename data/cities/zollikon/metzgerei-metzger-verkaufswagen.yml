@@ -4,8 +4,8 @@ latitude: 47.33767
 longitude: 8.57557
 postcode: "8702"
 city: Zollikon
-street: "Dorfplatz"
-housenumber: 
-phone: "+41 71 994 18 16"
-opening_hours: "Tu,Sa 08:00-13:00"
-website: "https://www.metzger-metzger.ch/"
+street: Dorfplatz
+housenumber: ""
+phone: +41 71 994 18 16
+opening_hours: Tu,Sa 08:00-13:00
+website: https://www.metzger-metzger.ch/

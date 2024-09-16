@@ -1,11 +1,11 @@
 id: 51565384
-type: way
+type: node
 latitude: 47.49803
 longitude: 8.7403
 postcode: "8400"
 city: Winterthur
-street: "Pflanzschulstrasse"
-housenumber: 30
-phone: "+41 52 238 00 40"
-opening_hours: "Tu-Fr 08:30-12:00,13:30-18:30; Sa 08:00-16:00"
-website: "https://www.musikgrimm.ch/"
+street: Pflanzschulstrasse
+housenumber: "30"
+phone: +41 52 238 00 40
+opening_hours: Tu-Fr 08:30-12:00,13:30-18:30; Sa 08:00-16:00
+website: https://www.musikgrimm.ch/

@@ -4,8 +4,8 @@ latitude: 47.39341
 longitude: 8.53015
 postcode: "8037"
 city: Zürich
-street: "Rotbuchstrasse"
-housenumber: 72
+street: Rotbuchstrasse
+housenumber: "72"
 phone: ""
-opening_hours: "Mo,Su off; Tu-Fr 08:30-12:00,14:00-18:30; Sa 08:30-16:00"
-website: "https://schuerzoptik.ch"
+opening_hours: Mo,Su off; Tu-Fr 08:30-12:00,14:00-18:30; Sa 08:30-16:00
+website: https://schuerzoptik.ch

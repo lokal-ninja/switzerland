@@ -4,8 +4,9 @@ latitude: 46.87345
 longitude: 7.5595
 postcode: ""
 city: Münsingen
-street: "Bahnhofplatz"
-housenumber: 4
+street: Bahnhofplatz
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Th 05:30 - 21:00; Fr 05:30 - 22:00; Sa 06:00 - 22:00; Su 6:30 - 21:00"
-website: "https://avec.ch/"
+opening_hours: Mo-Th 05:30 - 21:00; Fr 05:30 - 22:00; Sa 06:00 - 22:00; Su 6:30 -
+    21:00
+website: https://avec.ch/

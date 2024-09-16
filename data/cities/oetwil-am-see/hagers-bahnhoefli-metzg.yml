@@ -5,7 +5,8 @@ longitude: 8.7326
 postcode: "8618"
 city: Oetwil am See
 street: ""
-housenumber: 14
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Tu 08:00-12:00,14:00-18:30; We 08:00-12:00; Th-Fr 08:00-12:00,14:00-18:30; Sa 08:00-16:00; PH off"
-website: "https://www.hagermetzg.ch"
+opening_hours: Mo-Tu 08:00-12:00,14:00-18:30; We 08:00-12:00; Th-Fr 08:00-12:00,14:00-18:30;
+    Sa 08:00-16:00; PH off
+website: https://www.hagermetzg.ch

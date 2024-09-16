@@ -4,8 +4,8 @@ latitude: 46.50965
 longitude: 6.6607
 postcode: "1009"
 city: Pully
-street: "Rue du Centre"
-housenumber: 12
-phone: "+41 21 711 29 89"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.cocoon-coiffure.com/"
+street: Rue du Centre
+housenumber: "12"
+phone: +41 21 711 29 89
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.cocoon-coiffure.com/

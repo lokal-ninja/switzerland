@@ -4,8 +4,8 @@ latitude: 46.77244
 longitude: 7.15312
 postcode: "1723"
 city: Marly
-street: "Route de Chésalles"
-housenumber: 47
+street: Route de Chésalles
+housenumber: "47"
 phone: ""
-opening_hours: "Tu-Fr 09:30-11:45,14:00-18:00; Sa 08:30-16:00"
-website: "https://www.activebike.ch/fr"
+opening_hours: Tu-Fr 09:30-11:45,14:00-18:00; Sa 08:30-16:00
+website: https://www.activebike.ch/fr

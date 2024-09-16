@@ -4,8 +4,8 @@ latitude: 47.23031
 longitude: 7.56902
 postcode: "4533"
 city: Riedholz
-street: "Baselstrasse"
-housenumber: 17
-phone: "+41 32 466 60 60"
-opening_hours: "Mo,Tu,Th,Fr 08:00-12:00; Sa 09:00-12:00; We,Su off"
-website: "https://dorfladenriedholz.business.site/"
+street: Baselstrasse
+housenumber: "17"
+phone: +41 32 466 60 60
+opening_hours: Mo,Tu,Th,Fr 08:00-12:00; Sa 09:00-12:00; We,Su off
+website: https://dorfladenriedholz.business.site/

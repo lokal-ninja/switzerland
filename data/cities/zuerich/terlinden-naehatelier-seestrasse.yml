@@ -4,8 +4,8 @@ latitude: 47.36506
 longitude: 8.53181
 postcode: "8002"
 city: Zürich
-street: "Seestrasse"
-housenumber: 11
+street: Seestrasse
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-16:00; Su off"
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-16:00; Su off
 website: ""

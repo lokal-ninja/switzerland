@@ -1,11 +1,11 @@
 id: 46661880
-type: way
+type: node
 latitude: 46.56947
 longitude: 6.60534
 postcode: "1032"
 city: Rommanle sur Lausanne
-street: "Route de Neuchâtel"
-housenumber: 2
+street: Route de Neuchâtel
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.magbio.ch/"
+website: https://www.magbio.ch/

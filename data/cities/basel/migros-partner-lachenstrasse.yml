@@ -4,8 +4,8 @@ latitude: 47.56818
 longitude: 7.56988
 postcode: "4056"
 city: Basel
-street: "Lachenstrasse"
-housenumber: 1
+street: Lachenstrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-18:00, Su 09:00-18:00"
-website: "https://filialen.migros.ch/de/migros-partner-basel-lachenstrasse"
+opening_hours: Mo-Fr 08:00-19:00, Sa 08:00-18:00, Su 09:00-18:00
+website: https://filialen.migros.ch/de/migros-partner-basel-lachenstrasse

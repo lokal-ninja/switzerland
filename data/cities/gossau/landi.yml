@@ -1,11 +1,11 @@
 id: 194344623
-type: way
+type: node
 latitude: 47.42703
 longitude: 9.24191
 postcode: "9200"
 city: Gossau
-street: "Bischofszellerstrasse"
-housenumber: 126
+street: Bischofszellerstrasse
+housenumber: "126"
 phone: ""
 opening_hours: ""
 website: ""

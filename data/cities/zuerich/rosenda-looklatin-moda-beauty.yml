@@ -5,7 +5,8 @@ longitude: 8.52411
 postcode: "8004"
 city: Zürich
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Th 9:00-12:00,14:00-19:00; Fr 09:00-12:00,14:00-20:00,Sa 09:00-16:00; PH closed"
+opening_hours: Mo 14:00-19:00; Tu-Th 9:00-12:00,14:00-19:00; Fr 09:00-12:00,14:00-20:00,Sa
+    09:00-16:00; PH closed
 website: ""

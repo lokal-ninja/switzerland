@@ -4,8 +4,8 @@ latitude: 47.47659
 longitude: 8.70414
 postcode: "8406"
 city: Winterthur
-street: "Zürcherstrasse"
-housenumber: 322
+street: Zürcherstrasse
+housenumber: "322"
 phone: ""
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.moevenpick-wein.com/de/moevenpick-wein-winterthur"
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.moevenpick-wein.com/de/moevenpick-wein-winterthur

@@ -1,11 +1,11 @@
 id: 23887584
-type: way
+type: node
 latitude: 47.53212
 longitude: 7.57289
 postcode: "4102"
 city: Binningen
-street: "Gorenmattstrasse"
-housenumber: 17
+street: Gorenmattstrasse
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00, Sa 07:30-18:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-binningen-gorenmatt"
+opening_hours: Mo-Fr 08:00-19:00, Sa 07:30-18:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-binningen-gorenmatt

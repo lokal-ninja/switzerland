@@ -4,8 +4,8 @@ latitude: 47.50013
 longitude: 8.78613
 postcode: "8352"
 city: Elsau
-street: "St. Gallerstrasse"
-housenumber: 6
+street: St. Gallerstrasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00"
-website: "http://www.landieulachtal.ch/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00
+website: http://www.landieulachtal.ch/

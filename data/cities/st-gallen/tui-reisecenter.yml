@@ -4,8 +4,8 @@ latitude: 47.42552
 longitude: 9.37465
 postcode: "9001"
 city: St. Gallen
-street: "Oberer Graben"
-housenumber: 3
+street: Oberer Graben
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-We,Fr 09:00-18:30; Th 09:00-19:30; Sa 09:00-16:00"
-website: "http://www.tuistgallenmarktplatz.ch"
+opening_hours: Mo-We,Fr 09:00-18:30; Th 09:00-19:30; Sa 09:00-16:00
+website: http://www.tuistgallenmarktplatz.ch

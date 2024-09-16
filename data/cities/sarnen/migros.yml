@@ -4,8 +4,8 @@ latitude: 46.89685
 longitude: 8.24985
 postcode: "6060"
 city: Sarnen
-street: "Nelkenstrasse"
-housenumber: 5
-phone: "+41 41 666 53 33"
-opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-18:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-sarnen-sarnen-center"
+street: Nelkenstrasse
+housenumber: "5"
+phone: +41 41 666 53 33
+opening_hours: Mo-Fr 08:00-20:00, Sa 08:00-18:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-sarnen-sarnen-center

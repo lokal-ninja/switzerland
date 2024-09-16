@@ -4,8 +4,8 @@ latitude: 47.69881
 longitude: 8.63496
 postcode: ""
 city: Schaffhausen
-street: "Vorstadt"
-housenumber: 46
+street: Vorstadt
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH,Su off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH,Su off
 website: ""

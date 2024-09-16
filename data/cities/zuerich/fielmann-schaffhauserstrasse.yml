@@ -4,8 +4,9 @@ latitude: 47.40997
 longitude: 8.54595
 postcode: "8050"
 city: Zürich
-street: "Schaffhauserstrasse"
-housenumber: 355
+street: Schaffhauserstrasse
+housenumber: "355"
 phone: ""
-opening_hours: "Mo 09:00-18:30; Tu,We 08:30-18:30; Th 08:30-19:00; Fr 08:30-18:30; Sa 08:30-17:00"
-website: "https://www.fielmann.ch/"
+opening_hours: Mo 09:00-18:30; Tu,We 08:30-18:30; Th 08:30-19:00; Fr 08:30-18:30;
+    Sa 08:30-17:00
+website: https://www.fielmann.ch/

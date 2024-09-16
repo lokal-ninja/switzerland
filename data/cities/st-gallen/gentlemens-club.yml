@@ -4,8 +4,8 @@ latitude: 47.42528
 longitude: 9.37486
 postcode: "9000"
 city: St. Gallen
-street: "Neugasse"
-housenumber: 24
-phone: "+41 71 222 96 96"
-opening_hours: "Mo 12:00-18:30; Tu-Fr 09:00-18:30; Th 09:00-21:00; Sa 09:00-17:00"
-website: "https://gentlemenclub.ch/"
+street: Neugasse
+housenumber: "24"
+phone: +41 71 222 96 96
+opening_hours: Mo 12:00-18:30; Tu-Fr 09:00-18:30; Th 09:00-21:00; Sa 09:00-17:00
+website: https://gentlemenclub.ch/

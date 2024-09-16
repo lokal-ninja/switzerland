@@ -1,11 +1,11 @@
 id: 82903584
-type: way
+type: node
 latitude: 47.59441
 longitude: 9.31762
 postcode: "8593"
 city: Kesswil
-street: "Bahnhofstrasse"
-housenumber: 4
+street: Bahnhofstrasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

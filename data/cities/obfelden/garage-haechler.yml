@@ -1,11 +1,11 @@
 id: 123077322
-type: way
+type: node
 latitude: 47.26398
 longitude: 8.42939
 postcode: "8912"
 city: Obfelden
-street: "Dorfstrasse"
-housenumber: 46
+street: Dorfstrasse
+housenumber: "46"
 phone: ""
 opening_hours: ""
-website: "https://www.garage-haechler.ch/"
+website: https://www.garage-haechler.ch/

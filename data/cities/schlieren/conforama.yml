@@ -4,8 +4,8 @@ latitude: 47.39844
 longitude: 8.45994
 postcode: "8952"
 city: Schlieren
-street: "Wagistrasse"
-housenumber: 20
-phone: "+41 44 738 28 88"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-18:00"
-website: "https://www.conforama.ch/"
+street: Wagistrasse
+housenumber: "20"
+phone: +41 44 738 28 88
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-18:00
+website: https://www.conforama.ch/

@@ -1,11 +1,11 @@
 id: 206970947
-type: way
+type: node
 latitude: 47.67075
 longitude: 8.63332
 postcode: "8248"
 city: Uhwiesen
-street: "Dorfstrasse"
-housenumber: 18
+street: Dorfstrasse
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:00"
+opening_hours: Mo-Fr 08:30-20:00
 website: ""

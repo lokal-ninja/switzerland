@@ -1,11 +1,11 @@
 id: 28822267
-type: way
+type: node
 latitude: 47.387
 longitude: 8.65445
 postcode: "8603"
 city: Schwerzenbach
-street: "Ringstrasse"
-housenumber: 1
+street: Ringstrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00
 website: ""

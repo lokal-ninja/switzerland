@@ -1,11 +1,11 @@
 id: 546367184
-type: way
+type: node
 latitude: 46.71646
 longitude: 6.96175
 postcode: "1690"
 city: Villaz-Saint-Pierre
-street: "Route de Fuyens"
-housenumber: 14
-phone: "+41 26 653 1141"
-opening_hours: "Mo-Su 06:45-11:45,16:30-18:30"
-website: "https://fromageriedenervaud.ch/"
+street: Route de Fuyens
+housenumber: "14"
+phone: +41 26 653 1141
+opening_hours: Mo-Su 06:45-11:45,16:30-18:30
+website: https://fromageriedenervaud.ch/

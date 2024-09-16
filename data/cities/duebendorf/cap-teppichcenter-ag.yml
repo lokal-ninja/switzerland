@@ -4,8 +4,8 @@ latitude: 47.40143
 longitude: 8.6028
 postcode: "8600"
 city: Dübendorf
-street: "Neugutstrasse"
-housenumber: 89
-phone: "+41 44 822 35 25"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-18:00"
-website: "https://www.teppichcenter-cap.ch/"
+street: Neugutstrasse
+housenumber: "89"
+phone: +41 44 822 35 25
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-18:00
+website: https://www.teppichcenter-cap.ch/

@@ -1,11 +1,13 @@
 id: 917697482
-type: way
+type: node
 latitude: 47.52226
 longitude: 8.59286
 postcode: "8424"
 city: Embrach
-street: "Nordstrasse"
-housenumber: 8
-phone: "+41 44 835 16 11"
-opening_hours: "Büro: Mo-Th 07:30-12:00,13:00-17:00; Fr 07:30-12:00,13:00-16:00 || PH off; Produktion: Mo-Th 07:00-11:30,13:00-16:00; Fr 07:00-11:30 || PH off || Ausserhalb der Öffnungszeit nach telefonischer Vereinbarung"
-website: "https://www.haeuselmann.ch"
+street: Nordstrasse
+housenumber: "8"
+phone: +41 44 835 16 11
+opening_hours: '"Büro": Mo-Th 07:30-12:00,13:00-17:00; Fr 07:30-12:00,13:00-16:00
+    || PH off; "Produktion": Mo-Th 07:00-11:30,13:00-16:00; Fr 07:00-11:30 || PH off
+    || "Ausserhalb der Öffnungszeit nach telefonischer Vereinbarung"'
+website: https://www.haeuselmann.ch

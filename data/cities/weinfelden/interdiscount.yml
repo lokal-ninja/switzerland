@@ -4,8 +4,8 @@ latitude: 47.56663
 longitude: 9.09623
 postcode: "8570"
 city: Weinfelden
-street: "Fichtenstrasse"
-housenumber: 18
+street: Fichtenstrasse
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su,PH closed"
-website: "https://www.interdiscount.ch/"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su,PH closed
+website: https://www.interdiscount.ch/

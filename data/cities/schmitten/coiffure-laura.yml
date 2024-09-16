@@ -1,11 +1,11 @@
 id: 106413894
-type: way
+type: node
 latitude: 46.85665
 longitude: 7.24823
 postcode: "3185"
 city: Schmitten
-street: "Bahnhofstrasse"
-housenumber: 5
+street: Bahnhofstrasse
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,12 @@
 id: 422843651
-type: way
+type: node
 latitude: 46.86108
 longitude: 9.53199
 postcode: "7000"
 city: Chur
-street: "Saluferstrasse"
-housenumber: 7
-phone: "+41 81 353 76 77"
-opening_hours: "Mar-Nov Mo 13:30-18:00; Tu-Fr 08:00-11:45, 13:30-18:00; Dec-Feb Mo off; Tu-Fr 09:00-11:45, 13:30-18:00"
-website: "http://motos-gabriel.ch"
+street: Saluferstrasse
+housenumber: "7"
+phone: +41 81 353 76 77
+opening_hours: Mar-Nov Mo 13:30-18:00; Tu-Fr 08:00-11:45, 13:30-18:00; Dec-Feb Mo
+    off; Tu-Fr 09:00-11:45, 13:30-18:00
+website: http://motos-gabriel.ch

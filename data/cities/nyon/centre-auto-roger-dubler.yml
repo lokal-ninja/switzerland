@@ -1,11 +1,11 @@
 id: 54995610
-type: way
+type: node
 latitude: 46.39322
 longitude: 6.23728
 postcode: "1260"
 city: Nyon
-street: "Route d'Oulteret"
-housenumber: 44
+street: Route d'Oulteret
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.3733
 longitude: 8.53904
 postcode: "8001"
 city: Zürich
-street: "Rennweg"
-housenumber: 35
+street: Rennweg
+housenumber: "35"
 phone: ""
 opening_hours: ""
-website: "https://www.globetrotter.ch/"
+website: https://www.globetrotter.ch/

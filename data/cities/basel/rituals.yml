@@ -4,8 +4,8 @@ latitude: 47.55749
 longitude: 7.58882
 postcode: "4001"
 city: Basel
-street: "Freie Strasse"
-housenumber: 11
+street: Freie Strasse
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.rituals.com/de-ch/"
+website: https://www.rituals.com/de-ch/

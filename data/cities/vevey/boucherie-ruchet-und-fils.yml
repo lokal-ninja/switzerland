@@ -4,8 +4,8 @@ latitude: 46.45966
 longitude: 6.8445
 postcode: "1800"
 city: Vevey
-street: "Rue des Deux-Marchés"
-housenumber: 5
-phone: "+41 21 921 24 96"
-opening_hours: "Tu-Fr 07:30-12:15, 14:00-18:30; Sa 07:00-17:00"
-website: "http://www.boucherie-ruchet.ch/"
+street: Rue des Deux-Marchés
+housenumber: "5"
+phone: +41 21 921 24 96
+opening_hours: Tu-Fr 07:30-12:15, 14:00-18:30; Sa 07:00-17:00
+website: http://www.boucherie-ruchet.ch/

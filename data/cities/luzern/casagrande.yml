@@ -4,8 +4,8 @@ latitude: 47.05353
 longitude: 8.30791
 postcode: "6004"
 city: Luzern
-street: "Grendelstrasse"
-housenumber: 6
+street: Grendelstrasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-19:00"
-website: "https://souvenirs.casagrande.ch/"
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-19:00
+website: https://souvenirs.casagrande.ch/

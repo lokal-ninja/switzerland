@@ -4,8 +4,8 @@ latitude: 47.05346
 longitude: 8.30656
 postcode: "6004"
 city: Luzern
-street: "Weggisgasse"
-housenumber: 1
+street: Weggisgasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
 website: ""

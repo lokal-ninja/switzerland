@@ -4,8 +4,8 @@ latitude: 46.69102
 longitude: 6.4508
 postcode: "1326"
 city: Juriens
-street: "Rue du Merelez"
-housenumber: 2
+street: Rue du Merelez
+housenumber: "2"
 phone: ""
-opening_hours: "We 16:00-18:00; Sa 09:30-11:30"
-website: "https://www.fermearcenciel.ch"
+opening_hours: We 16:00-18:00; Sa 09:30-11:30
+website: https://www.fermearcenciel.ch

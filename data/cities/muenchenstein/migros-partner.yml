@@ -4,8 +4,8 @@ latitude: 47.52267
 longitude: 7.61803
 postcode: "4142"
 city: Münchenstein
-street: "Baselstrasse"
-housenumber: 71
+street: Baselstrasse
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-17:00, Su 09:00-17:00"
-website: "https://filialen.migros.ch/de/migros-partner-zollweiden"
+opening_hours: Mo-Fr 08:00-19:00, Sa 08:00-17:00, Su 09:00-17:00
+website: https://filialen.migros.ch/de/migros-partner-zollweiden

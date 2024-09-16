@@ -1,11 +1,11 @@
 id: 194641517
-type: way
+type: node
 latitude: 46.82291
 longitude: 7.2088
 postcode: "1712"
 city: Tafers
-street: "Dorfschaftstrasse"
-housenumber: 2
-phone: "+41 26 494 50 10"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-16:00; Su off"
+street: Dorfschaftstrasse
+housenumber: "2"
+phone: +41 26 494 50 10
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-16:00; Su off
 website: ""

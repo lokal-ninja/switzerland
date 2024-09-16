@@ -4,8 +4,8 @@ latitude: 47.2643
 longitude: 8.68282
 postcode: "8707"
 city: Uetikon am See
-street: "Kleindorfstrasse"
-housenumber: 54
+street: Kleindorfstrasse
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Th off; Fr 06:00-13:00; Sa,Su 06:30-13:00"
-website: "https://www.lapanaderia.ch/"
+opening_hours: Mo-Th off; Fr 06:00-13:00; Sa,Su 06:30-13:00
+website: https://www.lapanaderia.ch/

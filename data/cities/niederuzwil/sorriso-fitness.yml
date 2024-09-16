@@ -1,11 +1,11 @@
 id: 200301198
-type: way
+type: node
 latitude: 47.44578
 longitude: 9.14423
 postcode: "9244"
 city: Niederuzwil
-street: "Bahnhofstrasse"
-housenumber: 141
+street: Bahnhofstrasse
+housenumber: "141"
 phone: ""
 opening_hours: ""
 website: ""

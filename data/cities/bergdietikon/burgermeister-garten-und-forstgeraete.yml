@@ -1,11 +1,11 @@
 id: 210558028
-type: way
+type: node
 latitude: 47.39104
 longitude: 8.38935
 postcode: "8962"
 city: Bergdietikon
-street: "Bergstrasse"
-housenumber: 36
+street: Bergstrasse
+housenumber: "36"
 phone: ""
-opening_hours: "Mo,Sa 08:00-12:00; Tu-Fr 08:00-12:00,13:00-18:00; PH closed"
+opening_hours: Mo,Sa 08:00-12:00; Tu-Fr 08:00-12:00,13:00-18:00; PH closed
 website: ""

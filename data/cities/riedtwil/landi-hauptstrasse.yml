@@ -1,11 +1,11 @@
 id: 503059566
-type: way
+type: node
 latitude: 47.14119
 longitude: 7.69505
 postcode: "3475"
 city: Riedtwil
-street: "Hauptstrasse"
-housenumber: 43
+street: Hauptstrasse
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

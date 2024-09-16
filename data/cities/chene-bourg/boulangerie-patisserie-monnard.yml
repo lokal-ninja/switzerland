@@ -4,8 +4,8 @@ latitude: 46.19747
 longitude: 6.19434
 postcode: "1225"
 city: Chêne-Bourg
-street: "Avenue de Bel-Air"
-housenumber: 13
-phone: "+41 22 348 53 49"
-opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-18:30; Su 06:00-17:30"
-website: "https://www.patisserie-monnard.ch"
+street: Avenue de Bel-Air
+housenumber: "13"
+phone: +41 22 348 53 49
+opening_hours: Mo-Fr 06:00-19:00; Sa 06:00-18:30; Su 06:00-17:30
+website: https://www.patisserie-monnard.ch

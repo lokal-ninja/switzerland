@@ -4,8 +4,8 @@ latitude: 47.3888
 longitude: 8.53887
 postcode: "8006"
 city: Zürich
-street: "Schaffhauserstrasse"
-housenumber: 11
+street: Schaffhauserstrasse
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.denner.ch/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.denner.ch/

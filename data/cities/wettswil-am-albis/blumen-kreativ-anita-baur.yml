@@ -4,8 +4,9 @@ latitude: 47.34161
 longitude: 8.47114
 postcode: "8907"
 city: Wettswil am Albis
-street: "Ettenbergstrasse"
-housenumber: 28
-phone: "+41 79 384 14 63"
-opening_hours: "Mo 09:00-12:00; Tu, Th, Fr 09:00-12:00, 14:00-18:30; Sa 09:00-16:00; Su off"
-website: "https://blumenkreativ-wettswil.ch/"
+street: Ettenbergstrasse
+housenumber: "28"
+phone: +41 79 384 14 63
+opening_hours: Mo 09:00-12:00; Tu, Th, Fr 09:00-12:00, 14:00-18:30; Sa 09:00-16:00;
+    Su off
+website: https://blumenkreativ-wettswil.ch/

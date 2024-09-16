@@ -1,11 +1,11 @@
 id: 230445511
-type: way
+type: node
 latitude: 46.25773
 longitude: 6.96274
 postcode: "1870"
 city: Monthey
-street: "Rue du Closillon"
-housenumber: 45
-phone: "+41 24 471 16 61"
+street: Rue du Closillon
+housenumber: "45"
+phone: +41 24 471 16 61
 opening_hours: ""
-website: "https://www.garage-gattoni.ch/"
+website: https://www.garage-gattoni.ch/

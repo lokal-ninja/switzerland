@@ -1,11 +1,11 @@
 id: 266538011
-type: way
+type: node
 latitude: 47.36325
 longitude: 8.04434
 postcode: "5035"
 city: Unterentfelden
-street: "Quellmattstrasse"
-housenumber: 77
-phone: "+41 62 723 40 35"
+street: Quellmattstrasse
+housenumber: "77"
+phone: +41 62 723 40 35
 opening_hours: ""
-website: "https://moebelrufli.ch/"
+website: https://moebelrufli.ch/

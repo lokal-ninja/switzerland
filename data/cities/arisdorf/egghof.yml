@@ -4,8 +4,8 @@ latitude: 47.51479
 longitude: 7.77886
 postcode: "4422"
 city: Arisdorf
-street: "Egghof"
-housenumber: 137
-phone: "+41 61 811 37 38"
-opening_hours: "Sa: ab 8 Uhr bedient, Selbstbedienung am Nachmittag."
-website: "http://www.egghof-kunz.ch/"
+street: Egghof
+housenumber: "137"
+phone: +41 61 811 37 38
+opening_hours: 'Sa: ab 8 Uhr bedient, Selbstbedienung am Nachmittag.'
+website: http://www.egghof-kunz.ch/

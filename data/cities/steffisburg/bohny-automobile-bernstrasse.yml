@@ -1,11 +1,11 @@
 id: 412892321
-type: way
+type: node
 latitude: 46.77686
 longitude: 7.61418
 postcode: ""
 city: Steffisburg
-street: "Bernstrasse"
-housenumber: 121
+street: Bernstrasse
+housenumber: "121"
 phone: ""
 opening_hours: ""
-website: "https://bohny-automobile.ch/"
+website: https://bohny-automobile.ch/

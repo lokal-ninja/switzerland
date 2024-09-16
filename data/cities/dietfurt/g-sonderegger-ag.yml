@@ -4,8 +4,8 @@ latitude: 47.34597
 longitude: 9.07908
 postcode: "9615"
 city: Dietfurt
-street: "Landstrasse"
-housenumber: 1
-phone: "+41 71 983 17 62"
-opening_hours: "Tu-Fr 09:00-12:00, 13:00-18:00; Sa 09:00-12:00, 13:30-15:00; Mo off"
-website: "https://www.sonderegger-motorgeraete.ch/"
+street: Landstrasse
+housenumber: "1"
+phone: +41 71 983 17 62
+opening_hours: Tu-Fr 09:00-12:00, 13:00-18:00; Sa 09:00-12:00, 13:30-15:00; Mo off
+website: https://www.sonderegger-motorgeraete.ch/

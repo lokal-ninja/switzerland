@@ -4,8 +4,8 @@ latitude: 47.36816
 longitude: 8.87826
 postcode: "8494"
 city: Bauma
-street: "Bahnhofstrasse"
-housenumber: 7
-phone: "+41 52 386 11 60"
-opening_hours: "Th-Fr 13:00-18:00; Sa 10:00-16:00"
-website: "https://www.heimatwerk-zuerioberland.ch/"
+street: Bahnhofstrasse
+housenumber: "7"
+phone: +41 52 386 11 60
+opening_hours: Th-Fr 13:00-18:00; Sa 10:00-16:00
+website: https://www.heimatwerk-zuerioberland.ch/

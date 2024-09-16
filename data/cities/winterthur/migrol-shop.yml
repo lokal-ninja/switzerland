@@ -4,8 +4,8 @@ latitude: 47.49833
 longitude: 8.76222
 postcode: "8404"
 city: Winterthur
-street: "Industriestrasse"
-housenumber: 43
+street: Industriestrasse
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 06:00-20:00; Sa 07:00-20:00; Su 08:00-20:00"
-website: "https://www.migrol.ch/de/"
+opening_hours: Mo-Fr 06:00-20:00; Sa 07:00-20:00; Su 08:00-20:00
+website: https://www.migrol.ch/de/

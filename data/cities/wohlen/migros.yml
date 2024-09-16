@@ -4,8 +4,8 @@ latitude: 47.34941
 longitude: 8.27248
 postcode: "5610"
 city: Wohlen
-street: "Bahnhofstrasse"
-housenumber: 7
+street: Bahnhofstrasse
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-We 08:00-19:00, Th-Fr 08:00-20:00, Sa 07:30-18:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-wohlen"
+opening_hours: Mo-We 08:00-19:00, Th-Fr 08:00-20:00, Sa 07:30-18:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-wohlen

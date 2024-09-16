@@ -4,8 +4,8 @@ latitude: 47.1725
 longitude: 8.10961
 postcode: "6210"
 city: Sursee
-street: "Rathausplatz"
-housenumber: 4
+street: Rathausplatz
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Fr 08:30-12:00, Mo-Fr 13:30-18:30, Sa 08:30-17:00; PH off"
-website: "https://www.schuhkueng.ch/"
+opening_hours: Tu-Fr 08:30-12:00, Mo-Fr 13:30-18:30, Sa 08:30-17:00; PH off
+website: https://www.schuhkueng.ch/

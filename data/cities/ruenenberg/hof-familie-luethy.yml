@@ -4,8 +4,8 @@ latitude: 47.43063
 longitude: 7.88313
 postcode: "4497"
 city: Rünenberg
-street: "Allmendstrasse"
-housenumber: 83
-phone: "+41 61 981 29 97"
-opening_hours: "Selbstbedienungs-Hüsli: Täglich geöffnet bei schönem Wetter."
-website: "https://www.hof-allmend.ch/"
+street: Allmendstrasse
+housenumber: "83"
+phone: +41 61 981 29 97
+opening_hours: 'Selbstbedienungs-Hüsli: Täglich geöffnet bei schönem Wetter.'
+website: https://www.hof-allmend.ch/

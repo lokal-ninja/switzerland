@@ -1,11 +1,11 @@
 id: 129587004
-type: way
+type: node
 latitude: 47.36728
 longitude: 8.78505
 postcode: "8330"
 city: Pfäffikon ZH
-street: "Zelglistrasse"
-housenumber: 10
-phone: "+41 43 288 83 10"
-opening_hours: "Mo-Fr 05:15-19:00"
+street: Zelglistrasse
+housenumber: "10"
+phone: +41 43 288 83 10
+opening_hours: Mo-Fr 05:15-19:00
 website: ""

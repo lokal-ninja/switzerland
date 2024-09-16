@@ -1,11 +1,11 @@
 id: 239603275
-type: way
+type: node
 latitude: 46.47985
 longitude: 6.86582
 postcode: "1806"
 city: Saint-Légier-La Chiésaz
-street: "Route de Fenil"
-housenumber: 62
+street: Route de Fenil
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Sa 14:00-18:00"
+opening_hours: Mo-Sa 14:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.1528
 longitude: 8.77312
 postcode: "6612"
 city: Ascona
-street: "Via Lido"
-housenumber: 1
+street: Via Lido
+housenumber: "1"
 phone: "+41917913167"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:30"
-website: "https://koenig-ascona.ch"
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:30
+website: https://koenig-ascona.ch

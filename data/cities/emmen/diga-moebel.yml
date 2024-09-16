@@ -1,11 +1,11 @@
 id: 93374642
-type: way
+type: node
 latitude: 47.0864
 longitude: 8.3101
 postcode: "6032"
 city: Emmen
-street: "Hasliring"
-housenumber: 20
+street: Hasliring
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

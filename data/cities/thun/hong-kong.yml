@@ -4,8 +4,9 @@ latitude: 46.76359
 longitude: 7.62776
 postcode: "3600"
 city: Thun
-street: "Bernstrasse"
-housenumber: 13
+street: Bernstrasse
+housenumber: "13"
 phone: ""
-opening_hours: "Mo,We 14:00-18:30; Tu,Th,Fr 10:00-12:00; 14:00-18:30; Sa 10:00-16:00; PH off"
+opening_hours: Mo,We 14:00-18:30; Tu,Th,Fr 10:00-12:00; 14:00-18:30; Sa 10:00-16:00;
+    PH off
 website: ""

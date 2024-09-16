@@ -4,8 +4,8 @@ latitude: 46.58232
 longitude: 7.65068
 postcode: "3714"
 city: Frutigen
-street: "Dammweg"
-housenumber: 8
+street: Dammweg
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00, 13:15-18:00; Sa 07:30-14:00; Su off"
-website: "http://www.fuhrer-radsport.ch"
+opening_hours: Mo-Fr 07:30-12:00, 13:15-18:00; Sa 07:30-14:00; Su off
+website: http://www.fuhrer-radsport.ch

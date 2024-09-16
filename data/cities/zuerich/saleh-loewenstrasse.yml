@@ -4,8 +4,8 @@ latitude: 47.37449
 longitude: 8.53565
 postcode: "8001"
 city: Zürich
-street: "Löwenstrasse"
-housenumber: 25
+street: Löwenstrasse
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://coiffeur-saleh.ch/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://coiffeur-saleh.ch/

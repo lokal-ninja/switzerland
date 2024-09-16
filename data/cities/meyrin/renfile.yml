@@ -1,11 +1,11 @@
 id: 87232897
-type: way
+type: node
 latitude: 46.22754
 longitude: 6.06511
 postcode: "1217"
 city: Meyrin
-street: "Rue Alphonse-Large"
-housenumber: 19
-phone: "+41 22 341 13 02"
-opening_hours: "closed jusqu'en septembre"
-website: "https://renfile.ch/brocante-renfile-meyrin/"
+street: Rue Alphonse-Large
+housenumber: "19"
+phone: +41 22 341 13 02
+opening_hours: closed "jusqu'en septembre"
+website: https://renfile.ch/brocante-renfile-meyrin/

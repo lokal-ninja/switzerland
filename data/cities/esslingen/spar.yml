@@ -1,11 +1,11 @@
 id: 112701092
-type: way
+type: node
 latitude: 47.28775
 longitude: 8.71084
 postcode: "8133"
 city: Esslingen
-street: "Forchstrasse"
-housenumber: 4
+street: Forchstrasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 06:00-20:00; Su off"
+opening_hours: Mo-Sa 06:00-20:00; Su off
 website: ""

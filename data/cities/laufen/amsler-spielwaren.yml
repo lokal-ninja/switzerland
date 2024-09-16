@@ -4,8 +4,8 @@ latitude: 47.42139
 longitude: 7.50045
 postcode: "4242"
 city: Laufen
-street: "Hauptstrasse"
-housenumber: 7
+street: Hauptstrasse
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.amsler-spielwaren.ch/"
+website: https://www.amsler-spielwaren.ch/

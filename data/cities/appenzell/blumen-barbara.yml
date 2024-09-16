@@ -4,8 +4,8 @@ latitude: 47.33185
 longitude: 9.4081
 postcode: "9050"
 city: Appenzell
-street: "Zielstrasse"
-housenumber: 2
-phone: "+41 71 787 47 27"
-opening_hours: "Mo-Fr 08:00-12:00, 13:30-18:30; Sa 08:00-17:00"
-website: "https://www.blumenbarbara.ch/"
+street: Zielstrasse
+housenumber: "2"
+phone: +41 71 787 47 27
+opening_hours: Mo-Fr 08:00-12:00, 13:30-18:30; Sa 08:00-17:00
+website: https://www.blumenbarbara.ch/

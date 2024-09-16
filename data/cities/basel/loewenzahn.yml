@@ -4,8 +4,8 @@ latitude: 47.55879
 longitude: 7.58455
 postcode: "4051"
 city: Basel
-street: "Petersgraben"
-housenumber: 16
+street: Petersgraben
+housenumber: "16"
 phone: ""
-opening_hours: "Tu 15:00-18:30; We 18:30-21:30; Fr 14:00-18:00; Sa 12:00-16:00"
-website: "https://www.loewenzahn-bikes.ch/"
+opening_hours: Tu 15:00-18:30; We 18:30-21:30; Fr 14:00-18:00; Sa 12:00-16:00
+website: https://www.loewenzahn-bikes.ch/

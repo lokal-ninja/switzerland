@@ -1,11 +1,11 @@
 id: 389756155
-type: way
+type: node
 latitude: 47.13297
 longitude: 7.54711
 postcode: "3427"
 city: Utzenstorf
-street: "Landshutstrasse"
-housenumber: 56
+street: Landshutstrasse
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

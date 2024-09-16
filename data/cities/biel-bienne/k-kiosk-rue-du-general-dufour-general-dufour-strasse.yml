@@ -1,11 +1,11 @@
 id: 926223747
-type: way
+type: node
 latitude: 47.14003
 longitude: 7.24827
 postcode: ""
 city: Biel/Bienne
-street: "Rue du Général-Dufour / General-Dufour-Strasse"
-housenumber: 24
+street: Rue du Général-Dufour / General-Dufour-Strasse
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

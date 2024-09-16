@@ -4,8 +4,8 @@ latitude: 47.37476
 longitude: 8.53588
 postcode: "8001"
 city: Zürich
-street: "Löwenstrasse"
-housenumber: 29
+street: Löwenstrasse
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-18:00"
-website: "https://www.peggysage.com/de-CH/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-18:00
+website: https://www.peggysage.com/de-CH/

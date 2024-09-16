@@ -4,8 +4,9 @@ latitude: 47.50378
 longitude: 7.51868
 postcode: "4105"
 city: Biel-Benken
-street: "Kirchgasse"
+street: Kirchgasse
 housenumber: 5b
-phone: "+41 61 721 74 09"
-opening_hours: "Selbstbedienung  täglich 07.30-20.30 Uhr. Wochenmärkte: Fr. in Binningen: 8.30-11 Uhr.  Di. in Basel: 9-15 Uhr."
+phone: +41 61 721 74 09
+opening_hours: 'Selbstbedienung  täglich 07.30-20.30 Uhr. Wochenmärkte: Fr. in Binningen:
+    8.30-11 Uhr.  Di. in Basel: 9-15 Uhr.'
 website: ""

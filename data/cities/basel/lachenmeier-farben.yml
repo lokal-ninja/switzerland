@@ -4,8 +4,8 @@ latitude: 47.563
 longitude: 7.59813
 postcode: "4057"
 city: Basel
-street: "Clarastrasse"
-housenumber: 46
-phone: "+41 61 681 00 36"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:30; Sa 09:00-16:00"
-website: "https://www.lachenmeierfarben.ch/filialen/basel-clarastrasse-46/"
+street: Clarastrasse
+housenumber: "46"
+phone: +41 61 681 00 36
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:30; Sa 09:00-16:00
+website: https://www.lachenmeierfarben.ch/filialen/basel-clarastrasse-46/

@@ -1,11 +1,11 @@
 id: 693604704
-type: way
+type: node
 latitude: 46.83389
 longitude: 9.28214
 postcode: "7017"
 city: Flims
-street: "Via Nova"
-housenumber: 80
+street: Via Nova
+housenumber: "80"
 phone: ""
 opening_hours: ""
 website: ""

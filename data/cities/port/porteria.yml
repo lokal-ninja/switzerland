@@ -4,8 +4,8 @@ latitude: 47.1167
 longitude: 7.25425
 postcode: "2562"
 city: Port
-street: "Hauptstrasse"
-housenumber: 6
-phone: "+41 32 331 02 15"
-opening_hours: "Mo-Fr 06:30-13:00; Tu,Th 06:30-13:00,17:00-19:30; Sa 07:30-14:00"
-website: "https://www.porteria.ch/"
+street: Hauptstrasse
+housenumber: "6"
+phone: +41 32 331 02 15
+opening_hours: Mo-Fr 06:30-13:00; Tu,Th 06:30-13:00,17:00-19:30; Sa 07:30-14:00
+website: https://www.porteria.ch/

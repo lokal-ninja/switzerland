@@ -1,11 +1,11 @@
 id: 305011590
-type: way
+type: node
 latitude: 47.47051
 longitude: 9.11133
 postcode: "9524"
 city: Zuzwil SG
-street: "Herbergstrasse"
-housenumber: 25
+street: Herbergstrasse
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

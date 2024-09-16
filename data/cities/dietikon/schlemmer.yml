@@ -4,8 +4,8 @@ latitude: 47.39857
 longitude: 8.41847
 postcode: "8953"
 city: Dietikon
-street: "Zürcherstrasse"
-housenumber: 182
-phone: "+41 44 740 43 09"
-opening_hours: "We-Fr 08:00-12:00,13:30-18:00; Sa 08:00-12:00, Su-Tu off"
-website: "https://schlemmer.ch/"
+street: Zürcherstrasse
+housenumber: "182"
+phone: +41 44 740 43 09
+opening_hours: We-Fr 08:00-12:00,13:30-18:00; Sa 08:00-12:00, Su-Tu off
+website: https://schlemmer.ch/

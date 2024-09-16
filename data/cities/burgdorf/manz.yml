@@ -4,8 +4,8 @@ latitude: 47.04786
 longitude: 7.62251
 postcode: "3400"
 city: Burgdorf
-street: "Oberburgstrasse"
-housenumber: 55
+street: Oberburgstrasse
+housenumber: "55"
 phone: "+41344222255"
-opening_hours: "Mo-Fr 08:00-12:00; PH off"
+opening_hours: Mo-Fr 08:00-12:00; PH off
 website: ""

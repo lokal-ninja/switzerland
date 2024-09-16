@@ -4,8 +4,8 @@ latitude: 46.02325
 longitude: 7.7479
 postcode: "3920"
 city: Zermatt
-street: "Bahnhofstrasse"
-housenumber: 3
+street: Bahnhofstrasse
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://ch.mammut.com"
+website: https://ch.mammut.com

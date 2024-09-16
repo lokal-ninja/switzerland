@@ -1,11 +1,11 @@
 id: 47124665
-type: way
+type: node
 latitude: 47.53097
 longitude: 8.67405
 postcode: "8413"
 city: Neftenbach
-street: "Seuzachstrasse"
-housenumber: 28
+street: Seuzachstrasse
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 08:00-11:30,13:30-17:30"
-website: "https://cleanshop.ch/"
+opening_hours: Mo-Fr 08:00-11:30,13:30-17:30
+website: https://cleanshop.ch/

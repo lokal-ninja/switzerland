@@ -4,8 +4,8 @@ latitude: 47.38688
 longitude: 8.5029
 postcode: "8048"
 city: Zürich
-street: "Hohlstrasse"
-housenumber: 402
+street: Hohlstrasse
+housenumber: "402"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-16:00, Su off"
-website: "https://www.boesner.ch/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-16:00, Su off
+website: https://www.boesner.ch/

@@ -4,8 +4,8 @@ latitude: 46.38049
 longitude: 7.62912
 postcode: "3954"
 city: Leukerbad
-street: "Dorfstrasse"
-housenumber: 
+street: Dorfstrasse
+housenumber: ""
 phone: "+41765777559"
-opening_hours: "on call"
+opening_hours: '"on call"'
 website: ""

@@ -1,11 +1,11 @@
 id: 187612882
-type: way
+type: node
 latitude: 47.35393
 longitude: 8.43683
 postcode: "8903"
 city: Birmensdorf (ZH)
-street: "Zürcherstrasse"
-housenumber: 11
+street: Zürcherstrasse
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.bode-baeckerei.ch/"
+website: https://www.bode-baeckerei.ch/

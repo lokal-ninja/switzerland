@@ -1,11 +1,11 @@
 id: 53017971
-type: way
+type: node
 latitude: 47.39537
 longitude: 8.48615
 postcode: "8064"
 city: Zürich
-street: "Bernerstrasse Nord"
-housenumber: 188
+street: Bernerstrasse Nord
+housenumber: "188"
 phone: ""
-opening_hours: "Mo-Sa 07:00-18:00"
-website: "https://www.haeusermann.com/"
+opening_hours: Mo-Sa 07:00-18:00
+website: https://www.haeusermann.com/

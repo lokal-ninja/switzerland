@@ -4,8 +4,8 @@ latitude: 47.39485
 longitude: 8.52443
 postcode: "8037"
 city: Zürich
-street: "Trottenstrasse"
-housenumber: 3
+street: Trottenstrasse
+housenumber: "3"
 phone: "+41432430404"
-opening_hours: "We-Fr 12:00-17:00; Sa 12:00-16:00"
-website: "https://www.zauberparadies.com/"
+opening_hours: We-Fr 12:00-17:00; Sa 12:00-16:00
+website: https://www.zauberparadies.com/

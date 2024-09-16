@@ -1,11 +1,11 @@
 id: 1135896065
-type: way
+type: node
 latitude: 47.41401
 longitude: 8.55044
 postcode: "8050"
 city: Zürich
-street: "Thurgauerstrasse"
-housenumber: 35
-phone: "+41 44 306 77 77"
+street: Thurgauerstrasse
+housenumber: "35"
+phone: +41 44 306 77 77
 opening_hours: ""
-website: "https://www.emilfrey.ch/de/zuerich-nord"
+website: https://www.emilfrey.ch/de/zuerich-nord

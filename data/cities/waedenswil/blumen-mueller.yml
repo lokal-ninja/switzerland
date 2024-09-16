@@ -4,8 +4,8 @@ latitude: 47.22945
 longitude: 8.66999
 postcode: "8820"
 city: Wädenswil
-street: "Zugerstrasse"
-housenumber: 25
-phone: "+41 44 780 44 75"
-opening_hours: "Th-Fr 09:00-12:00,14:00-18:00;Sa 09:00-15:00"
-website: "www.blumen-müller.ch"
+street: Zugerstrasse
+housenumber: "25"
+phone: +41 44 780 44 75
+opening_hours: Th-Fr 09:00-12:00,14:00-18:00;Sa 09:00-15:00
+website: www.blumen-müller.ch

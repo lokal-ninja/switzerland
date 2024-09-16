@@ -4,8 +4,8 @@ latitude: 47.49158
 longitude: 8.65807
 postcode: "8425"
 city: Oberembrach
-street: "Sonnenbühl"
-housenumber: 3
+street: Sonnenbühl
+housenumber: "3"
 phone: "0792426813"
-opening_hours: "Mo-Th 17:00-21:00, Fr 09:00-21:00"
-website: "https://dcustombike.ch/"
+opening_hours: Mo-Th 17:00-21:00, Fr 09:00-21:00
+website: https://dcustombike.ch/

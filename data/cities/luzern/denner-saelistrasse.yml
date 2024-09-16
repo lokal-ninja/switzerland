@@ -1,11 +1,11 @@
 id: 90520644
-type: way
+type: node
 latitude: 47.04584
 longitude: 8.3008
 postcode: "6005"
 city: Luzern
-street: "Sälistrasse"
-housenumber: 21
+street: Sälistrasse
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Th 07:00-19:00; Fr 07:00-20:00; Sa 07:00-17:00"
+opening_hours: Mo-Th 07:00-19:00; Fr 07:00-20:00; Sa 07:00-17:00
 website: ""

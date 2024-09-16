@@ -1,11 +1,11 @@
 id: 57725628
-type: way
+type: node
 latitude: 47.48452
 longitude: 8.75912
 postcode: "8405"
 city: Winterthur
-street: "Tösstalstrasse"
-housenumber: 236
+street: Tösstalstrasse
+housenumber: "236"
 phone: ""
-opening_hours: "Mo-Fr 07:30-20:00; Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-20:00; Sa 07:30-18:00
 website: ""

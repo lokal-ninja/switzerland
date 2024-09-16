@@ -1,11 +1,11 @@
 id: 282769979
-type: way
+type: node
 latitude: 47.54889
 longitude: 9.30811
 postcode: "8580"
 city: Amriswil
-street: "Fehlwiesstrasse"
-housenumber: 1
+street: Fehlwiesstrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00,13:15-18:00"
+opening_hours: Mo-Fr 07:30-12:00,13:15-18:00
 website: ""

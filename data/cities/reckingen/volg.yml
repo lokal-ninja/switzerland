@@ -4,8 +4,8 @@ latitude: 46.4692
 longitude: 8.2418
 postcode: "3998"
 city: Reckingen
-street: "Furkastrasse"
-housenumber: 452
-phone: "+41 27 973 20 75"
-opening_hours: "06:00-19:00"
-website: "https://www.volg.ch/standorte-oeffnungszeiten/detail/volg-reckingen-gluringen/"
+street: Furkastrasse
+housenumber: "452"
+phone: +41 27 973 20 75
+opening_hours: 06:00-19:00
+website: https://www.volg.ch/standorte-oeffnungszeiten/detail/volg-reckingen-gluringen/

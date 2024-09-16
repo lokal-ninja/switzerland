@@ -1,11 +1,11 @@
 id: 149102367
-type: way
+type: node
 latitude: 47.2345
 longitude: 8.63587
 postcode: "8820"
 city: Wädenswil
-street: "Alte Zugerstrasse"
-housenumber: 2
-phone: "+41 44 783 09 99"
+street: Alte Zugerstrasse
+housenumber: "2"
+phone: +41 44 783 09 99
 opening_hours: ""
-website: "https://www.autosteinmann.ch/"
+website: https://www.autosteinmann.ch/

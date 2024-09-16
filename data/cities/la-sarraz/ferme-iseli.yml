@@ -4,8 +4,8 @@ latitude: 46.64801
 longitude: 6.50662
 postcode: "1315"
 city: La Sarraz
-street: "Route de Dizy"
-housenumber: 1
-phone: "+41 21 866 66 01"
-opening_hours: "24/7"
-website: "https://www.ferme-iseli.ch/"
+street: Route de Dizy
+housenumber: "1"
+phone: +41 21 866 66 01
+opening_hours: 24/7
+website: https://www.ferme-iseli.ch/

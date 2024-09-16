@@ -4,8 +4,8 @@ latitude: 46.81984
 longitude: 6.9334
 postcode: "1530"
 city: Payerne
-street: "Rue de Guillermaux"
-housenumber: 27
-phone: "+41 26 660 59 21"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00,14:00-16:00; Su-Mo off"
+street: Rue de Guillermaux
+housenumber: "27"
+phone: +41 26 660 59 21
+opening_hours: Tu-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00,14:00-16:00; Su-Mo off
 website: ""

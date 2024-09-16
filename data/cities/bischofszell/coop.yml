@@ -1,11 +1,11 @@
 id: 290144230
-type: way
+type: node
 latitude: 47.4903
 longitude: 9.23737
 postcode: "9220"
 city: Bischofszell
-street: "Niederbürerstrasse"
-housenumber: 5
+street: Niederbürerstrasse
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 167978834
-type: way
+type: node
 latitude: 47.69879
 longitude: 8.65497
 postcode: "8203"
 city: Schaffhausen
-street: "Alpenstrasse"
-housenumber: 134
+street: Alpenstrasse
+housenumber: "134"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.denner.ch/de/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.denner.ch/de/

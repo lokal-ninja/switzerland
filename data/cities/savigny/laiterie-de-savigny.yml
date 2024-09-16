@@ -4,8 +4,9 @@ latitude: 46.53806
 longitude: 6.73164
 postcode: "1073"
 city: Savigny
-street: "Route des Miguettes"
-housenumber: 
-phone: "+41 21 781 20 56"
-opening_hours: "Mo-Fr 08:30-12:30,15:00-19:00; Sa 08:30-12:30,17:00-19:00; Oct-Mar: Su 17:00-19:00"
-website: "https://epicerieslocales.ch/laiterie-de-savigny/"
+street: Route des Miguettes
+housenumber: ""
+phone: +41 21 781 20 56
+opening_hours: 'Mo-Fr 08:30-12:30,15:00-19:00; Sa 08:30-12:30,17:00-19:00; Oct-Mar:
+    Su 17:00-19:00'
+website: https://epicerieslocales.ch/laiterie-de-savigny/

@@ -4,8 +4,8 @@ latitude: 47.37566
 longitude: 8.53631
 postcode: "8001"
 city: Zürich
-street: "Usteristrasse"
-housenumber: 19
+street: Usteristrasse
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; PH off"
-website: "https://www.walder.ch/"
+opening_hours: Mo-Sa 09:00-20:00; PH off
+website: https://www.walder.ch/

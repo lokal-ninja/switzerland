@@ -1,11 +1,11 @@
 id: 631377895
-type: way
+type: node
 latitude: 46.96824
 longitude: 7.62579
 postcode: "3513"
 city: Bigenthal
-street: "Dorfstrasse"
-housenumber: 43
+street: Dorfstrasse
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00"
+opening_hours: Mo-Fr 07:30-18:00
 website: ""

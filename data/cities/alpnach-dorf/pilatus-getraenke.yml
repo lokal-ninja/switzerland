@@ -1,11 +1,11 @@
 id: 332933630
-type: way
+type: node
 latitude: 46.9375
 longitude: 8.26755
 postcode: "6055"
 city: Alpnach Dorf
-street: "Schoriederstrasse"
-housenumber: 4
+street: Schoriederstrasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

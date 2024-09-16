@@ -4,8 +4,8 @@ latitude: 47.26621
 longitude: 8.3479
 postcode: "5630"
 city: Muri AG
-street: "Luzernerstrasse"
-housenumber: 64
+street: Luzernerstrasse
+housenumber: "64"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.migrol.ch/de/"
+opening_hours: 24/7
+website: https://www.migrol.ch/de/

@@ -1,11 +1,11 @@
 id: 206589286
-type: way
+type: node
 latitude: 47.57916
 longitude: 9.16634
 postcode: "8572"
 city: Berg TG
-street: "Leberenstrasse"
-housenumber: 1
+street: Leberenstrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00, 14:00-18:30; Sa 07:30-16:00"
-website: "http://www.landiberg.ch"
+opening_hours: Mo-Fr 07:30-12:00, 14:00-18:30; Sa 07:30-16:00
+website: http://www.landiberg.ch

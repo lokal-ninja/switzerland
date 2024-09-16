@@ -1,11 +1,11 @@
 id: 271325373
-type: way
+type: node
 latitude: 47.33342
 longitude: 8.84722
 postcode: "8344"
 city: Bäretswil
-street: "Schürlistrasse"
-housenumber: 9
-phone: "+41 43 311 55 11"
+street: Schürlistrasse
+housenumber: "9"
+phone: +41 43 311 55 11
 opening_hours: ""
 website: ""

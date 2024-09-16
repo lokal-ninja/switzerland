@@ -1,11 +1,11 @@
 id: 379379824
-type: way
+type: node
 latitude: 47.05013
 longitude: 8.30946
 postcode: "6002"
 city: Luzern
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.confiserie.ch/de/gleis-3"
+website: https://www.confiserie.ch/de/gleis-3

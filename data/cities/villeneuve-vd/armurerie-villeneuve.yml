@@ -4,8 +4,8 @@ latitude: 46.39634
 longitude: 6.92452
 postcode: "1844"
 city: Villeneuve VD
-street: "Grand-Rue"
-housenumber: 50
-phone: "+41 21 922 22 46"
-opening_hours: "Tu,We,Fr 14:00-17:00"
-website: "http://www.armurerie-villeneuve.ch/"
+street: Grand-Rue
+housenumber: "50"
+phone: +41 21 922 22 46
+opening_hours: Tu,We,Fr 14:00-17:00
+website: http://www.armurerie-villeneuve.ch/

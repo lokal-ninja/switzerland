@@ -4,8 +4,8 @@ latitude: 47.17215
 longitude: 8.51614
 postcode: "6300"
 city: Zug
-street: "Baarerstrasse"
-housenumber: 23
+street: Baarerstrasse
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-17:00"
-website: "https://www.nespresso.com/ch/de/"
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-17:00
+website: https://www.nespresso.com/ch/de/

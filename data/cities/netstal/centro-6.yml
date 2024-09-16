@@ -1,11 +1,11 @@
 id: 192973683
-type: way
+type: node
 latitude: 47.06876
 longitude: 9.05637
 postcode: "8754"
 city: Netstal
-street: "Centro"
-housenumber: 6
+street: Centro
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.centro-netstal.ch/"
+website: https://www.centro-netstal.ch/

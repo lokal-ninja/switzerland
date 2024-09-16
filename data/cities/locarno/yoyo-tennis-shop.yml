@@ -4,8 +4,8 @@ latitude: 46.1703
 longitude: 8.79364
 postcode: "6600"
 city: Locarno
-street: "Via Cittadella"
-housenumber: 6
+street: Via Cittadella
+housenumber: "6"
 phone: "+41792573550"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00; Su off"
-website: "https://www.yoyo-tennis.ch"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00; Su off
+website: https://www.yoyo-tennis.ch

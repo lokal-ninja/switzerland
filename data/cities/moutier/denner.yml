@@ -4,8 +4,8 @@ latitude: 47.27671
 longitude: 7.37023
 postcode: "2740"
 city: Moutier
-street: "Rue de l'Écluse"
-housenumber: 1
+street: Rue de l'Écluse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30, Sa 07:30-17:00"
-website: "https://www.denner.ch/fr/"
+opening_hours: Mo-Fr 08:00-18:30, Sa 07:30-17:00
+website: https://www.denner.ch/fr/

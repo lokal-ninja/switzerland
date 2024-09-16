@@ -4,8 +4,8 @@ latitude: 47.28084
 longitude: 7.38117
 postcode: "2740"
 city: Moutier
-street: "Avenue de la Gare"
-housenumber: 22
+street: Avenue de la Gare
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00, Su 07:00-21:00"
-website: "https://www.migrolino.ch/fr/standorte/migrolino-moutier/"
+opening_hours: Mo-Sa 06:00-22:00, Su 07:00-21:00
+website: https://www.migrolino.ch/fr/standorte/migrolino-moutier/

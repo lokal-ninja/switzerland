@@ -4,8 +4,8 @@ latitude: 47.47933
 longitude: 8.52388
 postcode: "8154"
 city: Oberglatt
-street: "Bruggwisstrasse"
-housenumber: 1
+street: Bruggwisstrasse
+housenumber: "1"
 phone: "+41448503155"
-opening_hours: "Tu-Sa 08:00-18:30"
-website: "http://www.buremetzg.ch/"
+opening_hours: Tu-Sa 08:00-18:30
+website: http://www.buremetzg.ch/

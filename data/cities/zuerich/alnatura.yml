@@ -4,8 +4,8 @@ latitude: 47.37437
 longitude: 8.544
 postcode: "8001"
 city: Zürich
-street: "Mühlegasse"
-housenumber: 11
+street: Mühlegasse
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 07:30-21:00, Sa 09:00-21:00; PH off"
-website: "https://www.alnatura.ch/de/filialfinder.html#alnatura-bio-super-markt-alnatura-bio-super-markt-niederdorf"
+opening_hours: Mo-Fr 07:30-21:00, Sa 09:00-21:00; PH off
+website: https://www.alnatura.ch/de/filialfinder.html#alnatura-bio-super-markt-alnatura-bio-super-markt-niederdorf

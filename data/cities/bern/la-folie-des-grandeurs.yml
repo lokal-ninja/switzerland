@@ -4,8 +4,8 @@ latitude: 46.93836
 longitude: 7.43238
 postcode: "3007"
 city: Bern
-street: "Seftigenstrasse"
-housenumber: 23
-phone: "+41 31 371 56 57"
-opening_hours: "Fr 11:00-19:00"
+street: Seftigenstrasse
+housenumber: "23"
+phone: +41 31 371 56 57
+opening_hours: Fr 11:00-19:00
 website: ""

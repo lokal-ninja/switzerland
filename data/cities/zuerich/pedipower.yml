@@ -4,8 +4,8 @@ latitude: 47.37452
 longitude: 8.52967
 postcode: "8004"
 city: Zürich
-street: "Bäckerstrasse"
-housenumber: 22
+street: Bäckerstrasse
+housenumber: "22"
 phone: ""
-opening_hours: "Mo,Su off; Tu-Fr 11:00-19:00; Sa 11:30-17:00"
+opening_hours: Mo,Su off; Tu-Fr 11:00-19:00; Sa 11:30-17:00
 website: ""

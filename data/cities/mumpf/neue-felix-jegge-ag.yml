@@ -1,11 +1,11 @@
 id: 129492159
-type: way
+type: node
 latitude: 47.54535
 longitude: 7.92525
 postcode: "4322"
 city: Mumpf
-street: "Hauptstrasse"
-housenumber: 5
+street: Hauptstrasse
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

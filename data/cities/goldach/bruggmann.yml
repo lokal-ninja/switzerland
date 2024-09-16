@@ -1,11 +1,11 @@
 id: 143059302
-type: way
+type: node
 latitude: 47.47804
 longitude: 9.46949
 postcode: "9403"
 city: Goldach
-street: "Sägestrasse"
-housenumber: 2
+street: Sägestrasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.56813
 longitude: 9.10617
 postcode: "8570"
 city: Weinfelden
-street: "Bahnhofstrasse"
-housenumber: 11
+street: Bahnhofstrasse
+housenumber: "11"
 phone: ""
-opening_hours: "Tu-Fr 08:30-12:00,13:00-17:30"
-website: "https://www.amplifon.com/de-ch/"
+opening_hours: Tu-Fr 08:30-12:00,13:00-17:30
+website: https://www.amplifon.com/de-ch/

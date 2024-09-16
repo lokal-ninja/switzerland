@@ -1,11 +1,11 @@
 id: 379758389
-type: way
+type: node
 latitude: 47.17346
 longitude: 8.51563
 postcode: "6300"
 city: Zug
-street: "Bahnhofplatz"
-housenumber: 
+street: Bahnhofplatz
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 06:45-21:00; Sa,Su 08:00-20:00"
-website: "https://www.spruengli.ch/de/standorte/bahnhof-zug.html"
+opening_hours: Mo-Fr 06:45-21:00; Sa,Su 08:00-20:00
+website: https://www.spruengli.ch/de/standorte/bahnhof-zug.html

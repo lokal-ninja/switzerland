@@ -4,8 +4,8 @@ latitude: 47.49566
 longitude: 8.95531
 postcode: "9545"
 city: Wängi
-street: "Wilerstrasse"
-housenumber: 7
+street: Wilerstrasse
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,13:30-18:00; Sa 10:00-16:00"
-website: "http://www.brockiwaengi.ch/"
+opening_hours: Mo-Fr 09:00-12:00,13:30-18:00; Sa 10:00-16:00
+website: http://www.brockiwaengi.ch/

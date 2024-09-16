@@ -1,11 +1,11 @@
 id: 379343406
-type: way
+type: node
 latitude: 47.05006
 longitude: 8.30958
 postcode: "6002"
 city: Luzern
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Th 05:30-23:00; Fr 05:30-24:00; Sa 06:30-24:00; PH,Su 06:30-23:00"
-website: "https://www.pressbooks.ch/"
+opening_hours: Mo-Th 05:30-23:00; Fr 05:30-24:00; Sa 06:30-24:00; PH,Su 06:30-23:00
+website: https://www.pressbooks.ch/

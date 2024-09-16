@@ -4,8 +4,9 @@ latitude: 47.32423
 longitude: 8.53908
 postcode: "8802"
 city: Kilchberg (ZH)
-street: "Stockenstrasse"
-housenumber: 88
-phone: "+41 44 715 44 54"
-opening_hours: "Mo 13:30-18:00; Tu-Fr 09:30-12:15,13:30-18:00; Sa 09:00-17:00; Su,PH off"
-website: "https://www.stockengut.ch/home/hofladen/"
+street: Stockenstrasse
+housenumber: "88"
+phone: +41 44 715 44 54
+opening_hours: Mo 13:30-18:00; Tu-Fr 09:30-12:15,13:30-18:00; Sa 09:00-17:00; Su,PH
+    off
+website: https://www.stockengut.ch/home/hofladen/

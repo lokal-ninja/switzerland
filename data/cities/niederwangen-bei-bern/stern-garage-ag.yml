@@ -4,8 +4,8 @@ latitude: 46.92546
 longitude: 7.3784
 postcode: "3172"
 city: Niederwangen bei Bern
-street: "Freiburgstrasse"
-housenumber: 555
+street: Freiburgstrasse
+housenumber: "555"
 phone: ""
 opening_hours: ""
-website: "http://www.stern-garage-bern.ch"
+website: http://www.stern-garage-bern.ch

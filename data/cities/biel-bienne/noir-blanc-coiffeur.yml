@@ -4,8 +4,8 @@ latitude: 47.13865
 longitude: 7.24841
 postcode: "2502"
 city: Biel/Bienne
-street: "Rue de Flore / Florastrasse"
-housenumber: 22
-phone: "+41 32 322 31 13"
-opening_hours: "Mo: 08:30-18:00; Tu 08:30-17:00; We-Th: 08:30-18:00; Sa 08:00-15:00"
-website: "https://www.noirblanc-coiffure.com"
+street: Rue de Flore / Florastrasse
+housenumber: "22"
+phone: +41 32 322 31 13
+opening_hours: 'Mo: 08:30-18:00; Tu 08:30-17:00; We-Th: 08:30-18:00; Sa 08:00-15:00'
+website: https://www.noirblanc-coiffure.com

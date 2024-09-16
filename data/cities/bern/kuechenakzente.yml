@@ -4,8 +4,8 @@ latitude: 46.92696
 longitude: 7.41825
 postcode: "3097"
 city: Bern
-street: "Schwarzenburgstrasse"
-housenumber: 217
+street: Schwarzenburgstrasse
+housenumber: "217"
 phone: ""
-opening_hours: "Mo off; Tu-Fr 09:00-12:00,13:30-17:00; Sa 09:00-13:00; Su off"
-website: "https://www.kuechenakzente.ch/"
+opening_hours: Mo off; Tu-Fr 09:00-12:00,13:30-17:00; Sa 09:00-13:00; Su off
+website: https://www.kuechenakzente.ch/

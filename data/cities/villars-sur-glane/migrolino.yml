@@ -1,11 +1,11 @@
 id: 195504994
-type: way
+type: node
 latitude: 46.79986
 longitude: 7.13372
 postcode: "1752"
 city: Villars-sur-Glâne
-street: "Route de Villars"
-housenumber: 108
+street: Route de Villars
+housenumber: "108"
 phone: ""
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-19:00; PH open"
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-19:00; PH open
 website: ""

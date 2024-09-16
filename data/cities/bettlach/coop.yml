@@ -1,11 +1,11 @@
 id: 66077948
-type: way
+type: node
 latitude: 47.20049
 longitude: 7.42435
 postcode: "2544"
 city: Bettlach
-street: "Unterführungsstrasse"
-housenumber: 1
+street: Unterführungsstrasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

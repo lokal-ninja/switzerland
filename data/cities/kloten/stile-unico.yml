@@ -4,8 +4,8 @@ latitude: 47.44038
 longitude: 8.57206
 postcode: "8302"
 city: Kloten
-street: "Hardackerstrasse"
-housenumber: 23
-phone: "+41 44 810 36 00"
-opening_hours: "Mo,Tu,Th,Fr 08:00-17:00; We 08:00-13:00; Sa,Su off"
-website: "http://www.stile-unico.ch/"
+street: Hardackerstrasse
+housenumber: "23"
+phone: +41 44 810 36 00
+opening_hours: Mo,Tu,Th,Fr 08:00-17:00; We 08:00-13:00; Sa,Su off
+website: http://www.stile-unico.ch/

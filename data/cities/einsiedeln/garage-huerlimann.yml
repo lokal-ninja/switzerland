@@ -1,11 +1,11 @@
 id: 258502277
-type: way
+type: node
 latitude: 47.13167
 longitude: 8.7444
 postcode: "8840"
 city: Einsiedeln
-street: "Zürichstrasse"
-housenumber: 38
-phone: "+41 55 412 20 78"
+street: Zürichstrasse
+housenumber: "38"
+phone: +41 55 412 20 78
 opening_hours: ""
-website: "https://www.garage-huerlimann.ch/"
+website: https://www.garage-huerlimann.ch/

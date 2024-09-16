@@ -4,8 +4,8 @@ latitude: 47.40186
 longitude: 8.54414
 postcode: "8057"
 city: Zürich
-street: "Ringstrasse"
-housenumber: 21
-phone: "+41 44 312 16 54"
-opening_hours: "Mo 09:00-15:00; Fr 08:30-18:00; Sa 08:00-18:00+"
+street: Ringstrasse
+housenumber: "21"
+phone: +41 44 312 16 54
+opening_hours: Mo 09:00-15:00; Fr 08:30-18:00; Sa 08:00-18:00+
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.42833
 longitude: 8.68598
 postcode: "8307"
 city: Effretikon
-street: "Märtplatz"
-housenumber: 5
-phone: "+41 523 438 775"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00; PH off"
-website: "http://effi-bijoux-goldschmiede.com/"
+street: Märtplatz
+housenumber: "5"
+phone: +41 523 438 775
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00; PH off
+website: http://effi-bijoux-goldschmiede.com/

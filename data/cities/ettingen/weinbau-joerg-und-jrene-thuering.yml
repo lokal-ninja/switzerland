@@ -4,8 +4,10 @@ latitude: 47.47971
 longitude: 7.54438
 postcode: "4107"
 city: Ettingen
-street: "Hauptstrasse"
-housenumber: 49
-phone: "+41 61 721 53 56"
-opening_hours: "Anfragen per E-Mail an: Info@weinbaujoerg.ch. Wy - Lädeli, Dorfstrasse 4, 4222 Zwingen, Öffnungszeiten: Fr: 17-19 Uhr, Sa: 10-12 Uhr.  Räbebeizli in Zwingen, Schürebeizli in Ettingen."
-website: "https://www.weinbaujoerg.ch/"
+street: Hauptstrasse
+housenumber: "49"
+phone: +41 61 721 53 56
+opening_hours: 'Anfragen per E-Mail an: Info@weinbaujoerg.ch. Wy - Lädeli, Dorfstrasse
+    4, 4222 Zwingen, Öffnungszeiten: Fr: 17-19 Uhr, Sa: 10-12 Uhr.  Räbebeizli in
+    Zwingen, Schürebeizli in Ettingen.'
+website: https://www.weinbaujoerg.ch/

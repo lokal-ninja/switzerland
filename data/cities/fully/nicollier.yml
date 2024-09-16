@@ -4,8 +4,8 @@ latitude: 46.12541
 longitude: 7.08764
 postcode: "1926"
 city: Fully
-street: "Chemin du Rhône"
-housenumber: 133
-phone: "+ 41 27 588 00 65"
-opening_hours: "Mo-Fr 08:00-11:45,13:30-17:00"
-website: "https://www.nicollier.ch/"
+street: Chemin du Rhône
+housenumber: "133"
+phone: + 41 27 588 00 65
+opening_hours: Mo-Fr 08:00-11:45,13:30-17:00
+website: https://www.nicollier.ch/

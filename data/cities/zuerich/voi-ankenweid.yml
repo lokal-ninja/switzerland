@@ -4,8 +4,8 @@ latitude: 47.32977
 longitude: 8.51528
 postcode: "8041"
 city: Zürich
-street: "Ankenweid"
-housenumber: 10
+street: Ankenweid
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00; PH off"
-website: "https://www.voi-migrospartner.ch/de-CH/filialen#voi-voi-zuerich-leimbach"
+opening_hours: Mo-Sa 07:30-20:00; PH off
+website: https://www.voi-migrospartner.ch/de-CH/filialen#voi-voi-zuerich-leimbach

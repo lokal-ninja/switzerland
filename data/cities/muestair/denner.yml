@@ -1,11 +1,11 @@
 id: 188100026
-type: way
+type: node
 latitude: 46.63485
 longitude: 10.4582
 postcode: "7537"
 city: Müstair
-street: "Via Val Müstair"
-housenumber: 298
+street: Via Val Müstair
+housenumber: "298"
 phone: ""
 opening_hours: ""
 website: ""

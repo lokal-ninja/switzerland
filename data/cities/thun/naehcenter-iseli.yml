@@ -4,8 +4,8 @@ latitude: 46.76084
 longitude: 7.62719
 postcode: "3600"
 city: Thun
-street: "Schwäbisgasse"
-housenumber: 4
-phone: "+41 33 222 51 33"
-opening_hours: "Mo 13:30-18:30; Tu-Fr 09:00-12:00,13:30-18:30; Sa 09:00-16:00"
-website: "http://www.naehcenter-iseli.ch"
+street: Schwäbisgasse
+housenumber: "4"
+phone: +41 33 222 51 33
+opening_hours: Mo 13:30-18:30; Tu-Fr 09:00-12:00,13:30-18:30; Sa 09:00-16:00
+website: http://www.naehcenter-iseli.ch

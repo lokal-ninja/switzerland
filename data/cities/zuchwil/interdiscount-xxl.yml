@@ -4,8 +4,8 @@ latitude: 47.20086
 longitude: 7.56993
 postcode: "4528"
 city: Zuchwil
-street: "Dorfackerstrasse"
-housenumber: 47
+street: Dorfackerstrasse
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; We 09:00-21:00; Sa 09:00-17:00; PH off"
-website: "https://www.interdiscount.ch/"
+opening_hours: Mo-Fr 09:00-18:30; We 09:00-21:00; Sa 09:00-17:00; PH off
+website: https://www.interdiscount.ch/

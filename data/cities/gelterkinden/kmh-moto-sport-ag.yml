@@ -4,8 +4,8 @@ latitude: 47.46498
 longitude: 7.84477
 postcode: "4460"
 city: Gelterkinden
-street: "Bahnhofstrasse"
-housenumber: 22
-phone: "+41 61 9813645"
-opening_hours: "Mo,Sa 08:00-12:00,13:30-16:00; Tu-Fr 08:00-12:00,13:30-18:30; PH off"
-website: "https://www.kmh-motosport.ch/"
+street: Bahnhofstrasse
+housenumber: "22"
+phone: +41 61 9813645
+opening_hours: Mo,Sa 08:00-12:00,13:30-16:00; Tu-Fr 08:00-12:00,13:30-18:30; PH off
+website: https://www.kmh-motosport.ch/

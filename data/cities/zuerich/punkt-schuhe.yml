@@ -5,7 +5,7 @@ longitude: 8.53855
 postcode: ""
 city: Zürich
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo,Su off; Tu-We,Fr 09:30-18:00; Th 09:30-19:00; Sa 09:30-17:00"
-website: "https://punkt-schuhe.ch"
+opening_hours: Mo,Su off; Tu-We,Fr 09:30-18:00; Th 09:30-19:00; Sa 09:30-17:00
+website: https://punkt-schuhe.ch

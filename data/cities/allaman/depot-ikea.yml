@@ -1,11 +1,11 @@
 id: 173286934
-type: way
+type: node
 latitude: 46.47538
 longitude: 6.3945
 postcode: ""
 city: Allaman
-street: "Route de la Gare"
-housenumber: 13
+street: Route de la Gare
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-We 10:00-19:00; Th,Fr 10:00-21:00; Sa 09:00-19:00"
+opening_hours: Mo-We 10:00-19:00; Th,Fr 10:00-21:00; Sa 09:00-19:00
 website: ""

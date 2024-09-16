@@ -1,11 +1,11 @@
 id: 258562255
-type: way
+type: node
 latitude: 47.51725
 longitude: 9.43101
 postcode: "9320"
 city: Arbon
-street: "Romanshornerstrasse"
-housenumber: 12
+street: Romanshornerstrasse
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

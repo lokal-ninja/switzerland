@@ -1,11 +1,11 @@
 id: 223856331
-type: way
+type: node
 latitude: 47.19921
 longitude: 9.34143
 postcode: "9658"
 city: Wildhaus
-street: "Vordere Schwendistrasse"
-housenumber: 16
+street: Vordere Schwendistrasse
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

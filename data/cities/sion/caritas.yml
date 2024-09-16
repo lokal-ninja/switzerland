@@ -4,8 +4,8 @@ latitude: 46.23769
 longitude: 7.36214
 postcode: "1950"
 city: Sion
-street: "Rue de Loèche"
-housenumber: 19
+street: Rue de Loèche
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00,13:15-17:30; Sa 09:00-13:00"
-website: "https://www.caritas-valais.ch/fr/boutique-seconde-main-23.html"
+opening_hours: Mo-Fr 08:30-12:00,13:15-17:30; Sa 09:00-13:00
+website: https://www.caritas-valais.ch/fr/boutique-seconde-main-23.html

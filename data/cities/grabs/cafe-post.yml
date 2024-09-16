@@ -4,8 +4,8 @@ latitude: 47.18237
 longitude: 9.44461
 postcode: "9472"
 city: Grabs
-street: "Lindenweg"
-housenumber: 2
+street: Lindenweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-17:00; Su 07:00-17:00"
-website: "https://www.muendle.li/Standorte/Grabs"
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-17:00; Su 07:00-17:00
+website: https://www.muendle.li/Standorte/Grabs

@@ -1,11 +1,11 @@
 id: 229345280
-type: way
+type: node
 latitude: 47.18193
 longitude: 7.87923
 postcode: "6147"
 city: Altbüron
-street: "Unterdorf"
-housenumber: 10
+street: Unterdorf
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

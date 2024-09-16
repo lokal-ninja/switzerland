@@ -4,8 +4,8 @@ latitude: 47.34817
 longitude: 9.15639
 postcode: "9122"
 city: Ebersol
-street: "Moos"
-housenumber: 985
+street: Moos
+housenumber: "985"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00"
-website: "https://www.balik.ch/"
+opening_hours: Mo-Fr 09:00-13:00
+website: https://www.balik.ch/

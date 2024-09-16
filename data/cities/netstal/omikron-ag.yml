@@ -4,8 +4,8 @@ latitude: 47.06894
 longitude: 9.05776
 postcode: "8754"
 city: Netstal
-street: "Grosszaun"
-housenumber: 7
+street: Grosszaun
+housenumber: "7"
 phone: "+41556184200"
-opening_hours: "Mo-Fr 7:30-12:00, 13:30-17:00"
-website: "https://www.omikronag.ch"
+opening_hours: Mo-Fr 7:30-12:00, 13:30-17:00
+website: https://www.omikronag.ch

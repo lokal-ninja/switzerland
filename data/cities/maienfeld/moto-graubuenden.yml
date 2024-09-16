@@ -1,11 +1,11 @@
 id: 992691321
-type: way
+type: node
 latitude: 47.0019
 longitude: 9.52289
 postcode: "7304"
 city: Maienfeld
-street: "Untere Industrie"
-housenumber: 8
+street: Untere Industrie
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,9 @@ latitude: 46.23047
 longitude: 7.36393
 postcode: "1951"
 city: Sion
-street: "Rue de la Dixence"
-housenumber: 21
-phone: "+41 27 327 44 88"
-opening_hours: "Jun-Aug,Feb-May,Sep-Nov Mo-Fr 07:45-12:00,13:30-18:30; Dec-Jan Sa 09:00-12:00,13:30-17:00; Feb-May,Sep-Nov Sa 09:00-12:00"
-website: "https://www.jordan-fils.ch/"
+street: Rue de la Dixence
+housenumber: "21"
+phone: +41 27 327 44 88
+opening_hours: Jun-Aug,Feb-May,Sep-Nov Mo-Fr 07:45-12:00,13:30-18:30; Dec-Jan Sa 09:00-12:00,13:30-17:00;
+    Feb-May,Sep-Nov Sa 09:00-12:00
+website: https://www.jordan-fils.ch/

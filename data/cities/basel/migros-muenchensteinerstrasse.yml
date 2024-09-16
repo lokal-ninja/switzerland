@@ -4,8 +4,8 @@ latitude: 47.53952
 longitude: 7.60399
 postcode: "4053"
 city: Basel
-street: "Münchensteinerstrasse"
-housenumber: 200
+street: Münchensteinerstrasse
+housenumber: "200"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00, Sa 08:00-18:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-basel-dreispitz-mparc"
+opening_hours: Mo-Fr 09:00-20:00, Sa 08:00-18:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-basel-dreispitz-mparc

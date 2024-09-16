@@ -4,8 +4,8 @@ latitude: 46.20227
 longitude: 6.15028
 postcode: "1204"
 city: Genève
-street: "Rue de Rive (les Rues Basses)"
-housenumber: 4
-phone: "+41 22 318 03 00"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-18:00"
-website: "https://www.apple.com/chfr/retail/ruederive/"
+street: Rue de Rive (les Rues Basses)
+housenumber: "4"
+phone: +41 22 318 03 00
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-18:00
+website: https://www.apple.com/chfr/retail/ruederive/

@@ -1,11 +1,11 @@
 id: 240465731
-type: way
+type: node
 latitude: 46.47611
 longitude: 7.28275
 postcode: "3780"
 city: Gstaad
-street: "Güterstrasse"
-housenumber: 10
+street: Güterstrasse
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:30, 13:30-18:30; Sa 08:00-16:00"
+opening_hours: Mo-Fr 07:30-12:30, 13:30-18:30; Sa 08:00-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.54637
 longitude: 9.30032
 postcode: "8580"
 city: Amriswil
-street: "Bahnhofstrasse"
-housenumber: 5
+street: Bahnhofstrasse
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Fr 09:00-11:30, 13:30-18:30; Sa 09:00-16:00"
-website: "https://wellauer-sweet.ch/"
+opening_hours: Tu-Fr 09:00-11:30, 13:30-18:30; Sa 09:00-16:00
+website: https://wellauer-sweet.ch/

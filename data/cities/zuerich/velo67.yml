@@ -4,8 +4,8 @@ latitude: 47.38761
 longitude: 8.53845
 postcode: "8006"
 city: Zürich
-street: "Kronenstrasse"
-housenumber: 38
-phone: "+41 77 498 01 51"
-opening_hours: "Mo 13:00-18:00; Tu-We,Fr 08:30-17:00; Th 08:30-18:30; Sa-Su off"
-website: "https://www.velo67.ch/"
+street: Kronenstrasse
+housenumber: "38"
+phone: +41 77 498 01 51
+opening_hours: Mo 13:00-18:00; Tu-We,Fr 08:30-17:00; Th 08:30-18:30; Sa-Su off
+website: https://www.velo67.ch/

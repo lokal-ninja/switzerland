@@ -4,8 +4,8 @@ latitude: 46.51655
 longitude: 6.45278
 postcode: "1135"
 city: Denens
-street: "Route des Cigognes"
-housenumber: 11
-phone: "+41 79 446 20 61"
-opening_hours: "Tu,Fr,Sa 08:00-13:00; We 13:00-19:00"
-website: "https://bio.fermens.ch/"
+street: Route des Cigognes
+housenumber: "11"
+phone: +41 79 446 20 61
+opening_hours: Tu,Fr,Sa 08:00-13:00; We 13:00-19:00
+website: https://bio.fermens.ch/

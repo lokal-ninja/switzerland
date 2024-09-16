@@ -1,11 +1,11 @@
 id: 481840937
-type: way
+type: node
 latitude: 47.26444
 longitude: 8.17301
 postcode: "5734"
 city: Reinach AG
-street: "Mattenstrasse"
-housenumber: 10
+street: Mattenstrasse
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

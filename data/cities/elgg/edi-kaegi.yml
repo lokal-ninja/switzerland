@@ -4,8 +4,8 @@ latitude: 47.49062
 longitude: 8.86766
 postcode: "8353"
 city: Elgg
-street: "Vordergasse"
-housenumber: 16
-phone: "+41 52 364 17 15"
-opening_hours: "Tu-Fr 08:00-12:00,13:30-18:15, Sa 08:00-14:00"
-website: "https://edikaegi.ch/"
+street: Vordergasse
+housenumber: "16"
+phone: +41 52 364 17 15
+opening_hours: Tu-Fr 08:00-12:00,13:30-18:15, Sa 08:00-14:00
+website: https://edikaegi.ch/

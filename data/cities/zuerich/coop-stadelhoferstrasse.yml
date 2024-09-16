@@ -4,8 +4,8 @@ latitude: 47.36677
 longitude: 8.54808
 postcode: "8001"
 city: Zürich
-street: "Stadelhoferstrasse"
-housenumber: 10
+street: Stadelhoferstrasse
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-22:00"
-website: "https://www.coop.ch/"
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-22:00
+website: https://www.coop.ch/

@@ -1,11 +1,11 @@
 id: 129030143
-type: way
+type: node
 latitude: 46.70938
 longitude: 6.57059
 postcode: "1373"
 city: Chavornay
-street: "Rue de la Gare"
-housenumber: 
+street: Rue de la Gare
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

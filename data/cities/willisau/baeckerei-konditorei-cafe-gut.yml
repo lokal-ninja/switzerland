@@ -4,8 +4,8 @@ latitude: 47.12294
 longitude: 7.99627
 postcode: "6130"
 city: Willisau
-street: "Bahnhofplatz"
-housenumber: 2
-phone: "+41 970 13 83"
-opening_hours: "Mo-Tu 06:30-18:30; Th-Fr 06:30-18:30; Sa 06:30-17:30; Su 08:00-17:30"
-website: "http://www.baeckerei-gut.ch/"
+street: Bahnhofplatz
+housenumber: "2"
+phone: +41 970 13 83
+opening_hours: Mo-Tu 06:30-18:30; Th-Fr 06:30-18:30; Sa 06:30-17:30; Su 08:00-17:30
+website: http://www.baeckerei-gut.ch/

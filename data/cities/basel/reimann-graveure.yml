@@ -4,8 +4,8 @@ latitude: 47.5627
 longitude: 7.59653
 postcode: "4058"
 city: Basel
-street: "Clarastrasse"
-housenumber: 25
+street: Clarastrasse
+housenumber: "25"
 phone: ""
-opening_hours: "Mo 13:30-18:30; Tu-Fr 09:00-12:00,13:30-18:30; Sa 09:00-16:00"
-website: "http://www.reimanngraveure.ch/joomla/"
+opening_hours: Mo 13:30-18:30; Tu-Fr 09:00-12:00,13:30-18:30; Sa 09:00-16:00
+website: http://www.reimanngraveure.ch/joomla/

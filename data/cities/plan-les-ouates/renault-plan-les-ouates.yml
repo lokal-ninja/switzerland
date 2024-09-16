@@ -1,11 +1,11 @@
 id: 24969772
-type: way
+type: node
 latitude: 46.16652
 longitude: 6.11225
 postcode: "1228"
 city: Plan-les-Ouates
-street: "Route de Saint-Julien"
-housenumber: 180
-phone: "+41 844 774 774"
-opening_hours: "Mo-Fr 08:30-12:00, Mo-Fr 13:00-18:30, Sa 09:00-17:00"
+street: Route de Saint-Julien
+housenumber: "180"
+phone: +41 844 774 774
+opening_hours: Mo-Fr 08:30-12:00, Mo-Fr 13:00-18:30, Sa 09:00-17:00
 website: ""

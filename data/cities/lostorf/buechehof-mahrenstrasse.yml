@@ -1,11 +1,11 @@
 id: 150457913
-type: way
+type: node
 latitude: 47.38336
 longitude: 7.9319
 postcode: "4654"
 city: Lostorf
-street: "Mahrenstrasse"
-housenumber: 100
-phone: "+41 62 285 85 20"
-opening_hours: "durchgehend geöffnet"
-website: "https://www.buechehof.ch/"
+street: Mahrenstrasse
+housenumber: "100"
+phone: +41 62 285 85 20
+opening_hours: durchgehend geöffnet
+website: https://www.buechehof.ch/

@@ -1,11 +1,11 @@
 id: 44366220
-type: way
+type: node
 latitude: 46.52286
 longitude: 6.61225
 postcode: "1007"
 city: Lausanne
-street: "Avenue de Provence"
-housenumber: 2
+street: Avenue de Provence
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

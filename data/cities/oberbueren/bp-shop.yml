@@ -1,11 +1,11 @@
 id: 265629714
-type: way
+type: node
 latitude: 47.4518
 longitude: 9.15554
 postcode: "9245"
 city: Oberbüren
-street: "Autobahnzufahrt"
-housenumber: 2023
+street: Autobahnzufahrt
+housenumber: "2023"
 phone: ""
 opening_hours: ""
 website: ""

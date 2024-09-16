@@ -4,8 +4,8 @@ latitude: 47.55746
 longitude: 7.58787
 postcode: "4001"
 city: Basel
-street: "Gerbergasse"
-housenumber: 4
+street: Gerbergasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-We 08:30-19:00; Th-Fr 08:30-20:00; Sa 08:30-18:00"
+opening_hours: Mo-We 08:30-19:00; Th-Fr 08:30-20:00; Sa 08:30-18:00
 website: ""

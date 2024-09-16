@@ -4,8 +4,8 @@ latitude: 47.37586
 longitude: 8.53608
 postcode: "8001"
 city: Zürich
-street: "Usteristrasse"
-housenumber: 23
+street: Usteristrasse
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "https://www.lemouton.ch/"
+website: https://www.lemouton.ch/

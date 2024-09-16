@@ -4,8 +4,8 @@ latitude: 46.52086
 longitude: 6.63231
 postcode: "1003"
 city: Lausanne
-street: "Place Pépinet"
-housenumber: 5
+street: Place Pépinet
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 06:30-19:00; Sa 06:30-18:00; PH,Su off"
-website: "https://pouly.ch/"
+opening_hours: Mo-Fr 06:30-19:00; Sa 06:30-18:00; PH,Su off
+website: https://pouly.ch/

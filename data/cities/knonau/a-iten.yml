@@ -1,11 +1,11 @@
 id: 198051567
-type: way
+type: node
 latitude: 47.22428
 longitude: 8.46176
 postcode: "8934"
 city: Knonau
-street: "Oberdorfstrasse"
-housenumber: 3
+street: Oberdorfstrasse
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

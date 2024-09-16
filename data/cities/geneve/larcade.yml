@@ -4,8 +4,8 @@ latitude: 46.20477
 longitude: 6.15983
 postcode: ""
 city: Genève
-street: "Rue des Eaux-Vives"
-housenumber: 80
-phone: "022 786 00 88"
-opening_hours: "Mo-Fr 10:00-13:00, 16:00-19:00; Sa 10:00-13:00, 15:00-18:00"
-website: "http://arcade-bio.ch"
+street: Rue des Eaux-Vives
+housenumber: "80"
+phone: 022 786 00 88
+opening_hours: Mo-Fr 10:00-13:00, 16:00-19:00; Sa 10:00-13:00, 15:00-18:00
+website: http://arcade-bio.ch

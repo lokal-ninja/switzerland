@@ -1,11 +1,11 @@
 id: 195408732
-type: way
+type: node
 latitude: 47.46507
 longitude: 7.84952
 postcode: "4460"
 city: Gelterkinden
-street: "Sissacherstrasse"
-housenumber: 3
+street: Sissacherstrasse
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

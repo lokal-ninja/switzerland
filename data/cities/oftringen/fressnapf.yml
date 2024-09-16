@@ -4,8 +4,8 @@ latitude: 47.30513
 longitude: 7.92927
 postcode: "4665"
 city: Oftringen
-street: "Nordstrasse"
-housenumber: 18
+street: Nordstrasse
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; PH off"
-website: "https://www.fressnapf.ch/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; PH off
+website: https://www.fressnapf.ch/

@@ -1,11 +1,11 @@
 id: 126409401
-type: way
+type: node
 latitude: 47.32101
 longitude: 8.79075
 postcode: "8620"
 city: Wetzikon
-street: "Zürcherstrasse"
-housenumber: 20
+street: Zürcherstrasse
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

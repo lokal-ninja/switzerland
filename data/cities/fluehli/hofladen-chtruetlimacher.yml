@@ -1,11 +1,11 @@
 id: 329857703
-type: way
+type: node
 latitude: 46.87947
 longitude: 8.01808
 postcode: "6173"
 city: Flühli
 street: ""
-housenumber: 
-phone: "+41 41 488 12 92"
-opening_hours: "Fr 10:00-12:00, Fr 14:00-18:00"
-website: "https://www.chruetlimacher.ch"
+housenumber: ""
+phone: +41 41 488 12 92
+opening_hours: Fr 10:00-12:00, Fr 14:00-18:00
+website: https://www.chruetlimacher.ch

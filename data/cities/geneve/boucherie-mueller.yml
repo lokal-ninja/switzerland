@@ -4,8 +4,9 @@ latitude: 46.20996
 longitude: 6.13996
 postcode: "1201"
 city: Genève
-street: "Place des Grottes"
-housenumber: 1
-phone: "+41 22 733 68 37"
-opening_hours: "Sa 10:00-16:00; Tu,Fr 10:00-12:30,15:00-18:30; Th 10:00-12:30,15:00-20:00; We 10:00-12:30"
-website: "https://www.boucherie-muller.ch/"
+street: Place des Grottes
+housenumber: "1"
+phone: +41 22 733 68 37
+opening_hours: Sa 10:00-16:00; Tu,Fr 10:00-12:30,15:00-18:30; Th 10:00-12:30,15:00-20:00;
+    We 10:00-12:30
+website: https://www.boucherie-muller.ch/

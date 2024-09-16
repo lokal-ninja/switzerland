@@ -4,8 +4,8 @@ latitude: 46.64041
 longitude: 6.62123
 postcode: "1040"
 city: Echallens
-street: "Chemin de la Clopette"
-housenumber: 29
-phone: "+41 21 882 53 71"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:00; Sa 08:00-12:00"
-website: "https://www.firststop.ch/fr-ch/pneumatiques/echallens/first-stop-pneus-auto-service-sa-echallens"
+street: Chemin de la Clopette
+housenumber: "29"
+phone: +41 21 882 53 71
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:00; Sa 08:00-12:00
+website: https://www.firststop.ch/fr-ch/pneumatiques/echallens/first-stop-pneus-auto-service-sa-echallens

@@ -1,11 +1,11 @@
 id: 686338061
-type: way
+type: node
 latitude: 46.7603
 longitude: 7.61934
 postcode: "3600"
 city: Thun
-street: "Allmendstrasse"
-housenumber: 38
+street: Allmendstrasse
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.12368
 longitude: 7.99543
 postcode: "6130"
 city: Willisau
-street: "Kreuzstrasse"
-housenumber: 3
-phone: "+41 58 637 00 80"
-opening_hours: "Mo-Th 09:00-19:00; Fr 09:00-21:00; Sa 08:30-17:00; PH off"
-website: "https://www.c-and-a.com/ch/"
+street: Kreuzstrasse
+housenumber: "3"
+phone: +41 58 637 00 80
+opening_hours: Mo-Th 09:00-19:00; Fr 09:00-21:00; Sa 08:30-17:00; PH off
+website: https://www.c-and-a.com/ch/

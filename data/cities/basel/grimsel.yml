@@ -4,8 +4,8 @@ latitude: 47.56382
 longitude: 7.58434
 postcode: "4056"
 city: Basel
-street: "St. Johanns-Vorstadt"
-housenumber: 38
-phone: "+41 61 272 60 40"
-opening_hours: "Tu-Fr 11:00-18:30; Sa 11:00-17:00"
-website: "https://grimsel.net"
+street: St. Johanns-Vorstadt
+housenumber: "38"
+phone: +41 61 272 60 40
+opening_hours: Tu-Fr 11:00-18:30; Sa 11:00-17:00
+website: https://grimsel.net

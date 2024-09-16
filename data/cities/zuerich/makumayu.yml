@@ -4,8 +4,8 @@ latitude: 47.36748
 longitude: 8.56071
 postcode: "8032"
 city: Zürich
-street: "Asylstrasse"
-housenumber: 68
+street: Asylstrasse
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Tu by appointment; We-Fr 15:30-18:30; Sa 13:30-16:00"
-website: "http://wohnflex.ch"
+opening_hours: Mo-Tu "by appointment"; We-Fr 15:30-18:30; Sa 13:30-16:00
+website: http://wohnflex.ch

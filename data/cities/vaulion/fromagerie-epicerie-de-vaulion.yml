@@ -4,8 +4,8 @@ latitude: 46.68554
 longitude: 6.38517
 postcode: "1325"
 city: Vaulion
-street: "Rue du Collège"
-housenumber: 31
+street: Rue du Collège
+housenumber: "31"
 phone: "+41216527272"
-opening_hours: "Mo-Fr 06:30-12:15,16:00-18:30; Sa 07:00-12:15; Su 07:00-11:00"
-website: "https://www.fromageriedevaulion.ch/"
+opening_hours: Mo-Fr 06:30-12:15,16:00-18:30; Sa 07:00-12:15; Su 07:00-11:00
+website: https://www.fromageriedevaulion.ch/

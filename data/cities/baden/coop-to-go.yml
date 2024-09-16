@@ -4,8 +4,8 @@ latitude: 47.47641
 longitude: 8.3068
 postcode: "5400"
 city: Baden
-street: "Langhaus"
-housenumber: 5
+street: Langhaus
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 06:00-20:00; Sa-Su 08:00-20:00"
+opening_hours: Mo-Fr 06:00-20:00; Sa-Su 08:00-20:00
 website: ""

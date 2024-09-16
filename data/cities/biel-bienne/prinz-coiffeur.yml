@@ -4,8 +4,8 @@ latitude: 47.13592
 longitude: 7.24708
 postcode: "2502"
 city: Biel/Bienne
-street: "Alexander-Schöni-Strasse"
-housenumber: 4
-phone: "+41 32 322 27 62"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-17:30"
-website: "https://prinzcoiffeur.ch/"
+street: Alexander-Schöni-Strasse
+housenumber: "4"
+phone: +41 32 322 27 62
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-17:30
+website: https://prinzcoiffeur.ch/

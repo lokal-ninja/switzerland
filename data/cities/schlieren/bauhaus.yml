@@ -1,11 +1,11 @@
 id: 62204000
-type: way
+type: node
 latitude: 47.40022
 longitude: 8.43338
 postcode: "8952"
 city: Schlieren
-street: "Rietbachstrasse"
-housenumber: 13
-phone: "+41 44 738 18 18"
-opening_hours: "Mo-Th 07:00-19:00;Fr 07:00-20:00;Sa 08:00-17:00;PH closed"
-website: "https://www.bauhaus.ch/de/"
+street: Rietbachstrasse
+housenumber: "13"
+phone: +41 44 738 18 18
+opening_hours: Mo-Th 07:00-19:00;Fr 07:00-20:00;Sa 08:00-17:00;PH closed
+website: https://www.bauhaus.ch/de/

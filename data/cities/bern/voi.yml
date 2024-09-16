@@ -4,8 +4,8 @@ latitude: 46.94112
 longitude: 7.41857
 postcode: "3008"
 city: Bern
-street: "Könizstrasse"
-housenumber: 60
+street: Könizstrasse
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-17:00; PH off"
-website: "https://www.voi-migrospartner.ch/de-CH/filialen/voi-voi-bern-fischermaetteli"
+opening_hours: Mo-Fr 07:00-20:00; Sa 08:00-17:00; PH off
+website: https://www.voi-migrospartner.ch/de-CH/filialen/voi-voi-bern-fischermaetteli

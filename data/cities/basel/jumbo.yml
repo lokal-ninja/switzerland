@@ -4,8 +4,8 @@ latitude: 47.56215
 longitude: 7.59575
 postcode: "4058"
 city: Basel
-street: "Clarastrasse"
-housenumber: 6
+street: Clarastrasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:00-18:00; PH off"
-website: "https://www.jumbo.ch/de/standorte/s/6048_POS"
+opening_hours: Mo-Fr 08:30-20:00; Sa 08:00-18:00; PH off
+website: https://www.jumbo.ch/de/standorte/s/6048_POS

@@ -1,11 +1,11 @@
 id: 126262407
-type: way
+type: node
 latitude: 47.3867
 longitude: 8.73816
 postcode: "8320"
 city: Fehraltorf
-street: "Eggwisenstrasse"
-housenumber: 1
+street: Eggwisenstrasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

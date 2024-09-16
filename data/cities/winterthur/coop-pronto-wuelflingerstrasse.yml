@@ -4,8 +4,8 @@ latitude: 47.51636
 longitude: 8.68004
 postcode: "8408"
 city: Winterthur
-street: "Wülflingerstrasse"
-housenumber: 394
+street: Wülflingerstrasse
+housenumber: "394"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.coop-pronto.ch/"
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.coop-pronto.ch/

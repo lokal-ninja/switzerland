@@ -1,11 +1,11 @@
 id: 54151026
-type: way
+type: node
 latitude: 47.22153
 longitude: 8.50425
 postcode: "8926"
 city: Uerzlikon
-street: "Wolfacker"
-housenumber: 1
-phone: "+41 43 541 07 21"
-opening_hours: "Sa 00:09-12:00"
-website: "http://www.wolfacker.com/"
+street: Wolfacker
+housenumber: "1"
+phone: +41 43 541 07 21
+opening_hours: Sa 00:09-12:00
+website: http://www.wolfacker.com/

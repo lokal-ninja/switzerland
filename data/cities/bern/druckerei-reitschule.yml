@@ -1,11 +1,11 @@
 id: 255277165
-type: way
+type: node
 latitude: 46.95306
 longitude: 7.44023
 postcode: "3011"
 city: Bern
-street: "Neubrückstrasse"
-housenumber: 8
+street: Neubrückstrasse
+housenumber: "8"
 phone: ""
-opening_hours: "Tu-Fr 13:30-17:30"
-website: "http://www.reitschule.ch/reitschule/druckundfoto/index.html"
+opening_hours: Tu-Fr 13:30-17:30
+website: http://www.reitschule.ch/reitschule/druckundfoto/index.html

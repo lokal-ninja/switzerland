@@ -4,8 +4,8 @@ latitude: 47.38743
 longitude: 8.15548
 postcode: "5603"
 city: Staufen
-street: "Aarauerstrasse"
-housenumber: 70
-phone: "+41 62 824 50 50"
-opening_hours: "Mo-Fr 07:30-17:30"
-website: "https://www.hischier-auto.ch/"
+street: Aarauerstrasse
+housenumber: "70"
+phone: +41 62 824 50 50
+opening_hours: Mo-Fr 07:30-17:30
+website: https://www.hischier-auto.ch/

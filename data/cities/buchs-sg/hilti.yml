@@ -1,11 +1,11 @@
 id: 436671727
-type: way
+type: node
 latitude: 47.16674
 longitude: 9.47668
 postcode: "9470"
 city: Buchs SG
-street: "Bahnhofstrasse"
-housenumber: 11
+street: Bahnhofstrasse
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

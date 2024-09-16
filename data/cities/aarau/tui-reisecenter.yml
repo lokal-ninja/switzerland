@@ -4,8 +4,8 @@ latitude: 47.39206
 longitude: 8.05146
 postcode: "5001"
 city: Aarau
-street: "Bahnhofplatz"
-housenumber: 
+street: Bahnhofplatz
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-16:00"
-website: "http://www.tuiaarau.ch/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-16:00
+website: http://www.tuiaarau.ch/

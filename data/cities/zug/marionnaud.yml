@@ -4,8 +4,8 @@ latitude: 47.17141
 longitude: 8.51653
 postcode: "6300"
 city: Zug
-street: "Baarerstrasse"
-housenumber: 10
+street: Baarerstrasse
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.marionnaud.ch/"
+website: https://www.marionnaud.ch/

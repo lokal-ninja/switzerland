@@ -4,8 +4,8 @@ latitude: 46.85266
 longitude: 8.64547
 postcode: "6467"
 city: Schattdorf
-street: "Schachengasse"
-housenumber: 3
+street: Schachengasse
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:00,13:30-18:00; Sa 09:00-16:00; PH off"
-website: "https://www.gisler-motos.ch/"
+opening_hours: Tu-Fr 09:00-12:00,13:30-18:00; Sa 09:00-16:00; PH off
+website: https://www.gisler-motos.ch/

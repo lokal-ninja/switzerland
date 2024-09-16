@@ -4,8 +4,8 @@ latitude: 47.368
 longitude: 8.54516
 postcode: "8001"
 city: Zürich
-street: "Limmatquai"
-housenumber: 4
+street: Limmatquai
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00, Sa 10:00-16:00; PH off"
-website: "https://www.hotelplan.ch/reisebuero-filiale/travelhouse-zuerich/CH9125"
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00, Sa 10:00-16:00; PH off
+website: https://www.hotelplan.ch/reisebuero-filiale/travelhouse-zuerich/CH9125

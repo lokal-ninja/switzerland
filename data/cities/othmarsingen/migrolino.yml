@@ -1,11 +1,11 @@
 id: 317358379
-type: way
+type: node
 latitude: 47.40738
 longitude: 8.21983
 postcode: "5504"
 city: Othmarsingen
-street: "Ahornweg"
-housenumber: 14
+street: Ahornweg
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00, Su 07:00-22:00"
-website: "https://www.migrolino.ch/de/standorte/migrol-othmarsingen-2/"
+opening_hours: Mo-Sa 06:00-22:00, Su 07:00-22:00
+website: https://www.migrolino.ch/de/standorte/migrol-othmarsingen-2/

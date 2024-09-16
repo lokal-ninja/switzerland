@@ -1,11 +1,12 @@
 id: 379582596
-type: way
+type: node
 latitude: 46.94898
 longitude: 7.44032
 postcode: "3011"
 city: Bern
-street: "Bahnhofplatz"
-housenumber: 
+street: Bahnhofplatz
+housenumber: ""
 phone: ""
-opening_hours: "Mo-We 06:00-20:00; Th 06:00-21:00; Fr 06:00-20:00; Sa 06:30-18:00; Su 07:30-19:00"
-website: "https://www.confiserie-eichenberger.ch/filialen/bahnhof"
+opening_hours: Mo-We 06:00-20:00; Th 06:00-21:00; Fr 06:00-20:00; Sa 06:30-18:00;
+    Su 07:30-19:00
+website: https://www.confiserie-eichenberger.ch/filialen/bahnhof

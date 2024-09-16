@@ -4,8 +4,8 @@ latitude: 46.5803
 longitude: 6.63229
 postcode: "1053"
 city: Cugy
-street: "Chemin du Couchant"
-housenumber: 8
-phone: "+41 79 478 11 20"
-opening_hours: "Fr 16:00-18:00; Sa 09:00-12:00; PH Sa 09:00-12:00"
-website: "https://fermeducouchant.com/"
+street: Chemin du Couchant
+housenumber: "8"
+phone: +41 79 478 11 20
+opening_hours: Fr 16:00-18:00; Sa 09:00-12:00; PH Sa 09:00-12:00
+website: https://fermeducouchant.com/

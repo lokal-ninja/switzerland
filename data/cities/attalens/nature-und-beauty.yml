@@ -4,8 +4,8 @@ latitude: 46.51221
 longitude: 6.84755
 postcode: "1616"
 city: Attalens
-street: "Chemin de la Comba"
-housenumber: 9
-phone: "+41 79 336 00 59"
-opening_hours: "Mo 08:15-11:00; Tu 08:15-17:30; Th 08:00-18:00; Fr 08:00-17:30"
-website: "https://www.natureandbeauty.ch/"
+street: Chemin de la Comba
+housenumber: "9"
+phone: +41 79 336 00 59
+opening_hours: Mo 08:15-11:00; Tu 08:15-17:30; Th 08:00-18:00; Fr 08:00-17:30
+website: https://www.natureandbeauty.ch/

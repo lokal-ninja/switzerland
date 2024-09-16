@@ -1,11 +1,11 @@
 id: 226346458
-type: way
+type: node
 latitude: 47.30556
 longitude: 8.91311
 postcode: "8636"
 city: Wald (ZH)
-street: "Tösstalstrasse"
-housenumber: 208
-phone: "+41 44 952 50 05"
+street: Tösstalstrasse
+housenumber: "208"
+phone: +41 44 952 50 05
 opening_hours: ""
-website: "http://www.bachtelfisch.ch/"
+website: http://www.bachtelfisch.ch/

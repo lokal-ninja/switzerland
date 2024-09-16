@@ -1,11 +1,11 @@
 id: 251447742
-type: way
+type: node
 latitude: 47.49035
 longitude: 7.60889
 postcode: "4144"
 city: Arlesheim
-street: "Birseckstrasse"
-housenumber: 95
+street: Birseckstrasse
+housenumber: "95"
 phone: ""
-opening_hours: "Mo-Fr 05:00-23:00, Sa-Su 06:00-23:00"
-website: "https://www.coop-pronto.ch/"
+opening_hours: Mo-Fr 05:00-23:00, Sa-Su 06:00-23:00
+website: https://www.coop-pronto.ch/

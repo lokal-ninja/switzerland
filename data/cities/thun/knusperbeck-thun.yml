@@ -4,8 +4,8 @@ latitude: 46.75432
 longitude: 7.628
 postcode: "3600"
 city: Thun
-street: "Frutigenstrasse"
-housenumber: 13
+street: Frutigenstrasse
+housenumber: "13"
 phone: "+41335432441"
-opening_hours: "Di-Fr 06:30-12:30,14:00-18:00; Sa 07:00-14:00; So 07:00-12:00"
+opening_hours: Di-Fr 06:30-12:30,14:00-18:00; Sa 07:00-14:00; So 07:00-12:00
 website: ""

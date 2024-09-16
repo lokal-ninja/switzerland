@@ -4,8 +4,8 @@ latitude: 46.28244
 longitude: 7.51289
 postcode: "3960"
 city: Sierre
-street: "Rue de la Potence"
-housenumber: 8
-phone: "+41 27 456 29 40"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:00-17:00"
-website: "https://www.gifi.ch/magasin/gifi-sierre/"
+street: Rue de la Potence
+housenumber: "8"
+phone: +41 27 456 29 40
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:00-17:00
+website: https://www.gifi.ch/magasin/gifi-sierre/

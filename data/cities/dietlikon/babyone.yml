@@ -4,8 +4,8 @@ latitude: 47.41695
 longitude: 8.6234
 postcode: "8305"
 city: Dietlikon
-street: "Brandbachstrasse"
-housenumber: 6
-phone: "+41 44 743 80 00"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"
-website: "https://www.babyone.ch/"
+street: Brandbachstrasse
+housenumber: "6"
+phone: +41 44 743 80 00
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-17:00
+website: https://www.babyone.ch/

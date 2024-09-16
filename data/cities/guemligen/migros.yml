@@ -4,8 +4,8 @@ latitude: 46.93329
 longitude: 7.50419
 postcode: "3073"
 city: Gümligen
-street: "Turbenweg"
-housenumber: 1
+street: Turbenweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Th 08:00-19:00, Fr 08:00-21:00, Sa 08:00-17:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-guemligen"
+opening_hours: Mo-Th 08:00-19:00, Fr 08:00-21:00, Sa 08:00-17:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-guemligen

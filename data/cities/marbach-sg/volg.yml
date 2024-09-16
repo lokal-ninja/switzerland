@@ -4,8 +4,8 @@ latitude: 47.3924
 longitude: 9.56986
 postcode: "9437"
 city: Marbach SG
-street: "Staatsstrasse"
-housenumber: 17
-phone: "+41 71 554 66 24"
-opening_hours: "Mo-Fr 06:00-21:00; Sa 07:00-19:00; Su off"
-website: "https://www.volg.ch/standorte-oeffnungszeiten/detail/volg-marbach-sg/"
+street: Staatsstrasse
+housenumber: "17"
+phone: +41 71 554 66 24
+opening_hours: Mo-Fr 06:00-21:00; Sa 07:00-19:00; Su off
+website: https://www.volg.ch/standorte-oeffnungszeiten/detail/volg-marbach-sg/

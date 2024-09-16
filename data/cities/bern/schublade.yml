@@ -4,8 +4,8 @@ latitude: 46.94189
 longitude: 7.43131
 postcode: "3007"
 city: Bern
-street: "Belpstrasse"
-housenumber: 67
-phone: "+41 31 974 12 20"
-opening_hours: "Tu-Fr 10:00-18:30; Sa 10:00-16:00"
-website: "http://www.dieschublade.ch/"
+street: Belpstrasse
+housenumber: "67"
+phone: +41 31 974 12 20
+opening_hours: Tu-Fr 10:00-18:30; Sa 10:00-16:00
+website: http://www.dieschublade.ch/

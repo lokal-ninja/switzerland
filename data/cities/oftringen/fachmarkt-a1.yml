@@ -1,11 +1,11 @@
 id: 253236098
-type: way
+type: node
 latitude: 47.30712
 longitude: 7.92602
 postcode: "4665"
 city: Oftringen
-street: "Spitalweidstrasse"
-housenumber: 1
+street: Spitalweidstrasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://a-eins.ch/"
+website: https://a-eins.ch/

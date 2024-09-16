@@ -1,11 +1,11 @@
 id: 682081865
-type: way
+type: node
 latitude: 46.02565
 longitude: 8.96384
 postcode: "6948"
 city: Porza
-street: "Via Sonvico"
-housenumber: 9
+street: Via Sonvico
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

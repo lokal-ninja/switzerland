@@ -1,11 +1,11 @@
 id: 1265876242
-type: way
+type: node
 latitude: 47.35123
 longitude: 9.07535
 postcode: "9606"
 city: Bütschwil
-street: "Neufeldstrasse"
-housenumber: 4
-phone: "+41 71 983 51 27"
+street: Neufeldstrasse
+housenumber: "4"
+phone: +41 71 983 51 27
 opening_hours: ""
-website: "https://braendle-zelte.ch/"
+website: https://braendle-zelte.ch/

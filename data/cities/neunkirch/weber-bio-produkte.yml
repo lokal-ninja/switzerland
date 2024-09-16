@@ -4,8 +4,8 @@ latitude: 47.68153
 longitude: 8.52286
 postcode: "8213"
 city: Neunkirch
-street: "Egoltingerhof"
-housenumber: 2
+street: Egoltingerhof
+housenumber: "2"
 phone: "0041793756937"
-opening_hours: "24/7"
-website: "https://www.weberbioprodukte.ch/"
+opening_hours: 24/7
+website: https://www.weberbioprodukte.ch/

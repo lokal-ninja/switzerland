@@ -1,11 +1,11 @@
 id: 49332639
-type: way
+type: node
 latitude: 47.09456
 longitude: 6.82182
 postcode: "2300"
 city: La Chaux-de-Fonds
-street: "Rue des Crêtets"
-housenumber: 90
-phone: "+41 32 925 92 92"
+street: Rue des Crêtets
+housenumber: "90"
+phone: +41 32 925 92 92
 opening_hours: ""
-website: "https://www.sennautos.ch/"
+website: https://www.sennautos.ch/

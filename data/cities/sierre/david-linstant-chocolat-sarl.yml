@@ -4,8 +4,8 @@ latitude: 46.27127
 longitude: 7.51634
 postcode: "3960"
 city: Sierre
-street: "Ecoparc de Daval C"
-housenumber: 30
-phone: "+41 27 564 45 12"
-opening_hours: "Mo-Fr 09:30-12:30,13:30-18:30; Sa 09:30-12:30,13:30-17:00"
+street: Ecoparc de Daval C
+housenumber: "30"
+phone: +41 27 564 45 12
+opening_hours: Mo-Fr 09:30-12:30,13:30-18:30; Sa 09:30-12:30,13:30-17:00
 website: ""

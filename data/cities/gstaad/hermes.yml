@@ -1,11 +1,11 @@
 id: 635786482
-type: way
+type: node
 latitude: 46.47363
 longitude: 7.28682
 postcode: "3780"
 city: Gstaad
-street: "Promenade"
-housenumber: 44
+street: Promenade
+housenumber: "44"
 phone: ""
 opening_hours: ""
-website: "https://www.hermes.com/"
+website: https://www.hermes.com/

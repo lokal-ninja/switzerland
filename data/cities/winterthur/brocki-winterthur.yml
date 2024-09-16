@@ -4,8 +4,8 @@ latitude: 47.49516
 longitude: 8.7652
 postcode: "8404"
 city: Winterthur
-street: "Fröschenweidstrasse"
-housenumber: 12
+street: Fröschenweidstrasse
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 13:30-18:00; Sa 09:00-16:00"
-website: "https://www.brockenstube-winterthur.ch/"
+opening_hours: Mo-Fr 13:30-18:00; Sa 09:00-16:00
+website: https://www.brockenstube-winterthur.ch/

@@ -1,11 +1,11 @@
 id: 359170528
-type: way
+type: node
 latitude: 46.47044
 longitude: 6.84245
 postcode: ""
 city: Corsier-sur-Vevey
-street: "Rue Centrale"
-housenumber: 2
+street: Rue Centrale
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

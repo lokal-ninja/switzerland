@@ -1,11 +1,11 @@
 id: 234242479
-type: way
+type: node
 latitude: 46.81046
 longitude: 7.47443
 postcode: "3132"
 city: Riggisberg
-street: "Zelgweg"
-housenumber: 4
-phone: "+41 31 808 15 15"
+street: Zelgweg
+housenumber: "4"
+phone: +41 31 808 15 15
 opening_hours: ""
-website: "https://engeloch-reisen.ch"
+website: https://engeloch-reisen.ch

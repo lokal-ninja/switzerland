@@ -4,8 +4,9 @@ latitude: 46.90135
 longitude: 7.66146
 postcode: "3532"
 city: Zäziwil
-street: "Bahnhofstrasse"
-housenumber: 2
+street: Bahnhofstrasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo,Tu 07:30-12:00,14:00-18:30; Th,Fr 07:30-12:00,14:00-18:30; Sa 07:30-15:00; Su off"
-website: "https://www.dorfmetzgkeller.ch/"
+opening_hours: Mo,Tu 07:30-12:00,14:00-18:30; Th,Fr 07:30-12:00,14:00-18:30; Sa 07:30-15:00;
+    Su off
+website: https://www.dorfmetzgkeller.ch/

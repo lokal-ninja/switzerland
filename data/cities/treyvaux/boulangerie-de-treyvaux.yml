@@ -1,11 +1,11 @@
 id: 225881153
-type: way
+type: node
 latitude: 46.72792
 longitude: 7.13625
 postcode: "1733"
 city: Treyvaux
-street: "Route d'Arconciel"
-housenumber: 9
+street: Route d'Arconciel
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

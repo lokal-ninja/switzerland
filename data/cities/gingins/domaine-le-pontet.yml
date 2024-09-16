@@ -4,8 +4,8 @@ latitude: 46.41374
 longitude: 6.17075
 postcode: "1276"
 city: Gingins
-street: "Route de la Dôle"
-housenumber: 40
-phone: "+41 79 471 80 42"
-opening_hours: "Mo-Su 08:00-19:00"
-website: "https://www.domaine-le-pontet.ch/"
+street: Route de la Dôle
+housenumber: "40"
+phone: +41 79 471 80 42
+opening_hours: Mo-Su 08:00-19:00
+website: https://www.domaine-le-pontet.ch/

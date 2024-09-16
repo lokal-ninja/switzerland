@@ -1,11 +1,11 @@
 id: 267055362
-type: way
+type: node
 latitude: 46.30037
 longitude: 7.05131
 postcode: "1884"
 city: Villars-sur-Ollon
-street: "Avenue Centrale"
-housenumber: 108
+street: Avenue Centrale
+housenumber: "108"
 phone: ""
 opening_hours: ""
 website: ""

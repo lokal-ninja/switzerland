@@ -4,8 +4,8 @@ latitude: 47.04907
 longitude: 8.2624
 postcode: "6014"
 city: Luzern
-street: "Luzernerstrasse"
-housenumber: 143
+street: Luzernerstrasse
+housenumber: "143"
 phone: ""
-opening_hours: "Mo-Th 08:00-19:00, Fr 08:00-20:00, Sa 08:00-17:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-luzern-grossmatte"
+opening_hours: Mo-Th 08:00-19:00, Fr 08:00-20:00, Sa 08:00-17:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-luzern-grossmatte

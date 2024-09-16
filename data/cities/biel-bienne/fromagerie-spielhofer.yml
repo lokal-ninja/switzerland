@@ -4,8 +4,8 @@ latitude: 47.14074
 longitude: 7.24564
 postcode: "2502"
 city: Biel/Bienne
-street: "Rue des Maréchaux / Schmiedengasse"
-housenumber: 3
+street: Rue des Maréchaux / Schmiedengasse
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:30, 15:00-18:30; Sa 08:00-16:00; Su-Mo off"
-website: "https://www.fromagesspielhofer.ch"
+opening_hours: Tu-Fr 09:00-12:30, 15:00-18:30; Sa 08:00-16:00; Su-Mo off
+website: https://www.fromagesspielhofer.ch

@@ -4,8 +4,8 @@ latitude: 46.17722
 longitude: 8.70047
 postcode: "6655"
 city: Intragna
-street: "Piazza Intragna"
-housenumber: 8
-phone: "+41 78 239 55 67"
-opening_hours: "Mo-Sa 15:00-17:00; So 9:00-15:00 || 24/7 open with app only"
-website: "https://avantiavanti.ch/"
+street: Piazza Intragna
+housenumber: "8"
+phone: +41 78 239 55 67
+opening_hours: Mo-Sa 15:00-17:00; So 9:00-15:00 || 24/7 open "with app only"
+website: https://avantiavanti.ch/

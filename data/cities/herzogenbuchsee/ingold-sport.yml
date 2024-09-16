@@ -4,8 +4,9 @@ latitude: 47.18771
 longitude: 7.7067
 postcode: "3360"
 city: Herzogenbuchsee
-street: "Kirchgasse"
-housenumber: 6
-phone: "+41 62 961 12 45"
-opening_hours: "Tu-Th 09:00-12:00,13:30-18:30; Fr 09:00-12:00,13:30-18:30; Sa 09:00-16:00; Nov 01-May 31 Fr 09:00-12:00,13:30-20:00"
-website: "https://ingold-sport.ch/"
+street: Kirchgasse
+housenumber: "6"
+phone: +41 62 961 12 45
+opening_hours: Tu-Th 09:00-12:00,13:30-18:30; Fr 09:00-12:00,13:30-18:30; Sa 09:00-16:00;
+    Nov 01-May 31 Fr 09:00-12:00,13:30-20:00
+website: https://ingold-sport.ch/

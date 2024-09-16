@@ -4,8 +4,8 @@ latitude: 47.38933
 longitude: 8.42102
 postcode: "8902"
 city: Urdorf
-street: "Neumattstrasse"
-housenumber: 12
-phone: "+41 79 769 00 93"
-opening_hours: "nach Vereinbarung"
+street: Neumattstrasse
+housenumber: "12"
+phone: +41 79 769 00 93
+opening_hours: '"nach Vereinbarung"'
 website: ""

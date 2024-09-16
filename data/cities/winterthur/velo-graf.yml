@@ -4,8 +4,8 @@ latitude: 47.49814
 longitude: 8.73398
 postcode: "8400"
 city: Winterthur
-street: "St. Gallerstrasse"
-housenumber: 10
-phone: "+41 52 202 95 66"
-opening_hours: "Mo-Fr 14:15-18:55; Sa 09:00-17:55"
-website: "http://www.velo-graf.ch"
+street: St. Gallerstrasse
+housenumber: "10"
+phone: +41 52 202 95 66
+opening_hours: Mo-Fr 14:15-18:55; Sa 09:00-17:55
+website: http://www.velo-graf.ch

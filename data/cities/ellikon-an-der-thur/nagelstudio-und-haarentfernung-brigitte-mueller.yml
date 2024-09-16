@@ -4,8 +4,8 @@ latitude: 47.56575
 longitude: 8.82773
 postcode: "8548"
 city: Ellikon an der Thur
-street: "Alte Horgenbachstrasse"
-housenumber: 5
+street: Alte Horgenbachstrasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr nach Vereinbarung"
-website: "https://www.nagel-haarentfernungsstudio.ch/"
+opening_hours: Mo-Fr "nach Vereinbarung"
+website: https://www.nagel-haarentfernungsstudio.ch/

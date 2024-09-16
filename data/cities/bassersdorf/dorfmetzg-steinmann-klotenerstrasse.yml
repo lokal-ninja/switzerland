@@ -1,11 +1,11 @@
 id: 46742113
-type: way
+type: node
 latitude: 47.44369
 longitude: 8.62808
 postcode: "8303"
 city: Bassersdorf
-street: "Klotenerstrasse"
-housenumber: 2
+street: Klotenerstrasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

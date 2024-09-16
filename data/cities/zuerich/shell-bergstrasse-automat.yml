@@ -4,8 +4,8 @@ latitude: 47.36781
 longitude: 8.56417
 postcode: "8032"
 city: Zürich
-street: "Bergstrasse"
-housenumber: 118
+street: Bergstrasse
+housenumber: "118"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

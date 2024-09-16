@@ -1,11 +1,11 @@
 id: 122556342
-type: way
+type: node
 latitude: 47.40011
 longitude: 8.75604
 postcode: "8320"
 city: Fehraltorf
-street: "Reitenbach"
-housenumber: 31
+street: Reitenbach
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

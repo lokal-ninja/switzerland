@@ -4,8 +4,8 @@ latitude: 46.5255
 longitude: 6.8797
 postcode: "1617"
 city: Remaufens
-street: "Route du Tatrel"
-housenumber: 61
-phone: "+41 79 532 19 67"
-opening_hours: "Mo-We 13:30-18:30; Th-Fr 09:30-12:00,13:30-18:30; Sa 09:30-16:00"
-website: "https://www.beurre-cacao.ch/"
+street: Route du Tatrel
+housenumber: "61"
+phone: +41 79 532 19 67
+opening_hours: Mo-We 13:30-18:30; Th-Fr 09:30-12:00,13:30-18:30; Sa 09:30-16:00
+website: https://www.beurre-cacao.ch/

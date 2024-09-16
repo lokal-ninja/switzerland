@@ -4,8 +4,8 @@ latitude: 47.34394
 longitude: 8.72957
 postcode: "8610"
 city: Uster
-street: "Steigstrasse"
-housenumber: 6
-phone: "+41 76 456 98 78"
-opening_hours: "Mo-Fr 13:00-18:00; Sa 11:00-16:00"
-website: "https://veloroyal.ch/"
+street: Steigstrasse
+housenumber: "6"
+phone: +41 76 456 98 78
+opening_hours: Mo-Fr 13:00-18:00; Sa 11:00-16:00
+website: https://veloroyal.ch/

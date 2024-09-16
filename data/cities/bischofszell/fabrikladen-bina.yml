@@ -4,8 +4,8 @@ latitude: 47.49855
 longitude: 9.23998
 postcode: "9220"
 city: Bischofszell
-street: "Nordstrasse"
-housenumber: 12
-phone: "+41 58 475 93 35"
-opening_hours: "Mo-Fr 08:30-12:00,13:30-18:00; Sa 08:30-12:00"
+street: Nordstrasse
+housenumber: "12"
+phone: +41 58 475 93 35
+opening_hours: Mo-Fr 08:30-12:00,13:30-18:00; Sa 08:30-12:00
 website: ""

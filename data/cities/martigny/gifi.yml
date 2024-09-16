@@ -1,11 +1,11 @@
 id: 193772353
-type: way
+type: node
 latitude: 46.10789
 longitude: 7.08748
 postcode: "1920"
 city: Martigny
-street: "Rue du Simplon"
-housenumber: 43
+street: Rue du Simplon
+housenumber: "43"
 phone: ""
 opening_hours: ""
-website: "https://magasins.gifi.ch/fr/l/Suisse/Valais/Martigny"
+website: https://magasins.gifi.ch/fr/l/Suisse/Valais/Martigny

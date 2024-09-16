@@ -1,11 +1,11 @@
 id: 226338532
-type: way
+type: node
 latitude: 47.32398
 longitude: 8.78645
 postcode: "8620"
 city: Wetzikon
-street: "Zürcherstrasse"
+street: Zürcherstrasse
 housenumber: 35a
-phone: "+41 44 972 25 88"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 9:00-17:00"
-website: "https://www.brocki.ch/de/filialen/wetzikon/"
+phone: +41 44 972 25 88
+opening_hours: Mo-Fr 09:00-18:30; Sa 9:00-17:00
+website: https://www.brocki.ch/de/filialen/wetzikon/

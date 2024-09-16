@@ -4,8 +4,8 @@ latitude: 46.64154
 longitude: 6.6326
 postcode: "1040"
 city: Echallens
-street: "Grand'Rue"
-housenumber: 16
-phone: "+41 21 881 10 09"
-opening_hours: "Mo 14:00-18:00; Tu-Fr 09:00-11:45,14:00-18:00; Sa 09:00-12:00"
+street: Grand'Rue
+housenumber: "16"
+phone: +41 21 881 10 09
+opening_hours: Mo 14:00-18:00; Tu-Fr 09:00-11:45,14:00-18:00; Sa 09:00-12:00
 website: ""

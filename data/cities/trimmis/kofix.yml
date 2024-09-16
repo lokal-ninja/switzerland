@@ -1,11 +1,11 @@
 id: 390876183
-type: way
+type: node
 latitude: 46.9058
 longitude: 9.55645
 postcode: "7203"
 city: Trimmis
-street: "Herawisweg"
-housenumber: 2.1
-phone: "+41 81 353 53 52"
+street: Herawisweg
+housenumber: "2.1"
+phone: +41 81 353 53 52
 opening_hours: ""
-website: "https://www.kofix.ch"
+website: https://www.kofix.ch

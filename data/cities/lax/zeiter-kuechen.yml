@@ -1,11 +1,11 @@
 id: 264156246
-type: way
+type: node
 latitude: 46.38736
 longitude: 8.11649
 postcode: "3994"
 city: Lax
-street: "Furkastrasse"
-housenumber: 42
+street: Furkastrasse
+housenumber: "42"
 phone: "+41279711061"
-opening_hours: "Mo-Fr 08:00-12:00;Mo-Fr 13:00-17:00"
+opening_hours: Mo-Fr 08:00-12:00;Mo-Fr 13:00-17:00
 website: ""

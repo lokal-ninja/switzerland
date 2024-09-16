@@ -4,8 +4,8 @@ latitude: 47.47186
 longitude: 7.51985
 postcode: "4114"
 city: Hofstetten
-street: "Sennmatt"
-housenumber: 1
-phone: "+41 61 731 18 04"
-opening_hours: "nach Vereinbarung"
-website: "http://www.hof-sennmatt.ch/kontakte/"
+street: Sennmatt
+housenumber: "1"
+phone: +41 61 731 18 04
+opening_hours: nach Vereinbarung
+website: http://www.hof-sennmatt.ch/kontakte/

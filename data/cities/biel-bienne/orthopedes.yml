@@ -4,8 +4,8 @@ latitude: 47.13584
 longitude: 7.24513
 postcode: "2502"
 city: Biel/Bienne
-street: "Rue Karl-Neuhaus / Karl-Neuhaus-Strasse"
-housenumber: 40
-phone: "+41 32 341 88 88"
-opening_hours: "Tu-Fr 08:00-12:15,13:30-18:00; Sa 09:00-15:00; Su-Mo off"
-website: "https://www.orthopedes.ch"
+street: Rue Karl-Neuhaus / Karl-Neuhaus-Strasse
+housenumber: "40"
+phone: +41 32 341 88 88
+opening_hours: Tu-Fr 08:00-12:15,13:30-18:00; Sa 09:00-15:00; Su-Mo off
+website: https://www.orthopedes.ch

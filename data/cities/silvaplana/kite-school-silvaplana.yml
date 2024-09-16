@@ -1,11 +1,11 @@
 id: 620080833
-type: way
+type: node
 latitude: 46.45678
 longitude: 9.79577
 postcode: "7513"
 city: Silvaplana
-street: "Via Mulets"
-housenumber: 9
+street: Via Mulets
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

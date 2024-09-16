@@ -1,11 +1,11 @@
 id: 418665109
-type: way
+type: node
 latitude: 47.12314
 longitude: 9.48765
 postcode: "9475"
 city: Sevelen
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.riga.ch/"
+website: https://www.riga.ch/

@@ -4,8 +4,8 @@ latitude: 47.20828
 longitude: 7.53634
 postcode: "4500"
 city: Solothurn
-street: "Gurzlengasse"
-housenumber: 18
+street: Gurzlengasse
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30;Th 09:00-20:00;Sa 08:00-17:00;PH off"
-website: "https://www.manor.ch/de/store-finder/store/SOL"
+opening_hours: Mo-Fr 09:00-18:30;Th 09:00-20:00;Sa 08:00-17:00;PH off
+website: https://www.manor.ch/de/store-finder/store/SOL

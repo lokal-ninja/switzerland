@@ -4,8 +4,8 @@ latitude: 47.39258
 longitude: 8.52841
 postcode: "8037"
 city: Zürich
-street: "Landenbergstrasse"
-housenumber: 18
-phone: "+41 79 723 45 74"
-opening_hours: "sometimes Saturday morning"
-website: "https://www.pandemiel.ch/"
+street: Landenbergstrasse
+housenumber: "18"
+phone: +41 79 723 45 74
+opening_hours: '"sometimes Saturday morning"'
+website: https://www.pandemiel.ch/

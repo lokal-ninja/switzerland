@@ -1,11 +1,11 @@
 id: 264059578
-type: way
+type: node
 latitude: 47.27916
 longitude: 8.40427
 postcode: "8913"
 city: Ottenbach
-street: "Affolternstrasse"
-housenumber: 24
-phone: "+41 44 760 21 77"
+street: Affolternstrasse
+housenumber: "24"
+phone: +41 44 760 21 77
 opening_hours: ""
-website: "https://www.vima-zweirad.ch/"
+website: https://www.vima-zweirad.ch/

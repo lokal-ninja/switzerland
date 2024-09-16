@@ -4,8 +4,8 @@ latitude: 46.93789
 longitude: 7.39345
 postcode: "3018"
 city: Bern
-street: "Morgenstrasse"
-housenumber: 89
+street: Morgenstrasse
+housenumber: "89"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

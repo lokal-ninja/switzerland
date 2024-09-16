@@ -4,8 +4,8 @@ latitude: 47.37496
 longitude: 8.54374
 postcode: "8001"
 city: Zürich
-street: "Niederdorfstrasse"
-housenumber: 39
+street: Niederdorfstrasse
+housenumber: "39"
 phone: ""
 opening_hours: ""
-website: "https://centralpower.ch/"
+website: https://centralpower.ch/

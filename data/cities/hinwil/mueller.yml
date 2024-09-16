@@ -4,8 +4,8 @@ latitude: 47.30576
 longitude: 8.8226
 postcode: "8340"
 city: Hinwil
-street: "Wässeristrasse"
-housenumber: 26
+street: Wässeristrasse
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:30; Sa 09:00-18:30; PH off"
-website: "https://www.mueller.ch"
+opening_hours: Mo-Fr 09:00-19:30; Sa 09:00-18:30; PH off
+website: https://www.mueller.ch

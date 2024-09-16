@@ -1,11 +1,11 @@
 id: 507024527
-type: way
+type: node
 latitude: 47.41535
 longitude: 7.71732
 postcode: "4424"
 city: Arboldswil
-street: "Underdorf"
-housenumber: 3
+street: Underdorf
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.49976
 longitude: 8.72904
 postcode: "8400"
 city: Winterthur
-street: "Marktgasse"
-housenumber: 38
+street: Marktgasse
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-17:00"
-website: "https://www.blue-tomato.com/de-CH/shop/winterthur/"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-17:00
+website: https://www.blue-tomato.com/de-CH/shop/winterthur/

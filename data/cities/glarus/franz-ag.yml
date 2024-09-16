@@ -4,8 +4,8 @@ latitude: 47.04961
 longitude: 9.05978
 postcode: "8750"
 city: Glarus
-street: "Landstrasse"
-housenumber: 71
+street: Landstrasse
+housenumber: "71"
 phone: ""
 opening_hours: ""
-website: "https://www.franz.ch/standorte/glarus.html"
+website: https://www.franz.ch/standorte/glarus.html

@@ -1,11 +1,11 @@
 id: 24929346
-type: way
+type: node
 latitude: 46.17134
 longitude: 6.10926
 postcode: ""
 city: Plan-les-Ouates
-street: "Route de Base"
-housenumber: 31
+street: Route de Base
+housenumber: "31"
 phone: "+41227946037"
 opening_hours: ""
-website: "http://www.gfautomobiles.ch/"
+website: http://www.gfautomobiles.ch/

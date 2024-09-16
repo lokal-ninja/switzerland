@@ -1,11 +1,11 @@
 id: 34561519
-type: way
+type: node
 latitude: 47.50903
 longitude: 8.53998
 postcode: "8180"
 city: Bülach
-street: "Feldstrasse"
-housenumber: 
+street: Feldstrasse
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.buelach-sued.ch"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.buelach-sued.ch

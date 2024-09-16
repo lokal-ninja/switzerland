@@ -1,11 +1,11 @@
 id: 258561097
-type: way
+type: node
 latitude: 46.35873
 longitude: 7.98427
 postcode: "3914"
 city: Blatten b. Naters
-street: "Rischinustrasse"
-housenumber: 6
+street: Rischinustrasse
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.41354
 longitude: 8.54058
 postcode: "8050"
 city: Zürich
-street: "Sophie-Taeuber-Strasse"
-housenumber: 4
+street: Sophie-Taeuber-Strasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.interdiscount.ch/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.interdiscount.ch/

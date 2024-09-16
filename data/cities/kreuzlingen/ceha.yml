@@ -1,11 +1,11 @@
 id: 135992936
-type: way
+type: node
 latitude: 47.64829
 longitude: 9.17525
 postcode: "8280"
 city: Kreuzlingen
-street: "Hauptstrasse"
-housenumber: 63
+street: Hauptstrasse
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

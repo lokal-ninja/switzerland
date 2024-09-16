@@ -4,8 +4,8 @@ latitude: 47.4226
 longitude: 7.50036
 postcode: "4242"
 city: Laufen
-street: "Hauptstrasse"
-housenumber: 37
+street: Hauptstrasse
+housenumber: "37"
 phone: ""
 opening_hours: ""
-website: "https://www.interdiscount.ch/"
+website: https://www.interdiscount.ch/

@@ -1,11 +1,11 @@
 id: 218866563
-type: way
+type: node
 latitude: 46.74172
 longitude: 7.21972
 postcode: "1736"
 city: St. Silvester
-street: "Zur Schür"
-housenumber: 11
+street: Zur Schür
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

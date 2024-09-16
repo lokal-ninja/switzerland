@@ -4,8 +4,8 @@ latitude: 47.03314
 longitude: 8.28055
 postcode: "6010"
 city: Kriens
-street: "Gallusstrasse"
-housenumber: 12
-phone: "+41 41 320 58 88"
-opening_hours: "Mo-Fr 08:30-12:00,13:30-18:30; Sa 08:30-16:00"
-website: "http://www.papeterie-birrer.ch/"
+street: Gallusstrasse
+housenumber: "12"
+phone: +41 41 320 58 88
+opening_hours: Mo-Fr 08:30-12:00,13:30-18:30; Sa 08:30-16:00
+website: http://www.papeterie-birrer.ch/

@@ -4,8 +4,8 @@ latitude: 46.95403
 longitude: 7.43094
 postcode: "3012"
 city: Bern
-street: "Länggassstrasse"
-housenumber: 47
+street: Länggassstrasse
+housenumber: "47"
 phone: ""
-opening_hours: "Mo 12:00-18:00; Tu-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.laenggasstee.ch/"
+opening_hours: Mo 12:00-18:00; Tu-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://www.laenggasstee.ch/

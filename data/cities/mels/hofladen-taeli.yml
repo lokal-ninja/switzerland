@@ -1,11 +1,11 @@
 id: 409370258
-type: way
+type: node
 latitude: 47.04281
 longitude: 9.42325
 postcode: "8887"
 city: Mels
-street: "Täliweg"
-housenumber: 23
+street: Täliweg
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

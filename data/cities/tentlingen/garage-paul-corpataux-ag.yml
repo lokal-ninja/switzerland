@@ -1,11 +1,11 @@
 id: 208965823
-type: way
+type: node
 latitude: 46.76786
 longitude: 7.20015
 postcode: "1734"
 city: Tentlingen
-street: "Oberlandstrasse"
-housenumber: 13
+street: Oberlandstrasse
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

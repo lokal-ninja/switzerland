@@ -4,8 +4,8 @@ latitude: 47.40741
 longitude: 9.63132
 postcode: "9443"
 city: Widnau
-street: "Bahnhofstrasse"
-housenumber: 9
-phone: "+41 79 106 01 66"
-opening_hours: "Mo-Th 07:30-12:00,13:00-17:30; Fr 07:30-12:00,13:00-16:30; PH off"
-website: "https://bx-automobile.ch/"
+street: Bahnhofstrasse
+housenumber: "9"
+phone: +41 79 106 01 66
+opening_hours: Mo-Th 07:30-12:00,13:00-17:30; Fr 07:30-12:00,13:00-16:30; PH off
+website: https://bx-automobile.ch/

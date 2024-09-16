@@ -4,8 +4,8 @@ latitude: 47.37044
 longitude: 8.51359
 postcode: "8003"
 city: Zürich
-street: "Kalkbreitestrasse"
-housenumber: 138
+street: Kalkbreitestrasse
+housenumber: "138"
 phone: ""
-opening_hours: "Mo-Tu 10:00-19:00; Th 11:00-20:00; Fr 09:00-19:00; We,Sa 09:00-18:00"
-website: "https://www.madhairstyling.ch/"
+opening_hours: Mo-Tu 10:00-19:00; Th 11:00-20:00; Fr 09:00-19:00; We,Sa 09:00-18:00
+website: https://www.madhairstyling.ch/

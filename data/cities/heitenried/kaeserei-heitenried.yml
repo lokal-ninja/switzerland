@@ -1,11 +1,11 @@
 id: 208396393
-type: way
+type: node
 latitude: 46.82194
 longitude: 7.30167
 postcode: "1714"
 city: Heitenried
-street: "Äbnet"
-housenumber: 3
+street: Äbnet
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

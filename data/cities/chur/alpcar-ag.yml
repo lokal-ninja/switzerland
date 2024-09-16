@@ -1,11 +1,11 @@
 id: 322442517
-type: way
+type: node
 latitude: 46.84661
 longitude: 9.51112
 postcode: "7000"
 city: Chur
-street: "Kalchbühlstrasse"
-housenumber: 12
+street: Kalchbühlstrasse
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.22891
 longitude: 8.8203
 postcode: "8640"
 city: Rapperswil
-street: "Zürcherstrasse"
-housenumber: 2
-phone: "+41 55 220 60 60"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:00-18:00"
-website: "https://dropa.ch/standorte/dropa-drogerie-apotheke-rapperswil"
+street: Zürcherstrasse
+housenumber: "2"
+phone: +41 55 220 60 60
+opening_hours: Mo-Fr 09:00-20:00; Sa 08:00-18:00
+website: https://dropa.ch/standorte/dropa-drogerie-apotheke-rapperswil

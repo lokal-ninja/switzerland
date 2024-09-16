@@ -1,11 +1,11 @@
 id: 333166296
-type: way
+type: node
 latitude: 47.46233
 longitude: 8.21078
 postcode: "5212"
 city: Hausen AG
-street: "Holzgasse"
-housenumber: 4
-phone: "+41 56 450 22 02"
-opening_hours: "Mo-Fr 6:00-19:30, Sa 7:00-17:00"
-website: "https://www.volg.ch/"
+street: Holzgasse
+housenumber: "4"
+phone: +41 56 450 22 02
+opening_hours: Mo-Fr 6:00-19:30, Sa 7:00-17:00
+website: https://www.volg.ch/

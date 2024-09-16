@@ -4,8 +4,9 @@ latitude: 46.79862
 longitude: 7.15291
 postcode: "1700"
 city: Fribourg
-street: "Boulevard de Pérolles"
-housenumber: 29
+street: Boulevard de Pérolles
+housenumber: "29"
 phone: ""
-opening_hours: "Mo 10:00-18:30; Tu-Fr 08:00-12:00, 13:30-18:30; Sa 08:00-16:00; Su off"
+opening_hours: Mo 10:00-18:30; Tu-Fr 08:00-12:00, 13:30-18:30; Sa 08:00-16:00; Su
+    off
 website: ""

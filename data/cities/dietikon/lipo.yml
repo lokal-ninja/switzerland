@@ -4,8 +4,8 @@ latitude: 47.41893
 longitude: 8.39324
 postcode: "8953"
 city: Dietikon
-street: "Silbernstrasse"
-housenumber: 20
+street: Silbernstrasse
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-18:00; PH off"
-website: "https://www.lipo.ch/"
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-18:00; PH off
+website: https://www.lipo.ch/

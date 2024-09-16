@@ -4,8 +4,8 @@ latitude: 46.94727
 longitude: 7.44228
 postcode: "3011"
 city: Bern
-street: "Schauplatzgasse"
-housenumber: 27
-phone: "+41 31 312 70 40"
-opening_hours: "Mo 10:00-20:00; Tu-Fr 10:00-22:00; Sa 09:00-18:00"
-website: "https://www.passionduvin.ch/"
+street: Schauplatzgasse
+housenumber: "27"
+phone: +41 31 312 70 40
+opening_hours: Mo 10:00-20:00; Tu-Fr 10:00-22:00; Sa 09:00-18:00
+website: https://www.passionduvin.ch/

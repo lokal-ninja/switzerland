@@ -1,11 +1,11 @@
 id: 360434249
-type: way
+type: node
 latitude: 46.16863
 longitude: 8.79255
 postcode: "6600"
 city: Locarno
-street: "Via San Francesco"
-housenumber: 7
+street: Via San Francesco
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

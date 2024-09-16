@@ -1,11 +1,11 @@
 id: 200301197
-type: way
+type: node
 latitude: 47.44572
 longitude: 9.14398
 postcode: "9244"
 city: Niederuzwil
-street: "Bahnhofstrasse"
-housenumber: 139
+street: Bahnhofstrasse
+housenumber: "139"
 phone: ""
 opening_hours: ""
-website: "https://www.beck-taverna.ch/"
+website: https://www.beck-taverna.ch/

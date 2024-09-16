@@ -4,8 +4,8 @@ latitude: 47.37029
 longitude: 8.53574
 postcode: "8001"
 city: Zürich
-street: "Talstrasse"
-housenumber: 61
+street: Talstrasse
+housenumber: "61"
 phone: ""
-opening_hours: "Tu-Fr 09:00-20:00, Sa 09:00-17:00"
-website: "https://www.ghel.ch/salon/talstrasse/"
+opening_hours: Tu-Fr 09:00-20:00, Sa 09:00-17:00
+website: https://www.ghel.ch/salon/talstrasse/

@@ -1,11 +1,11 @@
 id: 155969086
-type: way
+type: node
 latitude: 46.75401
 longitude: 8.03161
 postcode: "3855"
 city: Brienz BE
-street: "Hauptstrasse"
-housenumber: 90
+street: Hauptstrasse
+housenumber: "90"
 phone: ""
 opening_hours: ""
 website: ""

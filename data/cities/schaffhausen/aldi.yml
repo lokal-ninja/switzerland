@@ -1,11 +1,11 @@
 id: 194907862
-type: way
+type: node
 latitude: 47.71609
 longitude: 8.66413
 postcode: "8207"
 city: Schaffhausen
-street: "Gennersbrunnerstrasse"
-housenumber: 63
+street: Gennersbrunnerstrasse
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

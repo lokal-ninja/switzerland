@@ -1,11 +1,11 @@
 id: 551452624
-type: way
+type: node
 latitude: 47.3429
 longitude: 8.48291
 postcode: "8143"
 city: Stallikon
-street: "Sellenbüren"
-housenumber: 61
+street: Sellenbüren
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

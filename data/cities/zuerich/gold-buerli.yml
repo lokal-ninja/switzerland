@@ -4,8 +4,8 @@ latitude: 47.36144
 longitude: 8.52244
 postcode: "8045"
 city: Zürich
-street: "Manessestrasse"
-housenumber: 186
+street: Manessestrasse
+housenumber: "186"
 phone: ""
-opening_hours: "Mo-Fr 07:00-12:00,13:00-16:45"
-website: "https://www.baeckerei-gold.ch/"
+opening_hours: Mo-Fr 07:00-12:00,13:00-16:45
+website: https://www.baeckerei-gold.ch/

@@ -4,8 +4,9 @@ latitude: 47.35408
 longitude: 9.11332
 postcode: "9621"
 city: Oberhelfenschwil
-street: "Dorfstrasse"
-housenumber: 4
-phone: "+41 71 374 11 80"
-opening_hours: "Mo-Tu 06:00-12:15, 14:30-18:30; We 06:00-12:15; Th-Fr 06:00-12:15, 14:30-18:30; Sa 06:00-12:15"
-website: "https://baeckerei-bleiker.ch"
+street: Dorfstrasse
+housenumber: "4"
+phone: +41 71 374 11 80
+opening_hours: Mo-Tu 06:00-12:15, 14:30-18:30; We 06:00-12:15; Th-Fr 06:00-12:15,
+    14:30-18:30; Sa 06:00-12:15
+website: https://baeckerei-bleiker.ch

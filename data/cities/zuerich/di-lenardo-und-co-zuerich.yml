@@ -4,8 +4,8 @@ latitude: 47.37188
 longitude: 8.54007
 postcode: "8001"
 city: Zürich
-street: "Augustinergasse"
-housenumber: 14
-phone: "+41 44 221 55 44"
+street: Augustinergasse
+housenumber: "14"
+phone: +41 44 221 55 44
 opening_hours: ""
-website: "https://www.cultweine.ch/"
+website: https://www.cultweine.ch/

@@ -1,11 +1,11 @@
 id: 206425603
-type: way
+type: node
 latitude: 47.25889
 longitude: 8.18177
 postcode: "5734"
 city: Reinach AG
-street: "Sandgasse"
-housenumber: 11
+street: Sandgasse
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

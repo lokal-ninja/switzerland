@@ -1,11 +1,11 @@
 id: 452503464
-type: way
+type: node
 latitude: 47.37541
 longitude: 8.20717
 postcode: "5600"
 city: Ammerswil
-street: "Chisacherweg"
-housenumber: 1
+street: Chisacherweg
+housenumber: "1"
 phone: "+41628913970"
-opening_hours: "Mo - Su 08:00-17:00"
-website: "https://www.chisacherhof.ch/"
+opening_hours: Mo - Su 08:00-17:00
+website: https://www.chisacherhof.ch/

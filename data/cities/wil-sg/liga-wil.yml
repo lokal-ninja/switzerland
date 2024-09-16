@@ -1,11 +1,11 @@
 id: 321982766
-type: way
+type: node
 latitude: 47.45467
 longitude: 9.04775
 postcode: "9500"
 city: Wil SG
-street: "Toggenburgerstrasse"
-housenumber: 146
+street: Toggenburgerstrasse
+housenumber: "146"
 phone: ""
 opening_hours: ""
-website: "https://liga.ch/liga-wil.htm"
+website: https://liga.ch/liga-wil.htm

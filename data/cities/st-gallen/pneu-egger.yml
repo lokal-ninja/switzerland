@@ -4,8 +4,8 @@ latitude: 47.40734
 longitude: 9.29731
 postcode: "9015"
 city: St. Gallen
-street: "Zürcher Strasse"
-housenumber: 499
+street: Zürcher Strasse
+housenumber: "499"
 phone: "+41582007210"
-opening_hours: "Mo-Fr 07:30-12:00,13:30-17:30"
-website: "https://www.pneu-egger.ch/"
+opening_hours: Mo-Fr 07:30-12:00,13:30-17:30
+website: https://www.pneu-egger.ch/

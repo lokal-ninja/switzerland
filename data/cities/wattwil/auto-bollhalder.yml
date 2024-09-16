@@ -1,11 +1,11 @@
 id: 196491589
-type: way
+type: node
 latitude: 47.30643
 longitude: 9.07921
 postcode: "9630"
 city: Wattwil
-street: "Wenkenrütistrasse"
-housenumber: 21
+street: Wenkenrütistrasse
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

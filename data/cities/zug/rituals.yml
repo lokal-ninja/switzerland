@@ -4,8 +4,8 @@ latitude: 47.1724
 longitude: 8.51684
 postcode: "6300"
 city: Zug
-street: "Baarerstrasse"
-housenumber: 14
+street: Baarerstrasse
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-We,Fr 09:00-19:00;Sa 09:00-17:00;Th 09:00-21:00;PH closed"
-website: "https://www.rituals.com/de-ch/"
+opening_hours: Mo-We,Fr 09:00-19:00;Sa 09:00-17:00;Th 09:00-21:00;PH closed
+website: https://www.rituals.com/de-ch/

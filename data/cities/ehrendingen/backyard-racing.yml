@@ -4,8 +4,8 @@ latitude: 47.50524
 longitude: 8.34797
 postcode: "5420"
 city: Ehrendingen
-street: "Ried"
-housenumber: 2
+street: Ried
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-We 14:00-18:30; Th 14:00-21:00; Fr 14:00-18:00"
-website: "https://www.backyard-racing.ch/"
+opening_hours: Mo-We 14:00-18:30; Th 14:00-21:00; Fr 14:00-18:00
+website: https://www.backyard-racing.ch/

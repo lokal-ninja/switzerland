@@ -1,11 +1,11 @@
 id: 358121154
-type: way
+type: node
 latitude: 47.39193
 longitude: 9.2756
 postcode: "9100"
 city: Herisau
-street: "St. Gallerstrasse"
-housenumber: 25
-phone: "+41 58 400 65 54"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-16:00"
-website: "https://www.landi.ch/places/de/landi-herisau"
+street: St. Gallerstrasse
+housenumber: "25"
+phone: +41 58 400 65 54
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-16:00
+website: https://www.landi.ch/places/de/landi-herisau

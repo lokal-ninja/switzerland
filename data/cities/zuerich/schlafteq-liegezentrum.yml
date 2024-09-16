@@ -4,8 +4,8 @@ latitude: 47.4138
 longitude: 8.53941
 postcode: "8050"
 city: Zürich
-street: "Max-Bill-Platz"
-housenumber: 5
-phone: "+41 44 203 80 07"
-opening_hours: "by appointment"
-website: "https://schlafteq.com/schlafexperte/zuerich"
+street: Max-Bill-Platz
+housenumber: "5"
+phone: +41 44 203 80 07
+opening_hours: '"by appointment"'
+website: https://schlafteq.com/schlafexperte/zuerich

@@ -4,8 +4,8 @@ latitude: 47.49912
 longitude: 8.7277
 postcode: "8400"
 city: Winterthur
-street: "Metzggasse"
-housenumber: 16
+street: Metzggasse
+housenumber: "16"
 phone: ""
-opening_hours: "Mo,Su off; Tu-Sa 09:00-17:00"
-website: "https://kaffeeleben.ch/"
+opening_hours: Mo,Su off; Tu-Sa 09:00-17:00
+website: https://kaffeeleben.ch/

@@ -4,8 +4,8 @@ latitude: 46.72672
 longitude: 7.86473
 postcode: "3804"
 city: Habkern
-street: "Hohlgässli"
-housenumber: 367
+street: Hohlgässli
+housenumber: "367"
 phone: "+41338431128"
-opening_hours: "Mo-Fr 07:30-12:00; Mo-Fr 14:00-18:30; Sa 07:30-16:00; PH closed"
-website: "https://www.treffpunkt-detailisten.ch/"
+opening_hours: Mo-Fr 07:30-12:00; Mo-Fr 14:00-18:30; Sa 07:30-16:00; PH closed
+website: https://www.treffpunkt-detailisten.ch/

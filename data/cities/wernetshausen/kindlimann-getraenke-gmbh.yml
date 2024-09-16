@@ -1,11 +1,11 @@
 id: 255244881
-type: way
+type: node
 latitude: 47.29867
 longitude: 8.85747
 postcode: "8342"
 city: Wernetshausen
-street: "Bachtelstrasse"
-housenumber: 54
-phone: "+41 44 937 30 59"
-opening_hours: "Mo-Fr 07:00-12:00, 13:00-18:00; Sa 08:00-12:00"
-website: "http://www.kindlidrink.ch"
+street: Bachtelstrasse
+housenumber: "54"
+phone: +41 44 937 30 59
+opening_hours: Mo-Fr 07:00-12:00, 13:00-18:00; Sa 08:00-12:00
+website: http://www.kindlidrink.ch

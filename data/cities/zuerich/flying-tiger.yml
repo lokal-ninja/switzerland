@@ -4,8 +4,8 @@ latitude: 47.37413
 longitude: 8.54359
 postcode: "8001"
 city: Zürich
-street: "Niederdorfstrasse"
-housenumber: 25
+street: Niederdorfstrasse
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://ch.flyingtiger.com/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://ch.flyingtiger.com/

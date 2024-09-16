@@ -4,8 +4,8 @@ latitude: 46.31928
 longitude: 7.98867
 postcode: "3900"
 city: Brig
-street: "Bahnhofplatz"
-housenumber: 1
+street: Bahnhofplatz
+housenumber: "1"
 phone: "+41275525227"
-opening_hours: "Mo-Su 05:00-21:00"
-website: "https://www.chezzen.ch/"
+opening_hours: Mo-Su 05:00-21:00
+website: https://www.chezzen.ch/

@@ -4,8 +4,9 @@ latitude: 47.51207
 longitude: 8.10631
 postcode: "5077"
 city: Elfingen
-street: "Rütihof"
-housenumber: 66
-phone: "+41 62 876 24 87"
-opening_hours: "Wochenmärkte: in Baden, Sa 7.30 -11.30 Uhr. Meck in Frick: Sa: 9-13 Uhr Direkt ab Hof, Mo-Fr. ca. 17-18.30 Uhr."
-website: "https://www.ruetihof66.ch/"
+street: Rütihof
+housenumber: "66"
+phone: +41 62 876 24 87
+opening_hours: 'Wochenmärkte: in Baden, Sa 7.30 -11.30 Uhr. Meck in Frick: Sa: 9-13
+    Uhr Direkt ab Hof, Mo-Fr. ca. 17-18.30 Uhr.'
+website: https://www.ruetihof66.ch/

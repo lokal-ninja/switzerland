@@ -1,11 +1,11 @@
 id: 385267261
-type: way
+type: node
 latitude: 47.13547
 longitude: 8.74672
 postcode: "8840"
 city: Einsiedeln
-street: "Alpstrasse"
-housenumber: 6
-phone: "+41 79 721 39 66"
-opening_hours: "Tu-Su 08:00-18:00"
-website: "https://www.milchmanufaktur.ch/"
+street: Alpstrasse
+housenumber: "6"
+phone: +41 79 721 39 66
+opening_hours: Tu-Su 08:00-18:00
+website: https://www.milchmanufaktur.ch/

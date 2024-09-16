@@ -4,8 +4,8 @@ latitude: 46.62351
 longitude: 8.03894
 postcode: "3818"
 city: Grindelwald
-street: "Dorfstrasse"
-housenumber: 155
+street: Dorfstrasse
+housenumber: "155"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:30,14:00-19:00, Sa 08:00-19:00, Su 10:00-19:00"
-website: "https://www.voi-migrospartner.ch/de-CH/filialen#voi-voi-grindelwald"
+opening_hours: Mo-Fr 08:00-12:30,14:00-19:00, Sa 08:00-19:00, Su 10:00-19:00
+website: https://www.voi-migrospartner.ch/de-CH/filialen#voi-voi-grindelwald

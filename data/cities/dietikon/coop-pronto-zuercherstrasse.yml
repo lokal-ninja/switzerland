@@ -1,11 +1,11 @@
 id: 767467928
-type: way
+type: node
 latitude: 47.39729
 longitude: 8.42697
 postcode: "8953"
 city: Dietikon
-street: "Zürcherstrasse"
-housenumber: 229
+street: Zürcherstrasse
+housenumber: "229"
 phone: ""
-opening_hours: "05:30-23:00"
+opening_hours: 05:30-23:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.09142
 longitude: 9.34339
 postcode: "8890"
 city: Flums
-street: "Kirchstrasse"
-housenumber: 9
-phone: "+41 81 733 23 24"
+street: Kirchstrasse
+housenumber: "9"
+phone: +41 81 733 23 24
 opening_hours: ""
-website: "https://wildhaber-sport.ch/"
+website: https://wildhaber-sport.ch/

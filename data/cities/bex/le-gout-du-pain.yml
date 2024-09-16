@@ -4,8 +4,9 @@ latitude: 46.24975
 longitude: 7.01123
 postcode: "1880"
 city: Bex
-street: "Rue du Simplon"
-housenumber: 
+street: Rue du Simplon
+housenumber: ""
 phone: ""
-opening_hours: "Tu-Fr 08:00-18:00; Sa-Su 08:30-18:00; Mo closed; Aug Mo[1]-Aug Mo[3] closed"
+opening_hours: Tu-Fr 08:00-18:00; Sa-Su 08:30-18:00; Mo closed; Aug Mo[1]-Aug Mo[3]
+    closed
 website: ""

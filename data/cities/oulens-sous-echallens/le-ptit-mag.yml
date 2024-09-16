@@ -4,8 +4,9 @@ latitude: 46.64252
 longitude: 6.5778
 postcode: "1377"
 city: Oulens-sous-Echallens
-street: "Route du Centre"
-housenumber: 14
-phone: "+41 21 882 52 93"
-opening_hours: "Mo, We-Fr 06:45-12:00, 16:30-18:45; Tu 06:45-12:00; Sa 06:45-12:00; Su 08:00-11:00"
+street: Route du Centre
+housenumber: "14"
+phone: +41 21 882 52 93
+opening_hours: Mo, We-Fr 06:45-12:00, 16:30-18:45; Tu 06:45-12:00; Sa 06:45-12:00;
+    Su 08:00-11:00
 website: ""

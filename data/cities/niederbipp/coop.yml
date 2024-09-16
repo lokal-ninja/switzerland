@@ -1,11 +1,11 @@
 id: 159814110
-type: way
+type: node
 latitude: 47.26967
 longitude: 7.6933
 postcode: "4704"
 city: Niederbipp
-street: "Bahnhofstrasse"
-housenumber: 2
+street: Bahnhofstrasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

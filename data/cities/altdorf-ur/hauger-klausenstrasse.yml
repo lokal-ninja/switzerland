@@ -4,8 +4,8 @@ latitude: 46.87523
 longitude: 8.65101
 postcode: "6460"
 city: Altdorf UR
-street: "Klausenstrasse"
-housenumber: 1
+street: Klausenstrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 06:45-18:00; Sa 06:45-16:00"
-website: "https://www.hauger.ch/"
+opening_hours: Mo-Fr 06:45-18:00; Sa 06:45-16:00
+website: https://www.hauger.ch/

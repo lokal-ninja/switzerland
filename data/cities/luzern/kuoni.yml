@@ -4,8 +4,8 @@ latitude: 47.04952
 longitude: 8.30806
 postcode: "6003"
 city: Luzern
-street: "Pilatusstrasse"
-housenumber: 5
+street: Pilatusstrasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-13:00"
-website: "https://www.kuoni.ch/beratung/kuoni-reisebuero-luzern/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-13:00
+website: https://www.kuoni.ch/beratung/kuoni-reisebuero-luzern/

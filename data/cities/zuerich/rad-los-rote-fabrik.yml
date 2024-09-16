@@ -4,8 +4,8 @@ latitude: 47.34343
 longitude: 8.53616
 postcode: "8038"
 city: Zürich
-street: "Seestrasse"
-housenumber: 395
-phone: "+41 44 481 16 60"
-opening_hours: "Sa 10:00-16:00;Tu-Fr 10:00-12:30, 13:30-18:30"
-website: "https://radlos.ch/"
+street: Seestrasse
+housenumber: "395"
+phone: +41 44 481 16 60
+opening_hours: Sa 10:00-16:00;Tu-Fr 10:00-12:30, 13:30-18:30
+website: https://radlos.ch/

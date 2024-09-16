@@ -4,8 +4,8 @@ latitude: 47.47731
 longitude: 8.30827
 postcode: "5400"
 city: Baden
-street: "Bahnhofstrasse"
-housenumber: 31
+street: Bahnhofstrasse
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Sa 06:30-20:00; PH off"
-website: "https://www.lidl.ch/de/"
+opening_hours: Mo-Sa 06:30-20:00; PH off
+website: https://www.lidl.ch/de/

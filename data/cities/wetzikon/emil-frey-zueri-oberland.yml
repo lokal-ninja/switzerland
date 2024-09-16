@@ -1,11 +1,11 @@
 id: 246684679
-type: way
+type: node
 latitude: 47.3256
 longitude: 8.78519
 postcode: "8620"
 city: Wetzikon
-street: "Giessereistrasse"
-housenumber: 1
-phone: "+41 44 933 20 20"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.emilfrey.ch/de/zo-wetzikon"
+street: Giessereistrasse
+housenumber: "1"
+phone: +41 44 933 20 20
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.emilfrey.ch/de/zo-wetzikon

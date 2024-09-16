@@ -4,8 +4,8 @@ latitude: 47.00391
 longitude: 9.50136
 postcode: "7310"
 city: Bad Ragaz
-street: "Bahnhofstrasse"
-housenumber: 5
-phone: "081 302 11 57"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:30; Sa 08:00-16:00; PH closed"
-website: "https://www.kressig-drogerie.ch/"
+street: Bahnhofstrasse
+housenumber: "5"
+phone: 081 302 11 57
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:30; Sa 08:00-16:00; PH closed
+website: https://www.kressig-drogerie.ch/

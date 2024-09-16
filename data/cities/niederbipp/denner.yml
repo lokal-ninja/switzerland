@@ -1,11 +1,11 @@
 id: 473433673
-type: way
+type: node
 latitude: 47.26931
 longitude: 7.68703
 postcode: "4704"
 city: Niederbipp
-street: "Obere Dürrmühlestrasse"
-housenumber: 32
+street: Obere Dürrmühlestrasse
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa 08:00-17:00; PH off"
+opening_hours: Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa 08:00-17:00; PH off
 website: ""

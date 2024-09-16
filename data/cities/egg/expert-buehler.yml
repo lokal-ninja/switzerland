@@ -4,8 +4,8 @@ latitude: 47.30101
 longitude: 8.68968
 postcode: "8132"
 city: Egg
-street: "Forchstrasse"
-housenumber: 141
-phone: "+41 44 984 21 44"
-opening_hours: "Tu-Fr 8:00-12:00, 15:00-18:30"
-website: "http://www.expert-buehler.ch/"
+street: Forchstrasse
+housenumber: "141"
+phone: +41 44 984 21 44
+opening_hours: Tu-Fr 8:00-12:00, 15:00-18:30
+website: http://www.expert-buehler.ch/

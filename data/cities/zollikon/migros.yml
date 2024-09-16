@@ -1,11 +1,11 @@
 id: 50212140
-type: way
+type: node
 latitude: 47.33801
 longitude: 8.57607
 postcode: "8702"
 city: Zollikon
-street: "Rotfluhstrasse"
-housenumber: 100
+street: Rotfluhstrasse
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-zollikon-dorf"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-zollikon-dorf

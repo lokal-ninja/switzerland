@@ -1,11 +1,11 @@
 id: 203476685
-type: way
+type: node
 latitude: 47.50715
 longitude: 9.43211
 postcode: "9320"
 city: Arbon
-street: "Textilstrasse"
-housenumber: 1
+street: Textilstrasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

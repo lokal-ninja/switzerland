@@ -4,8 +4,9 @@ latitude: 47.41923
 longitude: 8.50729
 postcode: "8046"
 city: Zürich
-street: "Wehntalerstrasse"
-housenumber: 540
-phone: "+41 44 371 07 11"
-opening_hours: "Mo off; Tu-Fr 09:00-12:30, 13:30-18:30; Sa 09:00-16:00 || oder nach Vereinbarung"
-website: "https://www.augenkontakt-shop.ch/"
+street: Wehntalerstrasse
+housenumber: "540"
+phone: +41 44 371 07 11
+opening_hours: Mo off; Tu-Fr 09:00-12:30, 13:30-18:30; Sa 09:00-16:00 || "oder nach
+    Vereinbarung"
+website: https://www.augenkontakt-shop.ch/

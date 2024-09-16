@@ -4,8 +4,8 @@ latitude: 47.22699
 longitude: 8.81954
 postcode: "8640"
 city: Rapperswil
-street: "Klaus Gebert-Strasse"
-housenumber: 4
+street: Klaus Gebert-Strasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www2.hm.com/de_ch/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www2.hm.com/de_ch/

@@ -1,11 +1,11 @@
 id: 337576398
-type: way
+type: node
 latitude: 47.17523
 longitude: 8.95004
 postcode: "8863"
 city: Buttikon SZ
-street: "Kantonsstrasse"
-housenumber: 25
+street: Kantonsstrasse
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

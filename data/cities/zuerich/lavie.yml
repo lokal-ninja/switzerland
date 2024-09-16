@@ -4,8 +4,8 @@ latitude: 47.37328
 longitude: 8.51877
 postcode: "8003"
 city: Zürich
-street: "Weststrasse"
-housenumber: 145
+street: Weststrasse
+housenumber: "145"
 phone: ""
-opening_hours: "We-Fr 11:00-17:30, Sa nach Vereinbarung"
-website: "https://lavie-home.ch/"
+opening_hours: We-Fr 11:00-17:30, Sa "nach Vereinbarung"
+website: https://lavie-home.ch/

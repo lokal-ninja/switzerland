@@ -4,8 +4,8 @@ latitude: 47.36854
 longitude: 8.51185
 postcode: "8055"
 city: Zürich
-street: "Friesenbergstrasse"
-housenumber: 38
-phone: "+41 44 461 19 55"
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "https://meiercycles.ch/"
+street: Friesenbergstrasse
+housenumber: "38"
+phone: +41 44 461 19 55
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-17:00
+website: https://meiercycles.ch/

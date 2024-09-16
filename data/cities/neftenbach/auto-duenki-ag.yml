@@ -1,11 +1,11 @@
 id: 47019505
-type: way
+type: node
 latitude: 47.51916
 longitude: 8.65571
 postcode: "8413"
 city: Neftenbach
-street: "Weiachstrasse"
-housenumber: 4
+street: Weiachstrasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.auto-duenki.ch/"
+website: https://www.auto-duenki.ch/

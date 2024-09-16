@@ -1,11 +1,11 @@
 id: 160489024
-type: way
+type: node
 latitude: 47.3974
 longitude: 8.20685
 postcode: "5504"
 city: Othmarsingen
-street: "Lenzburgerstrasse"
-housenumber: 70
+street: Lenzburgerstrasse
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

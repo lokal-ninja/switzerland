@@ -4,8 +4,8 @@ latitude: 47.47216
 longitude: 8.30733
 postcode: "5400"
 city: Baden
-street: "Weite Gasse"
-housenumber: 11
+street: Weite Gasse
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:30-17:00"
-website: "https://www.nespresso.com/ch/de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:30-17:00
+website: https://www.nespresso.com/ch/de/

@@ -4,8 +4,9 @@ latitude: 47.51694
 longitude: 7.69739
 postcode: "4133"
 city: Pratteln
-street: "Hauptstrasse"
-housenumber: 51
-phone: "+41 61 821 55 04"
-opening_hours: "Mo-Fr: 9-11 und 17-19 Uhr. Sa: 9-12 Uhr. Weihnachtsbaumverkauf ab 10. Dez."
-website: "https://bielser-hof.ch/"
+street: Hauptstrasse
+housenumber: "51"
+phone: +41 61 821 55 04
+opening_hours: 'Mo-Fr: 9-11 und 17-19 Uhr. Sa: 9-12 Uhr. Weihnachtsbaumverkauf ab
+    10. Dez.'
+website: https://bielser-hof.ch/

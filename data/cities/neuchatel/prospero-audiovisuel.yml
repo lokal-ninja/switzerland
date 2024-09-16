@@ -4,8 +4,8 @@ latitude: 46.99287
 longitude: 6.92837
 postcode: "2000"
 city: Neuchâtel
-street: "Rue du Seyon"
-housenumber: 26
-phone: "+41 32 727 15 00"
+street: Rue du Seyon
+housenumber: "26"
+phone: +41 32 727 15 00
 opening_hours: ""
-website: "https://prospero-audiovisuel.ch/"
+website: https://prospero-audiovisuel.ch/

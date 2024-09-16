@@ -4,8 +4,8 @@ latitude: 47.37775
 longitude: 8.52597
 postcode: "8004"
 city: Zürich
-street: "Hohlstrasse"
-housenumber: 48
-phone: "+41 44 241 48 48"
-opening_hours: "Mo-Tu off; We-Fr 11:00-18:30; Sa 10:00-16:00; Su off"
-website: "https://www.haargarage.ch/"
+street: Hohlstrasse
+housenumber: "48"
+phone: +41 44 241 48 48
+opening_hours: Mo-Tu off; We-Fr 11:00-18:30; Sa 10:00-16:00; Su off
+website: https://www.haargarage.ch/

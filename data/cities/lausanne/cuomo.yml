@@ -4,8 +4,8 @@ latitude: 46.53371
 longitude: 6.64797
 postcode: "1010"
 city: Lausanne
-street: "Route d'Oron"
-housenumber: 4
-phone: "+41 21 657 10 60"
-opening_hours: "Mo 13:00-18:00, Tu-Fr 8:30-12:00, Sa 9:30-12:00"
-website: "https://www.cuomopc.ch/"
+street: Route d'Oron
+housenumber: "4"
+phone: +41 21 657 10 60
+opening_hours: Mo 13:00-18:00, Tu-Fr 8:30-12:00, Sa 9:30-12:00
+website: https://www.cuomopc.ch/

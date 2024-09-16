@@ -4,8 +4,8 @@ latitude: 47.42416
 longitude: 8.55334
 postcode: "8052"
 city: Zürich
-street: "Schaffhauserstrasse"
-housenumber: 550
-phone: "+41 44 621 32 32"
-opening_hours: "Mo off; Tu-Fr 09:00-13:00, 14:00-18:30; Sa 09:00-16:00"
-website: "https://www.velopalast.ch/"
+street: Schaffhauserstrasse
+housenumber: "550"
+phone: +41 44 621 32 32
+opening_hours: Mo off; Tu-Fr 09:00-13:00, 14:00-18:30; Sa 09:00-16:00
+website: https://www.velopalast.ch/

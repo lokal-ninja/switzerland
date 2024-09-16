@@ -4,8 +4,8 @@ latitude: 47.39201
 longitude: 8.05022
 postcode: "5001"
 city: Aarau
-street: "Bahnhofstrasse"
-housenumber: 61
+street: Bahnhofstrasse
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-13:00"
-website: "https://www.kuoni.ch/beratung/kuoni-reisebuero-aarau/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-13:00
+website: https://www.kuoni.ch/beratung/kuoni-reisebuero-aarau/

@@ -4,8 +4,8 @@ latitude: 46.52009
 longitude: 6.50814
 postcode: "1110"
 city: Morges
-street: "Avenue de Lonay"
-housenumber: 
-phone: "+41 (0) 21 801 32 30"
+street: Avenue de Lonay
+housenumber: ""
+phone: +41 (0) 21 801 32 30
 opening_hours: ""
-website: "http://www.denner.ch/fr/succursales/single/5014/?tx_denneraffiliate_pi1[place]=morges&tx_denneraffiliate_pi1[lat]=46.5152627&tx_denneraffiliate_pi1[lng]=6.4929214"
+website: http://www.denner.ch/fr/succursales/single/5014/?tx_denneraffiliate_pi1[place]=morges&tx_denneraffiliate_pi1[lat]=46.5152627&tx_denneraffiliate_pi1[lng]=6.4929214

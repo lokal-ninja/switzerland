@@ -1,11 +1,11 @@
 id: 282752324
-type: way
+type: node
 latitude: 47.56339
 longitude: 8.82432
 postcode: "8548"
 city: Ellikon an der Thur
-street: "Platanenweg"
-housenumber: 2
+street: Platanenweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

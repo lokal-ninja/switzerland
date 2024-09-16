@@ -4,8 +4,8 @@ latitude: 47.37452
 longitude: 8.52061
 postcode: "8003"
 city: Zürich
-street: "Badenerstrasse"
-housenumber: 171
+street: Badenerstrasse
+housenumber: "171"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 07:00-18:00"
-website: "https://www.bachsermaert.ch/"
+opening_hours: Mo-Fr 08:00-20:00; Sa 07:00-18:00
+website: https://www.bachsermaert.ch/

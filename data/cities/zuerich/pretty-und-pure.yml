@@ -4,8 +4,8 @@ latitude: 47.38729
 longitude: 8.53949
 postcode: "8006"
 city: Zürich
-street: "Stampfenbachstrasse"
-housenumber: 153
+street: Stampfenbachstrasse
+housenumber: "153"
 phone: ""
-opening_hours: "Mo 10:00-13:00; Tu-We,Su off; Th-Fr 13:00-18:00; Sa 11:00-16:00"
+opening_hours: Mo 10:00-13:00; Tu-We,Su off; Th-Fr 13:00-18:00; Sa 11:00-16:00
 website: ""

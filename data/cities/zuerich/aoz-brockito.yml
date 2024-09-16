@@ -4,8 +4,8 @@ latitude: 47.41463
 longitude: 8.53332
 postcode: "8050"
 city: Zürich
-street: "Robert-Maillart-Strasse"
-housenumber: 14
+street: Robert-Maillart-Strasse
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa,Su,PH off"
-website: "https://www.aoz-brockito.ch/"
+opening_hours: Mo-Fr 09:00-18:00; Sa,Su,PH off
+website: https://www.aoz-brockito.ch/

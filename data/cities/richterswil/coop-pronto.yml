@@ -1,11 +1,11 @@
 id: 689557733
-type: way
+type: node
 latitude: 47.20328
 longitude: 8.68497
 postcode: "8805"
 city: Richterswil
-street: "Obermattstrasse"
-housenumber: 1
+street: Obermattstrasse
+housenumber: "1"
 phone: ""
-opening_hours: "06:00-22:00"
-website: "https://www.coop-pronto.ch/"
+opening_hours: 06:00-22:00
+website: https://www.coop-pronto.ch/

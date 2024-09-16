@@ -4,8 +4,8 @@ latitude: 47.39091
 longitude: 8.48946
 postcode: "8048"
 city: Zürich
-street: "Hohlstrasse"
-housenumber: 560
-phone: "+41 44 432 27 27"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:30-18:00"
-website: "https://www.madbarber.ch/filiale-altstetten/"
+street: Hohlstrasse
+housenumber: "560"
+phone: +41 44 432 27 27
+opening_hours: Mo-Fr 09:00-20:00; Sa 08:30-18:00
+website: https://www.madbarber.ch/filiale-altstetten/

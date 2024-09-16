@@ -4,8 +4,8 @@ latitude: 47.40879
 longitude: 8.54408
 postcode: "8050"
 city: Zürich
-street: "Baumackerstrasse"
-housenumber: 35
+street: Baumackerstrasse
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-17:00; PH off"
-website: "https://www.interdiscount.ch/"
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-17:00; PH off
+website: https://www.interdiscount.ch/

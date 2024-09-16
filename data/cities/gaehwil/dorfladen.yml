@@ -1,11 +1,11 @@
 id: 451550142
-type: way
+type: node
 latitude: 47.39701
 longitude: 9.00065
 postcode: "9534"
 city: Gähwil
-street: "Hulfteggstrasse"
-housenumber: 8
-phone: "+41 71 931 12 74"
+street: Hulfteggstrasse
+housenumber: "8"
+phone: +41 71 931 12 74
 opening_hours: ""
 website: ""

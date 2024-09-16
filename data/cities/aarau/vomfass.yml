@@ -4,8 +4,9 @@ latitude: 47.39261
 longitude: 8.04491
 postcode: "5000"
 city: Aarau
-street: "Pelzgasse"
-housenumber: 15
-phone: "+41 62 8228630"
-opening_hours: "Mo 12:00-18:30; Tu, We 09:00-18:30; Th 09:00-20:00; Fr 09:00-18:30; Sa 08:00-16:30"
+street: Pelzgasse
+housenumber: "15"
+phone: +41 62 8228630
+opening_hours: Mo 12:00-18:30; Tu, We 09:00-18:30; Th 09:00-20:00; Fr 09:00-18:30;
+    Sa 08:00-16:30
 website: ""

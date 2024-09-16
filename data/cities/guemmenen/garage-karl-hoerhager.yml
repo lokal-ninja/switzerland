@@ -1,11 +1,11 @@
 id: 92937571
-type: way
+type: node
 latitude: 46.94333
 longitude: 7.23909
 postcode: "3205"
 city: Gümmenen
-street: "Bernstrasse"
-housenumber: 8
+street: Bernstrasse
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Th 07:30-18:00; Fr 07:30-17:30"
+opening_hours: Mo-Th 07:30-18:00; Fr 07:30-17:30
 website: ""

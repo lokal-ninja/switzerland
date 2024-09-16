@@ -1,11 +1,11 @@
 id: 86969330
-type: way
+type: node
 latitude: 47.41365
 longitude: 8.08276
 postcode: "5023"
 city: Biberstein
 street: ""
-housenumber: 
-phone: "+41 62 839 90 70"
-opening_hours: "Tu,Th 09:00-12:00; Fr 09:00-12:00,16:00-18:00; Sa 08:00-12:00"
-website: "https://www.schlossbiberstein.ch/index.php?option=com_content&view=category&layout=blog&id=57&Itemid=114"
+housenumber: ""
+phone: +41 62 839 90 70
+opening_hours: Tu,Th 09:00-12:00; Fr 09:00-12:00,16:00-18:00; Sa 08:00-12:00
+website: https://www.schlossbiberstein.ch/index.php?option=com_content&view=category&layout=blog&id=57&Itemid=114

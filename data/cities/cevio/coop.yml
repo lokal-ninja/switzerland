@@ -1,11 +1,11 @@
 id: 275188831
-type: way
+type: node
 latitude: 46.31845
 longitude: 8.60179
 postcode: "6675"
 city: Cevio
-street: "Via Valmaggina"
-housenumber: 11
+street: Via Valmaggina
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:30"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:30
 website: ""

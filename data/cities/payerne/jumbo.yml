@@ -1,11 +1,11 @@
 id: 137820558
-type: way
+type: node
 latitude: 46.8246
 longitude: 6.93094
 postcode: "1530"
 city: Payerne
-street: "Route de Bussy"
-housenumber: 8
+street: Route de Bussy
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Th 08:00-18:30; Fr 08:00-20:00; Sa 08:00-17:00"
+opening_hours: Mo-Th 08:00-18:30; Fr 08:00-20:00; Sa 08:00-17:00
 website: ""

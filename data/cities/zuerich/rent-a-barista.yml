@@ -4,8 +4,8 @@ latitude: 47.37352
 longitude: 8.53152
 postcode: "8004"
 city: Zürich
-street: "Kasernenstrasse"
-housenumber: 1
+street: Kasernenstrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00; Sa 10:00-17:00; Su 10:00-17:00"
-website: "https://rentabarista.ch/"
+opening_hours: Mo-Fr 07:00-17:00; Sa 10:00-17:00; Su 10:00-17:00
+website: https://rentabarista.ch/

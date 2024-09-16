@@ -4,8 +4,8 @@ latitude: 46.92846
 longitude: 7.11772
 postcode: "3280"
 city: Murten/Morat
-street: "Hauptgasse"
-housenumber: 36
-phone: "+41 26 670 34 00"
+street: Hauptgasse
+housenumber: "36"
+phone: +41 26 670 34 00
 opening_hours: ""
-website: "https://www.vomfass.ch/murten/"
+website: https://www.vomfass.ch/murten/

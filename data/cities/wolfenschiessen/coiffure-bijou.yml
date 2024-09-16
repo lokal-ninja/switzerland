@@ -1,11 +1,11 @@
 id: 263538443
-type: way
+type: node
 latitude: 46.90822
 longitude: 8.39629
 postcode: "6386"
 city: Wolfenschiessen
-street: "Kirchweg"
-housenumber: 5
+street: Kirchweg
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

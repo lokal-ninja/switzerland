@@ -4,8 +4,8 @@ latitude: 47.22941
 longitude: 8.67504
 postcode: "8820"
 city: Wädenswil
-street: "Bahnhofstrasse"
-housenumber: 4
+street: Bahnhofstrasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 05:00-21:00, Su 05:00-20:00"
-website: "https://brezelkoenig.ch/de/"
+opening_hours: Mo-Sa 05:00-21:00, Su 05:00-20:00
+website: https://brezelkoenig.ch/de/

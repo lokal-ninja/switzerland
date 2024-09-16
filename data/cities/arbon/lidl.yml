@@ -1,11 +1,11 @@
 id: 203474405
-type: way
+type: node
 latitude: 47.49902
 longitude: 9.42082
 postcode: "9320"
 city: Arbon
-street: "Pündtstrasse"
-housenumber: 7
+street: Pündtstrasse
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.45208
 longitude: 6.91824
 postcode: "1832"
 city: Chamby-sur-Montreux
-street: "Route de Villard"
-housenumber: 20
+street: Route de Villard
+housenumber: "20"
 phone: ""
-opening_hours: "Tu 10:00-17:00; Th 16:00-18:00"
-website: "https://la-clairiere.ch/notre-ferme/"
+opening_hours: Tu 10:00-17:00; Th 16:00-18:00
+website: https://la-clairiere.ch/notre-ferme/

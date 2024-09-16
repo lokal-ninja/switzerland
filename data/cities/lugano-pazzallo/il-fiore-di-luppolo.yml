@@ -4,8 +4,8 @@ latitude: 45.98423
 longitude: 8.9396
 postcode: "6912"
 city: Lugano-Pazzallo
-street: "Via Valeggia"
-housenumber: 5
+street: Via Valeggia
+housenumber: "5"
 phone: ""
-opening_hours: "By appointment (10:30-18:30; closed Wednesday & Sunday))"
-website: "https://www.ilfiorediluppolo.ch/"
+opening_hours: '"By appointment (10:30-18:30; closed Wednesday & Sunday))"'
+website: https://www.ilfiorediluppolo.ch/

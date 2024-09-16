@@ -1,11 +1,11 @@
 id: 345404071
-type: way
+type: node
 latitude: 46.78562
 longitude: 7.01741
 postcode: "1746"
 city: Prez-vers-Noréaz
-street: "Rouet de Fribourg"
-housenumber: 50
-phone: "+41 26 470 11 41"
+street: Rouet de Fribourg
+housenumber: "50"
+phone: +41 26 470 11 41
 opening_hours: ""
 website: ""

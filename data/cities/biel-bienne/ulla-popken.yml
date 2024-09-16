@@ -4,8 +4,8 @@ latitude: 47.14047
 longitude: 7.24588
 postcode: "2502"
 city: Biel/Bienne
-street: "Kanalgasse"
-housenumber: 3
+street: Kanalgasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo 13:30-18:30; Tu-Fr 09:00-18:30; Sa 09:00-16:00; Su off"
+opening_hours: Mo 13:30-18:30; Tu-Fr 09:00-18:30; Sa 09:00-16:00; Su off
 website: ""

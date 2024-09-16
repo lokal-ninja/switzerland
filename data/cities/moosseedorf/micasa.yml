@@ -4,8 +4,8 @@ latitude: 47.01537
 longitude: 7.49052
 postcode: "3302"
 city: Moosseedorf
-street: "Gewerbestrasse"
-housenumber: 11
+street: Gewerbestrasse
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Th 09:00-20:00, Fr 09:00-21:30, Sa 08:00-17:00; PH off"
-website: "https://www.micasa.ch/"
+opening_hours: Mo-Th 09:00-20:00, Fr 09:00-21:30, Sa 08:00-17:00; PH off
+website: https://www.micasa.ch/

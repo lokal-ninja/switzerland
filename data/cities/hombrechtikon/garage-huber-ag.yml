@@ -4,8 +4,8 @@ latitude: 47.25348
 longitude: 8.77546
 postcode: "8634"
 city: Hombrechtikon
-street: "Rütistrasse"
-housenumber: 41
+street: Rütistrasse
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:30; Sa 09:00-16:00"
-website: "https://www.garage-huber.swiss/"
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:30; Sa 09:00-16:00
+website: https://www.garage-huber.swiss/

@@ -1,11 +1,11 @@
 id: 47060566
-type: way
+type: node
 latitude: 47.5307
 longitude: 8.66718
 postcode: "8413"
 city: Neftenbach
-street: "Alte Schaffhausenstrasse"
+street: Alte Schaffhausenstrasse
 housenumber: 8c
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:30, 14:00-18:30; Sa 08:30-16:00"
-website: "https://www.kurbeldreher.ch/"
+opening_hours: Tu-Fr 09:00-12:30, 14:00-18:30; Sa 08:30-16:00
+website: https://www.kurbeldreher.ch/

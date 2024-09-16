@@ -4,8 +4,8 @@ latitude: 47.02754
 longitude: 8.63244
 postcode: "6423"
 city: Seewen SZ
-street: "Hausmatt"
-housenumber: 9
-phone: "+41 41 817 40 09"
-opening_hours: "Mo-Th 09:00-12:00,13:30-16:30; Fr 09:00-12:00,13:30-16:00"
-website: "https://shop.bsz-stiftung.ch/"
+street: Hausmatt
+housenumber: "9"
+phone: +41 41 817 40 09
+opening_hours: Mo-Th 09:00-12:00,13:30-16:30; Fr 09:00-12:00,13:30-16:00
+website: https://shop.bsz-stiftung.ch/

@@ -1,11 +1,11 @@
 id: 118336622
-type: way
+type: node
 latitude: 47.43596
 longitude: 9.63883
 postcode: "9434"
 city: Au SG
-street: "Bahnhofstrasse"
-housenumber: 4
+street: Bahnhofstrasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

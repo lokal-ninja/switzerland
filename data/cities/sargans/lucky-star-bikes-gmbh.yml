@@ -1,11 +1,11 @@
 id: 411503700
-type: way
+type: node
 latitude: 47.05722
 longitude: 9.45352
 postcode: "7320"
 city: Sargans
-street: "Vilderfeldstrasse"
-housenumber: 112
+street: Vilderfeldstrasse
+housenumber: "112"
 phone: ""
-opening_hours: "Mo 13:15-18:00;Tu-Fr 08:00-12:00,13:15-18:00; Sa 08:00-12:00; PH off"
+opening_hours: Mo 13:15-18:00;Tu-Fr 08:00-12:00,13:15-18:00; Sa 08:00-12:00; PH off
 website: ""

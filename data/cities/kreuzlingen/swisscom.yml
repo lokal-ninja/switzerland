@@ -4,8 +4,8 @@ latitude: 47.6495
 longitude: 9.17456
 postcode: "8280"
 city: Kreuzlingen
-street: "Hauptstrasse"
-housenumber: 54
+street: Hauptstrasse
+housenumber: "54"
 phone: ""
 opening_hours: ""
-website: "https://www.swisscom.ch/"
+website: https://www.swisscom.ch/

@@ -4,8 +4,8 @@ latitude: 47.69717
 longitude: 8.63268
 postcode: "8200"
 city: Schaffhausen
-street: "Schwertstrasse"
-housenumber: 5
-phone: "+41 52 625 33 80"
-opening_hours: "Mo 13:30-18:30; Tu-Fr 08:30-18:30; Sa 08:30-16:00"
-website: "https://roost-optik.ch/"
+street: Schwertstrasse
+housenumber: "5"
+phone: +41 52 625 33 80
+opening_hours: Mo 13:30-18:30; Tu-Fr 08:30-18:30; Sa 08:30-16:00
+website: https://roost-optik.ch/

@@ -4,8 +4,8 @@ latitude: 46.54159
 longitude: 6.64169
 postcode: "1010"
 city: Lausanne
-street: "Chemin Louis-Boissonnet"
-housenumber: 90
-phone: "+41 21 653 40 45"
-opening_hours: "Mo-Fr 09:00-12:00,13:00-18:00; Sa 09:00-17:00"
-website: "https://www.audiosource.ch"
+street: Chemin Louis-Boissonnet
+housenumber: "90"
+phone: +41 21 653 40 45
+opening_hours: Mo-Fr 09:00-12:00,13:00-18:00; Sa 09:00-17:00
+website: https://www.audiosource.ch

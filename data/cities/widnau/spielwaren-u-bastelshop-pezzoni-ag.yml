@@ -4,8 +4,8 @@ latitude: 47.40724
 longitude: 9.63032
 postcode: "9443"
 city: Widnau
-street: "Bahnhofstrasse"
-housenumber: 6
-phone: "+41 71 777 23 52"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-17:00"
-website: "https://www.pezzoniag.ch/"
+street: Bahnhofstrasse
+housenumber: "6"
+phone: +41 71 777 23 52
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-17:00
+website: https://www.pezzoniag.ch/

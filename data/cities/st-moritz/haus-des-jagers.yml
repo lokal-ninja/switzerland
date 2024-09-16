@@ -4,8 +4,8 @@ latitude: 46.49661
 longitude: 9.83686
 postcode: "7500"
 city: St. Moritz
-street: "Via dal Bagn"
-housenumber: 53
+street: Via dal Bagn
+housenumber: "53"
 phone: "+41818337933"
-opening_hours: "Mo-Fr 08:30-12:30,14:00-18:30; Sa 08:30-12:30,14:00-17:00; Su off"
-website: "https://www.hdj.ch/"
+opening_hours: Mo-Fr 08:30-12:30,14:00-18:30; Sa 08:30-12:30,14:00-17:00; Su off
+website: https://www.hdj.ch/

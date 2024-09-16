@@ -4,8 +4,8 @@ latitude: 46.53123
 longitude: 9.87288
 postcode: "7503"
 city: Samedan
-street: "Cho d'Punt"
-housenumber: 10
-phone: "+41 81 8521787"
-opening_hours: "Mo-Fr 06:30-21:00; Sa-Su 06:30-20:00"
-website: "https://www.migrolino.ch/"
+street: Cho d'Punt
+housenumber: "10"
+phone: +41 81 8521787
+opening_hours: Mo-Fr 06:30-21:00; Sa-Su 06:30-20:00
+website: https://www.migrolino.ch/

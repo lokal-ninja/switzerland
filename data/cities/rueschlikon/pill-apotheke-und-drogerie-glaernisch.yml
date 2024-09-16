@@ -4,8 +4,8 @@ latitude: 47.30776
 longitude: 8.5542
 postcode: "8803"
 city: Rüschlikon
-street: "Weingartenstrasse"
-housenumber: 11
+street: Weingartenstrasse
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:15,13:30-18:30, Sa 08:30-13:00,13:30-16:00"
-website: "https://www.pill.ch/standorte/pill-apotheke-drogerie-glaernisch.html"
+opening_hours: Mo-Fr 08:30-12:15,13:30-18:30, Sa 08:30-13:00,13:30-16:00
+website: https://www.pill.ch/standorte/pill-apotheke-drogerie-glaernisch.html

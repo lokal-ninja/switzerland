@@ -4,8 +4,8 @@ latitude: 46.8031
 longitude: 7.15221
 postcode: "1700"
 city: Fribourg
-street: "Avenue de la Gare"
-housenumber: 10
+street: Avenue de la Gare
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-We 08:30-19:00; Th 08:30-20:00; Fr 08:30-19:00; Sa 08:00-16:00"
-website: "https://www.coop.ch/en/locations/coop-city-fribourg/2586_POS"
+opening_hours: Mo-We 08:30-19:00; Th 08:30-20:00; Fr 08:30-19:00; Sa 08:00-16:00
+website: https://www.coop.ch/en/locations/coop-city-fribourg/2586_POS

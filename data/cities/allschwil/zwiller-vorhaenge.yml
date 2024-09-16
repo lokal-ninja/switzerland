@@ -4,8 +4,8 @@ latitude: 47.55143
 longitude: 7.53788
 postcode: "4123"
 city: Allschwil
-street: "Baslerstrasse"
-housenumber: 26
+street: Baslerstrasse
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Th 09:00-12:00,14:00-18:00, Fr 09:00-12:00"
+opening_hours: Mo-Th 09:00-12:00,14:00-18:00, Fr 09:00-12:00
 website: ""

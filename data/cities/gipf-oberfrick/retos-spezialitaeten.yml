@@ -4,8 +4,8 @@ latitude: 47.49833
 longitude: 8.00393
 postcode: "5073"
 city: Gipf-Oberfrick
-street: "Landstrasse"
-housenumber: 39
+street: Landstrasse
+housenumber: "39"
 phone: ""
-opening_hours: "Fr 08:00-19:00; Sa,Su 08:00-13:00"
-website: "https://www.retos-spezialitaeten.ch/"
+opening_hours: Fr 08:00-19:00; Sa,Su 08:00-13:00
+website: https://www.retos-spezialitaeten.ch/

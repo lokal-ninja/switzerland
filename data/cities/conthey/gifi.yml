@@ -4,8 +4,8 @@ latitude: 46.22396
 longitude: 7.30399
 postcode: "1964"
 city: Conthey
-street: "Route Cantonale"
-housenumber: 16
-phone: "+41 27 525 42 34"
-opening_hours: "Mo-Th 08:30-18:30; Fr 08:30-20:00; Sa 08:30-17:00"
-website: "https://www.gifi.ch"
+street: Route Cantonale
+housenumber: "16"
+phone: +41 27 525 42 34
+opening_hours: Mo-Th 08:30-18:30; Fr 08:30-20:00; Sa 08:30-17:00
+website: https://www.gifi.ch

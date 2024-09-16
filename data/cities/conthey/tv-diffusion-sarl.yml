@@ -4,8 +4,8 @@ latitude: 46.21953
 longitude: 7.30389
 postcode: "1964"
 city: Conthey
-street: "Avenue de la Gare"
-housenumber: 16
-phone: "+41 27 346 63 33"
-opening_hours: "Mo 13:30-18:30; Tu-Fr 08:00-12:00,13:30-18:30; Sa 08:00-12:00"
-website: "https://www.facebook.com/tvdiffusion/"
+street: Avenue de la Gare
+housenumber: "16"
+phone: +41 27 346 63 33
+opening_hours: Mo 13:30-18:30; Tu-Fr 08:00-12:00,13:30-18:30; Sa 08:00-12:00
+website: https://www.facebook.com/tvdiffusion/

@@ -4,8 +4,8 @@ latitude: 47.42523
 longitude: 9.3781
 postcode: "9000"
 city: St. Gallen
-street: "Brühlgasse"
-housenumber: 28
+street: Brühlgasse
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
 website: ""

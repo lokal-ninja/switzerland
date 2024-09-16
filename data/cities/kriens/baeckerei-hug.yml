@@ -4,8 +4,8 @@ latitude: 47.02723
 longitude: 8.30143
 postcode: "6010"
 city: Kriens
-street: "Am Mattenhof"
-housenumber: 6
+street: Am Mattenhof
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa,Su 07:00-17:00"
-website: "https://www.baeckerei-hug.ch/filialen/standorte/kriens-mattenhof/"
+opening_hours: Mo-Fr 06:00-19:00; Sa,Su 07:00-17:00
+website: https://www.baeckerei-hug.ch/filialen/standorte/kriens-mattenhof/

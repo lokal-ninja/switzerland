@@ -4,8 +4,8 @@ latitude: 47.55739
 longitude: 7.58818
 postcode: "4001"
 city: Basel
-street: "Gerbergasse"
-housenumber: 5
+street: Gerbergasse
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.impo.ch/"
+website: https://www.impo.ch/

@@ -4,8 +4,8 @@ latitude: 46.74236
 longitude: 7.61406
 postcode: "3604"
 city: Thun
-street: "Adlerstrasse"
-housenumber: 18
-phone: "+41 33 336 60 04"
-opening_hours: "Tu-Fr 08:00-12:00; Sa 08:00-16:00"
-website: "https://www.veloschneiter.ch/"
+street: Adlerstrasse
+housenumber: "18"
+phone: +41 33 336 60 04
+opening_hours: Tu-Fr 08:00-12:00; Sa 08:00-16:00
+website: https://www.veloschneiter.ch/

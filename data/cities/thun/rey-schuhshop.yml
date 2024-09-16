@@ -4,8 +4,8 @@ latitude: 46.7579
 longitude: 7.62787
 postcode: "3600"
 city: Thun
-street: "Bälliz"
-housenumber: 50
-phone: "+4133 222 15 00"
-opening_hours: "Tu-Fr 09:00-12:00,13:00-18:30; Sa 09:00-16:00"
+street: Bälliz
+housenumber: "50"
+phone: +4133 222 15 00
+opening_hours: Tu-Fr 09:00-12:00,13:00-18:30; Sa 09:00-16:00
 website: ""

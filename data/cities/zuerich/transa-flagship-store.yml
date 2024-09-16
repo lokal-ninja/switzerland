@@ -4,8 +4,8 @@ latitude: 47.37722
 longitude: 8.53444
 postcode: "8004"
 city: Zürich
-street: "Lagerstrasse"
-housenumber: 4
-phone: "+41 848 08 48 11"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://transa.ch"
+street: Lagerstrasse
+housenumber: "4"
+phone: +41 848 08 48 11
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://transa.ch

@@ -4,8 +4,8 @@ latitude: 47.05286
 longitude: 8.28269
 postcode: "6003"
 city: Luzern
-street: "Bernstrasse"
-housenumber: 110
+street: Bernstrasse
+housenumber: "110"
 phone: ""
-opening_hours: "Tu-Fr 08:00-12:00,14:00-18:30; Sa 08:00-16:00; Nov-Dec: Mo 08:00-12:00,14:00-18:30"
+opening_hours: 'Tu-Fr 08:00-12:00,14:00-18:30; Sa 08:00-16:00; Nov-Dec: Mo 08:00-12:00,14:00-18:30'
 website: ""

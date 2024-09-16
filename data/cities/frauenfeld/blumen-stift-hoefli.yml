@@ -4,8 +4,8 @@ latitude: 47.55642
 longitude: 8.89675
 postcode: "8500"
 city: Frauenfeld
-street: "Grabenstrasse"
-housenumber: 7
-phone: "+41 52 721 71 36"
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-16:00; PH closed"
-website: "https://www.stift-hoefli.ch/angebote/floristik/"
+street: Grabenstrasse
+housenumber: "7"
+phone: +41 52 721 71 36
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-16:00; PH closed
+website: https://www.stift-hoefli.ch/angebote/floristik/

@@ -4,8 +4,8 @@ latitude: 46.84812
 longitude: 9.53007
 postcode: "7000"
 city: Chur
-street: "Obere Gasse"
-housenumber: 48
-phone: "+41 81 252 47 94"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://govertical.ch/bergsport-shops/chur"
+street: Obere Gasse
+housenumber: "48"
+phone: +41 81 252 47 94
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://govertical.ch/bergsport-shops/chur

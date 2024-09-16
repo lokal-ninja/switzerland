@@ -1,11 +1,11 @@
 id: 104014454
-type: way
+type: node
 latitude: 47.38732
 longitude: 8.12133
 postcode: "5502"
 city: Hunzenschwil
-street: "Bahnhofmatten"
-housenumber: 2
+street: Bahnhofmatten
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

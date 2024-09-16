@@ -4,8 +4,8 @@ latitude: 47.36794
 longitude: 8.54499
 postcode: "8001"
 city: Zürich
-street: "Limmatquai"
-housenumber: 4
+street: Limmatquai
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-17:00; PH off"
-website: "https://burrioptik.ch/limmatquai.shtml"
+opening_hours: Mo-Fr 09:00-18:30, Sa 09:00-17:00; PH off
+website: https://burrioptik.ch/limmatquai.shtml

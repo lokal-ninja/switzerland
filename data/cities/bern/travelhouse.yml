@@ -4,8 +4,8 @@ latitude: 46.94707
 longitude: 7.43714
 postcode: "3001"
 city: Bern
-street: "Laupenstrasse"
-housenumber: 5
+street: Laupenstrasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-14:00"
-website: "https://www.hotelplan.ch/travelhouse-bern"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-14:00
+website: https://www.hotelplan.ch/travelhouse-bern

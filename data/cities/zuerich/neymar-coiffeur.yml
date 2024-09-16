@@ -4,8 +4,8 @@ latitude: 47.37947
 longitude: 8.52789
 postcode: "8004"
 city: Zürich
-street: "Militärstrasse"
-housenumber: 115
+street: Militärstrasse
+housenumber: "115"
 phone: ""
-opening_hours: "Mo,Th 09:30-14:00,16:30-20:00"
+opening_hours: Mo,Th 09:30-14:00,16:30-20:00
 website: ""

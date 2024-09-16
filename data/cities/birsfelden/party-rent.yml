@@ -4,8 +4,8 @@ latitude: 47.54972
 longitude: 7.62616
 postcode: "4127"
 city: Birsfelden
-street: "Rheinfelderstrasse"
-housenumber: 25
+street: Rheinfelderstrasse
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.partyrent.com/de/kontakt/schweiz/basel"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.partyrent.com/de/kontakt/schweiz/basel

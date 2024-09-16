@@ -4,8 +4,8 @@ latitude: 47.20998
 longitude: 8.70382
 postcode: "8805"
 city: Richterswil
-street: "Rosengartenstrasse"
-housenumber: 4
-phone: "+41 44 687 23 43"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
+street: Rosengartenstrasse
+housenumber: "4"
+phone: +41 44 687 23 43
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
 website: ""

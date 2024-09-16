@@ -1,11 +1,11 @@
 id: 247989563
-type: way
+type: node
 latitude: 47.32686
 longitude: 8.79527
 postcode: "8620"
 city: Wetzikon
-street: "Usterstrasse"
-housenumber: 29
-phone: "+41 44 930 30 72"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:30, Sa 08:00-16:00"
-website: "https://www.grandiflora.ch/"
+street: Usterstrasse
+housenumber: "29"
+phone: +41 44 930 30 72
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:30, Sa 08:00-16:00
+website: https://www.grandiflora.ch/

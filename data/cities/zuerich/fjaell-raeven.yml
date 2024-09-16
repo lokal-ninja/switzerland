@@ -4,8 +4,8 @@ latitude: 47.37692
 longitude: 8.53799
 postcode: "8001"
 city: Zürich
-street: "Löwenstrasse"
-housenumber: 61
+street: Löwenstrasse
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00, Sa 09:30-17:00; PH off"
-website: "https://stores.fjallraven.com/"
+opening_hours: Mo-Fr 09:30-19:00, Sa 09:30-17:00; PH off
+website: https://stores.fjallraven.com/

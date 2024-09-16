@@ -1,11 +1,12 @@
 id: 151334807
-type: way
+type: node
 latitude: 46.67614
 longitude: 8.75363
 postcode: "7189"
 city: Rueras
-street: "Via Alpsu"
-housenumber: 209
+street: Via Alpsu
+housenumber: "209"
 phone: ""
-opening_hours: "Mo-Tu 08:00-12:00, 15:00-18:30; We-Th 08:00-12:00; Fr 08:00-12:00, 15:00-18:30; Sa 08:00-12:00, 13:30-16:00"
+opening_hours: Mo-Tu 08:00-12:00, 15:00-18:30; We-Th 08:00-12:00; Fr 08:00-12:00,
+    15:00-18:30; Sa 08:00-12:00, 13:30-16:00
 website: ""

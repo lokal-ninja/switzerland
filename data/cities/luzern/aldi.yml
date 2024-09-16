@@ -4,8 +4,8 @@ latitude: 47.05142
 longitude: 8.29868
 postcode: "6003"
 city: Luzern
-street: "Bruchstrasse"
-housenumber: 2
+street: Bruchstrasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-We,Fr 07:30-19:00; Th 07:30-21:00; Sa 07:30-17:00"
+opening_hours: Mo-We,Fr 07:30-19:00; Th 07:30-21:00; Sa 07:30-17:00
 website: ""

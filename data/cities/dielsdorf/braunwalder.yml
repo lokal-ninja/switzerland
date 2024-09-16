@@ -4,8 +4,8 @@ latitude: 47.48146
 longitude: 8.45394
 postcode: "8157"
 city: Dielsdorf
-street: "Wehntalerstrasse"
-housenumber: 43
-phone: "+41 43 422 09 55"
-opening_hours: "Mo-Fr 08:00-12:15, 14:00-18:30; Sa 08:00-16:00"
-website: "https://www.braunwalder-metzgerei.ch/detaillisten/dielsdorf/"
+street: Wehntalerstrasse
+housenumber: "43"
+phone: +41 43 422 09 55
+opening_hours: Mo-Fr 08:00-12:15, 14:00-18:30; Sa 08:00-16:00
+website: https://www.braunwalder-metzgerei.ch/detaillisten/dielsdorf/

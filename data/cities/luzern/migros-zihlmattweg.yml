@@ -4,8 +4,8 @@ latitude: 47.03135
 longitude: 8.30465
 postcode: "6005"
 city: Luzern
-street: "Zihlmattweg"
-housenumber: 46
-phone: "+41 41 414 48 40"
-opening_hours: "Mo-Th 08:00-19:00, Fr 08:00-20:00, Sa 08:00-17:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-luzern-allmend"
+street: Zihlmattweg
+housenumber: "46"
+phone: +41 41 414 48 40
+opening_hours: Mo-Th 08:00-19:00, Fr 08:00-20:00, Sa 08:00-17:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-luzern-allmend

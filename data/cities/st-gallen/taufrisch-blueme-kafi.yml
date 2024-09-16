@@ -4,8 +4,8 @@ latitude: 47.41803
 longitude: 9.38112
 postcode: "9000"
 city: St. Gallen
-street: "Demutstrasse"
-housenumber: 2
+street: Demutstrasse
+housenumber: "2"
 phone: "+41712228111"
 opening_hours: ""
-website: "https://www.taufrisch-bluemekafi.ch/"
+website: https://www.taufrisch-bluemekafi.ch/

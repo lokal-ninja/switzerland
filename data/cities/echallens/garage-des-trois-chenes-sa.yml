@@ -1,11 +1,11 @@
 id: 91334458
-type: way
+type: node
 latitude: 46.64579
 longitude: 6.63694
 postcode: "1040"
 city: Echallens
-street: "Route d'Yverdon"
-housenumber: 19
-phone: "+41 21 881 14 35"
+street: Route d'Yverdon
+housenumber: "19"
+phone: +41 21 881 14 35
 opening_hours: ""
 website: ""

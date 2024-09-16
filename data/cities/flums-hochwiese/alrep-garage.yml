@@ -1,11 +1,11 @@
 id: 422639600
-type: way
+type: node
 latitude: 47.08216
 longitude: 9.36346
 postcode: "8893"
 city: Flums Hochwiese
-street: "Alrepstrasse"
-housenumber: 1
-phone: "+41 81 733 18 24"
-opening_hours: "Mo-Th 07:30-12:00,13:15-17:30; Fr 07:3-12:00,13:15-17:00"
-website: "https://www.alrep.ch/"
+street: Alrepstrasse
+housenumber: "1"
+phone: +41 81 733 18 24
+opening_hours: Mo-Th 07:30-12:00,13:15-17:30; Fr 07:3-12:00,13:15-17:00
+website: https://www.alrep.ch/

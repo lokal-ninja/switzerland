@@ -4,8 +4,8 @@ latitude: 46.4311
 longitude: 6.91186
 postcode: "1820"
 city: Montreux
-street: "Rue de l’Eglise Catholique"
-housenumber: 10
-phone: "+41 21 963 03 88"
-opening_hours: "Mo-Th 09:00-19:00, Fr 09:00-20:00, Sa 09:00-18:00"
-website: "https://inlove-coiffure.ch/"
+street: Rue de l’Eglise Catholique
+housenumber: "10"
+phone: +41 21 963 03 88
+opening_hours: Mo-Th 09:00-19:00, Fr 09:00-20:00, Sa 09:00-18:00
+website: https://inlove-coiffure.ch/

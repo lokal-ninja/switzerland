@@ -4,8 +4,8 @@ latitude: 46.22421
 longitude: 6.12888
 postcode: "1209"
 city: Genève
-street: "Chemin Moïse-Duboule"
-housenumber: 2
-phone: "+41 22 777 17 00"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://www.ferme-de-bude.ch"
+street: Chemin Moïse-Duboule
+housenumber: "2"
+phone: +41 22 777 17 00
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://www.ferme-de-bude.ch

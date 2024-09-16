@@ -4,8 +4,8 @@ latitude: 47.3869
 longitude: 8.53985
 postcode: "8006"
 city: Zürich
-street: "Stampfenbachstrasse"
-housenumber: 146
-phone: "+41 44 361 99 47"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 07:30-15:30"
-website: "https://www.blackandwhite.ch/"
+street: Stampfenbachstrasse
+housenumber: "146"
+phone: +41 44 361 99 47
+opening_hours: Mo-Fr 08:00-20:00; Sa 07:30-15:30
+website: https://www.blackandwhite.ch/

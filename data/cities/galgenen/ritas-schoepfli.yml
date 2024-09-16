@@ -4,8 +4,8 @@ latitude: 47.18291
 longitude: 8.87409
 postcode: "8854"
 city: Galgenen
-street: "Kantonsstrasse"
-housenumber: 43
+street: Kantonsstrasse
+housenumber: "43"
 phone: ""
-opening_hours: "Th 09:00-11:30,13:30-18:00 || oder nach telefonischer Vereinbarung"
-website: "http://www.ritas-schoepfli.ch"
+opening_hours: Th 09:00-11:30,13:30-18:00 || "oder nach telefonischer Vereinbarung"
+website: http://www.ritas-schoepfli.ch

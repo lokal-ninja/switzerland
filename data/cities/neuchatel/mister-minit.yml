@@ -4,8 +4,8 @@ latitude: 46.99188
 longitude: 6.9289
 postcode: "2000"
 city: Neuchâtel
-street: "Grand Rue"
-housenumber: 1
-phone: "+41 32 724 06 31"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "https://misterminit.eu/fr_ch/boutiques/mister-minit-neuch%C3%A2tel-street-shop"
+street: Grand Rue
+housenumber: "1"
+phone: +41 32 724 06 31
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
+website: https://misterminit.eu/fr_ch/boutiques/mister-minit-neuch%C3%A2tel-street-shop

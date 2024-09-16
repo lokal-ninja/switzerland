@@ -4,8 +4,8 @@ latitude: 47.36872
 longitude: 8.51992
 postcode: "8003"
 city: Zürich
-street: "Schlossgasse"
-housenumber: 11
-phone: "+41 77 426 18 93"
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:00,13:00-18:00; Sa 09:00-16:00"
+street: Schlossgasse
+housenumber: "11"
+phone: +41 77 426 18 93
+opening_hours: Mo,Tu,Th,Fr 09:00-12:00,13:00-18:00; Sa 09:00-16:00
 website: ""

@@ -4,8 +4,9 @@ latitude: 47.05812
 longitude: 6.7486
 postcode: "2400"
 city: Le Locle
-street: "Grande-Rue"
-housenumber: 28
-phone: "+41 32 932 23 92"
-opening_hours: "Mo 14:00-18:30; Tu,Th,Fr 08:30-12:00,14:00-18:30; We 08:30-12:00; Sa 08:00-12:30"
-website: "https://l-ame-verte.ch/"
+street: Grande-Rue
+housenumber: "28"
+phone: +41 32 932 23 92
+opening_hours: Mo 14:00-18:30; Tu,Th,Fr 08:30-12:00,14:00-18:30; We 08:30-12:00; Sa
+    08:00-12:30
+website: https://l-ame-verte.ch/

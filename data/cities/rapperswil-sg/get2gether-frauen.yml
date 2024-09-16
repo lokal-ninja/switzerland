@@ -4,8 +4,8 @@ latitude: 47.22591
 longitude: 8.81733
 postcode: "8640"
 city: Rapperswil (SG)
-street: "Alpenstrasse"
-housenumber: 5
+street: Alpenstrasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo 12:30-18:30; Tu-Fr 09:30-12:30,13:30-18:30; Sa 09:30-17:00"
-website: "https://get2gether.ch/"
+opening_hours: Mo 12:30-18:30; Tu-Fr 09:30-12:30,13:30-18:30; Sa 09:30-17:00
+website: https://get2gether.ch/

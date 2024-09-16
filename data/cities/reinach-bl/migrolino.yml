@@ -4,8 +4,8 @@ latitude: 47.48951
 longitude: 7.59824
 postcode: "4153"
 city: Reinach BL
-street: "Kägenstrasse"
-housenumber: 1
+street: Kägenstrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00, Sa-Su 07:00-22:00"
-website: "https://www.migrolino.ch/de/standorte/migrol-reinach-bl-2/"
+opening_hours: Mo-Fr 06:00-22:00, Sa-Su 07:00-22:00
+website: https://www.migrolino.ch/de/standorte/migrol-reinach-bl-2/

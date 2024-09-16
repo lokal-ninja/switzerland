@@ -4,8 +4,8 @@ latitude: 47.45319
 longitude: 8.58083
 postcode: "8302"
 city: Kloten
-street: "Schaffhauserstrasse"
-housenumber: 146
+street: Schaffhauserstrasse
+housenumber: "146"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:30-18:00"
-website: "https://www.ottos.ch/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 08:30-18:00
+website: https://www.ottos.ch/

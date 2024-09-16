@@ -1,11 +1,11 @@
 id: 206171305
-type: way
+type: node
 latitude: 47.26216
 longitude: 8.17596
 postcode: "5734"
 city: Reinach AG
-street: "Mattenfeldstrasse"
-housenumber: 1
+street: Mattenfeldstrasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.aldi-suisse.ch/"
+website: https://www.aldi-suisse.ch/

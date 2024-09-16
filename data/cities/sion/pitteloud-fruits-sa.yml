@@ -4,8 +4,8 @@ latitude: 46.21797
 longitude: 7.34877
 postcode: "1950"
 city: Sion
-street: "Chemin des Gardes-de-Nuit"
-housenumber: 56
+street: Chemin des Gardes-de-Nuit
+housenumber: "56"
 phone: "+41273226751"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-17:00"
-website: "https://www.pitteloud-fruits.ch/"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-17:00
+website: https://www.pitteloud-fruits.ch/

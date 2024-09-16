@@ -4,8 +4,8 @@ latitude: 46.45883
 longitude: 6.84757
 postcode: "1800"
 city: Vevey
-street: "Rue d'Italie"
-housenumber: 60
+street: Rue d'Italie
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "https://ateapic.ch"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
+website: https://ateapic.ch

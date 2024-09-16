@@ -4,8 +4,8 @@ latitude: 47.32072
 longitude: 7.90696
 postcode: "4663"
 city: Aarburg
-street: "Bahnhofstrasse"
-housenumber: 59
+street: Bahnhofstrasse
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00, Sa 07:00-18:00"
-website: "https://www.voi-migrospartner.ch/de-CH/filialen#voi-voi-aarburg"
+opening_hours: Mo-Fr 07:00-20:00, Sa 07:00-18:00
+website: https://www.voi-migrospartner.ch/de-CH/filialen#voi-voi-aarburg

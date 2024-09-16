@@ -1,11 +1,12 @@
 id: 216473180
-type: way
+type: node
 latitude: 46.84747
 longitude: 7.25334
 postcode: "3185"
 city: Schmitten
-street: "Lanthen"
-housenumber: 1
-phone: "+41 26 496 42 40"
-opening_hours: "Mo-Tu 17:30-18:30;We 09:00-11:00;Th-Fr 17:30-18:30;Sa 09:00-11:00,17:30-18:30;Su off"
-website: "https://www.kaeserei-lanthen.ch"
+street: Lanthen
+housenumber: "1"
+phone: +41 26 496 42 40
+opening_hours: Mo-Tu 17:30-18:30;We 09:00-11:00;Th-Fr 17:30-18:30;Sa 09:00-11:00,17:30-18:30;Su
+    off
+website: https://www.kaeserei-lanthen.ch

@@ -4,8 +4,8 @@ latitude: 47.13421
 longitude: 7.24218
 postcode: "2502"
 city: Biel/Bienne
-street: "Rue d'Aarberg / Aarbergstrasse"
-housenumber: 100
+street: Rue d'Aarberg / Aarbergstrasse
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Sa 09:00-23:30"
-website: "https://www.casamiracoli.ch"
+opening_hours: Mo-Sa 09:00-23:30
+website: https://www.casamiracoli.ch

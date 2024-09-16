@@ -4,8 +4,8 @@ latitude: 47.36995
 longitude: 8.51185
 postcode: "8055"
 city: Zürich
-street: "Haldenstrasse"
-housenumber: 161
-phone: "+41 44 461 61 81"
-opening_hours: "Tu,Th-Fr 10:00-17:00; Sa 09:00-12:00 || “Montag und Donnerstag unregelmässig"
-website: "https://musigstuebli.ch/"
+street: Haldenstrasse
+housenumber: "161"
+phone: +41 44 461 61 81
+opening_hours: Tu,Th-Fr 10:00-17:00; Sa 09:00-12:00 || “Montag und Donnerstag unregelmässig"
+website: https://musigstuebli.ch/

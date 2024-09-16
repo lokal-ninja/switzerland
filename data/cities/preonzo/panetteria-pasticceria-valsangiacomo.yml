@@ -1,11 +1,11 @@
 id: 478551931
-type: way
+type: node
 latitude: 46.26401
 longitude: 9.00177
 postcode: "6523"
 city: Preonzo
-street: "El Stradón"
-housenumber: 46
+street: El Stradón
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

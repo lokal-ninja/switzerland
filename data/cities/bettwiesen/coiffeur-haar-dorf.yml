@@ -4,8 +4,8 @@ latitude: 47.49724
 longitude: 9.02638
 postcode: "9553"
 city: Bettwiesen
-street: "Hauptstrasse"
-housenumber: 48
-phone: "+41 78 333 00 11"
-opening_hours: "Tu-Fr 08:30-12:00,13:30-18:30; Sa 08:00-14:00"
+street: Hauptstrasse
+housenumber: "48"
+phone: +41 78 333 00 11
+opening_hours: Tu-Fr 08:30-12:00,13:30-18:30; Sa 08:00-14:00
 website: ""

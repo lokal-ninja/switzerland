@@ -4,8 +4,8 @@ latitude: 47.35904
 longitude: 8.52706
 postcode: "8002"
 city: Zürich
-street: "Waffenplatzstrasse"
-housenumber: 49
+street: Waffenplatzstrasse
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:15,14:00-18:30; Sa 09:00-12:15; Su off"
+opening_hours: Mo-Fr 07:30-12:15,14:00-18:30; Sa 09:00-12:15; Su off
 website: ""

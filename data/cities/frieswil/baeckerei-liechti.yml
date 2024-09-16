@@ -1,11 +1,12 @@
 id: 167161687
-type: way
+type: node
 latitude: 46.99516
 longitude: 7.28509
 postcode: "3035"
 city: Frieswil
-street: "Hauptstrasse"
-housenumber: 23
-phone: "+41 (0)31 825 61 77"
-opening_hours: "Mo 06:30-12:15; Tu-Fr 06:30-12:15, 14:00-18:30; Sa 06:30-17:00; Su 08:00-11:30"
-website: "https://baeckerei-liechti.ch/"
+street: Hauptstrasse
+housenumber: "23"
+phone: +41 (0)31 825 61 77
+opening_hours: Mo 06:30-12:15; Tu-Fr 06:30-12:15, 14:00-18:30; Sa 06:30-17:00; Su
+    08:00-11:30
+website: https://baeckerei-liechti.ch/

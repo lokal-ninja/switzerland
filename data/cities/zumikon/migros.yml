@@ -4,8 +4,8 @@ latitude: 47.33662
 longitude: 8.61914
 postcode: "8126"
 city: Zumikon
-street: "Dorfstrasse"
-housenumber: 17
+street: Dorfstrasse
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-zumikon"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-zumikon

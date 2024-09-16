@@ -4,8 +4,8 @@ latitude: 47.14546
 longitude: 7.26323
 postcode: "2502"
 city: Biel/Bienne
-street: "Jakob-Stämpfli-Strasse"
-housenumber: 112
+street: Jakob-Stämpfli-Strasse
+housenumber: "112"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-17:00; PH off"
-website: "https://www.voi-migrospartner.ch/de-CH/filialen#voi-voi-biel-jardin-du-paradis"
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:00-17:00; PH off
+website: https://www.voi-migrospartner.ch/de-CH/filialen#voi-voi-biel-jardin-du-paradis

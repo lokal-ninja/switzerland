@@ -4,8 +4,8 @@ latitude: 46.00064
 longitude: 8.94942
 postcode: "6900"
 city: Lugano
-street: "Via Nassa"
-housenumber: 29
+street: Via Nassa
+housenumber: "29"
 phone: "+41919238882"
-opening_hours: "Mo-Su 10:00-18:30"
-website: "https://www.antoniolishop.ch/"
+opening_hours: Mo-Su 10:00-18:30
+website: https://www.antoniolishop.ch/

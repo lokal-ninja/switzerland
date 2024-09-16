@@ -4,8 +4,8 @@ latitude: 47.50811
 longitude: 8.01917
 postcode: "5070"
 city: Frick
-street: "Hauptstrasse"
-housenumber: 44
-phone: "+41 58 567 76 80"
-opening_hours: "Mo-Fr 08:00-20:00, Sa 07:30-18:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-frick"
+street: Hauptstrasse
+housenumber: "44"
+phone: +41 58 567 76 80
+opening_hours: Mo-Fr 08:00-20:00, Sa 07:30-18:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-frick

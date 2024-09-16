@@ -4,8 +4,8 @@ latitude: 47.45018
 longitude: 8.32741
 postcode: "5432"
 city: Neuenhof
-street: "Zürcherstrasse"
-housenumber: 19
+street: Zürcherstrasse
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-18:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-neuenhof"
+opening_hours: Mo-Fr 08:00-19:00, Sa 08:00-18:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-neuenhof

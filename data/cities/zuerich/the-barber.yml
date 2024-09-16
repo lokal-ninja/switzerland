@@ -4,8 +4,8 @@ latitude: 47.37546
 longitude: 8.5366
 postcode: "8001"
 city: Zürich
-street: "Löwenstrasse"
-housenumber: 37
-phone: "+41 44 552 47 30"
+street: Löwenstrasse
+housenumber: "37"
+phone: +41 44 552 47 30
 opening_hours: ""
-website: "https://www.thebarber.ch/"
+website: https://www.thebarber.ch/

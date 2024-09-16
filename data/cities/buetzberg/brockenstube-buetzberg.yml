@@ -1,11 +1,11 @@
 id: 342500757
-type: way
+type: node
 latitude: 47.21574
 longitude: 7.7453
 postcode: "4922"
 city: Bützberg
-street: "Solothurnstrasse"
-housenumber: 2
+street: Solothurnstrasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

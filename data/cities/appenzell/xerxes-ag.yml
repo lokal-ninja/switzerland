@@ -4,8 +4,8 @@ latitude: 47.33298
 longitude: 9.39917
 postcode: "9050"
 city: Appenzell
-street: "Rütistrasse"
-housenumber: 8
-phone: "+41 71 788 30 80"
+street: Rütistrasse
+housenumber: "8"
+phone: +41 71 788 30 80
 opening_hours: ""
-website: "https://www.xerxes.ch"
+website: https://www.xerxes.ch

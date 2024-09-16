@@ -1,11 +1,11 @@
 id: 299092812
-type: way
+type: node
 latitude: 46.48616
 longitude: 8.26235
 postcode: "3985"
 city: Münster VS
-street: "Furkastrasse"
-housenumber: 592
+street: Furkastrasse
+housenumber: "592"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.45963
 longitude: 9.04176
 postcode: "9500"
 city: Wil SG
-street: "Wiesenstrasse"
-housenumber: 1
-phone: "+41 71 923 49 70"
-opening_hours: "Mo-Fr 07:30-12:00, 13:30-17:00"
-website: "https://www.haushaltapparate-zaech.ch/"
+street: Wiesenstrasse
+housenumber: "1"
+phone: +41 71 923 49 70
+opening_hours: Mo-Fr 07:30-12:00, 13:30-17:00
+website: https://www.haushaltapparate-zaech.ch/

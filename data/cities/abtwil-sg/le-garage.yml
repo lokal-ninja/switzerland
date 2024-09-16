@@ -1,11 +1,11 @@
 id: 93650381
-type: way
+type: node
 latitude: 47.41645
 longitude: 9.31158
 postcode: "9030"
 city: Abtwil SG
-street: "Moosstrasse"
-housenumber: 6
+street: Moosstrasse
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 28858260
-type: way
+type: node
 latitude: 47.41221
 longitude: 8.22287
 postcode: "5506"
 city: Mägenwil
-street: "Weststrasse"
-housenumber: 6
+street: Weststrasse
+housenumber: "6"
 phone: ""
-opening_hours: "05:00-23:00"
-website: "https://www.coop-pronto.ch/"
+opening_hours: 05:00-23:00
+website: https://www.coop-pronto.ch/

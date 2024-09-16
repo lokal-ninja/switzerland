@@ -4,8 +4,8 @@ latitude: 47.47633
 longitude: 8.30676
 postcode: "5400"
 city: Baden
-street: "Langhaus"
-housenumber: 5
+street: Langhaus
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:30-18:00"
-website: "https://www.interdiscount.ch/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 08:30-18:00
+website: https://www.interdiscount.ch/

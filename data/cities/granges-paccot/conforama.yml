@@ -1,11 +1,12 @@
 id: 166254881
-type: way
+type: node
 latitude: 46.82923
 longitude: 7.14629
 postcode: "1763"
 city: Granges-Paccot
-street: "Route d'Englisberg"
-housenumber: 1
-phone: "+41 26 460 76 00"
-opening_hours: "Mo-We 09:00-19:00; Th 09:00-21:00; Fr 09:00-19:00; Sa 08:30-16:00; Su off"
-website: "https://www.conforama.ch/"
+street: Route d'Englisberg
+housenumber: "1"
+phone: +41 26 460 76 00
+opening_hours: Mo-We 09:00-19:00; Th 09:00-21:00; Fr 09:00-19:00; Sa 08:30-16:00;
+    Su off
+website: https://www.conforama.ch/

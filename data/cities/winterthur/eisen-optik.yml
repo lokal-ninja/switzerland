@@ -4,8 +4,8 @@ latitude: 47.49923
 longitude: 8.73045
 postcode: "8400"
 city: Winterthur
-street: "Obergasse"
-housenumber: 30
+street: Obergasse
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-We,Fr 08:30-18:30; Th 08:30-19:00; Sa 08:30-17:00"
+opening_hours: Mo-We,Fr 08:30-18:30; Th 08:30-19:00; Sa 08:30-17:00
 website: ""

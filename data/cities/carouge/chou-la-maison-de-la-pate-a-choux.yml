@@ -4,8 +4,9 @@ latitude: 46.18668
 longitude: 6.14063
 postcode: "1227"
 city: Carouge
-street: "Rue Saint-Joseph"
-housenumber: 2
-phone: "+41 22 303 61 27"
-opening_hours: "We-Fr 10:30-14:00, 14:30-18:30; Sa 10:00-14:00, 14:30-19:00; Su 10:00-14:00, 14:30-18:00"
-website: "https://www.chougeneve.ch/"
+street: Rue Saint-Joseph
+housenumber: "2"
+phone: +41 22 303 61 27
+opening_hours: We-Fr 10:30-14:00, 14:30-18:30; Sa 10:00-14:00, 14:30-19:00; Su 10:00-14:00,
+    14:30-18:00
+website: https://www.chougeneve.ch/

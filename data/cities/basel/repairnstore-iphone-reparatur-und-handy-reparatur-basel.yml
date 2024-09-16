@@ -4,8 +4,8 @@ latitude: 47.56209
 longitude: 7.59695
 postcode: "4058"
 city: Basel
-street: "Hammerstrasse"
-housenumber: 53
+street: Hammerstrasse
+housenumber: "53"
 phone: "+41615114020"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://www.repairnstore.ch/basel/"
+opening_hours: Mo-Fr 10:00-18:00
+website: https://www.repairnstore.ch/basel/

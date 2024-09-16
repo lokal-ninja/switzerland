@@ -4,8 +4,8 @@ latitude: 46.13872
 longitude: 7.1151
 postcode: "1926"
 city: Fully
-street: "Rue de l'Eglise"
-housenumber: 41
-phone: "+41 27 565 51 03"
-opening_hours: "Tu-Fr 09:00-11:30,14:00-18:00; Sa 09:00-11:30,14:00-17:00"
-website: "https://www.bellehistoire.ch/"
+street: Rue de l'Eglise
+housenumber: "41"
+phone: +41 27 565 51 03
+opening_hours: Tu-Fr 09:00-11:30,14:00-18:00; Sa 09:00-11:30,14:00-17:00
+website: https://www.bellehistoire.ch/

@@ -4,8 +4,8 @@ latitude: 46.89661
 longitude: 7.49317
 postcode: "3123"
 city: Belp
-street: "Steinbachstrasse"
-housenumber: 28
+street: Steinbachstrasse
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Th 08:00-19:00, Fr 08:00-21:00, Sa 07:30-17:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-belp-2"
+opening_hours: Mo-Th 08:00-19:00, Fr 08:00-21:00, Sa 07:30-17:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-belp-2

@@ -4,8 +4,8 @@ latitude: 46.52456
 longitude: 6.61488
 postcode: "1004"
 city: Lausanne
-street: "Rue de Genève"
-housenumber: 75
+street: Rue de Genève
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:30,14:00-19:00; Sa 09:00-18:00"
-website: "https://www.swissbedding.swiss/magasin-de-lausanne"
+opening_hours: Mo-Fr 09:30-12:30,14:00-19:00; Sa 09:00-18:00
+website: https://www.swissbedding.swiss/magasin-de-lausanne

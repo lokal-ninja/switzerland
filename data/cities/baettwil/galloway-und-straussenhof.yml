@@ -4,8 +4,9 @@ latitude: 47.49477
 longitude: 7.51635
 postcode: "4112"
 city: Bättwil
-street: "Unterer Eggweg"
-housenumber: 1
-phone: "+41 61 731 10 46"
-opening_hours: "Bestellungen telefonisch oder per E-mail. Öffnungszeiten Hof: Mo.-Fr. 8-18 Uhr, Sa. 9-17 Uhr, So: Ruhetag"
-website: "https://www.gallowayundstraussenhof.ch/hofladen/"
+street: Unterer Eggweg
+housenumber: "1"
+phone: +41 61 731 10 46
+opening_hours: 'Bestellungen telefonisch oder per E-mail. Öffnungszeiten Hof: Mo.-Fr.
+    8-18 Uhr, Sa. 9-17 Uhr, So: Ruhetag'
+website: https://www.gallowayundstraussenhof.ch/hofladen/

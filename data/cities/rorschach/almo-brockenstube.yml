@@ -4,8 +4,8 @@ latitude: 47.47614
 longitude: 9.48335
 postcode: "9400"
 city: Rorschach
-street: "Säntisstrasse"
-housenumber: 7
+street: Säntisstrasse
+housenumber: "7"
 phone: "+41718418182"
-opening_hours: "Mo 14:00-18:00; Tu-Fr 09:00-12:00,14:00-18:00; Sa 09:00-16:00"
-website: "https://www.brocki-rorschach.ch/"
+opening_hours: Mo 14:00-18:00; Tu-Fr 09:00-12:00,14:00-18:00; Sa 09:00-16:00
+website: https://www.brocki-rorschach.ch/

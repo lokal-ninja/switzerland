@@ -4,8 +4,8 @@ latitude: 46.95343
 longitude: 7.51074
 postcode: "3066"
 city: Stettlen
-street: "Gümligentalstrasse"
-housenumber: 81
-phone: "+41 31 938 06 06"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.hostettler-moto.ch/bern/"
+street: Gümligentalstrasse
+housenumber: "81"
+phone: +41 31 938 06 06
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.hostettler-moto.ch/bern/

@@ -4,8 +4,8 @@ latitude: 47.13651
 longitude: 8.1921
 postcode: "6204"
 city: Sempach
-street: "Oberstadt"
-housenumber: 5
+street: Oberstadt
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Fr 08:30-12:00,13:30-18:30; Sa 08:30-12:00,13:30-16:00"
-website: "https://www.staedtlioptiksempach.ch/"
+opening_hours: Tu-Fr 08:30-12:00,13:30-18:30; Sa 08:30-12:00,13:30-16:00
+website: https://www.staedtlioptiksempach.ch/

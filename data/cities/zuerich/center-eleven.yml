@@ -1,11 +1,11 @@
 id: 494719538
-type: way
+type: node
 latitude: 47.41386
 longitude: 8.5411
 postcode: "8050"
 city: Zürich
-street: "Sophie-Taeuber-Strasse"
-housenumber: 4
+street: Sophie-Taeuber-Strasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00"
-website: "https://center-eleven-oerlikon.ch/"
+opening_hours: Mo-Sa 07:30-21:00
+website: https://center-eleven-oerlikon.ch/

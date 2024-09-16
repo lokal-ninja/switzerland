@@ -4,8 +4,8 @@ latitude: 47.30208
 longitude: 8.7627
 postcode: "8625"
 city: Gossau (ZH)
-street: "Berghofstrasse"
-housenumber: 7
-phone: "+41 55 265 11 20"
-opening_hours: "Mo-Fr 06:15-18:30; Sa,Su,PH 07:00-17:00"
-website: "https://www.baumerfladen.ch/filialen/gossau-zh/"
+street: Berghofstrasse
+housenumber: "7"
+phone: +41 55 265 11 20
+opening_hours: Mo-Fr 06:15-18:30; Sa,Su,PH 07:00-17:00
+website: https://www.baumerfladen.ch/filialen/gossau-zh/

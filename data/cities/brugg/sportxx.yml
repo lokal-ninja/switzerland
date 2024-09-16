@@ -4,8 +4,8 @@ latitude: 47.48326
 longitude: 8.20809
 postcode: "5200"
 city: Brugg
-street: "Hauptstrasse"
-housenumber: 2
+street: Hauptstrasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:30-22:30; Sa 09:00-18:00; Su 09:00-18:00"
-website: "https://www.sportxx.ch/"
+opening_hours: Mo-Fr 07:30-22:30; Sa 09:00-18:00; Su 09:00-18:00
+website: https://www.sportxx.ch/

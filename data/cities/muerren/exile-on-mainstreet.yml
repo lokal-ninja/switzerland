@@ -1,11 +1,11 @@
 id: 235931977
-type: way
+type: node
 latitude: 46.55979
 longitude: 7.89452
 postcode: "3825"
 city: Mürren
 street: ""
-housenumber: 1039
+housenumber: "1039"
 phone: ""
-opening_hours: "Mo-Fr,Su 12:00-18:00; Sa 10:00-12:00,13:00-18:00"
+opening_hours: Mo-Fr,Su 12:00-18:00; Sa 10:00-12:00,13:00-18:00
 website: ""

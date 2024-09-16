@@ -1,11 +1,11 @@
 id: 212739952
-type: way
+type: node
 latitude: 46.68437
 longitude: 7.6638
 postcode: "3700"
 city: Spiez
-street: "Gygerweg"
-housenumber: 12
+street: Gygerweg
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

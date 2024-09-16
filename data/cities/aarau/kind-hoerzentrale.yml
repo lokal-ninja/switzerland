@@ -4,8 +4,8 @@ latitude: 47.39218
 longitude: 8.0506
 postcode: "5000"
 city: Aarau
-street: "Bahnhofstrasse"
-housenumber: 67
+street: Bahnhofstrasse
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; PH,Sa,Su off"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; PH,Sa,Su off
 website: ""

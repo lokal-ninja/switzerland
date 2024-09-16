@@ -4,8 +4,8 @@ latitude: 47.39327
 longitude: 8.47431
 postcode: "8048"
 city: Zürich
-street: "Badenerstrasse"
-housenumber: 812
+street: Badenerstrasse
+housenumber: "812"
 phone: ""
-opening_hours: "Mo-Sa 06:00-23:00"
-website: "https://www.coop-pronto.ch/"
+opening_hours: Mo-Sa 06:00-23:00
+website: https://www.coop-pronto.ch/

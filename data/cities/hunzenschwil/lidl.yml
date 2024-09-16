@@ -1,11 +1,11 @@
 id: 166689298
-type: way
+type: node
 latitude: 47.38737
 longitude: 8.13527
 postcode: "5502"
 city: Hunzenschwil
-street: "Hauptstrasse"
-housenumber: 2
+street: Hauptstrasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00"
+opening_hours: Mo-Sa 07:30-21:00
 website: ""

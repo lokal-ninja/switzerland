@@ -1,11 +1,11 @@
 id: 149258927
-type: way
+type: node
 latitude: 47.52653
 longitude: 8.81429
 postcode: "8543"
 city: Bertschikon
-street: "Wiesendangerstrasse"
-housenumber: 1
+street: Wiesendangerstrasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

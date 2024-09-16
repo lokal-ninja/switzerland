@@ -1,11 +1,12 @@
 id: 188210142
-type: way
+type: node
 latitude: 46.76149
 longitude: 7.2103
 postcode: "1735"
 city: Giffers
-street: "Dorfplatz"
-housenumber: 9
-phone: "+41 26 418 11 12"
-opening_hours: "Mo 07:30-12:15,16:00-18:30; Tu-We 07:30-12:15,13:30-18:30; Th 07:30-12:15; Fr 07:30-12:15,13:30-18:30; Sa 07:30-16:00; Su off"
-website: "https://oberland-metzgerei.ch/"
+street: Dorfplatz
+housenumber: "9"
+phone: +41 26 418 11 12
+opening_hours: Mo 07:30-12:15,16:00-18:30; Tu-We 07:30-12:15,13:30-18:30; Th 07:30-12:15;
+    Fr 07:30-12:15,13:30-18:30; Sa 07:30-16:00; Su off
+website: https://oberland-metzgerei.ch/

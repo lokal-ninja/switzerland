@@ -4,8 +4,8 @@ latitude: 45.84522
 longitude: 9.01652
 postcode: "6834"
 city: Morbio Inferiore
-street: "Viale Serfontana"
-housenumber: 20
+street: Viale Serfontana
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-We,Fr 08:30-19:00; Th 08:30-21:00; Sa 08:30-18:30"
-website: "https://www.migros.ch/it.html"
+opening_hours: Mo-We,Fr 08:30-19:00; Th 08:30-21:00; Sa 08:30-18:30
+website: https://www.migros.ch/it.html

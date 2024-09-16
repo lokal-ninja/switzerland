@@ -4,8 +4,8 @@ latitude: 47.36243
 longitude: 9.45558
 postcode: "9056"
 city: Gais
-street: "Stossstrasse"
-housenumber: 5
+street: Stossstrasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Tu 07:00-12:00,14:00-18:30; Th-Fr 07:00-12:00,14:00-18:30; Sa 07:00-12:00"
-website: "https://mybiber.ch"
+opening_hours: Mo-Tu 07:00-12:00,14:00-18:30; Th-Fr 07:00-12:00,14:00-18:30; Sa 07:00-12:00
+website: https://mybiber.ch

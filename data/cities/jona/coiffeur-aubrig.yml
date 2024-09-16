@@ -4,8 +4,8 @@ latitude: 47.23058
 longitude: 8.83854
 postcode: "8645"
 city: Jona
-street: "Aubrigstrasse"
-housenumber: 6
-phone: "055 212 29 06"
-opening_hours: "Tu-Fr 08:00-11:45,13:30-18:00; Sa 08:00-13:00"
-website: "https://coiffeur-aubrig.ch/"
+street: Aubrigstrasse
+housenumber: "6"
+phone: 055 212 29 06
+opening_hours: Tu-Fr 08:00-11:45,13:30-18:00; Sa 08:00-13:00
+website: https://coiffeur-aubrig.ch/

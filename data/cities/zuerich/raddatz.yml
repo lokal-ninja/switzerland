@@ -4,8 +4,8 @@ latitude: 47.37279
 longitude: 8.52862
 postcode: "8004"
 city: Zürich
-street: "Strassburgstrasse"
-housenumber: 10
+street: Strassburgstrasse
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://raddatz-zh.ch/"
+website: https://raddatz-zh.ch/

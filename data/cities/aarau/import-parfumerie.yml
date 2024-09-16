@@ -4,8 +4,8 @@ latitude: 47.39121
 longitude: 8.04572
 postcode: "5000"
 city: Aarau
-street: "Hintere Vorstadt"
-housenumber: 11
+street: Hintere Vorstadt
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.impo.ch/"
+website: https://www.impo.ch/

@@ -4,8 +4,8 @@ latitude: 46.76645
 longitude: 6.65057
 postcode: "1400"
 city: Yverdon-les-Bains
-street: "Route de Lausanne"
-housenumber: 10
-phone: "+41 24 425 83 33"
-opening_hours: "Mo-Fr 07:30-12:00, 13:30-16:30"
-website: "https://moulin-yverdon.com/"
+street: Route de Lausanne
+housenumber: "10"
+phone: +41 24 425 83 33
+opening_hours: Mo-Fr 07:30-12:00, 13:30-16:30
+website: https://moulin-yverdon.com/

@@ -4,8 +4,8 @@ latitude: 47.37518
 longitude: 8.0785
 postcode: "5034"
 city: Suhr
-street: "Tramstrasse"
-housenumber: 25
-phone: "+41 78 842 69 71"
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.toertlifee.ch/"
+street: Tramstrasse
+housenumber: "25"
+phone: +41 78 842 69 71
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.toertlifee.ch/

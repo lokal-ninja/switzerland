@@ -4,8 +4,8 @@ latitude: 47.12885
 longitude: 7.24185
 postcode: "2503"
 city: Biel/Bienne
-street: "Salzhausstrasse"
-housenumber: 7
-phone: "+41 76 204 46 01"
+street: Salzhausstrasse
+housenumber: "7"
+phone: +41 76 204 46 01
 opening_hours: ""
-website: "https://smartstand.swiss/"
+website: https://smartstand.swiss/

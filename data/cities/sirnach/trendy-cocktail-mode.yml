@@ -4,8 +4,8 @@ latitude: 47.46009
 longitude: 8.99442
 postcode: "8370"
 city: Sirnach
-street: "Fischingerstrasse"
-housenumber: 30
+street: Fischingerstrasse
+housenumber: "30"
 phone: ""
-opening_hours: "nach telefonischer Vereinbarung"
+opening_hours: '"nach telefonischer Vereinbarung"'
 website: ""

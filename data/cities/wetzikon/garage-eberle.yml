@@ -1,11 +1,11 @@
 id: 134519918
-type: way
+type: node
 latitude: 47.33149
 longitude: 8.80063
 postcode: "8620"
 city: Wetzikon
-street: "Binzackerstrasse"
-housenumber: 35
+street: Binzackerstrasse
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

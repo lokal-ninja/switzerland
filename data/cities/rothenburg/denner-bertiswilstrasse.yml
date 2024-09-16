@@ -1,11 +1,11 @@
 id: 119055884
-type: way
+type: node
 latitude: 47.09902
 longitude: 8.26991
 postcode: "6023"
 city: Rothenburg
-street: "Bertiswilstrasse"
-housenumber: 34
+street: Bertiswilstrasse
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

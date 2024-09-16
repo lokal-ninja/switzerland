@@ -1,11 +1,11 @@
 id: 163271543
-type: way
+type: node
 latitude: 47.4929
 longitude: 7.01898
 postcode: "2926"
 city: Bonciourt
-street: "Chemin du Crêt des Pierres"
-housenumber: 11
-phone: "+41 32 475 54 55"
-opening_hours: "Tu 14:00-18:00; Fr 14:00-18:00; Sa 09:00-12:00"
-website: "https://emmaus-jura.ch/"
+street: Chemin du Crêt des Pierres
+housenumber: "11"
+phone: +41 32 475 54 55
+opening_hours: Tu 14:00-18:00; Fr 14:00-18:00; Sa 09:00-12:00
+website: https://emmaus-jura.ch/

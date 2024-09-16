@@ -4,8 +4,8 @@ latitude: 47.01667
 longitude: 7.49243
 postcode: "3321"
 city: Schönbühl
-street: "Industriestrasse"
-housenumber: 10
+street: Industriestrasse
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Th 09:00-20:00, Fr 09:00-21:30, Sa 08:00-17:00; PH off"
-website: "https://www.manor.ch/de/store-finder/store/SBU"
+opening_hours: Mo-Th 09:00-20:00, Fr 09:00-21:30, Sa 08:00-17:00; PH off
+website: https://www.manor.ch/de/store-finder/store/SBU

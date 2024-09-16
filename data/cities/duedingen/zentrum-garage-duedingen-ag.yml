@@ -4,8 +4,8 @@ latitude: 46.84879
 longitude: 7.18971
 postcode: "3186"
 city: Düdingen
-street: "Hauptstrasse"
-housenumber: 36
-phone: "+41 26 351 55 00"
-opening_hours: "Mo-Th 07:00-12:00,13:15-18:00; Fr 07:00-12:00,13:15-17:30; Sa 08:30-12:00"
-website: "https://zentrum-garage.ch/"
+street: Hauptstrasse
+housenumber: "36"
+phone: +41 26 351 55 00
+opening_hours: Mo-Th 07:00-12:00,13:15-18:00; Fr 07:00-12:00,13:15-17:30; Sa 08:30-12:00
+website: https://zentrum-garage.ch/

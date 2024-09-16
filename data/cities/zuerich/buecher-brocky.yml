@@ -4,8 +4,8 @@ latitude: 47.36527
 longitude: 8.53112
 postcode: "8002"
 city: Zürich
-street: "Bederstrasse"
-housenumber: 4
+street: Bederstrasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 10:30-18:30; Sa 09:00-16:00; PH closed"
-website: "https://www.buecher-brocky.ch/zuerich/"
+opening_hours: Mo-Fr 10:30-18:30; Sa 09:00-16:00; PH closed
+website: https://www.buecher-brocky.ch/zuerich/

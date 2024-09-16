@@ -4,8 +4,8 @@ latitude: 46.84305
 longitude: 7.34735
 postcode: "3148"
 city: Lanzenhäusern
-street: "Albligenstrasse"
-housenumber: 2
+street: Albligenstrasse
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "https://interbroc.ch"
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-17:00
+website: https://interbroc.ch

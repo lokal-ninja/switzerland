@@ -4,8 +4,8 @@ latitude: 46.21414
 longitude: 6.12089
 postcode: "1203"
 city: Genève
-street: "Cité Vieusseux"
-housenumber: 9
-phone: "+41 78 898 60 08"
-opening_hours: "Ouverture sur rendez-vous"
-website: "https://stonecase.ch"
+street: Cité Vieusseux
+housenumber: "9"
+phone: +41 78 898 60 08
+opening_hours: Ouverture sur rendez-vous
+website: https://stonecase.ch

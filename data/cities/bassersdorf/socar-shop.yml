@@ -4,8 +4,8 @@ latitude: 47.44464
 longitude: 8.62499
 postcode: "8303"
 city: Bassersdorf
-street: "Klotenerstrasse"
-housenumber: 46
+street: Klotenerstrasse
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Fr 06:00-20:00, Sa 07:00-20:00, Su 08:00-20:00"
-website: "https://www.socarenergy.ch/"
+opening_hours: Mo-Fr 06:00-20:00, Sa 07:00-20:00, Su 08:00-20:00
+website: https://www.socarenergy.ch/

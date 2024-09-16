@@ -1,11 +1,11 @@
 id: 295121530
-type: way
+type: node
 latitude: 46.87287
 longitude: 8.65063
 postcode: "6460"
 city: Altdorf UR
-street: "Gotthardstrasse"
-housenumber: 67
+street: Gotthardstrasse
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Th 08:00-18:30; Fr 08:00-21:00; Sa 08:00-17:00"
+opening_hours: Mo-Th 08:00-18:30; Fr 08:00-21:00; Sa 08:00-17:00
 website: ""

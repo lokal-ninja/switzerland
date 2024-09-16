@@ -4,8 +4,8 @@ latitude: 47.44608
 longitude: 9.05223
 postcode: "9532"
 city: Rickenbach
-street: "Breitestrasse"
-housenumber: 5
+street: Breitestrasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 10:30-18:00, Sa 10:00-18:00; PH off"
-website: "http://www.maerki-moebel.ch/filialen/rickenbach-tg"
+opening_hours: Mo-Fr 10:30-18:00, Sa 10:00-18:00; PH off
+website: http://www.maerki-moebel.ch/filialen/rickenbach-tg

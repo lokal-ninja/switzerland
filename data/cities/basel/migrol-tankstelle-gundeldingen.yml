@@ -4,8 +4,8 @@ latitude: 47.54602
 longitude: 7.58376
 postcode: "4053"
 city: Basel
-street: "Margarethenstrasse"
-housenumber: 59
+street: Margarethenstrasse
+housenumber: "59"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.migrol.ch/de/"
+opening_hours: 24/7
+website: https://www.migrol.ch/de/

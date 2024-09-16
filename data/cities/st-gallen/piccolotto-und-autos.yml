@@ -4,8 +4,8 @@ latitude: 47.41309
 longitude: 9.3528
 postcode: "9000"
 city: St. Gallen
-street: "Landhausstrasse"
-housenumber: 9
-phone: "+41 71 277 00 70"
-opening_hours: "Mo-Fr 7:30 - 12:00, 13:30 - 18:00"
-website: "http://www.piccolotto.ch"
+street: Landhausstrasse
+housenumber: "9"
+phone: +41 71 277 00 70
+opening_hours: Mo-Fr 7:30 - 12:00, 13:30 - 18:00
+website: http://www.piccolotto.ch

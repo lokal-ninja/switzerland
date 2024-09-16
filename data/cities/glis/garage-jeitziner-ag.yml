@@ -1,11 +1,11 @@
 id: 702814494
-type: way
+type: node
 latitude: 46.30747
 longitude: 7.96775
 postcode: "3902"
 city: Glis
-street: "Kantonsstrasse"
-housenumber: 41
+street: Kantonsstrasse
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

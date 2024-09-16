@@ -4,8 +4,8 @@ latitude: 47.29732
 longitude: 8.56088
 postcode: "8800"
 city: Thalwil
-street: "Alte Landstrasse"
-housenumber: 160
-phone: "+41 44 720 13 62"
-opening_hours: "Mo-Fr 09:00-12:00, 13:30-18:30; Sa 09:00-16:00"
-website: "https://staegerag.ch/"
+street: Alte Landstrasse
+housenumber: "160"
+phone: +41 44 720 13 62
+opening_hours: Mo-Fr 09:00-12:00, 13:30-18:30; Sa 09:00-16:00
+website: https://staegerag.ch/

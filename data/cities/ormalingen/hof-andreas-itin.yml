@@ -4,8 +4,8 @@ latitude: 47.47029
 longitude: 7.87168
 postcode: "4466"
 city: Ormalingen
-street: "Hauptstrasse"
-housenumber: 21
-phone: "+41 61 981 35 90;+41 61 981 12 78"
-opening_hours: "Mo-Fr 09:00-11:30,13:30-18:00; Sa 09:00-16:00"
+street: Hauptstrasse
+housenumber: "21"
+phone: +41 61 981 35 90;+41 61 981 12 78
+opening_hours: Mo-Fr 09:00-11:30,13:30-18:00; Sa 09:00-16:00
 website: ""

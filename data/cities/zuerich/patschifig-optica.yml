@@ -4,8 +4,8 @@ latitude: 47.36166
 longitude: 8.5263
 postcode: "8002"
 city: Zürich
-street: "Bederstrasse"
-housenumber: 97
+street: Bederstrasse
+housenumber: "97"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00, Sa 09:00-16:00; PH off"
-website: "https://www.patschifig-optica.ch/"
+opening_hours: Tu-Fr 10:00-18:00, Sa 09:00-16:00; PH off
+website: https://www.patschifig-optica.ch/

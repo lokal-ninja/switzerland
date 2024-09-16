@@ -4,8 +4,8 @@ latitude: 47.25877
 longitude: 7.00035
 postcode: "2350"
 city: Saignelégier
-street: "Rue des Rangiers"
-housenumber: 22
+street: Rue des Rangiers
+housenumber: "22"
 phone: "0329511919"
-opening_hours: "Mo-Sa 08:00-18:30"
-website: "https://laforgeovelo.ch/location-de-velos/"
+opening_hours: Mo-Sa 08:00-18:30
+website: https://laforgeovelo.ch/location-de-velos/

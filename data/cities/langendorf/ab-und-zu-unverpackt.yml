@@ -4,8 +4,8 @@ latitude: 47.22006
 longitude: 7.51462
 postcode: "4513"
 city: Langendorf
-street: "Weissensteinstrasse"
-housenumber: 23
-phone: "+41 78 755 7343"
-opening_hours: "Tu-Fr 08:30-12:00,14:00-18:00; Sa 08:30-12:00"
-website: "https://www.abundzuunverpackt.ch/"
+street: Weissensteinstrasse
+housenumber: "23"
+phone: +41 78 755 7343
+opening_hours: Tu-Fr 08:30-12:00,14:00-18:00; Sa 08:30-12:00
+website: https://www.abundzuunverpackt.ch/

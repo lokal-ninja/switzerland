@@ -1,11 +1,11 @@
 id: 409185395
-type: way
+type: node
 latitude: 47.0456
 longitude: 9.43771
 postcode: "7320"
 city: Sargans
-street: "Neue Wangserstrasse"
-housenumber: 8
+street: Neue Wangserstrasse
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; Su,PH 07:00-21:00"
+opening_hours: Mo-Sa 06:00-22:00; Su,PH 07:00-21:00
 website: ""

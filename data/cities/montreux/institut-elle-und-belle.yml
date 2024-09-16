@@ -4,8 +4,8 @@ latitude: 46.4315
 longitude: 6.9103
 postcode: "1820"
 city: Montreux
-street: "Grand'Rue"
-housenumber: 3
+street: Grand'Rue
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.daisyinstitut.ch/"
+website: https://www.daisyinstitut.ch/

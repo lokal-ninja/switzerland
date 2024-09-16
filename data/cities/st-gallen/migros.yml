@@ -4,8 +4,8 @@ latitude: 47.43568
 longitude: 9.39208
 postcode: "9008"
 city: St. Gallen
-street: "Bachstrasse"
-housenumber: 29
+street: Bachstrasse
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Th 08:00-21:00; Sa 07:30-17:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-st-gallen-st-fiden"
+opening_hours: Mo-Fr 08:00-19:00; Th 08:00-21:00; Sa 07:30-17:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-st-gallen-st-fiden

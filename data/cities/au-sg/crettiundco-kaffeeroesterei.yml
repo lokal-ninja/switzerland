@@ -1,11 +1,11 @@
 id: 98733565
-type: way
+type: node
 latitude: 47.43859
 longitude: 9.6419
 postcode: "9434"
 city: Au SG
-street: "Hauptstrasse"
-housenumber: 1
-phone: "+41 71 744 05 05"
-opening_hours: "Mo-Fr 07:30-17:30; PH off"
-website: "https://www.cretti.ch/"
+street: Hauptstrasse
+housenumber: "1"
+phone: +41 71 744 05 05
+opening_hours: Mo-Fr 07:30-17:30; PH off
+website: https://www.cretti.ch/

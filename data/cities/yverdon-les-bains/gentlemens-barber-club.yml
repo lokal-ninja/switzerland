@@ -4,8 +4,8 @@ latitude: 46.77875
 longitude: 6.63869
 postcode: "1400"
 city: Yverdon-les-Bains
-street: "Rue du Four"
-housenumber: 30
-phone: "+41 24 534 26 02"
-opening_hours: "Tu-Fr 08:30-18:30; Sa 07:30-17:00"
-website: "http://www.gentlemens-barber.ch/"
+street: Rue du Four
+housenumber: "30"
+phone: +41 24 534 26 02
+opening_hours: Tu-Fr 08:30-18:30; Sa 07:30-17:00
+website: http://www.gentlemens-barber.ch/

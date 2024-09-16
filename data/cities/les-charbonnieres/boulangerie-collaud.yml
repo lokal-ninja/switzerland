@@ -4,8 +4,9 @@ latitude: 46.66702
 longitude: 6.31359
 postcode: "1343"
 city: Les Charbonnières
-street: "Route Mouthe"
-housenumber: 4
-phone: "+4121 841 12 73"
-opening_hours: "Mo off, Tu 06:30-12:30, 15:30-18:00, We 06:30-12:30, Th-Fr 06:30-12:30, 15:30-18:00, Sa-Su 06:30-12:00,"
+street: Route Mouthe
+housenumber: "4"
+phone: +4121 841 12 73
+opening_hours: Mo off, Tu 06:30-12:30, 15:30-18:00, We 06:30-12:30, Th-Fr 06:30-12:30,
+    15:30-18:00, Sa-Su 06:30-12:00,
 website: ""

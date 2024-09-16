@@ -4,8 +4,8 @@ latitude: 47.39198
 longitude: 8.04669
 postcode: "5000"
 city: Aarau
-street: "Kasinostrasse"
-housenumber: 30
-phone: "+41 62 824 50 60"
-opening_hours: "Mo-Fr 07:15-18:30; Sa 07:15-16:00"
+street: Kasinostrasse
+housenumber: "30"
+phone: +41 62 824 50 60
+opening_hours: Mo-Fr 07:15-18:30; Sa 07:15-16:00
 website: ""

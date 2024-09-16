@@ -1,11 +1,11 @@
 id: 217895800
-type: way
+type: node
 latitude: 47.26117
 longitude: 8.83954
 postcode: "8630"
 city: Rüti (ZH)
-street: "Spitalstrasse"
-housenumber: 60
+street: Spitalstrasse
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00; Su off"
-website: "https://www.aldi-suisse.ch/"
+opening_hours: Mo-Sa 07:30-20:00; Su off
+website: https://www.aldi-suisse.ch/

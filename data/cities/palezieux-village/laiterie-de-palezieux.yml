@@ -1,11 +1,11 @@
 id: 210109150
-type: way
+type: node
 latitude: 46.55434
 longitude: 6.82896
 postcode: "1607"
 city: Palézieux-Village
-street: "Grand-Rue"
-housenumber: 19
-phone: "+41 21 907 88 82"
-opening_hours: "Mo-Fr 08:00-11:45, 17:00-19:00; Sa 08:00-11:45, 14:00-18:00"
-website: "https://www.suisseterroir.ch/adresse/fromagerie-maillard/1352/FR"
+street: Grand-Rue
+housenumber: "19"
+phone: +41 21 907 88 82
+opening_hours: Mo-Fr 08:00-11:45, 17:00-19:00; Sa 08:00-11:45, 14:00-18:00
+website: https://www.suisseterroir.ch/adresse/fromagerie-maillard/1352/FR

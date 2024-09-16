@@ -1,11 +1,11 @@
 id: 339313254
-type: way
+type: node
 latitude: 46.67579
 longitude: 7.63856
 postcode: "3752"
 city: Wimmis
-street: "Hauptstrasse"
-housenumber: 28
+street: Hauptstrasse
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

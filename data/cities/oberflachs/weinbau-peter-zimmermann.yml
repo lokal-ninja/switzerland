@@ -4,8 +4,8 @@ latitude: 47.43997
 longitude: 8.13024
 postcode: "5108"
 city: Oberflachs
-street: "Halde"
-housenumber: 1
-phone: "+41 56 443 14 29"
-opening_hours: "Fr 17:00-19:00; Sa 09:00-17:00 || nach telefonischer Vereinbarung"
-website: "https://www.weinbau-zimmermann.ch/"
+street: Halde
+housenumber: "1"
+phone: +41 56 443 14 29
+opening_hours: Fr 17:00-19:00; Sa 09:00-17:00 || "nach telefonischer Vereinbarung"
+website: https://www.weinbau-zimmermann.ch/

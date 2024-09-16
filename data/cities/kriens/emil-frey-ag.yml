@@ -1,11 +1,11 @@
 id: 96651078
-type: way
+type: node
 latitude: 47.02836
 longitude: 8.29834
 postcode: "6010"
 city: Kriens
-street: "Sternmatt"
-housenumber: 3
+street: Sternmatt
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "http://www.emil-frey.ch/de/kriens/"
+website: http://www.emil-frey.ch/de/kriens/

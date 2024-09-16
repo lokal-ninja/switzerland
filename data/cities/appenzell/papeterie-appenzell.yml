@@ -1,11 +1,11 @@
 id: 240772177
-type: way
+type: node
 latitude: 47.33024
 longitude: 9.4097
 postcode: "9050"
 city: Appenzell
-street: "Poststrasse"
-housenumber: 2
+street: Poststrasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

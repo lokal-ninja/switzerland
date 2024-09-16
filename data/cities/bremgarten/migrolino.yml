@@ -4,8 +4,8 @@ latitude: 47.35562
 longitude: 8.32625
 postcode: "5620"
 city: Bremgarten
-street: "Wohlerstrasse"
-housenumber: 18
+street: Wohlerstrasse
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 05:00-24:00, Su 06:00-24:00"
-website: "https://www.migrolino.ch/de/standorte/shell-bremgarten-fohlenweide/"
+opening_hours: Mo-Sa 05:00-24:00, Su 06:00-24:00
+website: https://www.migrolino.ch/de/standorte/shell-bremgarten-fohlenweide/

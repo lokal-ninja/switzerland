@@ -1,11 +1,11 @@
 id: 311413200
-type: way
+type: node
 latitude: 46.49341
 longitude: 8.27936
 postcode: "3985"
 city: Geschinen
-street: "Furkastrasse"
-housenumber: 754
+street: Furkastrasse
+housenumber: "754"
 phone: ""
 opening_hours: ""
 website: ""

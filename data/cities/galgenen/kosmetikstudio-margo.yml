@@ -4,8 +4,8 @@ latitude: 47.1729
 longitude: 8.8796
 postcode: "8854"
 city: Galgenen
-street: "Merkurstrasse"
-housenumber: 24
+street: Merkurstrasse
+housenumber: "24"
 phone: ""
-opening_hours: "by appointment"
-website: "https://www.kosmetikstudio-margo.com/"
+opening_hours: '"by appointment"'
+website: https://www.kosmetikstudio-margo.com/

@@ -4,8 +4,8 @@ latitude: 47.39022
 longitude: 9.5658
 postcode: "9437"
 city: Marbach
-street: "Flurstrasse"
-housenumber: 2
+street: Flurstrasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:00,14:00-18:30; Sa 09:00-17:00; PH,Su off"
-website: "https://www.moebel-traum.com/"
+opening_hours: Mo-Fr 09:30-12:00,14:00-18:30; Sa 09:00-17:00; PH,Su off
+website: https://www.moebel-traum.com/

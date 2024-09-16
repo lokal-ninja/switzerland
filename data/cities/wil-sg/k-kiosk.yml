@@ -5,7 +5,7 @@ longitude: 9.04244
 postcode: "9500"
 city: Wil SG
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo, We-Fr 07:30-19:00; Tu 07:30-20:00; Sa 07:45-17:00"
-website: "https://www.kkiosk.ch/de/"
+opening_hours: Mo, We-Fr 07:30-19:00; Tu 07:30-20:00; Sa 07:45-17:00
+website: https://www.kkiosk.ch/de/

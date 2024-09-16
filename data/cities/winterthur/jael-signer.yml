@@ -4,8 +4,8 @@ latitude: 47.49835
 longitude: 8.73226
 postcode: "8400"
 city: Winterthur
-street: "Neustadtgasse"
-housenumber: 2
+street: Neustadtgasse
+housenumber: "2"
 phone: ""
-opening_hours: "We-Fr 10:00-18:00; Sa 10:00-16:00"
+opening_hours: We-Fr 10:00-18:00; Sa 10:00-16:00
 website: ""

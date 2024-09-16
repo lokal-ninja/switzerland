@@ -4,8 +4,8 @@ latitude: 47.36095
 longitude: 8.50645
 postcode: "8045"
 city: Zürich
-street: "Schweighofstrasse"
-housenumber: 230
-phone: "044 361 70 70"
-opening_hours: "Mo off; Tu,We,Fr 09:00-18:30; Th 09:00-14:00; Sa 09:00-16:00; Su off"
+street: Schweighofstrasse
+housenumber: "230"
+phone: 044 361 70 70
+opening_hours: Mo off; Tu,We,Fr 09:00-18:30; Th 09:00-14:00; Sa 09:00-16:00; Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 60432017
-type: way
+type: node
 latitude: 46.54634
 longitude: 6.56446
 postcode: "1030"
 city: Bussigny
-street: "Boulevard de l'Arc-en-Ciel"
-housenumber: 45
+street: Boulevard de l'Arc-en-Ciel
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Th 9:00-19:00; Fr 9:00-21:00; Sa 9:00-18:00; Su off"
-website: "https://www.aldi-suisse.ch/"
+opening_hours: Mo-Th 9:00-19:00; Fr 9:00-21:00; Sa 9:00-18:00; Su off
+website: https://www.aldi-suisse.ch/

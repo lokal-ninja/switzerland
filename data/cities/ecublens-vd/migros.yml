@@ -4,8 +4,8 @@ latitude: 46.53425
 longitude: 6.56484
 postcode: "1024"
 city: Ecublens (VD)
-street: "Chemin du Croset"
-housenumber: 7
-phone: "+41 58 573 63 00"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
+street: Chemin du Croset
+housenumber: "7"
+phone: +41 58 573 63 00
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 133910182
-type: way
+type: node
 latitude: 47.74629
 longitude: 8.70546
 postcode: "8240"
 city: Thayngen
-street: "Bahnhofstrasse"
-housenumber: 26
+street: Bahnhofstrasse
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

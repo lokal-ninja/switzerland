@@ -4,8 +4,8 @@ latitude: 47.05783
 longitude: 7.62637
 postcode: "3400"
 city: Burgdorf
-street: "Mühlegasse"
-housenumber: 16
-phone: "+41 34 422 36 39"
-opening_hours: "We-Fr 09:30-12:00,13:30-18:00; Sa 09:30-16:00"
-website: "https://chocolade@quickline.ch"
+street: Mühlegasse
+housenumber: "16"
+phone: +41 34 422 36 39
+opening_hours: We-Fr 09:30-12:00,13:30-18:00; Sa 09:30-16:00
+website: https://chocolade@quickline.ch

@@ -4,8 +4,8 @@ latitude: 47.2296
 longitude: 8.84387
 postcode: "8645"
 city: Jona
-street: "St. Gallerstrasse"
-housenumber: 84
+street: St. Gallerstrasse
+housenumber: "84"
 phone: ""
-opening_hours: "Mo-Fr 05:30-22:00, Sa 07:00-22:00, Su 07:00-21:00"
-website: "https://www.migrolino.ch/de/standorte/socar-jona/"
+opening_hours: Mo-Fr 05:30-22:00, Sa 07:00-22:00, Su 07:00-21:00
+website: https://www.migrolino.ch/de/standorte/socar-jona/

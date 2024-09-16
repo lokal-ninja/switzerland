@@ -4,8 +4,8 @@ latitude: 46.80792
 longitude: 7.103
 postcode: "1720"
 city: Corminboeuf
-street: "Route du Centre"
-housenumber: 13
-phone: "+41  26 475 12 02"
-opening_hours: "Mo-Fr 06:30-18:30; Sa 07:30-12:30; Su 07:30-16:30"
-website: "https://vieux-grenier.ch/"
+street: Route du Centre
+housenumber: "13"
+phone: +41  26 475 12 02
+opening_hours: Mo-Fr 06:30-18:30; Sa 07:30-12:30; Su 07:30-16:30
+website: https://vieux-grenier.ch/

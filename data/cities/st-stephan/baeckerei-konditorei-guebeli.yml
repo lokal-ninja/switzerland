@@ -1,11 +1,11 @@
 id: 210752902
-type: way
+type: node
 latitude: 46.50856
 longitude: 7.39596
 postcode: "3772"
 city: St. Stephan
-street: "Lenkstrasse"
-housenumber: 75
+street: Lenkstrasse
+housenumber: "75"
 phone: ""
 opening_hours: ""
-website: "http://www.baeckerei-guebeli.ch/"
+website: http://www.baeckerei-guebeli.ch/

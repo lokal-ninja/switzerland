@@ -4,8 +4,8 @@ latitude: 47.03585
 longitude: 9.07262
 postcode: "8750"
 city: Glarus
-street: "Kirchweg"
-housenumber: 90
+street: Kirchweg
+housenumber: "90"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.migrol.ch/de/"
+opening_hours: 24/7
+website: https://www.migrol.ch/de/

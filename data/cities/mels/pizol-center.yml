@@ -1,11 +1,11 @@
 id: 43109509
-type: way
+type: node
 latitude: 47.04106
 longitude: 9.43417
 postcode: "8887"
 city: Mels
-street: "Grossfeldstrasse"
-housenumber: 63
+street: Grossfeldstrasse
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Th 08:30-19:00; Fr 08:30-21:00; Sa 08:00-17:00"
+opening_hours: Mo-Th 08:30-19:00; Fr 08:30-21:00; Sa 08:00-17:00
 website: ""

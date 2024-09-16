@@ -4,8 +4,8 @@ latitude: 47.49279
 longitude: 8.25142
 postcode: "5300"
 city: Turgi
-street: "Vogelsangstrasse"
-housenumber: 9
-phone: "+41 76 723 07 71"
-opening_hours: "Tu,We 09:00-19:00; Th 09:00-18:00; Fr 09:00-17:00"
-website: "https://www.salubria.ch/"
+street: Vogelsangstrasse
+housenumber: "9"
+phone: +41 76 723 07 71
+opening_hours: Tu,We 09:00-19:00; Th 09:00-18:00; Fr 09:00-17:00
+website: https://www.salubria.ch/

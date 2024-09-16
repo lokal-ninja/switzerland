@@ -4,8 +4,8 @@ latitude: 47.3649
 longitude: 8.05901
 postcode: "5034"
 city: Suhr
-street: "Bernstrasse-West"
-housenumber: 106
-phone: "+4162 842 77 70"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-17:00"
-website: "https://www.gemuesebau-fischer.ch/"
+street: Bernstrasse-West
+housenumber: "106"
+phone: +4162 842 77 70
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-17:00
+website: https://www.gemuesebau-fischer.ch/

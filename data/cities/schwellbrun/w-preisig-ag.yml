@@ -1,11 +1,11 @@
 id: 308720802
-type: way
+type: node
 latitude: 47.34633
 longitude: 9.26378
 postcode: "9103"
 city: Schwellbrun
-street: "Brisig"
-housenumber: 799
+street: Brisig
+housenumber: "799"
 phone: ""
 opening_hours: ""
 website: ""

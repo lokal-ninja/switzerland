@@ -4,8 +4,8 @@ latitude: 47.38613
 longitude: 8.5043
 postcode: "8048"
 city: Zürich
-street: "Hohlstrasse"
-housenumber: 405
+street: Hohlstrasse
+housenumber: "405"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://www.brockisiril.ch/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://www.brockisiril.ch/

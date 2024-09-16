@@ -4,8 +4,8 @@ latitude: 47.51689
 longitude: 8.36509
 postcode: "5425"
 city: Schneisingen
-street: "Dorfstrasse"
-housenumber: 9
+street: Dorfstrasse
+housenumber: "9"
 phone: ""
-opening_hours: "07:30-12:15,14:00-18:30; Sa 07:30-16:00; Su off"
+opening_hours: 07:30-12:15,14:00-18:30; Sa 07:30-16:00; Su off
 website: ""

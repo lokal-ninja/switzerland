@@ -4,8 +4,8 @@ latitude: 47.55718
 longitude: 8.89515
 postcode: "8500"
 city: Frauenfeld
-street: "Bahnhofplatz"
-housenumber: 65
+street: Bahnhofplatz
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00; PH closed"
-website: "https://www.depot-online.com/ch/de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00; PH closed
+website: https://www.depot-online.com/ch/de/

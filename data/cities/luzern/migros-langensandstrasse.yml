@@ -4,8 +4,8 @@ latitude: 47.03742
 longitude: 8.32825
 postcode: "6005"
 city: Luzern
-street: "Langensandstrasse"
-housenumber: 23
+street: Langensandstrasse
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Th 08:30-19:00, Fr 08:30-21:00, Sa 08:00-17:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-luzern-schoenbuehl"
+opening_hours: Mo-Th 08:30-19:00, Fr 08:30-21:00, Sa 08:00-17:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-luzern-schoenbuehl

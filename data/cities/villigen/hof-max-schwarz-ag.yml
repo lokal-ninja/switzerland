@@ -4,8 +4,8 @@ latitude: 47.52687
 longitude: 8.2177
 postcode: "5234"
 city: Villigen
-street: "Schürmattstrasse"
-housenumber: 4
-phone: "+41 56 297 87 17"
-opening_hours: "Fr 16:30-18:30"
-website: "https://www.schwarz.ch/de/gemuesebau"
+street: Schürmattstrasse
+housenumber: "4"
+phone: +41 56 297 87 17
+opening_hours: Fr 16:30-18:30
+website: https://www.schwarz.ch/de/gemuesebau

@@ -4,8 +4,8 @@ latitude: 46.72461
 longitude: 6.5986
 postcode: "1433"
 city: Suchy
-street: "Route d'Ependes"
-housenumber: 4
-phone: "+41 79 361 62 66"
-opening_hours: "Sur rendez-vous"
-website: "https://fermealanoix.ch/"
+street: Route d'Ependes
+housenumber: "4"
+phone: +41 79 361 62 66
+opening_hours: '"Sur rendez-vous"'
+website: https://fermealanoix.ch/

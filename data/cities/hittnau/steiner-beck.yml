@@ -4,8 +4,8 @@ latitude: 47.36306
 longitude: 8.82526
 postcode: "8335"
 city: Hittnau
-street: "Jakob Stutz-Strasse"
-housenumber: 75
+street: Jakob Stutz-Strasse
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:30-16:00; Su 07:30-17:00"
-website: "https://www.steiner-beck.ch/filialen/hittnau/"
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:30-16:00; Su 07:30-17:00
+website: https://www.steiner-beck.ch/filialen/hittnau/

@@ -4,8 +4,8 @@ latitude: 47.49962
 longitude: 8.72095
 postcode: "8400"
 city: Winterthur
-street: "Strickerstrasse"
-housenumber: 3
+street: Strickerstrasse
+housenumber: "3"
 phone: "+41525517071"
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-18:00; PH off"
-website: "https://www.decathlon.ch/de/store-view/filiale-winterthur-neuwiesen-0070275702757"
+opening_hours: Mo-Fr 08:30-20:00; Sa 08:30-18:00; PH off
+website: https://www.decathlon.ch/de/store-view/filiale-winterthur-neuwiesen-0070275702757

@@ -1,11 +1,11 @@
 id: 258784156
-type: way
-latitude: 47.49084
+type: node
+latitude: 47.49087
 longitude: 8.86618
 postcode: "8353"
 city: Elgg
-street: "Poststrasse"
-housenumber: 4
+street: Poststrasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

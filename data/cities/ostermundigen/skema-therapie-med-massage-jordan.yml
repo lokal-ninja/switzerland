@@ -4,8 +4,8 @@ latitude: 46.95593
 longitude: 7.48317
 postcode: "3072"
 city: Ostermundigen
-street: "Bernstrasse"
-housenumber: 28
-phone: "+41 76 214 49 66"
-opening_hours: "Verfügbarkeiten online einsehbar: https://www.onedoc.ch/de/medizinischer-masseur-massage/ostermundigen/pcc46/sebastian-jordan"
-website: "https://www.medmassagejordan.ch"
+street: Bernstrasse
+housenumber: "28"
+phone: +41 76 214 49 66
+opening_hours: '"Verfügbarkeiten online einsehbar: https://www.onedoc.ch/de/medizinischer-masseur-massage/ostermundigen/pcc46/sebastian-jordan"'
+website: https://www.medmassagejordan.ch

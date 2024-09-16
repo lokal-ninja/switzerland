@@ -4,8 +4,8 @@ latitude: 47.40826
 longitude: 8.54646
 postcode: "8050"
 city: Zürich
-street: "Schaffhauserstrasse"
-housenumber: 333
+street: Schaffhauserstrasse
+housenumber: "333"
 phone: ""
 opening_hours: ""
-website: "https://www.pacificsun.ch/"
+website: https://www.pacificsun.ch/

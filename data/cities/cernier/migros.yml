@@ -1,11 +1,11 @@
 id: 161457635
-type: way
+type: node
 latitude: 47.05806
 longitude: 6.90148
 postcode: "2053"
 city: Cernier
-street: "Rue de Comble-Emine"
-housenumber: 5
-phone: "+41 58 573 18 50"
-opening_hours: "Mo-We 08:00-19:00; Th 08:00-20:00; Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://filialen.migros.ch/fr/supermarche-migros-cernier"
+street: Rue de Comble-Emine
+housenumber: "5"
+phone: +41 58 573 18 50
+opening_hours: Mo-We 08:00-19:00; Th 08:00-20:00; Fr 08:00-19:00; Sa 08:00-18:00
+website: https://filialen.migros.ch/fr/supermarche-migros-cernier

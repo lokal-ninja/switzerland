@@ -1,11 +1,11 @@
 id: 30349099
-type: way
+type: node
 latitude: 47.26415
 longitude: 8.66442
 postcode: "8706"
 city: Meilen
-street: "Im Dörfli"
-housenumber: 24
+street: Im Dörfli
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

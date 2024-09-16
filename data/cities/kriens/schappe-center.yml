@@ -1,11 +1,11 @@
 id: 30111434
-type: way
+type: node
 latitude: 47.03452
 longitude: 8.27288
 postcode: "6010"
 city: Kriens
-street: "Obernauerstrasse"
-housenumber: 16
+street: Obernauerstrasse
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

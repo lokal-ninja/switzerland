@@ -4,8 +4,8 @@ latitude: 47.49803
 longitude: 8.72463
 postcode: "8400"
 city: Winterthur
-street: "Archplatz"
-housenumber: 2
+street: Archplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.only.com/ch/de/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.only.com/ch/de/

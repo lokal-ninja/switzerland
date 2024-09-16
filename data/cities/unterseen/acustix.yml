@@ -1,11 +1,11 @@
 id: 170224580
-type: way
+type: node
 latitude: 46.68672
 longitude: 7.85012
 postcode: "3800"
 city: Unterseen
-street: "Untere Gasse"
-housenumber: 13
+street: Untere Gasse
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00,13:30-18:00; Fr 08:00-12:00,13:30-17:30"
-website: "http://www.acoustix.ch"
+opening_hours: Mo-Th 08:00-12:00,13:30-18:00; Fr 08:00-12:00,13:30-17:30
+website: http://www.acoustix.ch

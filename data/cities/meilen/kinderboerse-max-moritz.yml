@@ -4,8 +4,8 @@ latitude: 47.26933
 longitude: 8.64647
 postcode: "8706"
 city: Meilen
-street: "Stelzenweg"
-housenumber: 44
+street: Stelzenweg
+housenumber: "44"
 phone: ""
-opening_hours: "Tu-Fr 09:00-11:30; We[1,3] 14:00-16:00"
-website: "https://www.maxundmoritzmeilen.ch/"
+opening_hours: Tu-Fr 09:00-11:30; We[1,3] 14:00-16:00
+website: https://www.maxundmoritzmeilen.ch/

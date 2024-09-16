@@ -4,8 +4,8 @@ latitude: 47.48352
 longitude: 7.73547
 postcode: "4410"
 city: Liestal
-street: "Rathausstrasse"
-housenumber: 59
+street: Rathausstrasse
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00; Su off"
-website: "https://www.swisscom.ch/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00; Su off
+website: https://www.swisscom.ch/

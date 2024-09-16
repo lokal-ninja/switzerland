@@ -4,8 +4,8 @@ latitude: 47.40878
 longitude: 9.63946
 postcode: "9443"
 city: Widnau
-street: "Rheinstrasse"
-housenumber: 38
+street: Rheinstrasse
+housenumber: "38"
 phone: "+41717220226"
-opening_hours: "Mo-Fr 05:45-12:15,14:00-18:30; Sa,Su 05:45-12:15"
-website: "https://schwyter.com/"
+opening_hours: Mo-Fr 05:45-12:15,14:00-18:30; Sa,Su 05:45-12:15
+website: https://schwyter.com/

@@ -1,11 +1,11 @@
 id: 155867388
-type: way
+type: node
 latitude: 46.85502
 longitude: 8.64606
 postcode: "6467"
 city: Schattdorf
-street: "Militärstrasse"
-housenumber: 9
+street: Militärstrasse
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Th 08:30-18:30; Fr 08:30-19:00; Sa 08:00-17:00"
-website: "https://www.tellpark.ch/"
+opening_hours: Mo-Th 08:30-18:30; Fr 08:30-19:00; Sa 08:00-17:00
+website: https://www.tellpark.ch/

@@ -4,8 +4,9 @@ latitude: 47.54389
 longitude: 7.55062
 postcode: "4123"
 city: Allschwil
-street: "Herrenweg"
-housenumber: 72
-phone: "+41 61 302 03 86"
-opening_hours: "Mi 09:00-14:00, Sa 09:00-16:00, Während der Schulferien nur  bis 14 Uhr."
+street: Herrenweg
+housenumber: "72"
+phone: +41 61 302 03 86
+opening_hours: Mi 09:00-14:00, Sa 09:00-16:00, Während der Schulferien nur  bis 14
+    Uhr.
 website: ""

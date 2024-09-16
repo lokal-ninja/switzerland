@@ -4,8 +4,8 @@ latitude: 47.37535
 longitude: 8.53807
 postcode: "8001"
 city: Zürich
-street: "Lintheschergasse"
-housenumber: 7
+street: Lintheschergasse
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00, Sa 09:00-20:00; PH off"
-website: "https://modebayard.ch/de/places/6094"
+opening_hours: Mo-Fr 10:00-20:00, Sa 09:00-20:00; PH off
+website: https://modebayard.ch/de/places/6094

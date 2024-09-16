@@ -4,8 +4,8 @@ latitude: 47.10335
 longitude: 6.83214
 postcode: "2300"
 city: La Chaux-de-Fonds
-street: "Rue de l'Hôtel-de-Ville"
-housenumber: 5
-phone: "+41 32 968 65 84"
-opening_hours: "Mo 14:00-18:30; Tu-Fr 09:00-12:00,14:00-18:30; Sa 09:00-17:00"
-website: "https://www.mdm.ch/magasins/la-chaux-de-fonds"
+street: Rue de l'Hôtel-de-Ville
+housenumber: "5"
+phone: +41 32 968 65 84
+opening_hours: Mo 14:00-18:30; Tu-Fr 09:00-12:00,14:00-18:30; Sa 09:00-17:00
+website: https://www.mdm.ch/magasins/la-chaux-de-fonds

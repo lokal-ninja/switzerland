@@ -4,8 +4,8 @@ latitude: 46.95517
 longitude: 7.4337
 postcode: "3012"
 city: Bern
-street: "Zähringerstrasse"
-housenumber: 43
+street: Zähringerstrasse
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Th 08:00-20:00, Fr 08:00-21:00, Sa 08:00-17:00; PH off"
+opening_hours: Mo-Th 08:00-20:00, Fr 08:00-21:00, Sa 08:00-17:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 413556014
-type: way
+type: node
 latitude: 46.83181
 longitude: 7.40346
 postcode: "3089"
 city: Hinterfultigen
-street: "Rossgrabenstrasse"
-housenumber: 6
-phone: "+41 79 347 82 94"
+street: Rossgrabenstrasse
+housenumber: "6"
+phone: +41 79 347 82 94
 opening_hours: ""
-website: "https://www.gaertnereischneider.ch"
+website: https://www.gaertnereischneider.ch

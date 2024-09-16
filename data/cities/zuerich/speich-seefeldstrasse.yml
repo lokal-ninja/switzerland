@@ -4,8 +4,8 @@ latitude: 47.35656
 longitude: 8.55587
 postcode: "8008"
 city: Zürich
-street: "Seefeldstrasse"
-housenumber: 147
+street: Seefeldstrasse
+housenumber: "147"
 phone: ""
 opening_hours: ""
-website: "https://speich.ch/"
+website: https://speich.ch/

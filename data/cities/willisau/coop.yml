@@ -4,8 +4,8 @@ latitude: 47.12745
 longitude: 7.99711
 postcode: "6130"
 city: Willisau
-street: "Ettiswilerstrasse"
-housenumber: 37
-phone: "+41 41 970 29 69"
-opening_hours: "Mo-Th 07:30-19:00; Fr 07:30-21:00; Sa 07:30-17:00; PH off"
-website: "https://www.coop.ch/de/standorte/coop-supermarkt-willisau/1970_POS"
+street: Ettiswilerstrasse
+housenumber: "37"
+phone: +41 41 970 29 69
+opening_hours: Mo-Th 07:30-19:00; Fr 07:30-21:00; Sa 07:30-17:00; PH off
+website: https://www.coop.ch/de/standorte/coop-supermarkt-willisau/1970_POS

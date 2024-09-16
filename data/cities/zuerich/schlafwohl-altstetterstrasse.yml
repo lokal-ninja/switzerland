@@ -4,8 +4,8 @@ latitude: 47.37792
 longitude: 8.48307
 postcode: "8047"
 city: Zürich
-street: "Altstetterstrasse"
-housenumber: 294
+street: Altstetterstrasse
+housenumber: "294"
 phone: ""
-opening_hours: "Tu-Fr 10:00-12:30,13:30-19:00; Sa 09:00-17:00"
-website: "https://www.schlafwohl.ch/bettenfachgeschaeft/alle-filialen/zuerich-albisrieden"
+opening_hours: Tu-Fr 10:00-12:30,13:30-19:00; Sa 09:00-17:00
+website: https://www.schlafwohl.ch/bettenfachgeschaeft/alle-filialen/zuerich-albisrieden

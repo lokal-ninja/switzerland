@@ -4,8 +4,8 @@ latitude: 47.22907
 longitude: 8.82064
 postcode: "8640"
 city: Rapperswil
-street: "Zürcherstrasse"
-housenumber: 4
+street: Zürcherstrasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00"
-website: "https://www.hotelplan.ch/hotelplan-rapperswil"
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00
+website: https://www.hotelplan.ch/hotelplan-rapperswil

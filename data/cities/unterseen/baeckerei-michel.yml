@@ -1,11 +1,11 @@
 id: 170257074
-type: way
+type: node
 latitude: 46.68534
 longitude: 7.84802
 postcode: "3800"
 city: Unterseen
-street: "Scheidgasse"
-housenumber: 2
+street: Scheidgasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-16:00"
-website: "https://www.baeckerei-michel.ch/"
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-16:00
+website: https://www.baeckerei-michel.ch/

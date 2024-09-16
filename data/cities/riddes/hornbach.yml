@@ -1,11 +1,11 @@
 id: 301677655
-type: way
+type: node
 latitude: 46.16496
 longitude: 7.20896
 postcode: "1908"
 city: Riddes
-street: "Les Babioux"
-housenumber: 1
-phone: "+41 27 720 80 00"
-opening_hours: "Mo-Th 07:00-18:30; Fr 07:00-21:00; Sa 07:00-17:00"
-website: "https://www.hornbach.ch/"
+street: Les Babioux
+housenumber: "1"
+phone: +41 27 720 80 00
+opening_hours: Mo-Th 07:00-18:30; Fr 07:00-21:00; Sa 07:00-17:00
+website: https://www.hornbach.ch/

@@ -4,8 +4,8 @@ latitude: 46.52704
 longitude: 6.61622
 postcode: "1004"
 city: Lausanne
-street: "Avenue Frédéric Recordon"
-housenumber: 16
-phone: "+41 21 624 24 88"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-18:30; Sa 09:00-12:00,14:00-17:00"
-website: "https://vauchercycles.ch/"
+street: Avenue Frédéric Recordon
+housenumber: "16"
+phone: +41 21 624 24 88
+opening_hours: Tu-Fr 09:00-12:00,14:00-18:30; Sa 09:00-12:00,14:00-17:00
+website: https://vauchercycles.ch/

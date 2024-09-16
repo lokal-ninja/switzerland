@@ -1,11 +1,11 @@
 id: 237899314
-type: way
+type: node
 latitude: 46.60122
 longitude: 10.42392
 postcode: "7536"
 city: Sta. Maria Val Müstair
-street: "Via Plattamala"
-housenumber: 4
+street: Via Plattamala
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "http://www.antik-schreiner.com"
+website: http://www.antik-schreiner.com

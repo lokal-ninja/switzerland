@@ -1,11 +1,11 @@
 id: 207740685
-type: way
+type: node
 latitude: 46.82802
 longitude: 7.15045
 postcode: "1763"
 city: Granges-Paccot
-street: "Route d'Englisberg"
-housenumber: 4
-phone: "+41 26 460 28 28"
+street: Route d'Englisberg
+housenumber: "4"
+phone: +41 26 460 28 28
 opening_hours: ""
-website: "http://www.rgautomobiles.ch"
+website: http://www.rgautomobiles.ch

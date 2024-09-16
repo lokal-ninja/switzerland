@@ -1,11 +1,11 @@
 id: 186958776
-type: way
+type: node
 latitude: 46.81854
 longitude: 7.3389
 postcode: "3150"
 city: Schwarzenburg
-street: "Leimern"
-housenumber: 59
+street: Leimern
+housenumber: "59"
 phone: ""
 opening_hours: ""
-website: "https://www.haararchitektur.ch/"
+website: https://www.haararchitektur.ch/

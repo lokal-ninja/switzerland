@@ -4,8 +4,8 @@ latitude: 46.94798
 longitude: 7.44465
 postcode: "3011"
 city: Bern
-street: "Marktgasse"
-housenumber: 55
+street: Marktgasse
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-17:00"
-website: "https://www.zweiblatt.ch/"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-17:00
+website: https://www.zweiblatt.ch/

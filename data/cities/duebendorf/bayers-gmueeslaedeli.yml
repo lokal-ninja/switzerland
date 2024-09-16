@@ -4,8 +4,8 @@ latitude: 47.38624
 longitude: 8.61287
 postcode: "8600"
 city: Dübendorf
-street: "Untere Geerenstrasse"
-housenumber: 49
+street: Untere Geerenstrasse
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-19:00; Su 09:00-19:00"
-website: "http://gmüeslädeli.ch/"
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-19:00; Su 09:00-19:00
+website: http://gmüeslädeli.ch/

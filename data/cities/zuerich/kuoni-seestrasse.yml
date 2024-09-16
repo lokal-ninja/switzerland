@@ -4,8 +4,8 @@ latitude: 47.36489
 longitude: 8.53178
 postcode: "8002"
 city: Zürich
-street: "Seestrasse"
-housenumber: 15
+street: Seestrasse
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30"
-website: "https://www.kuoni.ch/beratung/kuoni-reisebuero-zuerich-enge/"
+opening_hours: Mo-Fr 08:30-18:30
+website: https://www.kuoni.ch/beratung/kuoni-reisebuero-zuerich-enge/

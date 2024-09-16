@@ -1,11 +1,11 @@
 id: 418576835
-type: way
+type: node
 latitude: 47.54917
 longitude: 9.23068
 postcode: "8586"
 city: Erlen
-street: "Poststrasse"
-housenumber: 16
+street: Poststrasse
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

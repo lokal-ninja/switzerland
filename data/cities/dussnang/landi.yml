@@ -1,11 +1,11 @@
 id: 282042837
-type: way
+type: node
 latitude: 47.43091
 longitude: 8.95591
 postcode: "8374"
 city: Dussnang
-street: "Tanneggerstrasse"
-housenumber: 4
-phone: "+41 71 973 99 02"
+street: Tanneggerstrasse
+housenumber: "4"
+phone: +41 71 973 99 02
 opening_hours: ""
-website: "http://www.landitannzapfenland.ch/"
+website: http://www.landitannzapfenland.ch/

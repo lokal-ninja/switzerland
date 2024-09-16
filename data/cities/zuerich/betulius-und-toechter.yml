@@ -4,8 +4,8 @@ latitude: 47.37235
 longitude: 8.51298
 postcode: "8003"
 city: Zürich
-street: "Gertrudstrasse"
-housenumber: 68
-phone: "+41 44 451 89 70"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
-website: "https://www.betuliusundtoechter.ch"
+street: Gertrudstrasse
+housenumber: "68"
+phone: +41 44 451 89 70
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
+website: https://www.betuliusundtoechter.ch

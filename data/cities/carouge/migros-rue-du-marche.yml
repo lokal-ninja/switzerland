@@ -4,8 +4,9 @@ latitude: 46.18344
 longitude: 6.14105
 postcode: "1227"
 city: Carouge
-street: "Rue du Marché"
-housenumber: 16
+street: Rue du Marché
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-We 07:30-19:00; Th 07:30-20:00; Fr 07:30-19:30; Sa 07:30-18:00; Su off"
+opening_hours: Mo-We 07:30-19:00; Th 07:30-20:00; Fr 07:30-19:30; Sa 07:30-18:00;
+    Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 27438901
-type: way
+type: node
 latitude: 47.40603
 longitude: 8.72492
 postcode: "8308"
 city: Illnau
-street: "Länggstrasse"
-housenumber: 15
+street: Länggstrasse
+housenumber: "15"
 phone: ""
-opening_hours: "We-Fr 14:00-18:00, Sa 10:00-16:00"
-website: "https://www.seekajak.ch"
+opening_hours: We-Fr 14:00-18:00, Sa 10:00-16:00
+website: https://www.seekajak.ch

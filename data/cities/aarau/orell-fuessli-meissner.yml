@@ -4,8 +4,8 @@ latitude: 47.39145
 longitude: 8.04809
 postcode: "5000"
 city: Aarau
-street: "Bahnhofstrasse"
-housenumber: 41
+street: Bahnhofstrasse
+housenumber: "41"
 phone: "+41628370844"
-opening_hours: "Mo-We,Fr 09:00-18:30; Th 09:00-20:00; Sa 09:00-17:00"
-website: "https://www.orellfuessli.ch/"
+opening_hours: Mo-We,Fr 09:00-18:30; Th 09:00-20:00; Sa 09:00-17:00
+website: https://www.orellfuessli.ch/

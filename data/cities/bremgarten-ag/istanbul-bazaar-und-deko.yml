@@ -4,8 +4,9 @@ latitude: 47.35129
 longitude: 8.34191
 postcode: "5620"
 city: Bremgarten AG
-street: "Marktgasse"
-housenumber: 11
-phone: "+41 77 542 60 89"
-opening_hours: "Tu-We 10:00-12:00,14:00-18:30; Th 10:00-12:00; Fr 10:00-12:00,14:00-18:30; Sa 09:00-16:00"
+street: Marktgasse
+housenumber: "11"
+phone: +41 77 542 60 89
+opening_hours: Tu-We 10:00-12:00,14:00-18:30; Th 10:00-12:00; Fr 10:00-12:00,14:00-18:30;
+    Sa 09:00-16:00
 website: ""

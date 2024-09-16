@@ -1,11 +1,11 @@
 id: 565064629
-type: way
+type: node
 latitude: 47.40017
 longitude: 8.47719
 postcode: "8064"
 city: Zürich
-street: "Paul-Pflüger-Strasse"
-housenumber: 11
+street: Paul-Pflüger-Strasse
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

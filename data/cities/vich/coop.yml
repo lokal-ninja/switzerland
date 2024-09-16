@@ -1,11 +1,11 @@
 id: 31432521
-type: way
+type: node
 latitude: 46.42477
 longitude: 6.25454
 postcode: "1267"
 city: Vich
-street: "Chemin de la Bichette"
-housenumber: 4
-phone: "+41 22 304 59 80"
+street: Chemin de la Bichette
+housenumber: "4"
+phone: +41 22 304 59 80
 opening_hours: ""
-website: "https://www.coop.ch/fr/magasins/coop-supermarche-vich/4817_POS"
+website: https://www.coop.ch/fr/magasins/coop-supermarche-vich/4817_POS

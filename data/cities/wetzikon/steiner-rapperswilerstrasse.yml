@@ -4,8 +4,8 @@ latitude: 47.31778
 longitude: 8.793
 postcode: "8620"
 city: Wetzikon
-street: "Rapperswilerstrasse"
-housenumber: 6
+street: Rapperswilerstrasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 05:15-19:00, Sa 05:15-16:00; PH off"
-website: "https://www.steiner-beck.ch/filialen/wetzikon-unterwetzikon/"
+opening_hours: Mo-Fr 05:15-19:00, Sa 05:15-16:00; PH off
+website: https://www.steiner-beck.ch/filialen/wetzikon-unterwetzikon/

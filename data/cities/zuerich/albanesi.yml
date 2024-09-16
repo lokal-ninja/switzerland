@@ -4,8 +4,8 @@ latitude: 47.37731
 longitude: 8.53836
 postcode: "8001"
 city: Zürich
-street: "Bahnhofplatz"
-housenumber: 12
+street: Bahnhofplatz
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-21:00; Su 09:30-20:00"
-website: "https://www.albanesigroup.ch/"
+opening_hours: Mo-Fr 07:00-20:00; Sa 08:00-21:00; Su 09:30-20:00
+website: https://www.albanesigroup.ch/

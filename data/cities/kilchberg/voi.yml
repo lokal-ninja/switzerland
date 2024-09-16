@@ -4,8 +4,8 @@ latitude: 47.32383
 longitude: 8.54859
 postcode: "8802"
 city: Kilchberg
-street: "Bahnhofstrasse"
-housenumber: 3
+street: Bahnhofstrasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.voi-migrospartner.ch/de-CH/filialen#voi-voi-kilchberg"
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.voi-migrospartner.ch/de-CH/filialen#voi-voi-kilchberg

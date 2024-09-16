@@ -4,8 +4,8 @@ latitude: 46.90025
 longitude: 7.40241
 postcode: "3144"
 city: Köniz
-street: "Mattenhausweg"
-housenumber: 5
+street: Mattenhausweg
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-11:00, 15:00-17:00; Sa-Su off"
-website: "https://www.capriccio-gasel.ch/"
+opening_hours: Mo-Fr 09:00-11:00, 15:00-17:00; Sa-Su off
+website: https://www.capriccio-gasel.ch/

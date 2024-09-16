@@ -4,8 +4,10 @@ latitude: 46.9076
 longitude: 7.63722
 postcode: "3506"
 city: Grosshöchstetten
-street: "Bernstrasse"
-housenumber: 5
+street: Bernstrasse
+housenumber: "5"
 phone: ""
-opening_hours: "There is an sign Öffnungszeiten nach Absprache. Der Inhaber des Betriebes ist aber bereits pensioniert, ich denke, offiziell existiert der Betrieb nicht mehr."
+opening_hours: '"There is an sign Öffnungszeiten nach Absprache. Der Inhaber des Betriebes
+    ist aber bereits pensioniert, ich denke, offiziell existiert der Betrieb nicht
+    mehr."'
 website: ""

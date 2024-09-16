@@ -4,8 +4,8 @@ latitude: 47.38076
 longitude: 8.09145
 postcode: "5034"
 city: Suhr
-street: "Spittelweg"
-housenumber: 1
-phone: "+41 62 842 42 59"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "http://www.aperto.ch/"
+street: Spittelweg
+housenumber: "1"
+phone: +41 62 842 42 59
+opening_hours: Mo-Su 06:00-22:00
+website: http://www.aperto.ch/

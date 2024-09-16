@@ -4,8 +4,8 @@ latitude: 47.25368
 longitude: 8.76332
 postcode: "8634"
 city: Hombrechtikon
-street: "Chilehof"
-housenumber: 4
+street: Chilehof
+housenumber: "4"
 phone: ""
-opening_hours: "24/7"
-website: "http://www.chilehof.ch"
+opening_hours: 24/7
+website: http://www.chilehof.ch

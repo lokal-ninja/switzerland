@@ -1,11 +1,11 @@
 id: 25808766
-type: way
+type: node
 latitude: 47.20651
 longitude: 8.70575
 postcode: "8805"
 city: Richterswil
-street: "Schützengass"
-housenumber: 4
-phone: "+41 44 784 01 93"
-opening_hours: "Mo-Fr 07:30-20:00, Sa 07:30-18:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-richterswil"
+street: Schützengass
+housenumber: "4"
+phone: +41 44 784 01 93
+opening_hours: Mo-Fr 07:30-20:00, Sa 07:30-18:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-richterswil

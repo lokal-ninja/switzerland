@@ -4,8 +4,8 @@ latitude: 46.5301
 longitude: 6.6321
 postcode: "1018"
 city: Lausanne
-street: "Rue de la Borde"
+street: Rue de la Borde
 housenumber: 26bis
-phone: "+41 21 333 51 80"
-opening_hours: "Mo-Fr 08:00-18:45; Sa 08:00-18:00"
-website: "https://www.bricoetloisirs.ch/points-de-vente/lausanne/s/2010_POS"
+phone: +41 21 333 51 80
+opening_hours: Mo-Fr 08:00-18:45; Sa 08:00-18:00
+website: https://www.bricoetloisirs.ch/points-de-vente/lausanne/s/2010_POS

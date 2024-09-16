@@ -1,11 +1,11 @@
 id: 345479019
-type: way
+type: node
 latitude: 46.28283
 longitude: 7.07237
 postcode: "1882"
 city: Gryon
-street: "Place de Barboleuse"
-housenumber: 7
-phone: "+41 24 498 2520"
-opening_hours: "Mo-Sa 07:40-18:30; Su 07:40-12:00; Dec 20-Mar 31 Su 07:40-12:00, 14:00-17:30"
+street: Place de Barboleuse
+housenumber: "7"
+phone: +41 24 498 2520
+opening_hours: Mo-Sa 07:40-18:30; Su 07:40-12:00; Dec 20-Mar 31 Su 07:40-12:00, 14:00-17:30
 website: ""

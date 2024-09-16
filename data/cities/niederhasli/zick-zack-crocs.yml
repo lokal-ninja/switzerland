@@ -4,8 +4,8 @@ latitude: 47.48119
 longitude: 8.48681
 postcode: "8155"
 city: Niederhasli
-street: "Zentrumweg"
-housenumber: 1
-phone: "+41 44 850 50 27"
-opening_hours: "Tu-Fr 14:00-16:30"
-website: "https://www.zick-und-zack.ch/"
+street: Zentrumweg
+housenumber: "1"
+phone: +41 44 850 50 27
+opening_hours: Tu-Fr 14:00-16:30
+website: https://www.zick-und-zack.ch/

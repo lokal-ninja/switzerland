@@ -4,8 +4,8 @@ latitude: 46.22286
 longitude: 7.30453
 postcode: "1964"
 city: Conthey
-street: "Route des Rottes"
-housenumber: 38
+street: Route des Rottes
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Th 07:30-18:30; Fr 07:30-21:00; Sa 07:30-17:00"
-website: "https://www.lidl.ch/"
+opening_hours: Mo-Th 07:30-18:30; Fr 07:30-21:00; Sa 07:30-17:00
+website: https://www.lidl.ch/

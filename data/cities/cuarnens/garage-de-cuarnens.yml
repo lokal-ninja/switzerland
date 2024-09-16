@@ -1,11 +1,11 @@
 id: 148665956
-type: way
+type: node
 latitude: 46.62478
 longitude: 6.4421
 postcode: "1148"
 city: Cuarnens
-street: "Route de Cossonay"
-housenumber: 8
+street: Route de Cossonay
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

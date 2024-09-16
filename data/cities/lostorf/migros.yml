@@ -4,8 +4,8 @@ latitude: 47.38287
 longitude: 7.94768
 postcode: "4654"
 city: Lostorf
-street: "Hauptstrasse"
-housenumber: 20
+street: Hauptstrasse
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30, Sa 08:00-17:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-lostorf"
+opening_hours: Mo-Fr 08:00-18:30, Sa 08:00-17:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-lostorf

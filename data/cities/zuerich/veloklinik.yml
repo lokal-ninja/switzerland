@@ -4,8 +4,8 @@ latitude: 47.39404
 longitude: 8.4877
 postcode: "8048"
 city: Zürich
-street: "Herostrasse"
-housenumber: 7
-phone: "+41 78 776 60 89"
-opening_hours: "Tu 16:00-19:00; We 16:00-19:00; Th 16:00-19:00; Fr 10:00-16:00"
-website: "https://www.velo-klinik.ch/"
+street: Herostrasse
+housenumber: "7"
+phone: +41 78 776 60 89
+opening_hours: Tu 16:00-19:00; We 16:00-19:00; Th 16:00-19:00; Fr 10:00-16:00
+website: https://www.velo-klinik.ch/

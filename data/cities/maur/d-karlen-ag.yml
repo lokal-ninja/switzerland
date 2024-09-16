@@ -1,11 +1,11 @@
 id: 87997167
-type: way
+type: node
 latitude: 47.34005
 longitude: 8.66846
 postcode: "8124"
 city: Maur
-street: "Zürichstrasse"
-housenumber: 5
+street: Zürichstrasse
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

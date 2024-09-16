@@ -4,8 +4,8 @@ latitude: 47.49296
 longitude: 8.71566
 postcode: "8400"
 city: Winterthur
-street: "Tössfeldstrasse"
-housenumber: 21
+street: Tössfeldstrasse
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30"
-website: "https://www.ladenbistro-toessfeld.ch/"
+opening_hours: Mo-Fr 09:00-18:30
+website: https://www.ladenbistro-toessfeld.ch/

@@ -4,8 +4,8 @@ latitude: 47.37098
 longitude: 8.53858
 postcode: "8001"
 city: Zürich
-street: "Bahnhofstrasse"
-housenumber: 31
+street: Bahnhofstrasse
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-17:00"
-website: "https://www.breguet.com/"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-17:00
+website: https://www.breguet.com/

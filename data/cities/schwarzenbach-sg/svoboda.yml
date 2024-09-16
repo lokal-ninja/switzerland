@@ -1,11 +1,11 @@
 id: 197404727
-type: way
+type: node
 latitude: 47.44365
 longitude: 9.07549
 postcode: "9536"
 city: Schwarzenbach SG
-street: "Wilerstrasse"
-housenumber: 47
-phone: "+41 (0)71 929 09 09"
-opening_hours: "Mo-Fr 08:00-18:30; Tu 08:00-21:00; Sa 08:00-17:00; PH off"
-website: "https://www.svoboda.ch/"
+street: Wilerstrasse
+housenumber: "47"
+phone: +41 (0)71 929 09 09
+opening_hours: Mo-Fr 08:00-18:30; Tu 08:00-21:00; Sa 08:00-17:00; PH off
+website: https://www.svoboda.ch/

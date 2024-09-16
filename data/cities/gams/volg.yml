@@ -4,8 +4,8 @@ latitude: 47.20394
 longitude: 9.4426
 postcode: "9473"
 city: Gams
-street: "Haagerstrasse"
-housenumber: 4
+street: Haagerstrasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Th 06:00-19:00; Fr 06:00-20:00; Sa 06:00-17:00"
-website: "https://www.volg.ch/"
+opening_hours: Mo-Th 06:00-19:00; Fr 06:00-20:00; Sa 06:00-17:00
+website: https://www.volg.ch/

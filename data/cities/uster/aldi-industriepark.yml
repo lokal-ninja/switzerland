@@ -1,11 +1,11 @@
 id: 110656633
-type: way
+type: node
 latitude: 47.3579
 longitude: 8.70839
 postcode: "8610"
 city: Uster
-street: "Industriepark"
-housenumber: 10
+street: Industriepark
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00; PH off"
-website: "https://www.aldi-suisse.ch/"
+opening_hours: Mo-Sa 07:30-20:00; PH off
+website: https://www.aldi-suisse.ch/

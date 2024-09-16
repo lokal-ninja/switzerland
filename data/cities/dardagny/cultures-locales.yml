@@ -1,11 +1,11 @@
 id: 260117549
-type: way
+type: node
 latitude: 46.1974
 longitude: 5.99265
 postcode: "1283"
 city: Dardagny
-street: "Route du Mandement"
-housenumber: 548
-phone: "+41 78 881 78 15"
-opening_hours: "week 13-week 51 We-Fr 13:00-18:00+, Sa 09:00-13:00"
-website: "https://www.cultureslocales.ch"
+street: Route du Mandement
+housenumber: "548"
+phone: +41 78 881 78 15
+opening_hours: week 13-week 51 We-Fr 13:00-18:00+, Sa 09:00-13:00
+website: https://www.cultureslocales.ch

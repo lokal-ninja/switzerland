@@ -4,8 +4,8 @@ latitude: 47.3632
 longitude: 8.54945
 postcode: "8008"
 city: Zürich
-street: "Seefeldstrasse"
-housenumber: 34
+street: Seefeldstrasse
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Fr 07:00-15:00"
-website: "https://www.backparadies.ch/standorte/zuerich/seefeld"
+opening_hours: Mo-Fr 07:00-15:00
+website: https://www.backparadies.ch/standorte/zuerich/seefeld

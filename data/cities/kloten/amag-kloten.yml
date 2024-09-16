@@ -1,11 +1,11 @@
 id: 96808739
-type: way
+type: node
 latitude: 47.44879
 longitude: 8.59695
 postcode: "8302"
 city: Kloten
-street: "Steinackerstrasse"
-housenumber: 20
-phone: "+41 43 255 54 54"
+street: Steinackerstrasse
+housenumber: "20"
+phone: +41 43 255 54 54
 opening_hours: ""
-website: "https://www.kloten.amag.ch/"
+website: https://www.kloten.amag.ch/

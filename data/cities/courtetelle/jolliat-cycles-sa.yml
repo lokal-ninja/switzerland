@@ -1,11 +1,11 @@
 id: 715823654
-type: way
+type: node
 latitude: 47.34497
 longitude: 7.31662
 postcode: "2852"
 city: Courtételle
-street: "Rue St-Maurice"
-housenumber: 17
-phone: "+41 (0)32 422 94 18"
-opening_hours: "Tu-Fr 9:00-12:00, 14:00-18:00; Sa 9:00-12:00, 13:30-16:00"
-website: "https://www.joliatcycles.ch/"
+street: Rue St-Maurice
+housenumber: "17"
+phone: +41 (0)32 422 94 18
+opening_hours: Tu-Fr 9:00-12:00, 14:00-18:00; Sa 9:00-12:00, 13:30-16:00
+website: https://www.joliatcycles.ch/

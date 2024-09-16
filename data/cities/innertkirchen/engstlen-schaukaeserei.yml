@@ -1,11 +1,11 @@
 id: 335744126
-type: way
+type: node
 latitude: 46.77497
 longitude: 8.34439
 postcode: "3862"
 city: Innertkirchen
 street: ""
-housenumber: 514
+housenumber: "514"
 phone: ""
 opening_hours: ""
-website: "https://www.alporama.ch/gv2/get/get_SenntenDetail.asp?idSennten=736"
+website: https://www.alporama.ch/gv2/get/get_SenntenDetail.asp?idSennten=736

@@ -1,11 +1,11 @@
 id: 42384344
-type: way
+type: node
 latitude: 47.05991
 longitude: 7.61452
 postcode: "3400"
 city: Burgdorf
-street: "Lyssachstrasse"
-housenumber: 127
+street: Lyssachstrasse
+housenumber: "127"
 phone: ""
-opening_hours: "Mo-Sa 06:00-18:00"
+opening_hours: Mo-Sa 06:00-18:00
 website: ""

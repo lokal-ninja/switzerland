@@ -1,11 +1,11 @@
 id: 113984499
-type: way
+type: node
 latitude: 47.46974
 longitude: 8.31759
 postcode: "5430"
 city: Wettingen
-street: "Landstrasse"
-housenumber: 8
+street: Landstrasse
+housenumber: "8"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00,14:00-16:00; PH closed"
+opening_hours: Tu-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00,14:00-16:00; PH closed
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.95733
 longitude: 7.43692
 postcode: "3012"
 city: Bern
-street: "Neubrückstrasse"
-housenumber: 71
-phone: "+41 31 302 20 77"
-opening_hours: "Mo-Fr 06:00-18:30; Sa 07:00-13:00; Su 07:30-12:30"
-website: "https://www.sterchi-beck.ch"
+street: Neubrückstrasse
+housenumber: "71"
+phone: +41 31 302 20 77
+opening_hours: Mo-Fr 06:00-18:30; Sa 07:00-13:00; Su 07:30-12:30
+website: https://www.sterchi-beck.ch

@@ -4,8 +4,8 @@ latitude: 47.46133
 longitude: 8.5243
 postcode: "8153"
 city: Rümlang
-street: "Riedmattstrasse"
-housenumber: 8
+street: Riedmattstrasse
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 05:00-24:00, Sa 06:00-24:00, Su 07:00-24:00"
-website: "https://www.migrolino.ch/de/standorte/shell-rumlang/"
+opening_hours: Mo-Fr 05:00-24:00, Sa 06:00-24:00, Su 07:00-24:00
+website: https://www.migrolino.ch/de/standorte/shell-rumlang/

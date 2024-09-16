@@ -4,8 +4,8 @@ latitude: 46.18511
 longitude: 6.10031
 postcode: "1213"
 city: Onex
-street: "Avenue du Bois-de-la-Chapelle"
-housenumber: 106
-phone: "+41 22 792 87 24 "
+street: Avenue du Bois-de-la-Chapelle
+housenumber: "106"
+phone: '+41 22 792 87 24 '
 opening_hours: ""
-website: "https://www.ezeesuisse.ch/"
+website: https://www.ezeesuisse.ch/

@@ -1,11 +1,11 @@
 id: 168517477
-type: way
+type: node
 latitude: 46.19292
 longitude: 5.99548
 postcode: "1283"
 city: Dardagny
-street: "Route du Mandement"
-housenumber: 491
+street: Route du Mandement
+housenumber: "491"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 06:30-13:00,15:30-18:30; We off; Sa,Su 07:30-17:00"
+opening_hours: Mo,Tu,Th,Fr 06:30-13:00,15:30-18:30; We off; Sa,Su 07:30-17:00
 website: ""

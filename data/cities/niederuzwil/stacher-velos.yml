@@ -1,11 +1,11 @@
 id: 199635004
-type: way
+type: node
 latitude: 47.44713
 longitude: 9.13939
 postcode: "9244"
 city: Niederuzwil
-street: "Bankstrasse"
-housenumber: 10
+street: Bankstrasse
+housenumber: "10"
 phone: ""
-opening_hours: "Tu-Fr 08:00-12:00,13:30-18:30; Sa 08:00-12:00,13:30-16:00"
-website: "https://www.velo-uzwil.ch/"
+opening_hours: Tu-Fr 08:00-12:00,13:30-18:30; Sa 08:00-12:00,13:30-16:00
+website: https://www.velo-uzwil.ch/

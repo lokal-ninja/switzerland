@@ -4,8 +4,8 @@ latitude: 46.51465
 longitude: 6.63224
 postcode: "1006"
 city: Lausanne
-street: "Avenue d'Ouchy"
-housenumber: 15
-phone: "+41 21 601 01 21"
-opening_hours: "Tu-Fr 07:30-19:00; Sa 07:30-18:00; Su 08:00-14:00"
-website: "https://www.breadstore.ch/"
+street: Avenue d'Ouchy
+housenumber: "15"
+phone: +41 21 601 01 21
+opening_hours: Tu-Fr 07:30-19:00; Sa 07:30-18:00; Su 08:00-14:00
+website: https://www.breadstore.ch/

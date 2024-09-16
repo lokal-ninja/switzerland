@@ -4,8 +4,8 @@ latitude: 47.45784
 longitude: 8.33047
 postcode: "5430"
 city: Wettingen
-street: "Jurastrasse"
-housenumber: 42
+street: Jurastrasse
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.bauundhobby.ch/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.bauundhobby.ch/

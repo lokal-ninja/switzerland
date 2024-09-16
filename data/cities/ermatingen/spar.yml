@@ -4,8 +4,8 @@ latitude: 47.66892
 longitude: 9.08454
 postcode: "8272"
 city: Ermatingen
-street: "Hauptstrasse"
-housenumber: 129
-phone: "+41 71 664 30 70"
-opening_hours: "Mo-Fr 08:00-20:00;Sa 08:00-18:00"
-website: "https://www.spar.ch/spar-maerkte/wiedemeier-roger/"
+street: Hauptstrasse
+housenumber: "129"
+phone: +41 71 664 30 70
+opening_hours: Mo-Fr 08:00-20:00;Sa 08:00-18:00
+website: https://www.spar.ch/spar-maerkte/wiedemeier-roger/

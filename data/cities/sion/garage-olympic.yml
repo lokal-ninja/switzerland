@@ -4,8 +4,8 @@ latitude: 46.219
 longitude: 7.34785
 postcode: "1950"
 city: Sion
-street: "Route d'Aproz"
-housenumber: 4
+street: Route d'Aproz
+housenumber: "4"
 phone: "+41273237512"
-opening_hours: "Mo-Fr 08:00-12:00, 13:30-18:00; Sa 09:00-15:00"
-website: "https://www.garageolympic.ch/"
+opening_hours: Mo-Fr 08:00-12:00, 13:30-18:00; Sa 09:00-15:00
+website: https://www.garageolympic.ch/

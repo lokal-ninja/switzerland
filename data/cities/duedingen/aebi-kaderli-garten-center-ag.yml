@@ -1,11 +1,11 @@
 id: 186504347
-type: way
+type: node
 latitude: 46.82499
 longitude: 7.18717
 postcode: "3186"
 city: Düdingen
-street: "Stockera"
-housenumber: 1
-phone: "+41 26 488 33 33"
-opening_hours: "Mo-Fr 09:00-18:30;Sa 08:00-16:00;Su off"
-website: "https://www.aebi-kaderli.ch/"
+street: Stockera
+housenumber: "1"
+phone: +41 26 488 33 33
+opening_hours: Mo-Fr 09:00-18:30;Sa 08:00-16:00;Su off
+website: https://www.aebi-kaderli.ch/

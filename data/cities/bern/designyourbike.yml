@@ -4,8 +4,9 @@ latitude: 46.95333
 longitude: 7.45984
 postcode: "3013"
 city: Bern
-street: "Papiermühlestrasse"
-housenumber: 2
+street: Papiermühlestrasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Tu off; We-Th 12:00-18:00; Fr 10:00-18:00; Sa 10:00-16:00; Su off; PH off"
-website: "https://www.designyourbike.com/ch/"
+opening_hours: Mo-Tu off; We-Th 12:00-18:00; Fr 10:00-18:00; Sa 10:00-16:00; Su off;
+    PH off
+website: https://www.designyourbike.com/ch/

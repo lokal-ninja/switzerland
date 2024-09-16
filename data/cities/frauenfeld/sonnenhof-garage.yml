@@ -1,11 +1,11 @@
 id: 157508053
-type: way
+type: node
 latitude: 47.56286
 longitude: 8.88003
 postcode: "8500"
 city: Frauenfeld
-street: "Schaffhauserstrasse"
-housenumber: 50
+street: Schaffhauserstrasse
+housenumber: "50"
 phone: ""
 opening_hours: ""
-website: "https://www.emilfrey.ch/de/frauenfeld"
+website: https://www.emilfrey.ch/de/frauenfeld

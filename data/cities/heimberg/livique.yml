@@ -1,11 +1,11 @@
 id: 208486655
-type: way
+type: node
 latitude: 46.78049
 longitude: 7.60668
 postcode: "3627"
 city: Heimberg
-street: "Blümlisalpstrasse"
-housenumber: 40
+street: Blümlisalpstrasse
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Th 09:00-18:30; Fr 09:00-20:00; Sa 09:00-17:00; PH off"
-website: "https://www.livique.ch/"
+opening_hours: Mo-Th 09:00-18:30; Fr 09:00-20:00; Sa 09:00-17:00; PH off
+website: https://www.livique.ch/

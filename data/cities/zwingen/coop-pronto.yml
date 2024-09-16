@@ -4,8 +4,8 @@ latitude: 47.43891
 longitude: 7.5286
 postcode: "4222"
 city: Zwingen
-street: "Laufenstrasse"
-housenumber: 6
+street: Laufenstrasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 05:30-23:00, Sa-Su 06:00-23:00"
-website: "https://www.coop-pronto.ch/de/"
+opening_hours: Mo-Fr 05:30-23:00, Sa-Su 06:00-23:00
+website: https://www.coop-pronto.ch/de/

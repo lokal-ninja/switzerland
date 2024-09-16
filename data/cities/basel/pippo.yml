@@ -4,8 +4,8 @@ latitude: 47.56911
 longitude: 7.5793
 postcode: "4056"
 city: Basel
-street: "Elsässerstrasse"
-housenumber: 51
-phone: "+41 61 321 03 97"
-opening_hours: "Tu-Fr 08:30-12:30,14:30-18:00; Sa 07:30-14:00"
+street: Elsässerstrasse
+housenumber: "51"
+phone: +41 61 321 03 97
+opening_hours: Tu-Fr 08:30-12:30,14:30-18:00; Sa 07:30-14:00
 website: ""

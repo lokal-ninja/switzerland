@@ -1,11 +1,11 @@
 id: 1299544247
-type: way
+type: node
 latitude: 46.19451
 longitude: 6.11141
 postcode: "1213"
 city: Petit-Lancy
-street: "Chem. Louis-Hubert"
-housenumber: 2
-phone: "+41800 777 077"
+street: Chem. Louis-Hubert
+housenumber: "2"
+phone: +41800 777 077
 opening_hours: ""
 website: ""

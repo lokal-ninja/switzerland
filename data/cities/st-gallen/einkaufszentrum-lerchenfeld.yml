@@ -1,11 +1,11 @@
 id: 319835264
-type: way
+type: node
 latitude: 47.41297
 longitude: 9.33563
 postcode: "9014"
 city: St. Gallen
-street: "Zürcher Strasse"
-housenumber: 204
+street: Zürcher Strasse
+housenumber: "204"
 phone: ""
 opening_hours: ""
-website: "https://www.lerchenfeld.ch/"
+website: https://www.lerchenfeld.ch/

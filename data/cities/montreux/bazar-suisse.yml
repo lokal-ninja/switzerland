@@ -4,8 +4,8 @@ latitude: 46.43262
 longitude: 6.91039
 postcode: "1820"
 city: Montreux
-street: "Grand'Rue"
-housenumber: 24
+street: Grand'Rue
+housenumber: "24"
 phone: "+41219633274"
-opening_hours: "Mo-Fr 09:30-18:30, Sa 09:30-18:00, Su 13:00-17:00"
-website: "https://www.bazarsuisse.ch"
+opening_hours: Mo-Fr 09:30-18:30, Sa 09:30-18:00, Su 13:00-17:00
+website: https://www.bazarsuisse.ch

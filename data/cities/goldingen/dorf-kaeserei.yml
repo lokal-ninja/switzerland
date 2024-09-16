@@ -1,11 +1,11 @@
 id: 270254361
-type: way
+type: node
 latitude: 47.26149
 longitude: 8.96712
 postcode: "8638"
 city: Goldingen
-street: "Bürgstrasse"
-housenumber: 1
+street: Bürgstrasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.erlebniskaeserei.ch/"
+website: https://www.erlebniskaeserei.ch/

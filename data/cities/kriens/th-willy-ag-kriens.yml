@@ -1,11 +1,11 @@
 id: 96651373
-type: way
+type: node
 latitude: 47.02821
 longitude: 8.29787
 postcode: "6010"
 city: Kriens
-street: "Sternmattweg"
-housenumber: 2
+street: Sternmattweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.thwilly.ch/"
+website: https://www.thwilly.ch/

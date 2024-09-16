@@ -4,8 +4,8 @@ latitude: 47.33744
 longitude: 8.4748
 postcode: "8907"
 city: Wettswil
-street: "Kirchgasse"
-housenumber: 2
-phone: "+41 44 700 01 80"
-opening_hours: "Mo-Sa 06:30-20:00"
-website: "https://www.volg.ch/standorte-oeffnungszeiten/detail/volg-wettswil/"
+street: Kirchgasse
+housenumber: "2"
+phone: +41 44 700 01 80
+opening_hours: Mo-Sa 06:30-20:00
+website: https://www.volg.ch/standorte-oeffnungszeiten/detail/volg-wettswil/

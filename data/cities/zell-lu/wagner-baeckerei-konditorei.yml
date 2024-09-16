@@ -1,11 +1,11 @@
 id: 361110530
-type: way
+type: node
 latitude: 47.13651
 longitude: 7.92444
 postcode: "6144"
 city: Zell LU
-street: "Luzernstrasse"
-housenumber: 7
+street: Luzernstrasse
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

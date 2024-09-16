@@ -1,11 +1,11 @@
 id: 273547363
-type: way
+type: node
 latitude: 47.52097
 longitude: 8.95541
 postcode: "9507"
 city: Stettfurt
-street: "Unterdorfstrasse"
-housenumber: 46
-phone: "+41 79 672 26 38"
+street: Unterdorfstrasse
+housenumber: "46"
+phone: +41 79 672 26 38
 opening_hours: ""
 website: ""

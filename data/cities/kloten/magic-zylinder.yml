@@ -4,8 +4,8 @@ latitude: 47.45361
 longitude: 8.579
 postcode: "8302"
 city: Kloten
-street: "Flughafenstrasse"
-housenumber: 4
-phone: "+41 44 813 67 40"
-opening_hours: "Mo off; Tu-Fr 13:30-18:00; Sa 10:00-15:00"
-website: "https://magiczylinder.ch/"
+street: Flughafenstrasse
+housenumber: "4"
+phone: +41 44 813 67 40
+opening_hours: Mo off; Tu-Fr 13:30-18:00; Sa 10:00-15:00
+website: https://magiczylinder.ch/

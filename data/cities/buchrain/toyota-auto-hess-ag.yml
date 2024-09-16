@@ -1,11 +1,11 @@
 id: 103190254
-type: way
+type: node
 latitude: 47.10815
 longitude: 8.344
 postcode: "6033"
 city: Buchrain
-street: "Am Sagenbach"
-housenumber: 14
+street: Am Sagenbach
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

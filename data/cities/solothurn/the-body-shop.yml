@@ -4,8 +4,9 @@ latitude: 47.20666
 longitude: 7.53572
 postcode: "4500"
 city: Solothurn
-street: "Hauptgasse"
-housenumber: 6
+street: Hauptgasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:30; Th 09:00-13:00,14:00-21:00; Sa 08:00-17:00; PH off"
-website: "https://www.thebodyshop.ch"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:30; Th 09:00-13:00,14:00-21:00; Sa 08:00-17:00;
+    PH off
+website: https://www.thebodyshop.ch

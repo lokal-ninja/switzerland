@@ -4,8 +4,8 @@ latitude: 47.23116
 longitude: 8.83766
 postcode: "8645"
 city: Jona
-street: "Molkereistrasse"
-housenumber: 12
-phone: "+41 55 210 62 16"
-opening_hours: "Tu-Fr 08:30-18:30; Sa 08:30-16:30"
-website: "https://www.salentofood.ch/"
+street: Molkereistrasse
+housenumber: "12"
+phone: +41 55 210 62 16
+opening_hours: Tu-Fr 08:30-18:30; Sa 08:30-16:30
+website: https://www.salentofood.ch/

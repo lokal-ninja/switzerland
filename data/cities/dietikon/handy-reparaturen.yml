@@ -4,8 +4,8 @@ latitude: 47.4202
 longitude: 8.3954
 postcode: "8953"
 city: Dietikon
-street: "Riedstrasse"
-housenumber: 14
+street: Riedstrasse
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-We 09:30-13:00,14:00-18:30; Th 09:30-13:00, 14:00-20:00; Fr-Su off"
-website: "https://handy-reparaturen.ch"
+opening_hours: Mo-We 09:30-13:00,14:00-18:30; Th 09:30-13:00, 14:00-20:00; Fr-Su off
+website: https://handy-reparaturen.ch

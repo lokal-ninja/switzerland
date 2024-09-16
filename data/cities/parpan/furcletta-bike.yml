@@ -1,11 +1,11 @@
 id: 232407424
-type: way
+type: node
 latitude: 46.75984
 longitude: 9.558
 postcode: "7076"
 city: Parpan
-street: "Hauptstrasse"
-housenumber: 20
-phone: "+41 81 525 55 35"
+street: Hauptstrasse
+housenumber: "20"
+phone: +41 81 525 55 35
 opening_hours: ""
-website: "https://www.furcletta.bike"
+website: https://www.furcletta.bike

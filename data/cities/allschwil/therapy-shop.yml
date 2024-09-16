@@ -4,8 +4,8 @@ latitude: 47.54685
 longitude: 7.55074
 postcode: "4123"
 city: Allschwil
-street: "Binningerstrasse"
-housenumber: 110
-phone: "+41 61 481 97 51"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://therapyshop.ch/"
+street: Binningerstrasse
+housenumber: "110"
+phone: +41 61 481 97 51
+opening_hours: Mo-Fr 08:00-17:00
+website: https://therapyshop.ch/

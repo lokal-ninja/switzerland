@@ -4,8 +4,8 @@ latitude: 47.29005
 longitude: 7.71866
 postcode: "4702"
 city: Oensingen
-street: "Hauptstrasse"
-housenumber: 34
+street: Hauptstrasse
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:30; Sa 08:00-16:00"
-website: "https://dropa.ch/standorte/dropa-drogerie-siegrist"
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:30; Sa 08:00-16:00
+website: https://dropa.ch/standorte/dropa-drogerie-siegrist

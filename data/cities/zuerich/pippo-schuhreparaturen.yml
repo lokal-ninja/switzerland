@@ -4,8 +4,8 @@ latitude: 47.40789
 longitude: 8.5473
 postcode: "8050"
 city: Zürich
-street: "Schwamendingenstrasse"
-housenumber: 10
+street: Schwamendingenstrasse
+housenumber: "10"
 phone: ""
-opening_hours: "Mo,Su off; Tu-Fr 07:30-12:15,13:30-18:00; Sa 08:00-12:00"
+opening_hours: Mo,Su off; Tu-Fr 07:30-12:15,13:30-18:00; Sa 08:00-12:00
 website: ""

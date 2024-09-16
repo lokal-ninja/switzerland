@@ -4,8 +4,8 @@ latitude: 47.42168
 longitude: 8.54986
 postcode: "8052"
 city: Zürich
-street: "Schaffhauserstrasse"
-housenumber: 509
+street: Schaffhauserstrasse
+housenumber: "509"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:30; Sa 07:30-17:00; Su 09:00-17:00"
+opening_hours: Mo-Fr 06:00-18:30; Sa 07:30-17:00; Su 09:00-17:00
 website: ""

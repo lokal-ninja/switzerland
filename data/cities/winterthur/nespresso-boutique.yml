@@ -4,8 +4,8 @@ latitude: 47.4982
 longitude: 8.72977
 postcode: "8400"
 city: Winterthur
-street: "Steinberggasse"
-housenumber: 13
+street: Steinberggasse
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://www.nespresso.com/ch/de/"
+website: https://www.nespresso.com/ch/de/

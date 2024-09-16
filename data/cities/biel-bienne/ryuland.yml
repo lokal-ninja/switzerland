@@ -4,8 +4,9 @@ latitude: 47.13921
 longitude: 7.24911
 postcode: "2502"
 city: Biel/Bienne
-street: "Rue du Marché-Neuf / Neumarktstrasse"
-housenumber: 30
+street: Rue du Marché-Neuf / Neumarktstrasse
+housenumber: "30"
 phone: ""
-opening_hours: "Tu-We 12:00-20:00; Th 12:00-22:00; Fr 12:00-20:00; Sa 12:00-17:00; Su-Mo off"
-website: "https://ryu.land"
+opening_hours: Tu-We 12:00-20:00; Th 12:00-22:00; Fr 12:00-20:00; Sa 12:00-17:00;
+    Su-Mo off
+website: https://ryu.land

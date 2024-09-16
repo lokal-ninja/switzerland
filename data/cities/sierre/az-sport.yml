@@ -4,8 +4,8 @@ latitude: 46.29374
 longitude: 7.53402
 postcode: "3960"
 city: Sierre
-street: "Avenue Château de la Cour"
-housenumber: 4
+street: Avenue Château de la Cour
+housenumber: "4"
 phone: ""
-opening_hours: "Mo 13:30-18:30; Tu-Fr 08:30-12:00,13:30-18:30; Sa 08:30-12:00,13:30-17:00"
-website: "https://www.azsports.ch/"
+opening_hours: Mo 13:30-18:30; Tu-Fr 08:30-12:00,13:30-18:30; Sa 08:30-12:00,13:30-17:00
+website: https://www.azsports.ch/

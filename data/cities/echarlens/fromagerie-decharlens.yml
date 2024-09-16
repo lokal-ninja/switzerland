@@ -1,11 +1,11 @@
 id: 320639556
-type: way
+type: node
 latitude: 46.64597
 longitude: 7.07627
 postcode: "1646"
 city: Echarlens
-street: "Route de Montilier"
-housenumber: 5
+street: Route de Montilier
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

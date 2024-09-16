@@ -4,8 +4,8 @@ latitude: 47.38658
 longitude: 8.17855
 postcode: "5600"
 city: Lenzburg
-street: "Aavorstadt"
-housenumber: 10
+street: Aavorstadt
+housenumber: "10"
 phone: ""
-opening_hours: "Th,Fr 14:00-18:30; Sa 10:00-16:00; PH off"
-website: "https://www.cosmolapis.ch"
+opening_hours: Th,Fr 14:00-18:30; Sa 10:00-16:00; PH off
+website: https://www.cosmolapis.ch

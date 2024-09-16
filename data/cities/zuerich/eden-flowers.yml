@@ -4,8 +4,8 @@ latitude: 47.37282
 longitude: 8.52815
 postcode: "8004"
 city: Zürich
-street: "Strassburgstrasse"
-housenumber: 15
+street: Strassburgstrasse
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://edenflowers.ch/"
+website: https://edenflowers.ch/

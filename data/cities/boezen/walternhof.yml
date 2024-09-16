@@ -4,8 +4,9 @@ latitude: 47.48441
 longitude: 8.08694
 postcode: "5076"
 city: Bözen
-street: "Walternhof"
-housenumber: 1
-phone: "+41 62 876 10 43"
-opening_hours: "Tu 16:00-19:00; Sa 09:00-13:00 || telefonische Anfrage. Brugger Markt Fr: 7.30-11 Uhr und von Mai bis November: Di. 7.30 - 11 Uhr"
-website: "https://www.heuberger-boezen.ch/"
+street: Walternhof
+housenumber: "1"
+phone: +41 62 876 10 43
+opening_hours: 'Tu 16:00-19:00; Sa 09:00-13:00 || "telefonische Anfrage. Brugger Markt
+    Fr: 7.30-11 Uhr und von Mai bis November: Di. 7.30 - 11 Uhr"'
+website: https://www.heuberger-boezen.ch/

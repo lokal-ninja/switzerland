@@ -4,8 +4,9 @@ latitude: 47.26647
 longitude: 8.65497
 postcode: "8706"
 city: Meilen
-street: "Alte Landstrasse"
-housenumber: 37
-phone: "+41 44 923 05 25"
-opening_hours: "Mo 08:30-12:30,13:30-18:00; Tu 08:00-19:30; We 08:00-18:30; Th 08:00-19:30; Fr 08:00-18:30; Sa 08:00-15:00"
-website: "https://www.achhammer.ch/"
+street: Alte Landstrasse
+housenumber: "37"
+phone: +41 44 923 05 25
+opening_hours: Mo 08:30-12:30,13:30-18:00; Tu 08:00-19:30; We 08:00-18:30; Th 08:00-19:30;
+    Fr 08:00-18:30; Sa 08:00-15:00
+website: https://www.achhammer.ch/

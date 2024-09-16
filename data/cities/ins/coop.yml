@@ -1,11 +1,11 @@
 id: 221170588
-type: way
+type: node
 latitude: 47.00543
 longitude: 7.10358
 postcode: "3232"
 city: Ins
-street: "Bahnhofstrasse"
-housenumber: 8
+street: Bahnhofstrasse
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

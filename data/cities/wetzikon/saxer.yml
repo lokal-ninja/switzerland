@@ -1,11 +1,11 @@
 id: 258611957
-type: way
+type: node
 latitude: 47.31053
 longitude: 8.79383
 postcode: "8620"
 city: Wetzikon
-street: "Hofstrasse"
-housenumber: 113
+street: Hofstrasse
+housenumber: "113"
 phone: ""
 opening_hours: ""
 website: ""

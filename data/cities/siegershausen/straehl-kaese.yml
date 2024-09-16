@@ -4,8 +4,9 @@ latitude: 47.61107
 longitude: 9.16771
 postcode: "8573"
 city: Siegershausen
-street: "Bahnhofstrasse"
-housenumber: 1
+street: Bahnhofstrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Tu 07:30-11:30, 13:30-17:00; We 07:30-11:30; Th-Fr 07:30-11:30, 13:30-17:00; Sa 08:30-11:30"
-website: "https://www.straehl.ch/fabriklaedeli/"
+opening_hours: Mo-Tu 07:30-11:30, 13:30-17:00; We 07:30-11:30; Th-Fr 07:30-11:30,
+    13:30-17:00; Sa 08:30-11:30
+website: https://www.straehl.ch/fabriklaedeli/

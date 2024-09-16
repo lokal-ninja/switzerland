@@ -4,8 +4,8 @@ latitude: 46.46136
 longitude: 6.34293
 postcode: "1180"
 city: Rolle
-street: "Route de Lausanne"
-housenumber: 2
+street: Route de Lausanne
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.moinat.ch/"
+website: https://www.moinat.ch/

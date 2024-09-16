@@ -1,11 +1,11 @@
 id: 202421397
-type: way
+type: node
 latitude: 46.78268
 longitude: 7.08841
 postcode: "1753"
 city: Matran
-street: "Chemin de la Cornache"
-housenumber: 1
+street: Chemin de la Cornache
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Th 08:00-19:00; Fr 08:00-21:00; Sa 08:00-16:00"
-website: "https://www.aligro.ch/fr/lentreprise/les-marches-aligro/matran/"
+opening_hours: Mo-Th 08:00-19:00; Fr 08:00-21:00; Sa 08:00-16:00
+website: https://www.aligro.ch/fr/lentreprise/les-marches-aligro/matran/

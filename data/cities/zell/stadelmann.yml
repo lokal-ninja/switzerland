@@ -4,8 +4,9 @@ latitude: 47.13977
 longitude: 7.92419
 postcode: "6144"
 city: Zell
-street: "Bachhaldenstrasse"
-housenumber: 3
-phone: "+41 41 988 14 88"
-opening_hours: "Mo 06:00-18:30; Tu 06:00-12:00; We-Fr 06:00-18:30; Sa 06:00-16:00; Su 08:00-13:00"
-website: "https://www.stadelmannbeck.ch/"
+street: Bachhaldenstrasse
+housenumber: "3"
+phone: +41 41 988 14 88
+opening_hours: Mo 06:00-18:30; Tu 06:00-12:00; We-Fr 06:00-18:30; Sa 06:00-16:00;
+    Su 08:00-13:00
+website: https://www.stadelmannbeck.ch/

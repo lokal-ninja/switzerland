@@ -1,11 +1,11 @@
 id: 85275429
-type: way
+type: node
 latitude: 47.40782
 longitude: 9.62879
 postcode: "9443"
 city: Widnau
-street: "Bahnhofstrasse"
-housenumber: 
+street: Bahnhofstrasse
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa 08:00-17:00"
+opening_hours: Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa 08:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.55351
 longitude: 7.62378
 postcode: "4127"
 city: Birsfelden
-street: "Schulstrasse"
-housenumber: 10
+street: Schulstrasse
+housenumber: "10"
 phone: ""
-opening_hours: "Di 09:00-12:00; Mi-Fr 15:00-18:30; Sa 09:00-12:00"
-website: "https://www.fuellstelle.ch/"
+opening_hours: Di 09:00-12:00; Mi-Fr 15:00-18:30; Sa 09:00-12:00
+website: https://www.fuellstelle.ch/

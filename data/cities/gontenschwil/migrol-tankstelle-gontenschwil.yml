@@ -1,11 +1,11 @@
 id: 281878485
-type: way
+type: node
 latitude: 47.27577
 longitude: 8.14486
 postcode: "5728"
 city: Gontenschwil
-street: "Dorfstrasse"
-housenumber: 700
+street: Dorfstrasse
+housenumber: "700"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.migrol.ch/de/"
+opening_hours: 24/7
+website: https://www.migrol.ch/de/

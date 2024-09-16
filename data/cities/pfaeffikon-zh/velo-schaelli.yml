@@ -1,11 +1,11 @@
 id: 95966061
-type: way
+type: node
 latitude: 47.36375
 longitude: 8.7889
 postcode: "8330"
 city: Pfäffikon ZH
-street: "Hochstrasse"
-housenumber: 75
-phone: "+41 44 950 26 07"
+street: Hochstrasse
+housenumber: "75"
+phone: +41 44 950 26 07
 opening_hours: ""
-website: "http://www.veloschaelli.ch/"
+website: http://www.veloschaelli.ch/

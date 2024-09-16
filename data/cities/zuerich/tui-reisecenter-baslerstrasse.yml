@@ -4,8 +4,8 @@ latitude: 47.38647
 longitude: 8.4989
 postcode: "8048"
 city: Zürich
-street: "Baslerstrasse"
-housenumber: 50
+street: Baslerstrasse
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; PH off"
-website: "http://www.tuiletzipark.ch/"
+opening_hours: Mo-Sa 09:00-20:00; PH off
+website: http://www.tuiletzipark.ch/

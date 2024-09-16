@@ -4,8 +4,8 @@ latitude: 47.39299
 longitude: 8.48981
 postcode: "8048"
 city: Zürich
-street: "Aargauerstrasse"
-housenumber: 250
+street: Aargauerstrasse
+housenumber: "250"
 phone: ""
 opening_hours: ""
-website: "https://jung.ag/"
+website: https://jung.ag/

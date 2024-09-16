@@ -1,11 +1,11 @@
 id: 205371966
-type: way
+type: node
 latitude: 47.05835
 longitude: 8.07163
 postcode: "6110"
 city: Wolhusen
-street: "Entlebucherstrasse"
-housenumber: 19
+street: Entlebucherstrasse
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 311779923
-type: way
+type: node
 latitude: 47.75471
 longitude: 8.67071
 postcode: "8235"
 city: Lohn SH
-street: "Unterdorf"
-housenumber: 16
-phone: "+41 52 649 38 78"
-opening_hours: "Mo-Sa 06:30-19:00"
+street: Unterdorf
+housenumber: "16"
+phone: +41 52 649 38 78
+opening_hours: Mo-Sa 06:30-19:00
 website: ""

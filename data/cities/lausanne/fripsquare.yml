@@ -4,8 +4,8 @@ latitude: 46.51412
 longitude: 6.6278
 postcode: "1006"
 city: Lausanne
-street: "Avenue Édouard-Dapples"
+street: Avenue Édouard-Dapples
 housenumber: 15b
 phone: ""
-opening_hours: "Sur rendez-vous"
-website: "https://frip-square.com/"
+opening_hours: '"Sur rendez-vous"'
+website: https://frip-square.com/

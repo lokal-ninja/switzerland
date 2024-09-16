@@ -4,8 +4,8 @@ latitude: 47.40864
 longitude: 8.40664
 postcode: "8953"
 city: Dietikon
-street: "Ueberlandstrasse"
-housenumber: 12
+street: Ueberlandstrasse
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:30-18:00; PH closed"
-website: "https://www.coiffeurnooh.com/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:30-18:00; PH closed
+website: https://www.coiffeurnooh.com/

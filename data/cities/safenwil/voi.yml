@@ -1,11 +1,11 @@
 id: 264820105
-type: way
+type: node
 latitude: 47.32143
 longitude: 7.98527
 postcode: "5745"
 city: Safenwil
-street: "Güterstrasse"
+street: Güterstrasse
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00, Sa 08:00-17:00; PH off"
-website: "https://www.voi-migrospartner.ch/de-CH/filialen#voi-voi-safenwil"
+opening_hours: Mo-Fr 07:30-19:00, Sa 08:00-17:00; PH off
+website: https://www.voi-migrospartner.ch/de-CH/filialen#voi-voi-safenwil

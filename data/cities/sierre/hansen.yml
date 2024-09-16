@@ -4,8 +4,8 @@ latitude: 46.29256
 longitude: 7.53168
 postcode: "3960"
 city: Sierre
-street: "Avenue Général-Guisan"
-housenumber: 5
-phone: "+41 27 455 12 72"
-opening_hours: "Tu-Sa 09:00-12:00; Tu-Fr 13:30-18:30; Sa 13:30-17:00"
-website: "https://www.hansen-optic.ch/"
+street: Avenue Général-Guisan
+housenumber: "5"
+phone: +41 27 455 12 72
+opening_hours: Tu-Sa 09:00-12:00; Tu-Fr 13:30-18:30; Sa 13:30-17:00
+website: https://www.hansen-optic.ch/

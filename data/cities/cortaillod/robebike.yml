@@ -4,8 +4,8 @@ latitude: 46.94215
 longitude: 6.83856
 postcode: "2016"
 city: Cortaillod
-street: "Chemin du Potat-Dessus"
-housenumber: 17
+street: Chemin du Potat-Dessus
+housenumber: "17"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:00, 14:00-18:00 ; Sa 09:00-12:00"
-website: "https://www.robebike.ch/"
+opening_hours: Tu-Fr 09:00-12:00, 14:00-18:00 ; Sa 09:00-12:00
+website: https://www.robebike.ch/

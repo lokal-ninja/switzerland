@@ -4,8 +4,8 @@ latitude: 47.30295
 longitude: 8.84232
 postcode: "8340"
 city: Hinwil
-street: "Zürichstrasse"
-housenumber: 16
-phone: "+41 44 977 20 14"
-opening_hours: "Mo-Fr 08:30-12:00,13:15-18:30, Sa 08:30-12:00"
-website: "https://compoint.ch/"
+street: Zürichstrasse
+housenumber: "16"
+phone: +41 44 977 20 14
+opening_hours: Mo-Fr 08:30-12:00,13:15-18:30, Sa 08:30-12:00
+website: https://compoint.ch/

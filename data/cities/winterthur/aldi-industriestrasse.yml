@@ -1,11 +1,11 @@
 id: 41377377
-type: way
+type: node
 latitude: 47.49693
 longitude: 8.75187
 postcode: "8400"
 city: Winterthur
-street: "Industriestrasse"
-housenumber: 9
+street: Industriestrasse
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00; PH off"
+opening_hours: Mo-Sa 07:30-20:00; PH off
 website: ""

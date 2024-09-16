@@ -4,8 +4,9 @@ latitude: 47.50485
 longitude: 7.51896
 postcode: "4105"
 city: Biel-Benken
-street: "Kirchgasse"
-housenumber: 16
-phone: "+41 61 721 53 18"
-opening_hours: "Verkauf täglich Jeden ersten Donnerstag im Monat kleine  Weinprobe 17-20 Uhr"
+street: Kirchgasse
+housenumber: "16"
+phone: +41 61 721 53 18
+opening_hours: Verkauf täglich Jeden ersten Donnerstag im Monat kleine  Weinprobe
+    17-20 Uhr
 website: ""

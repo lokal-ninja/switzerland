@@ -4,8 +4,8 @@ latitude: 47.46612
 longitude: 7.57725
 postcode: "4147"
 city: Aesch
-street: "Klusstrasse"
-housenumber: 177
-phone: "+41 61 751 45 45"
-opening_hours: "Tu,Th,Fr 13:00-18:00; Sa 10:00-13:00"
-website: "https://www.klus177.ch"
+street: Klusstrasse
+housenumber: "177"
+phone: +41 61 751 45 45
+opening_hours: Tu,Th,Fr 13:00-18:00; Sa 10:00-13:00
+website: https://www.klus177.ch

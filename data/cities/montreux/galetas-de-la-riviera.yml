@@ -4,8 +4,8 @@ latitude: 46.43374
 longitude: 6.91267
 postcode: "1820"
 city: Montreux
-street: "Rue du Marché"
-housenumber: 19
-phone: "+41 21 963 33 55"
-opening_hours: "We-Fr 14:00-18:00; Sa 09:00-13:00"
-website: "https://csp.ch/vaud/galetas-et-boutiques/"
+street: Rue du Marché
+housenumber: "19"
+phone: +41 21 963 33 55
+opening_hours: We-Fr 14:00-18:00; Sa 09:00-13:00
+website: https://csp.ch/vaud/galetas-et-boutiques/

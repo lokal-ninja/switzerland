@@ -4,8 +4,9 @@ latitude: 47.46379
 longitude: 9.03869
 postcode: "9500"
 city: Wil SG
-street: "Gallusstrasse"
-housenumber: 22
+street: Gallusstrasse
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-We,Fr 08:00-12:00, Th 09:00-12:00, Mo 13:00-17:00, Tu,Th,Fr 13:00-18:00, Sa 08:00-13:00"
+opening_hours: Mo-We,Fr 08:00-12:00, Th 09:00-12:00, Mo 13:00-17:00, Tu,Th,Fr 13:00-18:00,
+    Sa 08:00-13:00
 website: ""

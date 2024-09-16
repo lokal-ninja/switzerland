@@ -1,11 +1,11 @@
 id: 148762641
-type: way
+type: node
 latitude: 46.62437
 longitude: 6.43808
 postcode: "1148"
 city: Cuarnens
-street: "Rue de la Poste"
-housenumber: 2
+street: Rue de la Poste
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Tu 15:30-19:00; Th-Fr 15:30-19:00"
-website: "https://mozzafiato.ch"
+opening_hours: Mo-Tu 15:30-19:00; Th-Fr 15:30-19:00
+website: https://mozzafiato.ch

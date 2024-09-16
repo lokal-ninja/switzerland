@@ -1,11 +1,11 @@
 id: 160143878
-type: way
+type: node
 latitude: 47.3254
 longitude: 8.18009
 postcode: "5705"
 city: Hallwil
-street: "Ausserdorf"
-housenumber: 270
+street: Ausserdorf
+housenumber: "270"
 phone: ""
 opening_hours: ""
 website: ""

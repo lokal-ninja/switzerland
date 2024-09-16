@@ -4,8 +4,8 @@ latitude: 47.03376
 longitude: 8.28265
 postcode: "6010"
 city: Kriens
-street: "Luzernerstrasse"
-housenumber: 30
+street: Luzernerstrasse
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Th 08:00-19:00, Fr 08:00-21:00, Sa 08:00-17:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-kriens-hofmatt"
+opening_hours: Mo-Th 08:00-19:00, Fr 08:00-21:00, Sa 08:00-17:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-kriens-hofmatt

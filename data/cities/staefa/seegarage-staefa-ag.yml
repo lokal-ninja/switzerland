@@ -4,8 +4,8 @@ latitude: 47.23437
 longitude: 8.73563
 postcode: "8712"
 city: Stäfa
-street: "Seestrasse"
-housenumber: 155
-phone: "+41 44 928 10 90"
-opening_hours: "Mo-Fr 07:30-18:30, Sa 09:00-16:00"
-website: "https://www.seega.ch/"
+street: Seestrasse
+housenumber: "155"
+phone: +41 44 928 10 90
+opening_hours: Mo-Fr 07:30-18:30, Sa 09:00-16:00
+website: https://www.seega.ch/

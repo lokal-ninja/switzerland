@@ -4,8 +4,8 @@ latitude: 47.20802
 longitude: 7.53653
 postcode: "4500"
 city: Solothurn
-street: "Gurzelngasse"
-housenumber: 6
+street: Gurzelngasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo 10:00-18:30; Tu-Fr 09:00-18:30; Th 09:00-21:00; Sa 09:00-17:00"
+opening_hours: Mo 10:00-18:30; Tu-Fr 09:00-18:30; Th 09:00-21:00; Sa 09:00-17:00
 website: ""

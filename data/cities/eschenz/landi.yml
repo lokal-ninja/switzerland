@@ -4,8 +4,8 @@ latitude: 47.65331
 longitude: 8.8623
 postcode: "8264"
 city: Eschenz
-street: "Hauptstrasse"
-housenumber: 15
+street: Hauptstrasse
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30, Sa 08:00-17:00"
-website: "https://www.landi.ch/places/landi-eschenz"
+opening_hours: Mo-Fr 08:00-18:30, Sa 08:00-17:00
+website: https://www.landi.ch/places/landi-eschenz

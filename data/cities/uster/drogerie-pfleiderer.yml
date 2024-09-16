@@ -4,8 +4,8 @@ latitude: 47.3542
 longitude: 8.71344
 postcode: "8610"
 city: Uster
-street: "Winterthurerstrasse"
-housenumber: 18
+street: Winterthurerstrasse
+housenumber: "18"
 phone: ""
-opening_hours: "closed"
-website: "https://www.drogerie-pfleiderer.ch/"
+opening_hours: closed
+website: https://www.drogerie-pfleiderer.ch/

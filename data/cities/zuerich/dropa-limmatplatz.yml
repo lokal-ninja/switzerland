@@ -4,8 +4,8 @@ latitude: 47.38501
 longitude: 8.5316
 postcode: "8005"
 city: Zürich
-street: "Limmatplatz"
-housenumber: 7
+street: Limmatplatz
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://dropa.ch/standorte/dropa-drogerie-apotheke-limmatplatz"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://dropa.ch/standorte/dropa-drogerie-apotheke-limmatplatz

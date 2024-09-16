@@ -4,8 +4,8 @@ latitude: 47.49965
 longitude: 7.76557
 postcode: "4422"
 city: Arisdorf
-street: "Hauptstrasse"
-housenumber: 171
-phone: "+41 61 811 50 00"
-opening_hours: "Tu-Fr 08:00-12:00,13:00-18:00; Sa 08:00-16:00"
+street: Hauptstrasse
+housenumber: "171"
+phone: +41 61 811 50 00
+opening_hours: Tu-Fr 08:00-12:00,13:00-18:00; Sa 08:00-16:00
 website: ""

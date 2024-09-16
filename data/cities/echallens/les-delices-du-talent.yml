@@ -4,8 +4,8 @@ latitude: 46.64108
 longitude: 6.63401
 postcode: "1040"
 city: Echallens
-street: "Grand'Rue"
-housenumber: 3
-phone: "+41 21 881 11 22"
-opening_hours: "Lu-Ve 06:30-18:30; Sa 06:30-16:00"
-website: "https://lesdelicesdutalent.ch/"
+street: Grand'Rue
+housenumber: "3"
+phone: +41 21 881 11 22
+opening_hours: Lu-Ve 06:30-18:30; Sa 06:30-16:00
+website: https://lesdelicesdutalent.ch/

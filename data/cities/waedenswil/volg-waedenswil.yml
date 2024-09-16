@@ -4,8 +4,8 @@ latitude: 47.22749
 longitude: 8.66999
 postcode: "8820"
 city: Wädenswil
-street: "Schönenbergstrasse"
-housenumber: 26
-phone: "+41 43 833 03 53"
-opening_hours: "Mo-Fr 06:00-21:00, Sa 07:00-18:00"
+street: Schönenbergstrasse
+housenumber: "26"
+phone: +41 43 833 03 53
+opening_hours: Mo-Fr 06:00-21:00, Sa 07:00-18:00
 website: ""

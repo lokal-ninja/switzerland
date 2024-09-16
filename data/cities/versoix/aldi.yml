@@ -4,8 +4,8 @@ latitude: 46.27941
 longitude: 6.16522
 postcode: "1290"
 city: Versoix
-street: "Route de Saint-Loup"
-housenumber: 2
-phone: "+41 22 860 15 82"
-opening_hours: "Mo-We,Fr 08:00-19:00; Th 08:00-20:00; Sa 08:00-18:00"
+street: Route de Saint-Loup
+housenumber: "2"
+phone: +41 22 860 15 82
+opening_hours: Mo-We,Fr 08:00-19:00; Th 08:00-20:00; Sa 08:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.62304
 longitude: 6.7968
 postcode: "1085"
 city: Vulliens
-street: "Chemin Bourg-Dessus"
-housenumber: 17
-phone: "+41 79 228 19 80"
-opening_hours: "Sur rendez-vous"
-website: "http://www.safrandujorat.ch"
+street: Chemin Bourg-Dessus
+housenumber: "17"
+phone: +41 79 228 19 80
+opening_hours: '"Sur rendez-vous"'
+website: http://www.safrandujorat.ch

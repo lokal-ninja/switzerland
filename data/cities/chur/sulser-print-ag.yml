@@ -4,8 +4,8 @@ latitude: 46.85371
 longitude: 9.53155
 postcode: "7000"
 city: Chur
-street: "Alexanderstrasse"
-housenumber: 24
+street: Alexanderstrasse
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00,13:30-18:00;Fr 08:00-12:00,13:00-17:00"
+opening_hours: Mo-Th 08:00-12:00,13:30-18:00;Fr 08:00-12:00,13:00-17:00
 website: ""

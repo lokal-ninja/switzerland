@@ -4,8 +4,8 @@ latitude: 47.4112
 longitude: 9.62661
 postcode: "9435"
 city: Heerbrugg
-street: "Marktstrasse"
-housenumber: 4
+street: Marktstrasse
+housenumber: "4"
 phone: "+41717272699"
-opening_hours: "Mo-Th 08:30-19:00; Fr 08:30-20:00; Sa 08:30-17:00"
+opening_hours: Mo-Th 08:30-19:00; Fr 08:30-20:00; Sa 08:30-17:00
 website: ""

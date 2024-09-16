@@ -1,11 +1,11 @@
 id: 123867436
-type: way
+type: node
 latitude: 47.49565
 longitude: 9.46354
 postcode: "9326"
 city: Horn
-street: "Seestrasse"
-housenumber: 77
+street: Seestrasse
+housenumber: "77"
 phone: ""
 opening_hours: ""
 website: ""

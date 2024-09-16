@@ -1,11 +1,11 @@
 id: 577284583
-type: way
+type: node
 latitude: 47.25285
 longitude: 7.65112
 postcode: "4537"
 city: Wiedlisbach
-street: "Baselstrasse"
-housenumber: 18
-phone: "+41 32 636 32 32"
-opening_hours: "Mo-Fr 07:30-12:00,13:30-18:00; Sa 09:00-15:00"
+street: Baselstrasse
+housenumber: "18"
+phone: +41 32 636 32 32
+opening_hours: Mo-Fr 07:30-12:00,13:30-18:00; Sa 09:00-15:00
 website: ""

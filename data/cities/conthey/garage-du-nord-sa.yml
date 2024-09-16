@@ -1,11 +1,11 @@
 id: 284213623
-type: way
+type: node
 latitude: 46.21435
 longitude: 7.29324
 postcode: "1964"
 city: Conthey
-street: "Route de Sécheron"
-housenumber: 2
+street: Route de Sécheron
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.19277
 longitude: 7.70374
 postcode: "3360"
 city: Herzogenbuchsee
-street: "Wangenstrasse"
-housenumber: 46
+street: Wangenstrasse
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Fr 07:15-11:45,13:15-17:30; Sa 07:30-11:45"
-website: "https://www.baertschiag.ch/"
+opening_hours: Mo-Fr 07:15-11:45,13:15-17:30; Sa 07:30-11:45
+website: https://www.baertschiag.ch/

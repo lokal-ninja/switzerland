@@ -4,8 +4,8 @@ latitude: 46.2511
 longitude: 7.01393
 postcode: "1880"
 city: Bex
-street: "Rue Centrale"
-housenumber: 10
-phone: "+41 24 463 22 17"
-opening_hours: "Mo-Tu 07:30-12:15,14:00-18:30; We 07:30-12:15; Sa 07:30-14:00"
-website: "http://www.boucherie-vuagniaux.ch/"
+street: Rue Centrale
+housenumber: "10"
+phone: +41 24 463 22 17
+opening_hours: Mo-Tu 07:30-12:15,14:00-18:30; We 07:30-12:15; Sa 07:30-14:00
+website: http://www.boucherie-vuagniaux.ch/

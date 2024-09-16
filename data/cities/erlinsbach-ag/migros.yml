@@ -5,7 +5,7 @@ longitude: 8.00859
 postcode: "5018"
 city: Erlinsbach AG
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00"
-website: "https://filialen.migros.ch/de/migros-supermarkt-erlinsbach"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00
+website: https://filialen.migros.ch/de/migros-supermarkt-erlinsbach

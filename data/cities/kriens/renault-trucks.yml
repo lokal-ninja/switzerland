@@ -1,11 +1,11 @@
 id: 107397376
-type: way
+type: node
 latitude: 47.02432
 longitude: 8.29259
 postcode: "6010"
 city: Kriens
-street: "Vorderschlundstrasse"
-housenumber: 1
+street: Vorderschlundstrasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

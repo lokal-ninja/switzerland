@@ -4,8 +4,8 @@ latitude: 47.3967
 longitude: 8.54054
 postcode: "8057"
 city: Zürich
-street: "Schaffhauserstrasse"
-housenumber: 127
-phone: "+41 43 810 00 22"
+street: Schaffhauserstrasse
+housenumber: "127"
+phone: +41 43 810 00 22
 opening_hours: ""
-website: "https://weinzierl.ch/"
+website: https://weinzierl.ch/

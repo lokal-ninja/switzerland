@@ -4,8 +4,8 @@ latitude: 47.37144
 longitude: 8.54145
 postcode: "8001"
 city: Zürich
-street: "Weinplatz"
-housenumber: 4
+street: Weinplatz
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH closed"
-website: "https://www.isabelmarant.com"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH closed
+website: https://www.isabelmarant.com

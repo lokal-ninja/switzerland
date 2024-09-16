@@ -4,8 +4,8 @@ latitude: 47.38298
 longitude: 8.67123
 postcode: "8604"
 city: Volketswil
-street: "Chlirietstrasse"
-housenumber: 6
+street: Chlirietstrasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; PH off"
-website: "https://www.fust.ch/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; PH off
+website: https://www.fust.ch/

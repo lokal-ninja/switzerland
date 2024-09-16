@@ -1,11 +1,11 @@
 id: 197666668
-type: way
+type: node
 latitude: 47.51242
 longitude: 9.03073
 postcode: "9555"
 city: Tobel
-street: "Höhenstrasse"
-housenumber: 2
+street: Höhenstrasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.garage-siegenthaler.ch/"
+website: https://www.garage-siegenthaler.ch/

@@ -5,7 +5,8 @@ longitude: 9.51286
 postcode: "7447"
 city: Avers
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-We, Fr 08:00-12:00, 14:00-17:45; Th 08:00-12:00; Sa 08:00-12:00, 14:00-17:00"
-website: "https://www.volg.ch/"
+opening_hours: Mo-We, Fr 08:00-12:00, 14:00-17:45; Th 08:00-12:00; Sa 08:00-12:00,
+    14:00-17:00
+website: https://www.volg.ch/

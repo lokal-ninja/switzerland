@@ -4,8 +4,8 @@ latitude: 47.01887
 longitude: 8.32423
 postcode: "6048"
 city: Horw
-street: "Rigiblickweg"
-housenumber: 
-phone: "+41 76 377 27 44"
-opening_hours: "Termine nach Vereinbarung"
-website: "https://www.dogstyling-horw.ch/"
+street: Rigiblickweg
+housenumber: ""
+phone: +41 76 377 27 44
+opening_hours: '"Termine nach Vereinbarung"'
+website: https://www.dogstyling-horw.ch/

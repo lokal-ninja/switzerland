@@ -4,8 +4,8 @@ latitude: 47.49848
 longitude: 8.72369
 postcode: "8400"
 city: Winterthur
-street: "Archstrasse"
-housenumber: 4
+street: Archstrasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://www.blumen-cafe.ch/"
+opening_hours: Mo-Sa 08:00-18:00
+website: https://www.blumen-cafe.ch/

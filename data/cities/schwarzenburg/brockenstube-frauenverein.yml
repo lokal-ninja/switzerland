@@ -1,11 +1,11 @@
 id: 412339220
-type: way
+type: node
 latitude: 46.81893
 longitude: 7.34349
 postcode: "3150"
 city: Schwarzenburg
-street: "Güterstrasse"
-housenumber: 4
+street: Güterstrasse
+housenumber: "4"
 phone: ""
-opening_hours: "We 17:00-19:00; Sa[1] 08:00-11:30 || on market days 08:00-12:00, 13:00-16:00"
-website: "https://www.frauenverein-schwarzenburg.ch/tätigkeiten/brockenstube/"
+opening_hours: We 17:00-19:00; Sa[1] 08:00-11:30 || "on market days 08:00-12:00, 13:00-16:00"
+website: https://www.frauenverein-schwarzenburg.ch/tätigkeiten/brockenstube/

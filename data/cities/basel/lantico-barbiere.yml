@@ -4,8 +4,8 @@ latitude: 47.56082
 longitude: 7.59792
 postcode: "4058"
 city: Basel
-street: "Hammerstrasse"
-housenumber: 24
+street: Hammerstrasse
+housenumber: "24"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-14:00"
-website: "https://lanticobarbiere.com"
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-14:00
+website: https://lanticobarbiere.com

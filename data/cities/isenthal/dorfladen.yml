@@ -1,11 +1,11 @@
 id: 282645426
-type: way
+type: node
 latitude: 46.91062
 longitude: 8.56041
 postcode: "6461"
 city: Isenthal
-street: "Untergässli"
-housenumber: 4
+street: Untergässli
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

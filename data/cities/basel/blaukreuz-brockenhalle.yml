@@ -4,8 +4,8 @@ latitude: 47.53674
 longitude: 7.6078
 postcode: "4053"
 city: Basel
-street: "Leimgrubenweg"
-housenumber: 9
-phone: "+41 61 461 2011"
-opening_hours: "Di-Fr 12:00-18:00; Sa 10:00-16:00; PH off"
-website: "https://www.brocki-jsw.ch/brockenhallen/basel"
+street: Leimgrubenweg
+housenumber: "9"
+phone: +41 61 461 2011
+opening_hours: Di-Fr 12:00-18:00; Sa 10:00-16:00; PH off
+website: https://www.brocki-jsw.ch/brockenhallen/basel

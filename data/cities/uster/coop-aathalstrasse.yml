@@ -1,11 +1,11 @@
 id: 221873918
-type: way
+type: node
 latitude: 47.34503
 longitude: 8.73043
 postcode: "8610"
 city: Uster
-street: "Aathalstrasse"
-housenumber: 40
+street: Aathalstrasse
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
-website: "https://www.coop.ch/"
+opening_hours: Mo-Sa 07:30-20:00
+website: https://www.coop.ch/

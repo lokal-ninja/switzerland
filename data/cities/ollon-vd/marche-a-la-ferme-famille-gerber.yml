@@ -4,8 +4,8 @@ latitude: 46.2813
 longitude: 6.99703
 postcode: "1867"
 city: Ollon VD
-street: "Route de Salaz"
-housenumber: 41
+street: Route de Salaz
+housenumber: "41"
 phone: ""
-opening_hours: "24/7"
-website: "https://gerber-self.ch/"
+opening_hours: 24/7
+website: https://gerber-self.ch/

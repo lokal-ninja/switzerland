@@ -4,8 +4,8 @@ latitude: 47.41512
 longitude: 9.31285
 postcode: "9015"
 city: St. Gallen
-street: "Gaiserwaldstrasse"
-housenumber: 3
+street: Gaiserwaldstrasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Th 09:00-21:00; Sa 08:00-17:00; PH off"
-website: "https://www.obi.ch/de/baumarkt/st-gallen/"
+opening_hours: Mo-Fr 09:00-19:00; Th 09:00-21:00; Sa 08:00-17:00; PH off
+website: https://www.obi.ch/de/baumarkt/st-gallen/

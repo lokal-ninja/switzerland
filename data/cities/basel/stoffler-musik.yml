@@ -4,8 +4,8 @@ latitude: 47.55346
 longitude: 7.59014
 postcode: "4051"
 city: Basel
-street: "Theaterstrasse"
-housenumber: 7
-phone: "+41 61 225 91 51"
-opening_hours: "Tu-Fr 10:00-12:30,13:30-18:30; Sa 09:00-17:00"
-website: "https://www.stofflermusik.ch"
+street: Theaterstrasse
+housenumber: "7"
+phone: +41 61 225 91 51
+opening_hours: Tu-Fr 10:00-12:30,13:30-18:30; Sa 09:00-17:00
+website: https://www.stofflermusik.ch

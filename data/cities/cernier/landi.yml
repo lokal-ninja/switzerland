@@ -1,11 +1,11 @@
 id: 602161598
-type: way
+type: node
 latitude: 47.05997
 longitude: 6.91009
 postcode: "2053"
 city: Cernier
-street: "Passage des Cèpes"
-housenumber: 
+street: Passage des Cèpes
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-17:00"
-website: "https://www.landi.ch"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-17:00
+website: https://www.landi.ch

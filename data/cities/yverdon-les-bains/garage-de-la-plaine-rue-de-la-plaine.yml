@@ -1,11 +1,11 @@
 id: 80415067
-type: way
+type: node
 latitude: 46.77717
 longitude: 6.64579
 postcode: ""
 city: Yverdon-les-Bains
-street: "Rue de la Plaine"
-housenumber: 63
+street: Rue de la Plaine
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

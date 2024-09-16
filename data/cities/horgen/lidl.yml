@@ -4,8 +4,8 @@ latitude: 47.26308
 longitude: 8.59112
 postcode: "8810"
 city: Horgen
-street: "Seestrasse"
-housenumber: 83
+street: Seestrasse
+housenumber: "83"
 phone: ""
-opening_hours: "Mo,Th,Sa 07:30-20:00; Tu,We,Fr 08:00-20:00"
-website: "https://lidl.ch"
+opening_hours: Mo,Th,Sa 07:30-20:00; Tu,We,Fr 08:00-20:00
+website: https://lidl.ch

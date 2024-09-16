@@ -1,11 +1,11 @@
 id: 45209058
-type: way
+type: node
 latitude: 47.39
 longitude: 8.67374
 postcode: "8604"
 city: Volketswil
-street: "Kindhauserstrasse"
-housenumber: 1
+street: Kindhauserstrasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

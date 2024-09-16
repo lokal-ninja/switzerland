@@ -4,8 +4,8 @@ latitude: 47.48245
 longitude: 8.20871
 postcode: "5200"
 city: Brugg
-street: "Neumarktplatz"
-housenumber: 7
+street: Neumarktplatz
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.salt.ch/"
+website: https://www.salt.ch/

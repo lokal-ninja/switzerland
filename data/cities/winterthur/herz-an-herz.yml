@@ -4,8 +4,8 @@ latitude: 47.50016
 longitude: 8.72163
 postcode: "8400"
 city: Winterthur
-street: "Paulstrasse"
-housenumber: 5
+street: Paulstrasse
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Fr 09:30-18:00; Sa 09:30-17:00"
-website: "https://www.herzanherz.ch/"
+opening_hours: Tu-Fr 09:30-18:00; Sa 09:30-17:00
+website: https://www.herzanherz.ch/

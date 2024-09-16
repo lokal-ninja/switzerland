@@ -1,11 +1,11 @@
 id: 44364432
-type: way
+type: node
 latitude: 46.52498
 longitude: 6.61497
 postcode: "1004"
 city: Lausanne
-street: "Rue de Genève"
-housenumber: 82
+street: Rue de Genève
+housenumber: "82"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-17:00"
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.39648
 longitude: 8.54043
 postcode: ""
 city: Zürich
-street: "Schaffhauserstrasse"
-housenumber: 125
-phone: "+41 44 593 07 01"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:30-16:30; PH off"
-website: "https://biciservici.ch"
+street: Schaffhauserstrasse
+housenumber: "125"
+phone: +41 44 593 07 01
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:30-16:30; PH off
+website: https://biciservici.ch

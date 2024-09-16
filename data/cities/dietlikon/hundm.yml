@@ -4,8 +4,8 @@ latitude: 47.41539
 longitude: 8.62084
 postcode: "8305"
 city: Dietlikon
-street: "Neue Winterthurerstrasse"
-housenumber: 7
+street: Neue Winterthurerstrasse
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www2.hm.com/de_ch/"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www2.hm.com/de_ch/

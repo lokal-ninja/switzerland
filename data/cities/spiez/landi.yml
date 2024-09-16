@@ -1,11 +1,11 @@
 id: 428306947
-type: way
+type: node
 latitude: 46.68357
 longitude: 7.67008
 postcode: "3700"
 city: Spiez
-street: "Faulenbachweg"
-housenumber: 70
+street: Faulenbachweg
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

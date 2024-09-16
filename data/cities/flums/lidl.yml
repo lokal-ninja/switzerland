@@ -4,8 +4,8 @@ latitude: 47.09695
 longitude: 9.35476
 postcode: "8890"
 city: Flums
-street: "Lochrietstrasse"
-housenumber: 29
+street: Lochrietstrasse
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-We, Fr 07:30-20:00; Th 07:30-21:00; Sa 07:30-18:00"
-website: "https://www.lidl.ch/"
+opening_hours: Mo-We, Fr 07:30-20:00; Th 07:30-21:00; Sa 07:30-18:00
+website: https://www.lidl.ch/

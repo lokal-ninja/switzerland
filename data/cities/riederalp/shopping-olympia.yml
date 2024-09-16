@@ -4,8 +4,8 @@ latitude: 46.37628
 longitude: 8.02603
 postcode: "3987"
 city: Riederalp
-street: "Aletschpromenade"
-housenumber: 3
+street: Aletschpromenade
+housenumber: "3"
 phone: ""
-opening_hours: "08:00-12:00, 13:30-18:00"
-website: "https://www.olympia-riederalp.ch/"
+opening_hours: 08:00-12:00, 13:30-18:00
+website: https://www.olympia-riederalp.ch/

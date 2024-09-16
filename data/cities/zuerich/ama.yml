@@ -4,8 +4,8 @@ latitude: 47.37843
 longitude: 8.49423
 postcode: "8047"
 city: Zürich
-street: "Albisriederstrasse"
-housenumber: 253
-phone: "+41 44 491 90 90"
-opening_hours: "Mo-Fr 07:30-19:00; Sa,Su 08:00-19:00"
-website: "https://www.amamartinucci.ch"
+street: Albisriederstrasse
+housenumber: "253"
+phone: +41 44 491 90 90
+opening_hours: Mo-Fr 07:30-19:00; Sa,Su 08:00-19:00
+website: https://www.amamartinucci.ch

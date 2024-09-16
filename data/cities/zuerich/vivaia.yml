@@ -4,8 +4,8 @@ latitude: 47.37208
 longitude: 8.53928
 postcode: "8001"
 city: Zürich
-street: "Augustinergasse"
-housenumber: 15
+street: Augustinergasse
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 10:00-17:00"
-website: "https://www.vivaia.ch/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 10:00-17:00
+website: https://www.vivaia.ch/

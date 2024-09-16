@@ -4,8 +4,8 @@ latitude: 47.53905
 longitude: 7.60442
 postcode: "4053"
 city: Basel
-street: "Münchensteinerstrasse"
-housenumber: 200
+street: Münchensteinerstrasse
+housenumber: "200"
 phone: ""
 opening_hours: ""
-website: "https://www.marionnaud.ch/"
+website: https://www.marionnaud.ch/

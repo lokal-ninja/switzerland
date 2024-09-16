@@ -4,8 +4,8 @@ latitude: 46.99611
 longitude: 6.93237
 postcode: "2000"
 city: Neuchâtel
-street: "Rue des Sablons"
-housenumber: 46
+street: Rue des Sablons
+housenumber: "46"
 phone: ""
-opening_hours: "Tu 16:30-18:30; We 14:30-18:30; Fr 15:30-18:30; Sa 10:30-16:30"
-website: "https://superethic.ch"
+opening_hours: Tu 16:30-18:30; We 14:30-18:30; Fr 15:30-18:30; Sa 10:30-16:30
+website: https://superethic.ch

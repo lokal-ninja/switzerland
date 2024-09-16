@@ -4,8 +4,8 @@ latitude: 47.41109
 longitude: 8.59068
 postcode: "8304"
 city: Wallisellen
-street: "Industriestrasse"
-housenumber: 41
-phone: "+41 44 830 95 90"
-opening_hours: "Mo-Fr 05:00-18:30, Sa 06:30-13:00"
-website: "https://www.steiner-beck.ch/filialen/wallisellen/"
+street: Industriestrasse
+housenumber: "41"
+phone: +41 44 830 95 90
+opening_hours: Mo-Fr 05:00-18:30, Sa 06:30-13:00
+website: https://www.steiner-beck.ch/filialen/wallisellen/

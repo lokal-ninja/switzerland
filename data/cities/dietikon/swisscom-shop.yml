@@ -4,8 +4,8 @@ latitude: 47.40521
 longitude: 8.40292
 postcode: "8953"
 city: Dietikon
-street: "Löwenstrasse"
-housenumber: 19
+street: Löwenstrasse
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00; Su off"
-website: "https://www.swisscom.ch/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00; Su off
+website: https://www.swisscom.ch/

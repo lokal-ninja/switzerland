@@ -1,11 +1,11 @@
 id: 219566874
-type: way
+type: node
 latitude: 47.23651
 longitude: 7.77173
 postcode: "4912"
 city: Aarwangen
-street: "Langenthalstrasse"
-housenumber: 38
+street: Langenthalstrasse
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

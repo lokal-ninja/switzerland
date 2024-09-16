@@ -1,11 +1,11 @@
 id: 428555014
-type: way
+type: node
 latitude: 46.70576
 longitude: 8.22808
 postcode: "3862"
 city: Innertkirchen
-street: "Dorfstrasse"
-housenumber: 6
+street: Dorfstrasse
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.05649
 longitude: 8.31014
 postcode: "6004"
 city: Luzern
-street: "Zürichstrasse"
-housenumber: 5
+street: Zürichstrasse
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.qualipet.ch/"
+website: https://www.qualipet.ch/

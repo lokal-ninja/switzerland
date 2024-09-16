@@ -4,8 +4,8 @@ latitude: 47.50141
 longitude: 8.03171
 postcode: "5070"
 city: Frick
-street: "Hauptstrasse"
-housenumber: 132
+street: Hauptstrasse
+housenumber: "132"
 phone: ""
 opening_hours: ""
-website: "https://www.mueller.ch/"
+website: https://www.mueller.ch/

@@ -1,11 +1,11 @@
 id: 242538980
-type: way
+type: node
 latitude: 47.33341
 longitude: 9.40657
 postcode: "9050"
 city: Appenzell
-street: "Zielstrasse"
-housenumber: 13
-phone: "+41 71 788 10 00"
-opening_hours: "Mo-Fr 07:30-19:30; Sa 07:30-17:00"
-website: "https://www.coop.ch/de/standorte/coop-supermarkt-appenzell/1926_POS"
+street: Zielstrasse
+housenumber: "13"
+phone: +41 71 788 10 00
+opening_hours: Mo-Fr 07:30-19:30; Sa 07:30-17:00
+website: https://www.coop.ch/de/standorte/coop-supermarkt-appenzell/1926_POS

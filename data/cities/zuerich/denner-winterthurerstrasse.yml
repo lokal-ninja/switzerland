@@ -4,8 +4,8 @@ latitude: 47.40398
 longitude: 8.57272
 postcode: "8051"
 city: Zürich
-street: "Winterthurerstrasse"
-housenumber: 524
+street: Winterthurerstrasse
+housenumber: "524"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.denner.ch/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.denner.ch/

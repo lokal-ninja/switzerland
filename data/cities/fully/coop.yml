@@ -1,11 +1,11 @@
 id: 357261817
-type: way
+type: node
 latitude: 46.151
 longitude: 7.14526
 postcode: "1926"
 city: Fully
-street: "Chemin de la Maraîche"
-housenumber: 33
+street: Chemin de la Maraîche
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

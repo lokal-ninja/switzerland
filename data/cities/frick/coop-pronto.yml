@@ -1,11 +1,11 @@
 id: 164957124
-type: way
+type: node
 latitude: 47.51109
 longitude: 8.01748
 postcode: "5070"
 city: Frick
-street: "Hauptstrasse"
-housenumber: 15
+street: Hauptstrasse
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00, Sa 07:00-22:00, Su 08:00-22:00"
-website: "https://www.coop-pronto.ch/de/"
+opening_hours: Mo-Fr 06:00-22:00, Sa 07:00-22:00, Su 08:00-22:00
+website: https://www.coop-pronto.ch/de/

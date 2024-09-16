@@ -4,8 +4,8 @@ latitude: 46.7746
 longitude: 9.20766
 postcode: "7130"
 city: Ilanz
-street: "Poststrasse"
-housenumber: 4
+street: Poststrasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-17:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-17:00
 website: ""

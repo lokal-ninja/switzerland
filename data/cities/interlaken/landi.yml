@@ -1,11 +1,11 @@
 id: 168801927
-type: way
+type: node
 latitude: 46.68876
 longitude: 7.87864
 postcode: "3800"
 city: Interlaken
-street: "Untere Bönigstrasse"
-housenumber: 50
+street: Untere Bönigstrasse
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

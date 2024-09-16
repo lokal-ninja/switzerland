@@ -4,8 +4,8 @@ latitude: 47.3671
 longitude: 8.54723
 postcode: "8001"
 city: Zürich
-street: "Stadelhoferstrasse"
-housenumber: 22
+street: Stadelhoferstrasse
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa 07:00-17:00"
-website: "https://gipfeli.ch/standorte/standortstadelhofen/"
+opening_hours: Mo-Fr 06:00-19:00; Sa 07:00-17:00
+website: https://gipfeli.ch/standorte/standortstadelhofen/

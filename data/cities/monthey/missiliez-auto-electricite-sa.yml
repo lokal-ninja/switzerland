@@ -4,8 +4,8 @@ latitude: 46.25098
 longitude: 6.96236
 postcode: "1870"
 city: Monthey
-street: "Avenue de la Plantaud"
-housenumber: 108
-phone: "+41 24 471 29 39"
-opening_hours: "Mo-Th 07:30-12:00, 13:00-18:00; Fr 07:30-12:00, 13:00-17:00; Sa 08:00-12:00"
-website: "https://missiliez.ch/"
+street: Avenue de la Plantaud
+housenumber: "108"
+phone: +41 24 471 29 39
+opening_hours: Mo-Th 07:30-12:00, 13:00-18:00; Fr 07:30-12:00, 13:00-17:00; Sa 08:00-12:00
+website: https://missiliez.ch/

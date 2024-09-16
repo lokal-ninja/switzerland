@@ -1,11 +1,11 @@
 id: 32120489
-type: way
+type: node
 latitude: 47.3033
 longitude: 8.71868
 postcode: "8617"
 city: Mönchaltorf
-street: "Isenrietstrasse"
-housenumber: 20
+street: Isenrietstrasse
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00; PH off"
-website: "https://www.aldi-suisse.ch/"
+opening_hours: Mo-Sa 07:30-20:00; PH off
+website: https://www.aldi-suisse.ch/

@@ -4,8 +4,8 @@ latitude: 47.40321
 longitude: 8.60739
 postcode: "8600"
 city: Dübendorf
-street: "Ueberlandstrasse"
-housenumber: 97
+street: Ueberlandstrasse
+housenumber: "97"
 phone: ""
-opening_hours: "Mo-Fr 05:30-24:00, Sa-Su 06:00-24:00"
-website: "https://www.migrolino.ch/de/standorte/shell-duebendorf-im-giessen/"
+opening_hours: Mo-Fr 05:30-24:00, Sa-Su 06:00-24:00
+website: https://www.migrolino.ch/de/standorte/shell-duebendorf-im-giessen/

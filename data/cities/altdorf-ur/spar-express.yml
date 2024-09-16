@@ -1,11 +1,11 @@
 id: 380233194
-type: way
+type: node
 latitude: 46.88789
 longitude: 8.63238
 postcode: "6460"
 city: Altdorf UR
-street: "Flüelerstrasse"
-housenumber: 38
+street: Flüelerstrasse
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 06:00-21:30; Sa 07:00-21:30; Su 07:30-21:30"
+opening_hours: Mo-Fr 06:00-21:30; Sa 07:00-21:30; Su 07:30-21:30
 website: ""

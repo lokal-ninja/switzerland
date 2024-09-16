@@ -4,8 +4,8 @@ latitude: 47.41438
 longitude: 8.59217
 postcode: "8304"
 city: Wallisellen
-street: "Rotackerstrasse"
-housenumber: 36
-phone: "+41 44 831 04 69"
-opening_hours: "Tu-We 08:00-17:00; Fr 08:00-07:00; Sa 08:30-14:00"
-website: "https://morrone.ch/"
+street: Rotackerstrasse
+housenumber: "36"
+phone: +41 44 831 04 69
+opening_hours: Tu-We 08:00-17:00; Fr 08:00-07:00; Sa 08:30-14:00
+website: https://morrone.ch/

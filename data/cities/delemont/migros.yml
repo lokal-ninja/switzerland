@@ -4,8 +4,8 @@ latitude: 47.3635
 longitude: 7.34663
 postcode: "2800"
 city: Delémont
-street: "Rue de la Maltière"
-housenumber: 12
+street: Rue de la Maltière
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Th 08:00-20:00; Sa 07:30-17:00; PH off"
-website: "https://filialen.migros.ch/fr/supermarche-migros-delemont"
+opening_hours: Mo-Fr 08:00-18:30; Th 08:00-20:00; Sa 07:30-17:00; PH off
+website: https://filialen.migros.ch/fr/supermarche-migros-delemont

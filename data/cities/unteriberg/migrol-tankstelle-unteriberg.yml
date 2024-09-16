@@ -4,8 +4,8 @@ latitude: 47.06122
 longitude: 8.80291
 postcode: "8842"
 city: Unteriberg
-street: "Schmalzgrubenstrasse"
-housenumber: 19
+street: Schmalzgrubenstrasse
+housenumber: "19"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.migrol.ch/de/"
+opening_hours: 24/7
+website: https://www.migrol.ch/de/

@@ -4,8 +4,8 @@ latitude: 47.39847
 longitude: 8.6051
 postcode: "8600"
 city: Dübendorf
-street: "Ringstrasse"
-housenumber: 17
+street: Ringstrasse
+housenumber: "17"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.socarenergy.ch/"
+opening_hours: 24/7
+website: https://www.socarenergy.ch/

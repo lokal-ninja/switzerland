@@ -1,11 +1,11 @@
 id: 238114269
-type: way
+type: node
 latitude: 47.31169
 longitude: 8.52538
 postcode: "8134"
 city: Adliswil
-street: "Albisstrasse"
-housenumber: 10
+street: Albisstrasse
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

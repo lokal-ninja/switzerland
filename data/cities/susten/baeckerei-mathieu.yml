@@ -4,8 +4,8 @@ latitude: 46.31123
 longitude: 7.64073
 postcode: "3952"
 city: Susten
-street: "Sustenstrasse"
-housenumber: 10
-phone: "+41 27 473 13 59"
-opening_hours: "Mo-Fr 05:30-19:00; Sa-Su 05:30-18:00"
-website: "https://baeckerei-mathieu.ch/"
+street: Sustenstrasse
+housenumber: "10"
+phone: +41 27 473 13 59
+opening_hours: Mo-Fr 05:30-19:00; Sa-Su 05:30-18:00
+website: https://baeckerei-mathieu.ch/

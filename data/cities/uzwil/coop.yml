@@ -1,11 +1,11 @@
 id: 43622158
-type: way
+type: node
 latitude: 47.43577
 longitude: 9.13839
 postcode: "9240"
 city: Uzwil
-street: "Wattstrasse"
-housenumber: 1
+street: Wattstrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Th 08:00-19:00; Sa 08:00-17:00; Fr 08:00-20:00"
+opening_hours: Mo-Th 08:00-19:00; Sa 08:00-17:00; Fr 08:00-20:00
 website: ""

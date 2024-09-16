@@ -4,8 +4,8 @@ latitude: 46.29639
 longitude: 7.39644
 postcode: "1972"
 city: Anzère
-street: "Route Nord"
-housenumber: 1
-phone: "+41 27 398 40 00"
+street: Route Nord
+housenumber: "1"
+phone: +41 27 398 40 00
 opening_hours: ""
-website: "https://crazy-corner.ch"
+website: https://crazy-corner.ch

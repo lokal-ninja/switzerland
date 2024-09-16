@@ -4,8 +4,8 @@ latitude: 46.22216
 longitude: 7.29611
 postcode: "1964"
 city: Conthey
-street: "Route des Rottes"
-housenumber: 1
-phone: "+41 848 11 33 11"
-opening_hours: "Mo-Th 08:30-18:30; Fr 08:30-20:00; Sa 08:00-17:00"
-website: "https://www.jumbo.ch/"
+street: Route des Rottes
+housenumber: "1"
+phone: +41 848 11 33 11
+opening_hours: Mo-Th 08:30-18:30; Fr 08:30-20:00; Sa 08:00-17:00
+website: https://www.jumbo.ch/

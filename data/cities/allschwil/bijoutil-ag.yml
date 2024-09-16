@@ -1,11 +1,11 @@
 id: 231126486
-type: way
+type: node
 latitude: 47.54766
 longitude: 7.54993
 postcode: "4123"
 city: Allschwil
-street: "Binningerstrasse"
-housenumber: 123
+street: Binningerstrasse
+housenumber: "123"
 phone: ""
 opening_hours: ""
-website: "https://www.bijoutil.ch/"
+website: https://www.bijoutil.ch/

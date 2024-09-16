@@ -4,8 +4,8 @@ latitude: 47.56959
 longitude: 7.59487
 postcode: "4057"
 city: Basel
-street: "Hammerstrasse"
-housenumber: 177
-phone: "+41 61 681 92 85"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00"
-website: "https://www.divamobel.com/"
+street: Hammerstrasse
+housenumber: "177"
+phone: +41 61 681 92 85
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-18:00
+website: https://www.divamobel.com/

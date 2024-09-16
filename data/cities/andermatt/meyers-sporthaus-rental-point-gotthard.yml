@@ -4,8 +4,8 @@ latitude: 46.63348
 longitude: 8.59666
 postcode: "6490"
 city: Andermatt
-street: "Gotthardstrasse"
-housenumber: 62
-phone: "+41 41 887 12 32"
-opening_hours: "Mo-Fr 08:30-12:00, 13:30-18:00; Sa 08:30-17:00; PH off"
-website: "https://www.meyers-sporthaus.ch"
+street: Gotthardstrasse
+housenumber: "62"
+phone: +41 41 887 12 32
+opening_hours: Mo-Fr 08:30-12:00, 13:30-18:00; Sa 08:30-17:00; PH off
+website: https://www.meyers-sporthaus.ch

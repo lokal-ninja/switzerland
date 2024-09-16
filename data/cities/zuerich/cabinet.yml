@@ -4,8 +4,8 @@ latitude: 47.38556
 longitude: 8.5213
 postcode: "8005"
 city: Zürich
-street: "Viaduktstrasse"
-housenumber: 83
+street: Viaduktstrasse
+housenumber: "83"
 phone: ""
-opening_hours: "Tu-Fr 11:00-19:00; Sa 11:00-17:00"
-website: "https://cabinet-store.ch/"
+opening_hours: Tu-Fr 11:00-19:00; Sa 11:00-17:00
+website: https://cabinet-store.ch/

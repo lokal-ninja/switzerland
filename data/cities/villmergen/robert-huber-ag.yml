@@ -1,11 +1,11 @@
 id: 221035741
-type: way
+type: node
 latitude: 47.34574
 longitude: 8.2501
 postcode: "5612"
 city: Villmergen
-street: "Dorfmattenstrasse"
-housenumber: 2
+street: Dorfmattenstrasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-12:00
 website: ""

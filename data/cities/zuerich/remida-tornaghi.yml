@@ -4,8 +4,8 @@ latitude: 47.36985
 longitude: 8.54052
 postcode: "8001"
 city: Zürich
-street: "Poststrasse"
-housenumber: 4
-phone: "+41 44 211 20 00"
-opening_hours: "Mo 14:00-18:30; Tu-Fr 10:30-18:30; Sa 10:30-18:00; PH closed"
-website: "https://www.remidatornaghi.com/"
+street: Poststrasse
+housenumber: "4"
+phone: +41 44 211 20 00
+opening_hours: Mo 14:00-18:30; Tu-Fr 10:30-18:30; Sa 10:30-18:00; PH closed
+website: https://www.remidatornaghi.com/

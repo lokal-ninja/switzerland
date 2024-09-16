@@ -1,11 +1,11 @@
 id: 352119659
-type: way
+type: node
 latitude: 46.54492
 longitude: 6.5673
 postcode: "1023"
 city: Crissier
-street: "Rue d'Etrablon"
-housenumber: 1
+street: Rue d'Etrablon
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

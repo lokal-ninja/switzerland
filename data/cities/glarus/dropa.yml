@@ -4,8 +4,8 @@ latitude: 47.0406
 longitude: 9.07083
 postcode: "8750"
 city: Glarus
-street: "Schweizerhofstrasse"
-housenumber: 6
+street: Schweizerhofstrasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Th,Sa 08:00-19:00; Fr 08:00-20:00"
-website: "https://dropa.ch/standorte/dropa-drogerie-glarus"
+opening_hours: Mo-Th,Sa 08:00-19:00; Fr 08:00-20:00
+website: https://dropa.ch/standorte/dropa-drogerie-glarus

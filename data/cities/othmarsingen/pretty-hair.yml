@@ -4,8 +4,8 @@ latitude: 47.40022
 longitude: 8.21337
 postcode: "5504"
 city: Othmarsingen
-street: "Hendschikerstrasse"
-housenumber: 2
-phone: "+41 62 896 05 75"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 08:30-15:00"
-website: "https://www.pretty-hair.ch/"
+street: Hendschikerstrasse
+housenumber: "2"
+phone: +41 62 896 05 75
+opening_hours: Mo-Fr 09:00-18:30; Sa 08:30-15:00
+website: https://www.pretty-hair.ch/

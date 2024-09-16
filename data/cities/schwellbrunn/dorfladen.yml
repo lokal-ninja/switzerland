@@ -1,11 +1,11 @@
 id: 396669340
-type: way
+type: node
 latitude: 47.35275
 longitude: 9.24979
 postcode: "9103"
 city: Schwellbrunn
-street: "Dorf"
-housenumber: 5
+street: Dorf
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 06:30-12:00,14:00-18:30; Sa 06:30-14:00; PH,Su off"
+opening_hours: Mo-Fr 06:30-12:00,14:00-18:30; Sa 06:30-14:00; PH,Su off
 website: ""

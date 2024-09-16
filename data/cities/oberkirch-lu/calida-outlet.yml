@@ -1,11 +1,11 @@
 id: 193193139
-type: way
+type: node
 latitude: 47.16353
 longitude: 8.10702
 postcode: "6208"
 city: Oberkirch LU
-street: "Bahnstrasse"
-housenumber: 41
-phone: "+41 41 925 43 82"
-opening_hours: "Mo-Fr 09:00-18:00; We,Sa 09:00-17:00"
-website: "https://www.calida.com/de-CH/"
+street: Bahnstrasse
+housenumber: "41"
+phone: +41 41 925 43 82
+opening_hours: Mo-Fr 09:00-18:00; We,Sa 09:00-17:00
+website: https://www.calida.com/de-CH/

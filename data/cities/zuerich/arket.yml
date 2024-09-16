@@ -4,8 +4,8 @@ latitude: 47.37497
 longitude: 8.53821
 postcode: "8001"
 city: Zürich
-street: "Lintheschergasse"
-housenumber: 6
+street: Lintheschergasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; PH off"
-website: "https://www.arket.com/en_ch/stores.html"
+opening_hours: Mo-Sa 10:00-19:00; PH off
+website: https://www.arket.com/en_ch/stores.html

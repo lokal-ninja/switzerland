@@ -1,11 +1,11 @@
 id: 104822854
-type: way
+type: node
 latitude: 47.39811
 longitude: 8.46045
 postcode: "8952"
 city: Schlieren
-street: "Wagistrasse"
-housenumber: 24
+street: Wagistrasse
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 08:00-22:00"
+opening_hours: Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 08:00-22:00
 website: ""

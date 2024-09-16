@@ -4,8 +4,8 @@ latitude: 47.4608
 longitude: 9.04059
 postcode: "9500"
 city: Wil SG
-street: "Wilenstrasse"
-housenumber: 10
+street: Wilenstrasse
+housenumber: "10"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:00, 14:00-18:00; Sa 08:00-13:00"
-website: "https://www.coiffure-anima.ch/"
+opening_hours: Tu-Fr 09:00-12:00, 14:00-18:00; Sa 08:00-13:00
+website: https://www.coiffure-anima.ch/

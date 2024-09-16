@@ -5,7 +5,8 @@ longitude: 7.78934
 postcode: ""
 city: Langenthal
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo off; Tu-Fr 09:00-12:00; Tu-Fr 13:00-18:30; Sa 09:00-17:00; Su off; PH off"
+opening_hours: Mo off; Tu-Fr 09:00-12:00; Tu-Fr 13:00-18:30; Sa 09:00-17:00; Su off;
+    PH off
 website: ""

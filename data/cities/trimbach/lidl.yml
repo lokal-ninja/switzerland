@@ -1,11 +1,11 @@
 id: 151626899
-type: way
+type: node
 latitude: 47.36614
 longitude: 7.90657
 postcode: "4632"
 city: Trimbach
-street: "Winznauerstrasse"
-housenumber: 99
+street: Winznauerstrasse
+housenumber: "99"
 phone: ""
 opening_hours: ""
 website: ""

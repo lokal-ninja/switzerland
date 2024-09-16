@@ -4,8 +4,8 @@ latitude: 47.46206
 longitude: 8.4631
 postcode: "8155"
 city: Nassenwil
-street: "Wehntalerstrasse"
-housenumber: 1
-phone: "+41 44 850 50 55"
-opening_hours: "Mo-Fr 15:00-18:30; Sa 09:00-13:00"
-website: "http://www.eflight.ch/"
+street: Wehntalerstrasse
+housenumber: "1"
+phone: +41 44 850 50 55
+opening_hours: Mo-Fr 15:00-18:30; Sa 09:00-13:00
+website: http://www.eflight.ch/

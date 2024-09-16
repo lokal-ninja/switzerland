@@ -1,11 +1,11 @@
 id: 220536599
-type: way
+type: node
 latitude: 47.18553
 longitude: 8.86663
 postcode: "8854"
 city: Galgenen
-street: "Kantonsstrasse"
-housenumber: 9
+street: Kantonsstrasse
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

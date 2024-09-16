@@ -1,11 +1,11 @@
 id: 315777540
-type: way
+type: node
 latitude: 46.27282
 longitude: 7.86623
 postcode: "3934"
 city: Zeneggen
-street: "Dorfstrasse"
-housenumber: 44
+street: Dorfstrasse
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 08:00-11:00; Mo, Tu, Fr 14:00-17:30; Sa 14:00-16:00"
+opening_hours: Mo-Sa 08:00-11:00; Mo, Tu, Fr 14:00-17:30; Sa 14:00-16:00
 website: ""

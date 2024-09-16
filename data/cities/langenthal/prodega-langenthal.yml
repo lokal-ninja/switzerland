@@ -4,8 +4,8 @@ latitude: 47.23224
 longitude: 7.79205
 postcode: "4900"
 city: Langenthal
-street: "Gaswerkstrasse"
-housenumber: 78
+street: Gaswerkstrasse
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-16:00"
-website: "https://transgourmet.ch"
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-16:00
+website: https://transgourmet.ch

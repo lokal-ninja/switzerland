@@ -1,11 +1,11 @@
 id: 31669738
-type: way
+type: node
 latitude: 47.34875
 longitude: 8.71672
 postcode: "8610"
 city: Uster
-street: "Zürichstrasse"
-housenumber: 1
+street: Zürichstrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-We 09:00-18:30; Th 09:00-20:00; Fr 09:00-18:30; Sa 09:00-17:00"
-website: "https://uschter77.ch/"
+opening_hours: Mo-We 09:00-18:30; Th 09:00-20:00; Fr 09:00-18:30; Sa 09:00-17:00
+website: https://uschter77.ch/

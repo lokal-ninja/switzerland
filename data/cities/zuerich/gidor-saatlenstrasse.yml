@@ -4,8 +4,8 @@ latitude: 47.40487
 longitude: 8.57188
 postcode: "8051"
 city: Zürich
-street: "Saatlenstrasse"
-housenumber: 12
+street: Saatlenstrasse
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
-website: "https://www.gidor.ch/filiale/zuerich-schwamendigen/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
+website: https://www.gidor.ch/filiale/zuerich-schwamendigen/

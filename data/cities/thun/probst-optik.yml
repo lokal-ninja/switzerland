@@ -4,8 +4,8 @@ latitude: 46.76016
 longitude: 7.6274
 postcode: "3600"
 city: Thun
-street: "Marktgasse"
-housenumber: 17
+street: Marktgasse
+housenumber: "17"
 phone: "+41332232388"
-opening_hours: "Tu-Fr 08:30-18:30; Sa 08:30-16:00"
-website: "https://www.probst.ch/"
+opening_hours: Tu-Fr 08:30-18:30; Sa 08:30-16:00
+website: https://www.probst.ch/

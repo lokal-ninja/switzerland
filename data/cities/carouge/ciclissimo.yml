@@ -4,8 +4,8 @@ latitude: 46.18435
 longitude: 6.14057
 postcode: "1227"
 city: Carouge
-street: "Place du Marché"
-housenumber: 10
-phone: "+41 22 788 70 70"
+street: Place du Marché
+housenumber: "10"
+phone: +41 22 788 70 70
 opening_hours: ""
-website: "https://ciclissimo.ch/carouge/"
+website: https://ciclissimo.ch/carouge/

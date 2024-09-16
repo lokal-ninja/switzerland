@@ -4,8 +4,8 @@ latitude: 47.22857
 longitude: 8.81972
 postcode: "8640"
 city: Rapperswil
-street: "Stadthofplatz"
-housenumber: 1
+street: Stadthofplatz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Su 07:00-18:30"
-website: "https://www.steiner-beck.ch/filialen/rapperswil/"
+opening_hours: Mo-Su 07:00-18:30
+website: https://www.steiner-beck.ch/filialen/rapperswil/

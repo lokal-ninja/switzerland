@@ -4,8 +4,8 @@ latitude: 47.47379
 longitude: 9.467
 postcode: "9403"
 city: Goldach
-street: "Bahnhofplatz"
-housenumber: 1
-phone: "+4171 845 59 30"
-opening_hours: "Mo-Fr 06:30-20:30; Sa, Su 07:30-20:30"
-website: "https://www.avec.ch/"
+street: Bahnhofplatz
+housenumber: "1"
+phone: +4171 845 59 30
+opening_hours: Mo-Fr 06:30-20:30; Sa, Su 07:30-20:30
+website: https://www.avec.ch/

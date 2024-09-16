@@ -4,8 +4,8 @@ latitude: 47.47291
 longitude: 8.30789
 postcode: "5400"
 city: Baden
-street: "Weite Gasse"
-housenumber: 31
-phone: "+41 56 222 60 70"
-opening_hours: "Tu-Fr 09:00-12:00,13:30-18:30; Sa 08:30-16:00"
+street: Weite Gasse
+housenumber: "31"
+phone: +41 56 222 60 70
+opening_hours: Tu-Fr 09:00-12:00,13:30-18:30; Sa 08:30-16:00
 website: ""

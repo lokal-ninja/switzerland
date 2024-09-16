@@ -1,11 +1,11 @@
 id: 739642947
-type: way
+type: node
 latitude: 46.94805
 longitude: 7.44014
 postcode: "3011"
 city: Bern
 street: ""
-housenumber: 
-phone: "+41 31 3117341"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su 10:00-20:00"
-website: "https://ch.loccitane.com/"
+housenumber: ""
+phone: +41 31 3117341
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su 10:00-20:00
+website: https://ch.loccitane.com/

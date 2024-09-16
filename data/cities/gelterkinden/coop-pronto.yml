@@ -4,8 +4,8 @@ latitude: 47.46495
 longitude: 7.84678
 postcode: "4460"
 city: Gelterkinden
-street: "Sissacherstrasse"
-housenumber: 24
+street: Sissacherstrasse
+housenumber: "24"
 phone: ""
-opening_hours: "06:00-23:00"
-website: "https://www.coop-pronto.ch/de/"
+opening_hours: 06:00-23:00
+website: https://www.coop-pronto.ch/de/

@@ -4,8 +4,8 @@ latitude: 47.37283
 longitude: 8.52949
 postcode: "8004"
 city: Zürich
-street: "Werdstrasse"
-housenumber: 36
+street: Werdstrasse
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.denner.ch/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.denner.ch/

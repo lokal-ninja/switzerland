@@ -1,11 +1,11 @@
 id: 117337590
-type: way
+type: node
 latitude: 47.28378
 longitude: 8.75579
 postcode: "8627"
 city: Grüningen
-street: "Werkstrasse"
-housenumber: 12
-phone: "+41 55 243 11 41"
+street: Werkstrasse
+housenumber: "12"
+phone: +41 55 243 11 41
 opening_hours: ""
 website: ""

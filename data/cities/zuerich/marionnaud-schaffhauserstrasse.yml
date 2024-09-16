@@ -4,8 +4,8 @@ latitude: 47.40968
 longitude: 8.54646
 postcode: "8050"
 city: Zürich
-street: "Schaffhauserstrasse"
-housenumber: 350
+street: Schaffhauserstrasse
+housenumber: "350"
 phone: ""
 opening_hours: ""
-website: "https://www.marionnaud.ch/"
+website: https://www.marionnaud.ch/

@@ -1,11 +1,11 @@
 id: 359950155
-type: way
+type: node
 latitude: 46.86977
 longitude: 8.65079
 postcode: "6467"
 city: Schattdorf
-street: "Gotthardstrasse"
+street: Gotthardstrasse
 housenumber: 2a
 phone: ""
-opening_hours: "05:30-22:30"
-website: "https://www.coop-pronto.ch/"
+opening_hours: 05:30-22:30
+website: https://www.coop-pronto.ch/

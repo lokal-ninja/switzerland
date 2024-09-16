@@ -1,11 +1,11 @@
 id: 246602997
-type: way
+type: node
 latitude: 47.52847
 longitude: 7.64876
 postcode: "4132"
 city: Muttenz
-street: "Prattelerstrasse"
-housenumber: 3
+street: Prattelerstrasse
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.92288
 longitude: 7.41512
 postcode: "3098"
 city: Köniz
-street: "Stapfenstrasse"
-housenumber: 3
+street: Stapfenstrasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-16:00"
-website: "https://kariert.ch/"
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-16:00
+website: https://kariert.ch/

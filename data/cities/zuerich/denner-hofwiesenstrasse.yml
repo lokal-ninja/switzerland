@@ -4,8 +4,8 @@ latitude: 47.39887
 longitude: 8.53263
 postcode: "8057"
 city: Zürich
-street: "Hofwiesenstrasse"
-housenumber: 135
+street: Hofwiesenstrasse
+housenumber: "135"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.denner.ch/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.denner.ch/

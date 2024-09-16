@@ -4,8 +4,8 @@ latitude: 47.50149
 longitude: 8.72552
 postcode: "8400"
 city: Winterthur
-street: "Bahnhofplatz"
-housenumber: 14
+street: Bahnhofplatz
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-17:00"
-website: "https://www.gidor.ch/filiale/winterthur-bahnhofplatz/"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-17:00
+website: https://www.gidor.ch/filiale/winterthur-bahnhofplatz/

@@ -1,11 +1,11 @@
 id: 251165523
-type: way
+type: node
 latitude: 47.33582
 longitude: 8.80796
 postcode: "8623"
 city: Wetzikon
-street: "Mühlebühlstrasse"
-housenumber: 35
+street: Mühlebühlstrasse
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

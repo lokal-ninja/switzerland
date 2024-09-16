@@ -4,8 +4,9 @@ latitude: 47.13593
 longitude: 7.24591
 postcode: "2502"
 city: Biel/Bienne
-street: "Bahnhofstrasse"
-housenumber: 46
+street: Bahnhofstrasse
+housenumber: "46"
 phone: ""
-opening_hours: "Mo 13:30-18:30; Tu,We 09:30-12:30,13:30-18:30; Th,Fr 09:30-18:30; Sa 09:30-17:00"
+opening_hours: Mo 13:30-18:30; Tu,We 09:30-12:30,13:30-18:30; Th,Fr 09:30-18:30; Sa
+    09:30-17:00
 website: ""

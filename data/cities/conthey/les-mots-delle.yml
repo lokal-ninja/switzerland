@@ -4,8 +4,8 @@ latitude: 46.21987
 longitude: 7.30392
 postcode: "1964"
 city: Conthey
-street: "Avenue de la Gare"
-housenumber: 18
+street: Avenue de la Gare
+housenumber: "18"
 phone: "+41273464344"
-opening_hours: "Mo,Sa 08:30-15:00; Tu-Fr 08:30-18:30"
-website: "https://www.lesmotsdelle.com/"
+opening_hours: Mo,Sa 08:30-15:00; Tu-Fr 08:30-18:30
+website: https://www.lesmotsdelle.com/

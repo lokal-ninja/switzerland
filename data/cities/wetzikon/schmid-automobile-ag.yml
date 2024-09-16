@@ -1,11 +1,11 @@
 id: 251763427
-type: way
+type: node
 latitude: 47.3269
 longitude: 8.80284
 postcode: "8620"
 city: Wetzikon
-street: "Ettenhauserstrasse"
-housenumber: 12
+street: Ettenhauserstrasse
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

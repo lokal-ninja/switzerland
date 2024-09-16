@@ -4,8 +4,8 @@ latitude: 47.31295
 longitude: 8.53054
 postcode: "8134"
 city: Adliswil
-street: "Kilchbergstrasse"
-housenumber: 26
-phone: "+41 44 710 83 88"
-opening_hours: "Tu-Fr 09:30-12:00,13:30-17:30; Sa 09:00-15:00, Do 08:15-10:00,16:00-17:30"
-website: "https://velo-ueli.ch/"
+street: Kilchbergstrasse
+housenumber: "26"
+phone: +41 44 710 83 88
+opening_hours: Tu-Fr 09:30-12:00,13:30-17:30; Sa 09:00-15:00, Do 08:15-10:00,16:00-17:30
+website: https://velo-ueli.ch/

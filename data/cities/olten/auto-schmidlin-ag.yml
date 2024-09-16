@@ -1,11 +1,11 @@
 id: 53641598
-type: way
+type: node
 latitude: 47.34671
 longitude: 7.8853
 postcode: "4600"
 city: Olten
-street: "Solothurnerstrasse"
-housenumber: 317
-phone: "+41 62 212 22 27"
+street: Solothurnerstrasse
+housenumber: "317"
+phone: +41 62 212 22 27
 opening_hours: ""
 website: ""

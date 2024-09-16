@@ -1,11 +1,11 @@
 id: 217570506
-type: way
+type: node
 latitude: 46.69782
 longitude: 7.8793
 postcode: "3805"
 city: Goldswil bei Interlaken
-street: "Hauptstrasse"
-housenumber: 61
+street: Hauptstrasse
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Fr 13:30-18:00; Sa 11:00-16:00; Su 11:00-16:00"
+opening_hours: Mo-Fr 13:30-18:00; Sa 11:00-16:00; Su 11:00-16:00
 website: ""

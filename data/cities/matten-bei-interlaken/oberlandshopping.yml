@@ -1,11 +1,11 @@
 id: 209324985
-type: way
+type: node
 latitude: 46.67313
 longitude: 7.86752
 postcode: "3800"
 city: Matten bei Interlaken
-street: "Aegertiweg"
-housenumber: 33
+street: Aegertiweg
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

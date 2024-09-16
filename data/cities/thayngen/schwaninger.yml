@@ -1,11 +1,11 @@
 id: 256715208
-type: way
+type: node
 latitude: 47.74428
 longitude: 8.70768
 postcode: "8240"
 city: Thayngen
-street: "Tonwerkstrasse"
-housenumber: 2
+street: Tonwerkstrasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo 13:30-18:30; Tu-Fr 08:00-12:00, 13:30-18:30; Sa 09:30-15:00"
-website: "https://www.kschwaninger.ch/"
+opening_hours: Mo 13:30-18:30; Tu-Fr 08:00-12:00, 13:30-18:30; Sa 09:30-15:00
+website: https://www.kschwaninger.ch/

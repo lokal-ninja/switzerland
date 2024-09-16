@@ -1,11 +1,11 @@
 id: 320922543
-type: way
+type: node
 latitude: 46.63048
 longitude: 8.01732
 postcode: "3818"
 city: Grindelwald
-street: "Wagisbachstrasse"
-housenumber: 1
+street: Wagisbachstrasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

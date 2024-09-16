@@ -1,11 +1,11 @@
 id: 383765867
-type: way
+type: node
 latitude: 47.26437
 longitude: 9.04395
 postcode: "8726"
 city: Ricken SG
-street: "Waldestrasse"
-housenumber: 3
+street: Waldestrasse
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 204360636
-type: way
+type: node
 latitude: 47.03151
 longitude: 8.62759
 postcode: "6423"
 city: Seewen SZ
-street: "Bahnhofstrasse"
-housenumber: 192
+street: Bahnhofstrasse
+housenumber: "192"
 phone: ""
-opening_hours: "Mo-Th, Sa 07:30-20:00; Fr 07:30-21:00"
+opening_hours: Mo-Th, Sa 07:30-20:00; Fr 07:30-21:00
 website: ""

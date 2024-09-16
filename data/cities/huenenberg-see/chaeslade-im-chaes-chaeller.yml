@@ -1,11 +1,11 @@
 id: 52671079
-type: way
+type: node
 latitude: 47.16407
 longitude: 8.44646
 postcode: "6331"
 city: Hünenberg See
-street: "Langrüti"
-housenumber: 2
+street: Langrüti
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 13:30-18:30; Sa 09:00-12:00; PH closed"
+opening_hours: Mo-Fr 13:30-18:30; Sa 09:00-12:00; PH closed
 website: ""

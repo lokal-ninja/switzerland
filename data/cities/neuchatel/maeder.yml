@@ -4,8 +4,8 @@ latitude: 46.99243
 longitude: 6.92861
 postcode: "2000"
 city: Neuchâtel
-street: "Rue du Seyon"
-housenumber: 22
-phone: "032 725 29 92"
-opening_hours: "Tu-Fr 06:30-18:30; Sa 06:30-17:00"
+street: Rue du Seyon
+housenumber: "22"
+phone: 032 725 29 92
+opening_hours: Tu-Fr 06:30-18:30; Sa 06:30-17:00
 website: ""

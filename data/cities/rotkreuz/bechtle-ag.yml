@@ -1,11 +1,11 @@
 id: 34060851
-type: way
+type: node
 latitude: 47.14645
 longitude: 8.43276
 postcode: "6343"
 city: Rotkreuz
-street: "Birkenstrasse"
+street: Birkenstrasse
 housenumber: 43b
 phone: ""
 opening_hours: ""
-website: "https://www.bechtle.com"
+website: https://www.bechtle.com

@@ -1,11 +1,11 @@
 id: 330243618
-type: way
+type: node
 latitude: 47.54701
 longitude: 7.55099
 postcode: "4123"
 city: Allschwil
-street: "Binningerstrasse"
+street: Binningerstrasse
 housenumber: 114f
-phone: "+41 61 481 28 5"
+phone: +41 61 481 28 5
 opening_hours: ""
 website: ""

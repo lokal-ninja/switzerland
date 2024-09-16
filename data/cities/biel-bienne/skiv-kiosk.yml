@@ -1,11 +1,11 @@
 id: 381935343
-type: way
+type: node
 latitude: 47.1363
 longitude: 7.25726
 postcode: "2503"
 city: Biel/Bienne
-street: "Brühlstrasse"
-housenumber: 65
+street: Brühlstrasse
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.41032
 longitude: 8.54568
 postcode: "8050"
 city: Zürich
-street: "Ohmstrasse"
-housenumber: 11
+street: Ohmstrasse
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.lidl.ch/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.lidl.ch/

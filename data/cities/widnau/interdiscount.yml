@@ -4,8 +4,8 @@ latitude: 47.40746
 longitude: 9.6297
 postcode: "9443"
 city: Widnau
-street: "Bahnhofstrasse"
-housenumber: 2
-phone: "+41 71 722 77 81"
-opening_hours: "Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa 08:00-17:00"
-website: "https://www.interdiscount.ch/"
+street: Bahnhofstrasse
+housenumber: "2"
+phone: +41 71 722 77 81
+opening_hours: Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa 08:00-17:00
+website: https://www.interdiscount.ch/

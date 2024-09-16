@@ -1,11 +1,11 @@
 id: 86576495
-type: way
+type: node
 latitude: 46.51643
 longitude: 6.49726
 postcode: "1110"
 city: Morges
-street: "Avenue de Vertou"
-housenumber: 8
+street: Avenue de Vertou
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.gaillardetpittet.ch/index.php/nos-chapelles/chapelle-de-beausobre"
+website: https://www.gaillardetpittet.ch/index.php/nos-chapelles/chapelle-de-beausobre

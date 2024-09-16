@@ -1,11 +1,11 @@
 id: 609946514
-type: way
+type: node
 latitude: 47.19141
 longitude: 8.47729
 postcode: "6312"
 city: Steinhausen
-street: "Hinterbergstrasse"
-housenumber: 40
+street: Hinterbergstrasse
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Th 08:00-19:00, Fr 08:00-21:00, Sa 08:00-17:00; PH off; Nov 1 off"
-website: "https://filialen.migros.ch/de/florissimo-steinhausen-zugerland"
+opening_hours: Mo-Th 08:00-19:00, Fr 08:00-21:00, Sa 08:00-17:00; PH off; Nov 1 off
+website: https://filialen.migros.ch/de/florissimo-steinhausen-zugerland

@@ -4,8 +4,9 @@ latitude: 46.4572
 longitude: 7.44258
 postcode: "6372"
 city: Lenk im Simmental
-street: "Rawilstrasse"
-housenumber: 1
+street: Rawilstrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo 10:00-12:00, 14:00-17:00; Tu off; We 10:00-12:00, 14:00-17:00; Th 10:00-12:00, 14:00-17:00; Fr 10:00-12:00, 14:00-17:00; Sa 10:00-16:00, Su off"
-website: "https://biglers-shop.ch"
+opening_hours: Mo 10:00-12:00, 14:00-17:00; Tu off; We 10:00-12:00, 14:00-17:00; Th
+    10:00-12:00, 14:00-17:00; Fr 10:00-12:00, 14:00-17:00; Sa 10:00-16:00, Su off
+website: https://biglers-shop.ch

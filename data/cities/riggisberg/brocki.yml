@@ -4,8 +4,8 @@ latitude: 46.80948
 longitude: 7.47654
 postcode: "3132"
 city: Riggisberg
-street: "Vordere Gasse"
-housenumber: 2
+street: Vordere Gasse
+housenumber: "2"
 phone: ""
-opening_hours: "Sa[1,3] 13:00-16:00"
-website: "https://www.kindex.ch/riggisberg/brockenstube#"
+opening_hours: Sa[1,3] 13:00-16:00
+website: https://www.kindex.ch/riggisberg/brockenstube#

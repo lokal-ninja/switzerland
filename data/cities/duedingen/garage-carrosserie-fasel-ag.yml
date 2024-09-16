@@ -4,8 +4,8 @@ latitude: 46.85396
 longitude: 7.19108
 postcode: "3186"
 city: Düdingen
-street: "Industriestrasse"
-housenumber: 2
-phone: "+41 26 492 52 10"
-opening_hours: "Mo-Sa 06:00-20:00; Su 06:00-19:00"
-website: "https://www.garagefasel.ch/"
+street: Industriestrasse
+housenumber: "2"
+phone: +41 26 492 52 10
+opening_hours: Mo-Sa 06:00-20:00; Su 06:00-19:00
+website: https://www.garagefasel.ch/

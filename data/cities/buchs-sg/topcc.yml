@@ -1,11 +1,11 @@
 id: 119161258
-type: way
+type: node
 latitude: 47.17277
 longitude: 9.48285
 postcode: "9470"
 city: Buchs (SG)
-street: "Fabrikstrasse"
-housenumber: 20
+street: Fabrikstrasse
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

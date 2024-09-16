@@ -1,11 +1,11 @@
 id: 205883022
-type: way
+type: node
 latitude: 47.46579
 longitude: 7.8542
 postcode: "4460"
 city: Gelterkinden
-street: "Bohnygasse"
-housenumber: 24
+street: Bohnygasse
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.55774
 longitude: 7.58852
 postcode: "4001"
 city: Zürich
-street: "Freie Strasse"
-housenumber: 1
-phone: "+41 61 261 08 07"
-opening_hours: "Mo-We,Fr 09:00-18:30;Th 09:00-20:00;Sa 09:00-18:00"
-website: "https://www.wefashion.ch/de_CH/filialen/basel-freie-strasse-1/"
+street: Freie Strasse
+housenumber: "1"
+phone: +41 61 261 08 07
+opening_hours: Mo-We,Fr 09:00-18:30;Th 09:00-20:00;Sa 09:00-18:00
+website: https://www.wefashion.ch/de_CH/filialen/basel-freie-strasse-1/

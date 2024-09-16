@@ -4,8 +4,8 @@ latitude: 47.47734
 longitude: 8.99877
 postcode: "9542"
 city: Münchwilen TG
-street: "Wilerstrasse"
-housenumber: 9
+street: Wilerstrasse
+housenumber: "9"
 phone: "+41715115030"
-opening_hours: "08:00-12:00, 13:30-17:00"
-website: "https://www.adwork.ch/"
+opening_hours: 08:00-12:00, 13:30-17:00
+website: https://www.adwork.ch/

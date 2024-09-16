@@ -4,8 +4,8 @@ latitude: 47.14155
 longitude: 7.24628
 postcode: "2502"
 city: Biel/Bienne
-street: "Ring"
-housenumber: 5
-phone: "+41 32 322 11 20"
-opening_hours: "Tu 14:00-18:00; Fr 14:00-18:00; Sa 10:00-12:30"
+street: Ring
+housenumber: "5"
+phone: +41 32 322 11 20
+opening_hours: Tu 14:00-18:00; Fr 14:00-18:00; Sa 10:00-12:30
 website: ""

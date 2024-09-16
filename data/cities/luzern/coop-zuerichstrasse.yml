@@ -4,8 +4,8 @@ latitude: 47.05687
 longitude: 8.31012
 postcode: "6004"
 city: Luzern
-street: "Zürichstrasse"
-housenumber: 9
+street: Zürichstrasse
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-We 07:30-18:30, Th,Fr 07:30-21:00, Sa 08:00-16:00"
+opening_hours: Mo-We 07:30-18:30, Th,Fr 07:30-21:00, Sa 08:00-16:00
 website: ""

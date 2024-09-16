@@ -1,11 +1,11 @@
 id: 706339616
-type: way
+type: node
 latitude: 46.35389
 longitude: 7.15029
 postcode: "1865"
 city: Les Diablerets
-street: "Route du Pillon"
-housenumber: 58
+street: Route du Pillon
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

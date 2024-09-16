@@ -1,11 +1,11 @@
 id: 160401567
-type: way
+type: node
 latitude: 47.40696
 longitude: 8.2153
 postcode: "5504"
 city: Othmarsingen
-street: "Bahnhofstrasse"
-housenumber: 18
+street: Bahnhofstrasse
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-We 08:00-12:00,13:00-17:00; Th,Fr 08:00-12:00,13:00-18:30; Sa 09:00-17:00"
+opening_hours: Mo-We 08:00-12:00,13:00-17:00; Th,Fr 08:00-12:00,13:00-18:30; Sa 09:00-17:00
 website: ""

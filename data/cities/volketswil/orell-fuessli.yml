@@ -5,7 +5,7 @@ longitude: 8.66699
 postcode: "8604"
 city: Volketswil
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; PH off"
-website: "https://www.orellfuessli.ch/"
+opening_hours: Mo-Sa 09:00-20:00; PH off
+website: https://www.orellfuessli.ch/

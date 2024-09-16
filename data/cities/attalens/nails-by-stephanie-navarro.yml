@@ -4,8 +4,8 @@ latitude: 46.51225
 longitude: 6.8502
 postcode: "1616"
 city: Attalens
-street: "Chemin du Clos"
-housenumber: 5
-phone: "+41 79 679 91 38"
-opening_hours: "Mo-Tu 16:00-18:30; We 09:00-18:00; Th-Fr 08:30-18:00"
+street: Chemin du Clos
+housenumber: "5"
+phone: +41 79 679 91 38
+opening_hours: Mo-Tu 16:00-18:30; We 09:00-18:00; Th-Fr 08:30-18:00
 website: ""

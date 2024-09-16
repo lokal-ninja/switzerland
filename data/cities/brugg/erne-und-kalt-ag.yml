@@ -1,11 +1,11 @@
 id: 56475290
-type: way
+type: node
 latitude: 47.47567
 longitude: 8.20095
 postcode: "5200"
 city: Brugg
-street: "Aarauerstrasse"
-housenumber: 60
+street: Aarauerstrasse
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

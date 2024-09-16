@@ -4,8 +4,8 @@ latitude: 47.05752
 longitude: 7.62657
 postcode: "3400"
 city: Burgdorf
-street: "Mühlegasse"
-housenumber: 1
-phone: "+41 34 422 31 29"
-opening_hours: "Tu-Fr 09:00-11:00,14:00-17:00; Sa 09:00-11:00"
-website: "https://www.pinkfrog.ch/"
+street: Mühlegasse
+housenumber: "1"
+phone: +41 34 422 31 29
+opening_hours: Tu-Fr 09:00-11:00,14:00-17:00; Sa 09:00-11:00
+website: https://www.pinkfrog.ch/

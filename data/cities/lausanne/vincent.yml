@@ -4,8 +4,8 @@ latitude: 46.51785
 longitude: 6.6377
 postcode: "1005"
 city: Lausanne
-street: "Avenue du Théâtre"
-housenumber: 16
-phone: "+41 21 312 90 07"
-opening_hours: "06:30-18:30"
-website: "https://www.patisserie-vincent.ch/"
+street: Avenue du Théâtre
+housenumber: "16"
+phone: +41 21 312 90 07
+opening_hours: 06:30-18:30
+website: https://www.patisserie-vincent.ch/

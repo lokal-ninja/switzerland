@@ -4,8 +4,8 @@ latitude: 46.80485
 longitude: 7.15486
 postcode: "1700"
 city: Fribourg
-street: "Rue de Romont"
-housenumber: 13
-phone: "+41 26 322 34 19"
-opening_hours: "Mo-Fr 06:15-19:00; Su 07:00-17:00; Sa 09:00-19:00"
-website: "https://www.confiserie-suard.ch/"
+street: Rue de Romont
+housenumber: "13"
+phone: +41 26 322 34 19
+opening_hours: Mo-Fr 06:15-19:00; Su 07:00-17:00; Sa 09:00-19:00
+website: https://www.confiserie-suard.ch/

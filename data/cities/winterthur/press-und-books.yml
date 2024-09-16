@@ -1,11 +1,11 @@
 id: 380099502
-type: way
+type: node
 latitude: 47.49946
 longitude: 8.72312
 postcode: "8400"
 city: Winterthur
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.pressbooks.ch/"
+website: https://www.pressbooks.ch/

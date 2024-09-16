@@ -1,11 +1,11 @@
 id: 127063524
-type: way
+type: node
 latitude: 47.39446
 longitude: 8.64633
 postcode: "8600"
 city: Dübendorf
-street: "Gfennstrasse"
-housenumber: 5
+street: Gfennstrasse
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

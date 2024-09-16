@@ -4,8 +4,8 @@ latitude: 47.41932
 longitude: 8.50707
 postcode: "8046"
 city: Zürich
-street: "Wehntalerstrasse"
-housenumber: 540
-phone: "+41 44 401 95 40"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
+street: Wehntalerstrasse
+housenumber: "540"
+phone: +41 44 401 95 40
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
 website: ""

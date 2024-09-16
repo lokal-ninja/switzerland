@@ -4,8 +4,8 @@ latitude: 46.77891
 longitude: 6.6394
 postcode: "1400"
 city: Yverdon-les-Bains
-street: "Rue du Milieu"
-housenumber: 18
-phone: "+41 24 425 44 55"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-17:00"
-website: "https://www.atmospherefleurs.ch/"
+street: Rue du Milieu
+housenumber: "18"
+phone: +41 24 425 44 55
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-17:00
+website: https://www.atmospherefleurs.ch/

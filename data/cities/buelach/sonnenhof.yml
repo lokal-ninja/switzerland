@@ -1,11 +1,11 @@
 id: 42878823
-type: way
+type: node
 latitude: 47.52087
 longitude: 8.5398
 postcode: "8180"
 city: Bülach
-street: "Bahnhofstrasse"
-housenumber: 28
+street: Bahnhofstrasse
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

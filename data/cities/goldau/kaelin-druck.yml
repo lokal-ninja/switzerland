@@ -4,8 +4,9 @@ latitude: 47.05039
 longitude: 8.54918
 postcode: "6410"
 city: Goldau
-street: "Parkstrasse"
-housenumber: 13
-phone: "+41 41 855 12 41"
-opening_hours: "Mo-Tu,Th 08:00-11:30,13:30-16:00; We 08:00-11:30,13:30-15:30; Fr-Su off"
+street: Parkstrasse
+housenumber: "13"
+phone: +41 41 855 12 41
+opening_hours: Mo-Tu,Th 08:00-11:30,13:30-16:00; We 08:00-11:30,13:30-15:30; Fr-Su
+    off
 website: ""

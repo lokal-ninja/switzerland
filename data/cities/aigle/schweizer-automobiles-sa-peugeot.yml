@@ -4,8 +4,8 @@ latitude: 46.31479
 longitude: 6.94057
 postcode: "1860"
 city: Aigle
-street: "Route Industrielle"
-housenumber: 12
-phone: "+41 24 466 54 17"
-opening_hours: "Mo-Th 07:30-12:00,13:30-17:45; Fr 07:30-12:00,13:30-17:00"
-website: "http://www.schweizer-automobiles.ch/"
+street: Route Industrielle
+housenumber: "12"
+phone: +41 24 466 54 17
+opening_hours: Mo-Th 07:30-12:00,13:30-17:45; Fr 07:30-12:00,13:30-17:00
+website: http://www.schweizer-automobiles.ch/

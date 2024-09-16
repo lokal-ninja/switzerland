@@ -4,8 +4,8 @@ latitude: 47.46584
 longitude: 7.85749
 postcode: "4460"
 city: Gelterkinden
-street: "Mühlegasse"
-housenumber: 14
-phone: "+41 61 981 60 09;+41 61 981 12 54"
-opening_hours: "Mo-Fr 09:00-12:00,17:00-18:30; Sa 09:00-16:00"
-website: "http://www.4460.ch/freivogel/kontakt.htm"
+street: Mühlegasse
+housenumber: "14"
+phone: +41 61 981 60 09;+41 61 981 12 54
+opening_hours: Mo-Fr 09:00-12:00,17:00-18:30; Sa 09:00-16:00
+website: http://www.4460.ch/freivogel/kontakt.htm

@@ -1,11 +1,11 @@
 id: 175449714
-type: way
+type: node
 latitude: 47.41278
 longitude: 8.61396
 postcode: "8304"
 city: Wallisellen
-street: "Schönenhofstrasse"
-housenumber: 10
+street: Schönenhofstrasse
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; PH off"
+opening_hours: Mo-Sa 07:30-21:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 546892681
-type: way
+type: node
 latitude: 46.62171
 longitude: 8.01845
 postcode: "3818"
 city: Grindelwald
-street: "Kirchbodenstrasse"
-housenumber: 25
+street: Kirchbodenstrasse
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

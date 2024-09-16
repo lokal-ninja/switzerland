@@ -4,8 +4,8 @@ latitude: 47.56583
 longitude: 7.58946
 postcode: "4057"
 city: Basel
-street: "Erasmusplatz"
-housenumber: 10
+street: Erasmusplatz
+housenumber: "10"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:30; Sa 08:00-16:00"
+opening_hours: Tu-Fr 09:00-18:30; Sa 08:00-16:00
 website: ""

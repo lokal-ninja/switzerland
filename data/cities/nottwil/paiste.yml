@@ -1,11 +1,11 @@
 id: 243317693
-type: way
+type: node
 latitude: 47.13325
 longitude: 8.14204
 postcode: "6207"
 city: Nottwil
-street: "Kantonsstrasse"
-housenumber: 2
+street: Kantonsstrasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.paiste.com/"
+website: https://www.paiste.com/

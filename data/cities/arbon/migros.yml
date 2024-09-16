@@ -4,8 +4,8 @@ latitude: 47.51262
 longitude: 9.43247
 postcode: "9320"
 city: Arbon
-street: "St. Gallerstrasse"
-housenumber: 6
+street: St. Gallerstrasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Th 07:00-19:00, Fr 07:00-20:00, Sa 07:00-18:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-arbon"
+opening_hours: Mo-Th 07:00-19:00, Fr 07:00-20:00, Sa 07:00-18:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-arbon

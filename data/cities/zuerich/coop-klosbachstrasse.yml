@@ -4,8 +4,8 @@ latitude: 47.36782
 longitude: 8.56081
 postcode: "8032"
 city: Zürich
-street: "Klosbachstrasse"
-housenumber: 104
+street: Klosbachstrasse
+housenumber: "104"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.coop.ch/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.coop.ch/

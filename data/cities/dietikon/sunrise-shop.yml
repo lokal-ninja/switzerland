@@ -4,8 +4,8 @@ latitude: 47.40486
 longitude: 8.40275
 postcode: "8953"
 city: Dietikon
-street: "Löwenstrasse"
-housenumber: 34
+street: Löwenstrasse
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00; PH closed"
-website: "https://www.sunrise.ch/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00; PH closed
+website: https://www.sunrise.ch/

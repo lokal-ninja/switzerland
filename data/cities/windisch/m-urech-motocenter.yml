@@ -4,8 +4,8 @@ latitude: 47.47865
 longitude: 8.21903
 postcode: "5210"
 city: Windisch
-street: "Zürcherstrasse"
-housenumber: 38
-phone: "+41 56 441 93 88"
-opening_hours: "Tu-Fr 08:00-12:00,13:30-18:30; Sa 08:00-15:00"
-website: "https://urech-motos.ch/"
+street: Zürcherstrasse
+housenumber: "38"
+phone: +41 56 441 93 88
+opening_hours: Tu-Fr 08:00-12:00,13:30-18:30; Sa 08:00-15:00
+website: https://urech-motos.ch/

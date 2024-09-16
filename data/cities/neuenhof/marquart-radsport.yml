@@ -4,8 +4,8 @@ latitude: 47.4535
 longitude: 8.32185
 postcode: "5432"
 city: Neuenhof
-street: "Zürcherstrasse"
-housenumber: 80
-phone: "+41 56 406 10 25"
-opening_hours: "Mo off, Tu-Fr 08:00-12:00, 13:30-18:30; Sa 08:00-17:00"
-website: "https://www.marquart-radsport.ch/"
+street: Zürcherstrasse
+housenumber: "80"
+phone: +41 56 406 10 25
+opening_hours: Mo off, Tu-Fr 08:00-12:00, 13:30-18:30; Sa 08:00-17:00
+website: https://www.marquart-radsport.ch/

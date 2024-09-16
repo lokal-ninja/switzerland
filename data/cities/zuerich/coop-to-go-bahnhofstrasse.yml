@@ -4,8 +4,8 @@ latitude: 47.37298
 longitude: 8.5371
 postcode: "8001"
 city: Zürich
-street: "Bahnhofstrasse"
-housenumber: 57
+street: Bahnhofstrasse
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Sa 06:30-20:00"
+opening_hours: Mo-Sa 06:30-20:00
 website: ""

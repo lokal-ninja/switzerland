@@ -4,8 +4,8 @@ latitude: 47.48896
 longitude: 8.71235
 postcode: "8406"
 city: Winterthur
-street: "Strittackerstrasse"
-housenumber: 15
+street: Strittackerstrasse
+housenumber: "15"
 phone: ""
-opening_hours: "Th 09:00-12:00; Fr 14:00-18:30"
-website: "https://kbunt.ch/"
+opening_hours: Th 09:00-12:00; Fr 14:00-18:30
+website: https://kbunt.ch/

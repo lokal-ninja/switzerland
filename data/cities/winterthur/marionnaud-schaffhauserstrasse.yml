@@ -4,8 +4,8 @@ latitude: 47.51886
 longitude: 8.71967
 postcode: "8400"
 city: Winterthur
-street: "Schaffhauserstrasse"
-housenumber: 152
+street: Schaffhauserstrasse
+housenumber: "152"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.marionnaud.ch/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.marionnaud.ch/

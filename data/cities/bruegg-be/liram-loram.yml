@@ -4,8 +4,8 @@ latitude: 47.12376
 longitude: 7.28086
 postcode: "2555"
 city: Brügg BE
-street: "Hauptstrasse"
-housenumber: 15
+street: Hauptstrasse
+housenumber: "15"
 phone: ""
-opening_hours: "Tu 14:00-16:00; We-Sa 09:00-11:00"
-website: "https://www.liramloram.ch"
+opening_hours: Tu 14:00-16:00; We-Sa 09:00-11:00
+website: https://www.liramloram.ch

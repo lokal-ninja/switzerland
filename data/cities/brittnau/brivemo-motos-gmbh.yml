@@ -4,8 +4,8 @@ latitude: 47.26065
 longitude: 7.945
 postcode: "4805"
 city: Brittnau
-street: "Dorfstrasse"
-housenumber: 34
-phone: "+41 62 751 19 51"
-opening_hours: "Tu-Fr 07:30-12:00, 13:00-18.00; Sa 07:30-12:00"
-website: "https://www.brivemo.ch/"
+street: Dorfstrasse
+housenumber: "34"
+phone: +41 62 751 19 51
+opening_hours: Tu-Fr 07:30-12:00, 13:00-18.00; Sa 07:30-12:00
+website: https://www.brivemo.ch/

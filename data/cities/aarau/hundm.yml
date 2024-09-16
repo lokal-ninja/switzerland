@@ -4,8 +4,8 @@ latitude: 47.39827
 longitude: 8.05893
 postcode: "5004"
 city: Aarau
-street: "Tellistrasse"
-housenumber: 67
+street: Tellistrasse
+housenumber: "67"
 phone: ""
 opening_hours: ""
-website: "https://www2.hm.com/de_ch/"
+website: https://www2.hm.com/de_ch/

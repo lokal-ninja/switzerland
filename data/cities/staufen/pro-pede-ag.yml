@@ -4,8 +4,8 @@ latitude: 47.38611
 longitude: 8.16111
 postcode: "5603"
 city: Staufen
-street: "Tiliastrasse"
-housenumber: 5
-phone: "+41 62 891 98 81"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:30; Sa 08:00-12:00"
-website: "https://www.propede.ch/"
+street: Tiliastrasse
+housenumber: "5"
+phone: +41 62 891 98 81
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:30; Sa 08:00-12:00
+website: https://www.propede.ch/

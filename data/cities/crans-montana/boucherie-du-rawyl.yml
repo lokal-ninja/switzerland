@@ -4,8 +4,8 @@ latitude: 46.31223
 longitude: 7.4805
 postcode: "3963"
 city: Crans-Montana
-street: "Rue Louis-Antille"
-housenumber: 1
-phone: "+41 27 481 23 35"
-opening_hours: "Mo-Fr 07:30-12:15,14:15-18:30; Sa 07:30-12:30,14:00-17:30"
-website: "https://www.boucherie-rawyl.ch/"
+street: Rue Louis-Antille
+housenumber: "1"
+phone: +41 27 481 23 35
+opening_hours: Mo-Fr 07:30-12:15,14:15-18:30; Sa 07:30-12:30,14:00-17:30
+website: https://www.boucherie-rawyl.ch/

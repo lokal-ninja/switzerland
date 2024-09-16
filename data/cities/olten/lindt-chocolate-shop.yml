@@ -4,8 +4,8 @@ latitude: 47.36439
 longitude: 7.91729
 postcode: "4600"
 city: Olten
-street: "Industriestrasse"
-housenumber: 180
+street: Industriestrasse
+housenumber: "180"
 phone: ""
 opening_hours: ""
-website: "https://www.lindt.ch/de/"
+website: https://www.lindt.ch/de/

@@ -4,8 +4,8 @@ latitude: 47.37048
 longitude: 8.52211
 postcode: "8003"
 city: Zürich
-street: "Birmensdorferstrasse"
-housenumber: 107
+street: Birmensdorferstrasse
+housenumber: "107"
 phone: ""
 opening_hours: ""
-website: "https://clayeria.com/"
+website: https://clayeria.com/

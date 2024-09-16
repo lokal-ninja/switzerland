@@ -4,8 +4,8 @@ latitude: 47.37275
 longitude: 8.5452
 postcode: "8001"
 city: Zürich
-street: "Froschaugasse"
-housenumber: 4
+street: Froschaugasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.noten.ch/"
+website: https://www.noten.ch/

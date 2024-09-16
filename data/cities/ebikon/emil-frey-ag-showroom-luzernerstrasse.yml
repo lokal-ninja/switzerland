@@ -1,11 +1,11 @@
 id: 1155055881
-type: way
+type: node
 latitude: 47.07499
 longitude: 8.33018
 postcode: "6030"
 city: Ebikon
-street: "Luzernerstrasse"
-housenumber: 33
+street: Luzernerstrasse
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

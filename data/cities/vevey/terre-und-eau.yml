@@ -4,8 +4,8 @@ latitude: 46.45883
 longitude: 6.84286
 postcode: "1800"
 city: Vevey
-street: "Rue du Lac"
-housenumber: 51
-phone: "+41 21 921 15 47"
-opening_hours: "Mo 13:30-18:30; Tu-Sa 09:00-12:00,13:30-18:30; Sa 09:00-17:00"
-website: "https://terreeteau.ch/"
+street: Rue du Lac
+housenumber: "51"
+phone: +41 21 921 15 47
+opening_hours: Mo 13:30-18:30; Tu-Sa 09:00-12:00,13:30-18:30; Sa 09:00-17:00
+website: https://terreeteau.ch/

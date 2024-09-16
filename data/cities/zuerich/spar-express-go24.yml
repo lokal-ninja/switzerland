@@ -1,11 +1,11 @@
 id: 200570421
-type: way
+type: node
 latitude: 47.38128
 longitude: 8.5379
 postcode: "8005"
 city: Zürich
-street: "Ausstellungsstrasse"
-housenumber: 10
+street: Ausstellungsstrasse
+housenumber: "10"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

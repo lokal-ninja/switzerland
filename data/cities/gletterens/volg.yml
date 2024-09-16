@@ -1,11 +1,11 @@
 id: 319581460
-type: way
+type: node
 latitude: 46.90419
 longitude: 6.93041
 postcode: "1544"
 city: Gletterens
-street: "Route des Grèves"
-housenumber: 18
+street: Route des Grèves
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

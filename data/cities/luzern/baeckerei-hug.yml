@@ -4,8 +4,9 @@ latitude: 47.05295
 longitude: 8.30844
 postcode: "6004"
 city: Luzern
-street: "Schwanenplatz"
-housenumber: 2
+street: Schwanenplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-We 06:30-19:00; Th 06:30-21:00; Fr 06:30-19:00; Sa 06:30-16:00; Su 08:00-17:00"
-website: "https://www.baeckerei-hug.ch/filialen/standorte/luzern-schwanenplatz/"
+opening_hours: Mo-We 06:30-19:00; Th 06:30-21:00; Fr 06:30-19:00; Sa 06:30-16:00;
+    Su 08:00-17:00
+website: https://www.baeckerei-hug.ch/filialen/standorte/luzern-schwanenplatz/

@@ -1,11 +1,11 @@
 id: 277459553
-type: way
+type: node
 latitude: 47.29799
 longitude: 9.13378
 postcode: "9630"
 city: Wattwil
-street: "Heiterswil"
-housenumber: 
+street: Heiterswil
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

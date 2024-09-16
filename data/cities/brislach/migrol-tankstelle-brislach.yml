@@ -4,8 +4,8 @@ latitude: 47.41453
 longitude: 7.54303
 postcode: "4225"
 city: Brislach
-street: "Breitenbachstrasse"
-housenumber: 52
+street: Breitenbachstrasse
+housenumber: "52"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.migrol.ch/de/"
+opening_hours: 24/7
+website: https://www.migrol.ch/de/

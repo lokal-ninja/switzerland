@@ -4,8 +4,8 @@ latitude: 47.06142
 longitude: 8.30836
 postcode: "6006"
 city: Luzern
-street: "Maihofstrasse"
-housenumber: 1
-phone: "+41413670970 +41 41 420 98 08"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 07:30-16:00"
-website: "https://coop.ch/"
+street: Maihofstrasse
+housenumber: "1"
+phone: +41413670970 +41 41 420 98 08
+opening_hours: Mo-Fr 07:30-18:30; Sa 07:30-16:00
+website: https://coop.ch/

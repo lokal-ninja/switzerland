@@ -4,8 +4,8 @@ latitude: 47.34589
 longitude: 8.69682
 postcode: "8610"
 city: Uster
-street: "Seestrasse"
-housenumber: 145
+street: Seestrasse
+housenumber: "145"
 phone: ""
 opening_hours: ""
-website: "https://powerlab.ch/"
+website: https://powerlab.ch/

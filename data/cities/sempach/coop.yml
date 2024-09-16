@@ -1,11 +1,11 @@
 id: 208734142
-type: way
+type: node
 latitude: 47.1247
 longitude: 8.19387
 postcode: "6204"
 city: Sempach
-street: "Seesatz"
-housenumber: 11
+street: Seesatz
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-17:00"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-17:00
 website: ""

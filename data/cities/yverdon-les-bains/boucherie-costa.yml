@@ -4,8 +4,9 @@ latitude: 46.7788
 longitude: 6.63927
 postcode: "1400"
 city: Yverdon-les-Bains
-street: "Rue du Milieu"
-housenumber: 25
-phone: "+41 24 425 50 50"
-opening_hours: "Mo 09:00-12:00,14:00-18:30, Tu,Th-Fr 08:00-12:00,14:00-18:30; We 08:00-12:00; Sa 08:00-16:00"
+street: Rue du Milieu
+housenumber: "25"
+phone: +41 24 425 50 50
+opening_hours: Mo 09:00-12:00,14:00-18:30, Tu,Th-Fr 08:00-12:00,14:00-18:30; We 08:00-12:00;
+    Sa 08:00-16:00
 website: ""

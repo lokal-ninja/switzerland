@@ -1,11 +1,11 @@
 id: 251763428
-type: way
+type: node
 latitude: 47.32699
 longitude: 8.8025
 postcode: "8620"
 city: Wetzikon
-street: "Bachtelstrasse"
-housenumber: 7
+street: Bachtelstrasse
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

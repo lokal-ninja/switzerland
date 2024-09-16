@@ -1,11 +1,11 @@
 id: 204031198
-type: way
+type: node
 latitude: 47.63909
 longitude: 9.20405
 postcode: "8280"
 city: Kreuzlingen
-street: "Lengwilerstrasse"
-housenumber: 2
+street: Lengwilerstrasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
-website: "https://www.aldi-suisse.ch/"
+opening_hours: Mo-Sa 07:30-20:00
+website: https://www.aldi-suisse.ch/

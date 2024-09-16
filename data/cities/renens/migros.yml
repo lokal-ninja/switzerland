@@ -4,8 +4,8 @@ latitude: 46.53077
 longitude: 6.59829
 postcode: "1020"
 city: Renens
-street: "Avenue de Florissant"
-housenumber: 38
+street: Avenue de Florissant
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 07:30-17:00"
-website: "https://filialen.migros.ch/fr/supermarche-migros-renens-florissant"
+opening_hours: Mo-Fr 08:00-19:00; Sa 07:30-17:00
+website: https://filialen.migros.ch/fr/supermarche-migros-renens-florissant

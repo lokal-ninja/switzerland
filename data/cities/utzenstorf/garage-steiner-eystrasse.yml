@@ -1,11 +1,11 @@
 id: 422940551
-type: way
+type: node
 latitude: 47.1267
 longitude: 7.55266
 postcode: "3427"
 city: Utzenstorf
-street: "Eystrasse"
-housenumber: 6
+street: Eystrasse
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

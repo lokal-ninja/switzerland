@@ -4,8 +4,8 @@ latitude: 45.84208
 longitude: 8.92345
 postcode: "6855"
 city: Stabio
-street: "Via Vite"
-housenumber: 5
+street: Via Vite
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.birrasanmartino.ch/"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.birrasanmartino.ch/

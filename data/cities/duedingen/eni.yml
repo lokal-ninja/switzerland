@@ -1,11 +1,11 @@
 id: 625048994
-type: way
+type: node
 latitude: 46.85831
 longitude: 7.20028
 postcode: "3186"
 city: Düdingen
-street: "Murtenstrasse"
-housenumber: 37
+street: Murtenstrasse
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

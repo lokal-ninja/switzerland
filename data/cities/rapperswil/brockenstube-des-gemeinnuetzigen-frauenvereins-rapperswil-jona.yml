@@ -4,8 +4,8 @@ latitude: 47.22776
 longitude: 8.82722
 postcode: "8640"
 city: Rapperswil
-street: "Schönbodenstrasse"
-housenumber: 3
-phone: "+41 79 225 75 81"
-opening_hours: "Tu 09:00-12:00; Th 13:15-17:00; Sa 11:00-15:00"
-website: "https://www.sgf-rj.ch/brockenstube"
+street: Schönbodenstrasse
+housenumber: "3"
+phone: +41 79 225 75 81
+opening_hours: Tu 09:00-12:00; Th 13:15-17:00; Sa 11:00-15:00
+website: https://www.sgf-rj.ch/brockenstube

@@ -4,8 +4,8 @@ latitude: 46.77065
 longitude: 7.16165
 postcode: "1723"
 city: Marly
-street: "Route de Corbaroche"
-housenumber: 8
-phone: "+41 26 435 35 10"
-opening_hours: "Mo-Fr 08:00-18:30 Sa 08:00-16:00"
-website: "https://www.hostettler-moto.ch/fr/fribourg/"
+street: Route de Corbaroche
+housenumber: "8"
+phone: +41 26 435 35 10
+opening_hours: Mo-Fr 08:00-18:30 Sa 08:00-16:00
+website: https://www.hostettler-moto.ch/fr/fribourg/

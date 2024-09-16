@@ -1,11 +1,11 @@
 id: 93650276
-type: way
+type: node
 latitude: 47.4132
 longitude: 9.31165
 postcode: "9015"
 city: St. Gallen
-street: "Bildstrasse"
-housenumber: 3
+street: Bildstrasse
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

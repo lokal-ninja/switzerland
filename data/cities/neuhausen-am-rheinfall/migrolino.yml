@@ -4,8 +4,8 @@ latitude: 47.68611
 longitude: 8.6215
 postcode: "8212"
 city: Neuhausen am Rheinfall
-street: "Schaffhauserstrasse"
-housenumber: 38
-phone: "+41 52 672 82 81"
-opening_hours: "Mo-Sa 06:00-23:45; Su 07:00-23:45"
-website: "https://www.migrolino.ch/de/standorte/shell-schaffhausen-rheinfall/"
+street: Schaffhauserstrasse
+housenumber: "38"
+phone: +41 52 672 82 81
+opening_hours: Mo-Sa 06:00-23:45; Su 07:00-23:45
+website: https://www.migrolino.ch/de/standorte/shell-schaffhausen-rheinfall/

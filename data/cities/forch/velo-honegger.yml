@@ -1,11 +1,11 @@
 id: 48663085
-type: way
+type: node
 latitude: 47.34334
 longitude: 8.65341
 postcode: "8127"
 city: Forch
-street: "Loorenstrasse"
-housenumber: 1
+street: Loorenstrasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

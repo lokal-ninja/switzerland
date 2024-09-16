@@ -1,11 +1,11 @@
 id: 369540538
-type: way
+type: node
 latitude: 47.45245
 longitude: 8.94266
 postcode: "8362"
 city: Balterswil
-street: "Föhrenweg"
-housenumber: 1
-phone: "+41 71 971 22 76"
+street: Föhrenweg
+housenumber: "1"
+phone: +41 71 971 22 76
 opening_hours: ""
-website: "https://www.kunstausleih.ch/"
+website: https://www.kunstausleih.ch/

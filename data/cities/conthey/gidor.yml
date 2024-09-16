@@ -4,8 +4,8 @@ latitude: 46.22364
 longitude: 7.3023
 postcode: "1964"
 city: Conthey
-street: "Route des Rottes"
-housenumber: 15
-phone: "+41 27 346 45 70"
-opening_hours: "Mo-Th 09:00-18:30; Sa 08:00-17:00; Fr 09:00-20:00"
-website: "https://www.gidor.ch"
+street: Route des Rottes
+housenumber: "15"
+phone: +41 27 346 45 70
+opening_hours: Mo-Th 09:00-18:30; Sa 08:00-17:00; Fr 09:00-20:00
+website: https://www.gidor.ch

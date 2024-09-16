@@ -4,8 +4,9 @@ latitude: 47.29628
 longitude: 8.56304
 postcode: "8800"
 city: Thalwil
-street: "Postplatz"
-housenumber: 
-phone: "+41 55 280 17 55"
-opening_hours: "Mo off; Tu off; We off; Th off; Fr off; Sa 08:00-12:30; Su off; PH off"
-website: "https://www.frisch-fisch.ch/"
+street: Postplatz
+housenumber: ""
+phone: +41 55 280 17 55
+opening_hours: Mo off; Tu off; We off; Th off; Fr off; Sa 08:00-12:30; Su off; PH
+    off
+website: https://www.frisch-fisch.ch/

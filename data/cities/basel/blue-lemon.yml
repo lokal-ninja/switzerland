@@ -4,8 +4,8 @@ latitude: 47.55592
 longitude: 7.59011
 postcode: "4001"
 city: Basel
-street: "Freie Strasse"
-housenumber: 44
+street: Freie Strasse
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-18:00"
-website: "https://www.bluelemon.ch/"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-18:00
+website: https://www.bluelemon.ch/

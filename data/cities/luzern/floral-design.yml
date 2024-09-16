@@ -4,8 +4,9 @@ latitude: 47.04582
 longitude: 8.30726
 postcode: "6003"
 city: Luzern
-street: "Kauffmannweg"
-housenumber: 29
+street: Kauffmannweg
+housenumber: "29"
 phone: ""
-opening_hours: "Mo 09:00-12:00,13:30-18:30; Tu-Th 08:15-12:00,13:30-18:30; Fr 08:15-18:30; Sa 08:00-16:00; PH,Su off"
-website: "https://www.floral-design.ch/"
+opening_hours: Mo 09:00-12:00,13:30-18:30; Tu-Th 08:15-12:00,13:30-18:30; Fr 08:15-18:30;
+    Sa 08:00-16:00; PH,Su off
+website: https://www.floral-design.ch/

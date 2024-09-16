@@ -4,8 +4,9 @@ latitude: 47.47873
 longitude: 8.17397
 postcode: "5213"
 city: Villnachern
-street: "Schryberhof"
-housenumber: 94
-phone: "+41 56 441 29 55"
-opening_hours: "Do-Fr: 13.30-18:30 Uhr. Sa: 9-16 Uhr. Markt in Brugg: Di+Fr: 7-11 Uhr, Markt in Aarau: Sa: bis 11 Uhr"
-website: "https://schryberhof.ch/"
+street: Schryberhof
+housenumber: "94"
+phone: +41 56 441 29 55
+opening_hours: 'Do-Fr: 13.30-18:30 Uhr. Sa: 9-16 Uhr. Markt in Brugg: Di+Fr: 7-11
+    Uhr, Markt in Aarau: Sa: bis 11 Uhr'
+website: https://schryberhof.ch/

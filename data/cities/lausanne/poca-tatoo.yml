@@ -4,8 +4,8 @@ latitude: 46.52116
 longitude: 6.61748
 postcode: "1004"
 city: Lausanne
-street: "Avenue de Tivoli"
-housenumber: 60
-phone: "+41 21 312 29 29"
-opening_hours: "Tu-Fr 10:00-18:00"
-website: "https://pocatattoo.ch"
+street: Avenue de Tivoli
+housenumber: "60"
+phone: +41 21 312 29 29
+opening_hours: Tu-Fr 10:00-18:00
+website: https://pocatattoo.ch

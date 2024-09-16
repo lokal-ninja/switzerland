@@ -1,11 +1,11 @@
 id: 386207587
-type: way
+type: node
 latitude: 47.30194
 longitude: 9.08478
 postcode: "9630"
 city: Wattwil
-street: "Schomattenstrasse"
-housenumber: 8
+street: Schomattenstrasse
+housenumber: "8"
 phone: ""
-opening_hours: "Mo 09:00-12:00,13:30-18:30; Tu-Fr 08:30-12:00,13:30-18:30; Sa 08:00-16:00"
-website: "https://www.intersport-wattwil.ch/"
+opening_hours: Mo 09:00-12:00,13:30-18:30; Tu-Fr 08:30-12:00,13:30-18:30; Sa 08:00-16:00
+website: https://www.intersport-wattwil.ch/

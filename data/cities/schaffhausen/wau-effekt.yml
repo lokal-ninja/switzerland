@@ -4,8 +4,8 @@ latitude: 47.7078
 longitude: 8.62801
 postcode: "8212"
 city: Schaffhausen
-street: "Lochstrasse"
-housenumber: 14
+street: Lochstrasse
+housenumber: "14"
 phone: "0041526401111"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-15:00; PH off"
-website: "https://wau-effekt.ch/"
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-15:00; PH off
+website: https://wau-effekt.ch/

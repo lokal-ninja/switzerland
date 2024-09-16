@@ -1,11 +1,11 @@
 id: 275155635
-type: way
+type: node
 latitude: 47.34814
 longitude: 8.56864
 postcode: "8008"
 city: Zürich
-street: "Bleulerstrasse"
-housenumber: 62
+street: Bleulerstrasse
+housenumber: "62"
 phone: ""
 opening_hours: ""
-website: "https://www.swissepi.ch/wohnwerk/ueber-epi-wohnwerk/lage-und-kontakt-epi-wohnwerk/adressen.html"
+website: https://www.swissepi.ch/wohnwerk/ueber-epi-wohnwerk/lage-und-kontakt-epi-wohnwerk/adressen.html

@@ -4,8 +4,8 @@ latitude: 46.81718
 longitude: 7.34247
 postcode: "3150"
 city: Schwarzenburg
-street: "Schmiedgasse"
-housenumber: 4
-phone: "+41 31 731 47 15"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-18:00; Sa 09:00-13:00; Su,Mo off"
-website: "https://schmiedgassebuch.ch"
+street: Schmiedgasse
+housenumber: "4"
+phone: +41 31 731 47 15
+opening_hours: Tu-Fr 09:00-12:00,14:00-18:00; Sa 09:00-13:00; Su,Mo off
+website: https://schmiedgassebuch.ch

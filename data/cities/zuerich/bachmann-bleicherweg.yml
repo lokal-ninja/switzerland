@@ -4,8 +4,8 @@ latitude: 47.36791
 longitude: 8.53627
 postcode: "8002"
 city: Zürich
-street: "Bleicherweg"
-housenumber: 19
+street: Bleicherweg
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-16:00"
-website: "https://www.confiserie.ch/de/bleicherweg"
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-16:00
+website: https://www.confiserie.ch/de/bleicherweg

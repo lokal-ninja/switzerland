@@ -4,8 +4,8 @@ latitude: 46.90884
 longitude: 7.36055
 postcode: "3173"
 city: Oberwangen bei Bern
-street: "Freiburgstrasse"
-housenumber: 798
+street: Freiburgstrasse
+housenumber: "798"
 phone: ""
-opening_hours: "Tu,We,Fr 08:00-17:30; Th 09:00-18:30; Sa 09:00-16:00; PH off"
-website: "https://www.stromerbike.com/"
+opening_hours: Tu,We,Fr 08:00-17:30; Th 09:00-18:30; Sa 09:00-16:00; PH off
+website: https://www.stromerbike.com/

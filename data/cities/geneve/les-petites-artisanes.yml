@@ -4,8 +4,8 @@ latitude: 46.19463
 longitude: 6.14751
 postcode: "1205"
 city: Genève
-street: "Rue Micheli-du-Crest"
-housenumber: 18
-phone: "+41 22 320 73 72"
-opening_hours: "Mo-Fr 07:30-18:00; Sa-Su 08:30-18:00; PH off"
+street: Rue Micheli-du-Crest
+housenumber: "18"
+phone: +41 22 320 73 72
+opening_hours: Mo-Fr 07:30-18:00; Sa-Su 08:30-18:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 232830884
-type: way
+type: node
 latitude: 47.56853
 longitude: 8.90769
 postcode: "8500"
 city: Frauenfeld
-street: "Langfeldstrasse"
+street: Langfeldstrasse
 housenumber: 79a
 phone: ""
-opening_hours: "Mo-Th 08:30-19:00; Fr 08:30-20:00; Sa 08:00-18:00; PH closed"
-website: "https://www.jumbo.ch/de/standorte/jumbo-frauenfeld-langfeld/s/2382_POS"
+opening_hours: Mo-Th 08:30-19:00; Fr 08:30-20:00; Sa 08:00-18:00; PH closed
+website: https://www.jumbo.ch/de/standorte/jumbo-frauenfeld-langfeld/s/2382_POS

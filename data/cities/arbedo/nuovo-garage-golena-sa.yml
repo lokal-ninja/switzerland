@@ -1,11 +1,11 @@
 id: 528657664
-type: way
+type: node
 latitude: 46.21021
 longitude: 9.03949
 postcode: "6517"
 city: Arbedo
-street: "Via del Carmagnola"
-housenumber: 26
+street: Via del Carmagnola
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

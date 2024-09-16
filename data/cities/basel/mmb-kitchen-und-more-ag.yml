@@ -4,8 +4,8 @@ latitude: 47.53559
 longitude: 7.6048
 postcode: "4053"
 city: Basel
-street: "Reinacherstrasse"
-housenumber: 129
+street: Reinacherstrasse
+housenumber: "129"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,13:30-18:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-12:00,13:30-18:00; Sa 09:00-16:00
 website: ""

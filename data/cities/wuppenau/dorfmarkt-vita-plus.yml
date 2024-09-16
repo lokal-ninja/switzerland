@@ -1,11 +1,11 @@
 id: 199554024
-type: way
+type: node
 latitude: 47.49916
 longitude: 9.10849
 postcode: "9514"
 city: Wuppenau
-street: "Nollenstrasse"
-housenumber: 1
+street: Nollenstrasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.dorfmarkt-vita.ch/"
+website: https://www.dorfmarkt-vita.ch/

@@ -4,8 +4,8 @@ latitude: 46.95641
 longitude: 8.36697
 postcode: "6370"
 city: Stans
-street: "Marktgasse"
-housenumber: 7
-phone: "+41 41 610 11 79"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:30; Sa 09:00-16:00"
-website: "https://papeterie-spichtig.ch"
+street: Marktgasse
+housenumber: "7"
+phone: +41 41 610 11 79
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:30; Sa 09:00-16:00
+website: https://papeterie-spichtig.ch

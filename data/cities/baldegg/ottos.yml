@@ -4,8 +4,8 @@ latitude: 47.18602
 longitude: 8.27932
 postcode: "6283"
 city: Baldegg
-street: "Stationsstrasse"
-housenumber: 3
-phone: "+41 41 910 67 11"
+street: Stationsstrasse
+housenumber: "3"
+phone: +41 41 910 67 11
 opening_hours: ""
-website: "https://www.ottos.ch/"
+website: https://www.ottos.ch/

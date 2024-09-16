@@ -1,11 +1,11 @@
 id: 1092086451
-type: way
+type: node
 latitude: 47.35597
 longitude: 8.27592
 postcode: "5610"
 city: Wohlen AG
-street: "Niederwilerstrasse"
-housenumber: 3
+street: Niederwilerstrasse
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

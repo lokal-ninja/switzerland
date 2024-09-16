@@ -1,11 +1,11 @@
 id: 119153047
-type: way
+type: node
 latitude: 47.40698
 longitude: 8.41157
 postcode: "8951"
 city: Fahrweid
-street: "Überlandstrasse"
-housenumber: 1
+street: Überlandstrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 05:00-23:00, Sa-Su 06:00-22:00"
-website: "https://www.migrolino.ch/de/standorte/mio-limmatbruecke-fahrweid/"
+opening_hours: Mo-Fr 05:00-23:00, Sa-Su 06:00-22:00
+website: https://www.migrolino.ch/de/standorte/mio-limmatbruecke-fahrweid/

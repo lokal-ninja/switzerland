@@ -1,11 +1,11 @@
 id: 385368229
-type: way
+type: node
 latitude: 47.0828
 longitude: 8.43965
 postcode: "6403"
 city: Küssnacht am Rigi
-street: "Bahnhofstrasse"
-housenumber: 14
+street: Bahnhofstrasse
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

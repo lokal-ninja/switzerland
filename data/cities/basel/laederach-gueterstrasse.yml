@@ -1,11 +1,11 @@
 id: 376382303
-type: way
+type: node
 latitude: 47.54667
 longitude: 7.58859
 postcode: "4053"
 city: Basel
-street: "Güterstrasse"
-housenumber: 115
+street: Güterstrasse
+housenumber: "115"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su 08:30-20:00"
-website: "https://www.laderach.com/de/locations/location-details/basel-bahnhof-basel-61"
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su 08:30-20:00
+website: https://www.laderach.com/de/locations/location-details/basel-bahnhof-basel-61

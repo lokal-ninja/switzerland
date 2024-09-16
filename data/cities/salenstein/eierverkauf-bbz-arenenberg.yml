@@ -1,11 +1,11 @@
 id: 204686602
-type: way
+type: node
 latitude: 47.67173
 longitude: 9.06139
 postcode: "8268"
 city: Salenstein
-street: "Arenenberg"
-housenumber: 18
+street: Arenenberg
+housenumber: "18"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

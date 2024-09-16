@@ -4,8 +4,8 @@ latitude: 46.77544
 longitude: 6.64118
 postcode: "1400"
 city: Yverdon-les-Bains
-street: "Rue du Valentin"
-housenumber: 54
-phone: "+41 24 524 32 42"
-opening_hours: "Mo-Fr 09:00-18:00"
+street: Rue du Valentin
+housenumber: "54"
+phone: +41 24 524 32 42
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

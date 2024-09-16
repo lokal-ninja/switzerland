@@ -4,8 +4,8 @@ latitude: 46.76814
 longitude: 9.06095
 postcode: "7185"
 city: Breil/Brigels
-street: "Cadruvi"
-housenumber: 3
+street: Cadruvi
+housenumber: "3"
 phone: "+41819411577"
-opening_hours: "Mo,We 07:30-12:00; Tu,Th,Fr 07:30-12:00,13:30-18:00; Sa 07:00-17:00"
-website: "https://www.metzgerei-schmed.ch/"
+opening_hours: Mo,We 07:30-12:00; Tu,Th,Fr 07:30-12:00,13:30-18:00; Sa 07:00-17:00
+website: https://www.metzgerei-schmed.ch/

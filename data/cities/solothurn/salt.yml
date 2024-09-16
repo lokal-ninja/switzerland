@@ -4,8 +4,8 @@ latitude: 47.20811
 longitude: 7.53572
 postcode: "4500"
 city: Solothurn
-street: "Gurzelngasse"
-housenumber: 22
+street: Gurzelngasse
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "https://www.salt.ch/"
+website: https://www.salt.ch/

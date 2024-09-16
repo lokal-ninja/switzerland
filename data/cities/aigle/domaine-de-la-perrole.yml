@@ -4,8 +4,8 @@ latitude: 46.30542
 longitude: 6.96601
 postcode: "1860"
 city: Aigle
-street: "Chemin des Prés de Mars"
-housenumber: 2
+street: Chemin des Prés de Mars
+housenumber: "2"
 phone: ""
-opening_hours: "Tu,Th 15:30-18:30; Sa 09:00-12:30"
-website: "https://www.pourlaperrole.ch/"
+opening_hours: Tu,Th 15:30-18:30; Sa 09:00-12:30
+website: https://www.pourlaperrole.ch/

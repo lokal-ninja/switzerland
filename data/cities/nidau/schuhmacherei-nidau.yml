@@ -4,8 +4,8 @@ latitude: 47.12594
 longitude: 7.2405
 postcode: "2560"
 city: Nidau
-street: "Hauptstrasse"
-housenumber: 23
-phone: "+41 32 331 61 21"
-opening_hours: "Tu-Fr 09:00-11:30,13:30-18:30; Sa 09:00-16:00"
-website: "https://schuhmacher-nidau.ch/"
+street: Hauptstrasse
+housenumber: "23"
+phone: +41 32 331 61 21
+opening_hours: Tu-Fr 09:00-11:30,13:30-18:30; Sa 09:00-16:00
+website: https://schuhmacher-nidau.ch/

@@ -4,8 +4,8 @@ latitude: 47.37094
 longitude: 8.5167
 postcode: "8003"
 city: Zürich
-street: "Stationsstrasse"
-housenumber: 62
+street: Stationsstrasse
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30, Sa 10:00-17:00; PH off"
-website: "https://www.swisscom.ch/"
+opening_hours: Mo-Fr 09:00-18:30, Sa 10:00-17:00; PH off
+website: https://www.swisscom.ch/

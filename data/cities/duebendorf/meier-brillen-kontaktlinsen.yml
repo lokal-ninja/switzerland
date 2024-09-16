@@ -4,8 +4,8 @@ latitude: 47.40007
 longitude: 8.62462
 postcode: "8600"
 city: Dübendorf
-street: "Ueberlandstrasse"
-housenumber: 222
-phone: "+41 448 220 704"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:30; Sa 09:00-14:00; PH off"
-website: "https://klarsehen.ch/"
+street: Ueberlandstrasse
+housenumber: "222"
+phone: +41 448 220 704
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:30; Sa 09:00-14:00; PH off
+website: https://klarsehen.ch/

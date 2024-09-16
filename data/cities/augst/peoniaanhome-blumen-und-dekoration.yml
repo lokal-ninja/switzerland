@@ -1,11 +1,11 @@
 id: 248636185
-type: way
+type: node
 latitude: 47.53445
 longitude: 7.71351
 postcode: "4302"
 city: Augst
-street: "Poststrasse"
-housenumber: 2
+street: Poststrasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://peonia-home.ch/"
+website: https://peonia-home.ch/

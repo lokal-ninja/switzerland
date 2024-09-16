@@ -4,8 +4,8 @@ latitude: 47.4383
 longitude: 7.81742
 postcode: "4456"
 city: Tenniken
-street: "Rosenmattweg"
-housenumber: 110
-phone: "+41 61 971 65 87"
-opening_hours: "Bestellungen werden gerne per E-mail oder per Telefon entgegen genommen."
-website: "https://ziefnerwein.ch/"
+street: Rosenmattweg
+housenumber: "110"
+phone: +41 61 971 65 87
+opening_hours: Bestellungen werden gerne per E-mail oder per Telefon entgegen genommen.
+website: https://ziefnerwein.ch/

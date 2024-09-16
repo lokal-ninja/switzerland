@@ -4,8 +4,8 @@ latitude: 47.39956
 longitude: 8.17805
 postcode: "5702"
 city: Niederlenz
-street: "Gewerbestrasse"
-housenumber: 2
-phone: "+41 62 891 30 76"
-opening_hours: "Tu-Fr 07:30-12:00,13:30-18:30; Sa 07:30-15:00"
-website: "https://www.pfister-motos.ch/"
+street: Gewerbestrasse
+housenumber: "2"
+phone: +41 62 891 30 76
+opening_hours: Tu-Fr 07:30-12:00,13:30-18:30; Sa 07:30-15:00
+website: https://www.pfister-motos.ch/

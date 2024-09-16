@@ -4,8 +4,8 @@ latitude: 47.50018
 longitude: 8.7298
 postcode: "8401"
 city: Winterthur
-street: "Stadthausstrasse"
-housenumber: 57
+street: Stadthausstrasse
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
-website: "https://www.knecht-reisen.ch/"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: https://www.knecht-reisen.ch/

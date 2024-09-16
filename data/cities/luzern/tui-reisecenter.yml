@@ -4,8 +4,8 @@ latitude: 47.05081
 longitude: 8.30292
 postcode: "6003"
 city: Luzern
-street: "Burgerstrasse"
-housenumber: 2
+street: Burgerstrasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "http://www.tuiluzernburgerstrasse.ch/"
+website: http://www.tuiluzernburgerstrasse.ch/

@@ -4,8 +4,8 @@ latitude: 46.76114
 longitude: 6.66786
 postcode: "1405"
 city: Pomy
-street: "Chemin de la Laiterie"
-housenumber: 2
-phone: "+41 24 426 09 25"
-opening_hours: "Mo-Su 18:00-19:00"
-website: "https://www.fromageriepomy.com/"
+street: Chemin de la Laiterie
+housenumber: "2"
+phone: +41 24 426 09 25
+opening_hours: Mo-Su 18:00-19:00
+website: https://www.fromageriepomy.com/

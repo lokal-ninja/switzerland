@@ -1,11 +1,11 @@
 id: 677706675
-type: way
+type: node
 latitude: 46.82822
 longitude: 6.92949
 postcode: "1530"
 city: Payerne
-street: "Charrière d'Estavayer"
-housenumber: 21
+street: Charrière d'Estavayer
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

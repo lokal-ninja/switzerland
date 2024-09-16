@@ -4,8 +4,8 @@ latitude: 46.52866
 longitude: 6.56636
 postcode: "1024"
 city: Ecublens (VD)
-street: "Avenue du Tir Fédéral"
-housenumber: 88
-phone: "+41 21 691 20 10"
-opening_hours: "Mo-Fr 06:00-18:30; Sa-Su 07:00-18:00"
-website: "https://www.fleurdepains.ch/"
+street: Avenue du Tir Fédéral
+housenumber: "88"
+phone: +41 21 691 20 10
+opening_hours: Mo-Fr 06:00-18:30; Sa-Su 07:00-18:00
+website: https://www.fleurdepains.ch/

@@ -4,8 +4,8 @@ latitude: 47.05109
 longitude: 8.34102
 postcode: "6006"
 city: Luzern
-street: "Seefeldstrasse"
-housenumber: 19
-phone: "+41 41 418 10 10"
-opening_hours: "Nach Vereinbarung/By appointment only/Sur rendez-vous"
-website: "https://www.fischerauktionen.ch/"
+street: Seefeldstrasse
+housenumber: "19"
+phone: +41 41 418 10 10
+opening_hours: '"Nach Vereinbarung/By appointment only/Sur rendez-vous"'
+website: https://www.fischerauktionen.ch/

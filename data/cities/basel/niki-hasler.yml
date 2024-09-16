@@ -4,8 +4,8 @@ latitude: 47.55174
 longitude: 7.60223
 postcode: "4052"
 city: Basel
-street: "Hardstrasse"
-housenumber: 15
-phone: "+41 61 375 92 92"
-opening_hours: "Mo-Fr 07:30-12:00,13:00-18:30; Sa 09:00-16:00"
-website: "https://www.nikihasler.com/"
+street: Hardstrasse
+housenumber: "15"
+phone: +41 61 375 92 92
+opening_hours: Mo-Fr 07:30-12:00,13:00-18:30; Sa 09:00-16:00
+website: https://www.nikihasler.com/

@@ -1,11 +1,11 @@
 id: 346542898
-type: way
+type: node
 latitude: 47.01785
 longitude: 8.30276
 postcode: "6048"
 city: Horw
-street: "Ringstrasse"
-housenumber: 15
+street: Ringstrasse
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

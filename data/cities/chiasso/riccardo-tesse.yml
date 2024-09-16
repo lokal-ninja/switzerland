@@ -4,8 +4,8 @@ latitude: 45.83361
 longitude: 9.03114
 postcode: "6830"
 city: Chiasso
-street: "Via Alessandro Volta"
-housenumber: 1
-phone: "+41 91 682 14 50"
-opening_hours: "Mo 14:00-18:00; Tu-Fr 09:00-18:00; Th 10:00-20:00; Sa 09:00-14:00"
-website: "http://www.riccardotesse.com"
+street: Via Alessandro Volta
+housenumber: "1"
+phone: +41 91 682 14 50
+opening_hours: Mo 14:00-18:00; Tu-Fr 09:00-18:00; Th 10:00-20:00; Sa 09:00-14:00
+website: http://www.riccardotesse.com

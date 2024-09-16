@@ -4,8 +4,8 @@ latitude: 47.26968
 longitude: 7.69249
 postcode: "4704"
 city: Niederbipp
-street: "Wydenstrasse"
-housenumber: 9
+street: Wydenstrasse
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Th 07:30-19:00, Fr 07:30-20:00, Sa 07:30-17:00"
-website: "https://www.voi-migrospartner.ch/de-CH/filialen#voi-voi-niederbipp"
+opening_hours: Mo-Th 07:30-19:00, Fr 07:30-20:00, Sa 07:30-17:00
+website: https://www.voi-migrospartner.ch/de-CH/filialen#voi-voi-niederbipp

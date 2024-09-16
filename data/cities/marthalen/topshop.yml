@@ -1,11 +1,11 @@
 id: 263950881
-type: way
+type: node
 latitude: 47.63474
 longitude: 8.65537
 postcode: "8460"
 city: Marthalen
-street: "Güeterstrass"
-housenumber: 3
+street: Güeterstrass
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-21:00"
-website: "https://www.landiweinland.ch/"
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-21:00
+website: https://www.landiweinland.ch/

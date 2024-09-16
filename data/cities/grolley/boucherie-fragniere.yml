@@ -4,8 +4,8 @@ latitude: 46.83203
 longitude: 7.06474
 postcode: "1772"
 city: Grolley
-street: "Rue du Centre"
-housenumber: 11
-phone: "+41 26 475 51 30"
-opening_hours: "Mo-Fr 07:30-12:00,13:30-18:30; Sa 07:30-16:00"
-website: "https://www.boucheriefragniere.ch/"
+street: Rue du Centre
+housenumber: "11"
+phone: +41 26 475 51 30
+opening_hours: Mo-Fr 07:30-12:00,13:30-18:30; Sa 07:30-16:00
+website: https://www.boucheriefragniere.ch/

@@ -4,8 +4,9 @@ latitude: 47.65995
 longitude: 8.85908
 postcode: "8260"
 city: Stein am Rhein
-street: "Rathausplatz"
-housenumber: 19
-phone: "+41 52 558 3137"
-opening_hours: "Tu-Fr 09:00-18:00, Sa 09:00-16:00; Apr-Sep,Dec: Su,PH 11:00-16:00; Dec 24,Dec 31: 09:00-16:00; Dec 25,Dec 26: closed; Jan 1: closed"
-website: "https://dingsbums.shop"
+street: Rathausplatz
+housenumber: "19"
+phone: +41 52 558 3137
+opening_hours: 'Tu-Fr 09:00-18:00, Sa 09:00-16:00; Apr-Sep,Dec: Su,PH 11:00-16:00;
+    Dec 24,Dec 31: 09:00-16:00; Dec 25,Dec 26: closed; Jan 1: closed'
+website: https://dingsbums.shop

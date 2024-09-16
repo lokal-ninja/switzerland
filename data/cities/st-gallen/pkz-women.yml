@@ -4,8 +4,8 @@ latitude: 47.42404
 longitude: 9.3749
 postcode: "9000"
 city: St. Gallen
-street: "Neugasse"
-housenumber: 55
+street: Neugasse
+housenumber: "55"
 phone: ""
 opening_hours: ""
-website: "https://www.pkz.ch/de/36-storelocator?sid=111"
+website: https://www.pkz.ch/de/36-storelocator?sid=111

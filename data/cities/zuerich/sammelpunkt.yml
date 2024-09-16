@@ -4,8 +4,8 @@ latitude: 47.37232
 longitude: 8.51693
 postcode: "8003"
 city: Zürich
-street: "Kalkbreitestrasse"
-housenumber: 84
+street: Kalkbreitestrasse
+housenumber: "84"
 phone: ""
-opening_hours: "Mo-Fr 12:00-19:00; Sa 10:00-17:00"
-website: "https://shop.sammelpunkt.ch/"
+opening_hours: Mo-Fr 12:00-19:00; Sa 10:00-17:00
+website: https://shop.sammelpunkt.ch/

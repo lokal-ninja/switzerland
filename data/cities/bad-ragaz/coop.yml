@@ -1,11 +1,11 @@
 id: 44368141
-type: way
+type: node
 latitude: 47.0037
 longitude: 9.50216
 postcode: "7310"
 city: Bad Ragaz
-street: "Freihofweg"
-housenumber: 5
+street: Freihofweg
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00
 website: ""

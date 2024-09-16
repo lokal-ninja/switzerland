@@ -4,8 +4,8 @@ latitude: 47.31046
 longitude: 8.79484
 postcode: "8620"
 city: Wetzikon
-street: "Hofstrasse"
-housenumber: 106
-phone: "+41 43 477 58 55"
-opening_hours: "Mo-Fr 07:15-17:15"
-website: "https://www.as-catalbas.ch"
+street: Hofstrasse
+housenumber: "106"
+phone: +41 43 477 58 55
+opening_hours: Mo-Fr 07:15-17:15
+website: https://www.as-catalbas.ch

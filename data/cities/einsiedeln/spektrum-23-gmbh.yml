@@ -4,8 +4,8 @@ latitude: 47.12788
 longitude: 8.74807
 postcode: "8840"
 city: Einsiedeln
-street: "Schmiedenstrasse"
-housenumber: 14
-phone: "055 422 22 00"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://spektrum23.ch/"
+street: Schmiedenstrasse
+housenumber: "14"
+phone: 055 422 22 00
+opening_hours: Mo-Sa 09:00-20:00
+website: https://spektrum23.ch/

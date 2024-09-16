@@ -4,8 +4,8 @@ latitude: 47.45059
 longitude: 8.93096
 postcode: "8362"
 city: Balterswil
-street: "Hauptstrasse"
-housenumber: 1
-phone: "+41 71 973 80 40"
-opening_hours: "Mo-Fr 07:30-12:00, 13:30-17:30"
-website: "https://www.bruehwiler.com/"
+street: Hauptstrasse
+housenumber: "1"
+phone: +41 71 973 80 40
+opening_hours: Mo-Fr 07:30-12:00, 13:30-17:30
+website: https://www.bruehwiler.com/

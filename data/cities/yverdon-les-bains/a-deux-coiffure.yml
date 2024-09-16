@@ -4,8 +4,8 @@ latitude: 46.77935
 longitude: 6.63807
 postcode: "1400"
 city: Yverdon-les-Bains
-street: "Rue du Collège"
-housenumber: 13
-phone: "+41 24 425 01 95"
-opening_hours: "Tu-Th 08:00-12:00,13:30-18:30; Fr 08:00-19:00; Sa 08:00-14:30"
-website: "http://www.a-deux-beaute.ch/"
+street: Rue du Collège
+housenumber: "13"
+phone: +41 24 425 01 95
+opening_hours: Tu-Th 08:00-12:00,13:30-18:30; Fr 08:00-19:00; Sa 08:00-14:30
+website: http://www.a-deux-beaute.ch/

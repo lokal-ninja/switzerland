@@ -4,8 +4,8 @@ latitude: 46.20842
 longitude: 6.13763
 postcode: "1201"
 city: Genève
-street: "rue Jean Gutenberg"
-housenumber: 5
+street: rue Jean Gutenberg
+housenumber: "5"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-19:00; Sa 09:00-18:00"
+opening_hours: Mo,Tu,Th,Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

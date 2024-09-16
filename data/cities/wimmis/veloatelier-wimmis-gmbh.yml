@@ -1,11 +1,11 @@
 id: 460773270
-type: way
+type: node
 latitude: 46.67622
 longitude: 7.64035
 postcode: "3752"
 city: Wimmis
-street: "Gurzelestrasse"
+street: Gurzelestrasse
 housenumber: 13a
 phone: "+41336572055"
-opening_hours: "Di-Fr 08:00-12:00 / 14:00-17:00 Sa 08:00-12:00"
-website: "https://www.veloatelier.com"
+opening_hours: Di-Fr 08:00-12:00 / 14:00-17:00 Sa 08:00-12:00
+website: https://www.veloatelier.com

@@ -1,11 +1,11 @@
 id: 33183856
-type: way
+type: node
 latitude: 45.8467
 longitude: 9.01171
 postcode: "6828"
 city: Balerna
-street: "Via San Gottardo"
+street: Via San Gottardo
 housenumber: 56a
 phone: ""
-opening_hours: "Mo-We 09:00-19:00; Th 09:00-21:00; Fr-Sa 09:00-19:00"
-website: "https://www.centrobreggia.ch/"
+opening_hours: Mo-We 09:00-19:00; Th 09:00-21:00; Fr-Sa 09:00-19:00
+website: https://www.centrobreggia.ch/

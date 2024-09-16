@@ -4,8 +4,8 @@ latitude: 47.1897
 longitude: 7.39918
 postcode: "2540"
 city: Grenchen
-street: "Freiestrasse"
-housenumber: 10
+street: Freiestrasse
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Th 08:00-18:30, Fr 08:00-21:00, Sa 07:30-18:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-grenchen"
+opening_hours: Mo-Th 08:00-18:30, Fr 08:00-21:00, Sa 07:30-18:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-grenchen

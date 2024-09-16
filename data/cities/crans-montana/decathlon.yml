@@ -4,8 +4,8 @@ latitude: 46.31208
 longitude: 7.47911
 postcode: "3962"
 city: Crans-Montana
-street: "Route du Rawyl"
-housenumber: 39
-phone: "+41 27 481 00 55"
+street: Route du Rawyl
+housenumber: "39"
+phone: +41 27 481 00 55
 opening_hours: ""
-website: "https://decathlon.ch/"
+website: https://decathlon.ch/

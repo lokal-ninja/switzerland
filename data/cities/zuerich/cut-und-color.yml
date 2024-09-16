@@ -4,8 +4,8 @@ latitude: 47.37432
 longitude: 8.54456
 postcode: "8001"
 city: Zürich
-street: "Zähringerstrasse"
-housenumber: 9
+street: Zähringerstrasse
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.cutandcolor.ch/de/coiffeur-zuerich-zaehringerstrasse"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.cutandcolor.ch/de/coiffeur-zuerich-zaehringerstrasse

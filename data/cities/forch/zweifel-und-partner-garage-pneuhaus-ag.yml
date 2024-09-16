@@ -4,8 +4,8 @@ latitude: 47.32208
 longitude: 8.66
 postcode: "8127"
 city: Forch
-street: "Forchstrasse"
-housenumber: 111
-phone: "+41 43 366 21 00"
+street: Forchstrasse
+housenumber: "111"
+phone: +41 43 366 21 00
 opening_hours: ""
-website: "https://zweiweb.ch/"
+website: https://zweiweb.ch/

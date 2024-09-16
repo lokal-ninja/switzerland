@@ -1,11 +1,11 @@
 id: 104288056
-type: way
+type: node
 latitude: 47.23337
 longitude: 7.21836
 postcode: "2732"
 city: Reconvilier
-street: "Route de Tavannes"
-housenumber: 44
+street: Route de Tavannes
+housenumber: "44"
 phone: ""
-opening_hours: "08:00-20:00"
+opening_hours: 08:00-20:00
 website: ""

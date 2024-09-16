@@ -4,8 +4,8 @@ latitude: 47.36541
 longitude: 8.56446
 postcode: "8032"
 city: Zürich
-street: "Asylstrasse"
-housenumber: 119
-phone: "+41 44 493 25 00"
-opening_hours: "Nach Vereinbarung"
-website: "https://www.plusquam.ch/"
+street: Asylstrasse
+housenumber: "119"
+phone: +41 44 493 25 00
+opening_hours: '"Nach Vereinbarung"'
+website: https://www.plusquam.ch/

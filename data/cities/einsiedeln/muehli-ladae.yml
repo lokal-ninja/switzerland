@@ -4,8 +4,8 @@ latitude: 47.12085
 longitude: 8.73433
 postcode: "8840"
 city: Einsiedeln
-street: "Grotzenmühlestrasse"
-housenumber: 36
-phone: "+41 55 412 41 84"
-opening_hours: "Sa 10:00-12:00; Mo-Fr 07:00-12:00,13:00-17:00"
-website: "http://www.muehli-ladae.ch"
+street: Grotzenmühlestrasse
+housenumber: "36"
+phone: +41 55 412 41 84
+opening_hours: Sa 10:00-12:00; Mo-Fr 07:00-12:00,13:00-17:00
+website: http://www.muehli-ladae.ch

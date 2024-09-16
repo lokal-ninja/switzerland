@@ -1,11 +1,11 @@
 id: 189272651
-type: way
+type: node
 latitude: 47.34457
 longitude: 8.73357
 postcode: "8610"
 city: Uster
-street: "Sulzbacherstrasse"
-housenumber: 
+street: Sulzbacherstrasse
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.05458
 longitude: 8.34407
 postcode: "6006"
 city: Luzern
-street: "Würzenbachstrasse"
-housenumber: 12
-phone: "+4141 340 17 47"
-opening_hours: "Tu-Fr 08:30-12:00,14:00-18:30; Sa 09:00-16:00"
-website: "https://velomuff.ch/"
+street: Würzenbachstrasse
+housenumber: "12"
+phone: +4141 340 17 47
+opening_hours: Tu-Fr 08:30-12:00,14:00-18:30; Sa 09:00-16:00
+website: https://velomuff.ch/

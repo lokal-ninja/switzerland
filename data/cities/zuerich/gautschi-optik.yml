@@ -4,8 +4,8 @@ latitude: 47.37427
 longitude: 8.54004
 postcode: "8001"
 city: Zürich
-street: "Uraniastrasse"
-housenumber: 7
+street: Uraniastrasse
+housenumber: "7"
 phone: ""
-opening_hours: "Mo 11:00-18:30; Tu-Fr 08:30-18:30; Sa 08:30-17:00"
-website: "https://www.gautschi-augenoptik.ch/"
+opening_hours: Mo 11:00-18:30; Tu-Fr 08:30-18:30; Sa 08:30-17:00
+website: https://www.gautschi-augenoptik.ch/

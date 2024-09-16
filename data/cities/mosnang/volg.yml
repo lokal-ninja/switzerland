@@ -1,11 +1,11 @@
 id: 301487968
-type: way
+type: node
 latitude: 47.36316
 longitude: 9.0402
 postcode: "9607"
 city: Mosnang
-street: "Unterdorf"
-housenumber: 3
+street: Unterdorf
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,9 @@ latitude: 47.12162
 longitude: 7.99275
 postcode: "6130"
 city: Willisau
-street: "Leuenplatz"
-housenumber: 6
-phone: "+41 41 970 18 66"
-opening_hours: "Mo,Su off; Tu-Th 09:00-12:00,13:30-18:30; Fr 09:00-12:00,13:30-20:00; Sa 08:00-16:00"
-website: "https://go-in.ch/kunzsport/"
+street: Leuenplatz
+housenumber: "6"
+phone: +41 41 970 18 66
+opening_hours: Mo,Su off; Tu-Th 09:00-12:00,13:30-18:30; Fr 09:00-12:00,13:30-20:00;
+    Sa 08:00-16:00
+website: https://go-in.ch/kunzsport/

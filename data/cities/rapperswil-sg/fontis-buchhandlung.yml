@@ -4,8 +4,8 @@ latitude: 47.22762
 longitude: 8.82103
 postcode: ""
 city: Rapperswil SG
-street: "Glärnischstrasse"
-housenumber: 7
+street: Glärnischstrasse
+housenumber: "7"
 phone: ""
-opening_hours: "Mo 13:30-18:00; Tu-Fr 09:30-12:30,13:30-18:00; Sa 09:30-16:00"
-website: "https://www.fontis-shop.ch/"
+opening_hours: Mo 13:30-18:00; Tu-Fr 09:30-12:30,13:30-18:00; Sa 09:30-16:00
+website: https://www.fontis-shop.ch/

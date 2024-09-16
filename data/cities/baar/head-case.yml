@@ -4,8 +4,8 @@ latitude: 47.19534
 longitude: 8.52661
 postcode: "6340"
 city: Baar
-street: "Rathausstrasse"
-housenumber: 14
-phone: "+41 41 760 99 45"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-17:00"
-website: "https://www.headcase.ch/"
+street: Rathausstrasse
+housenumber: "14"
+phone: +41 41 760 99 45
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-17:00
+website: https://www.headcase.ch/

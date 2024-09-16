@@ -4,8 +4,8 @@ latitude: 47.12729
 longitude: 8.74639
 postcode: "8840"
 city: Einsiedeln
-street: "Hauptstrasse"
-housenumber: 31
-phone: "+41 55 412 42 92"
-opening_hours: "Mo-Fr 08:30-11:30,13:30-18:30; Sa 08:30-16:00"
-website: "https://bajazzo-shop.ch/"
+street: Hauptstrasse
+housenumber: "31"
+phone: +41 55 412 42 92
+opening_hours: Mo-Fr 08:30-11:30,13:30-18:30; Sa 08:30-16:00
+website: https://bajazzo-shop.ch/

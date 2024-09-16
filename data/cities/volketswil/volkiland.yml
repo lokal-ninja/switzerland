@@ -1,11 +1,11 @@
 id: 29077788
-type: way
+type: node
 latitude: 47.38238
 longitude: 8.66921
 postcode: "8604"
 city: Volketswil
-street: "Industriestrasse"
-housenumber: 1
+street: Industriestrasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

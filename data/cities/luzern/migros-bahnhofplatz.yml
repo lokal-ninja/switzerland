@@ -1,11 +1,11 @@
 id: 379342427
-type: way
+type: node
 latitude: 47.05075
 longitude: 8.30916
 postcode: "6003"
 city: Luzern
-street: "Bahnhofplatz"
-housenumber: 
+street: Bahnhofplatz
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00, Su 07:00-22:00"
-website: "https://filialen.migros.ch/de/migros-supermarkt-luzern-bahnhof"
+opening_hours: Mo-Sa 06:00-22:00, Su 07:00-22:00
+website: https://filialen.migros.ch/de/migros-supermarkt-luzern-bahnhof

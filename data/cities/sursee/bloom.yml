@@ -4,8 +4,8 @@ latitude: 47.17221
 longitude: 8.10932
 postcode: "6210"
 city: Sursee
-street: "Altstadtgasse"
-housenumber: 5
+street: Altstadtgasse
+housenumber: "5"
 phone: ""
-opening_hours: "Th-Sa 08:00-17:00"
-website: "https://www.gartenroesterei.ch"
+opening_hours: Th-Sa 08:00-17:00
+website: https://www.gartenroesterei.ch

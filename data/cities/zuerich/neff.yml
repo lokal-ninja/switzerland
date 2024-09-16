@@ -4,8 +4,8 @@ latitude: 47.3948
 longitude: 8.53631
 postcode: "8057"
 city: Zürich
-street: "Hofwiesenstrasse"
-housenumber: 55
+street: Hofwiesenstrasse
+housenumber: "55"
 phone: ""
-opening_hours: "no reguläre opening hours, appointments possible"
-website: "https://www.neff-wod.ch/"
+opening_hours: '"no reguläre opening hours, appointments possible"'
+website: https://www.neff-wod.ch/

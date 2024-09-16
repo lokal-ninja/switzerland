@@ -4,8 +4,8 @@ latitude: 47.4761
 longitude: 8.30657
 postcode: "5400"
 city: Baden
-street: "Langhaus"
-housenumber: 2
-phone: "+41 56 401 54 44"
-opening_hours: "Mo-Tu,Th 10:00-18:30; We 10:00-19:00; Fr 10:00-19:30; Sa 10:00-17:00"
+street: Langhaus
+housenumber: "2"
+phone: +41 56 401 54 44
+opening_hours: Mo-Tu,Th 10:00-18:30; We 10:00-19:00; Fr 10:00-19:30; Sa 10:00-17:00
 website: ""

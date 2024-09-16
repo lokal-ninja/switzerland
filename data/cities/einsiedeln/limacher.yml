@@ -4,8 +4,8 @@ latitude: 47.12779
 longitude: 8.74692
 postcode: "8840"
 city: Einsiedeln
-street: "Schmiedenstrasse"
-housenumber: 13
-phone: "+41 55 412 21 54"
-opening_hours: "Tu-Fr 08:30-11:30,13:30-18:30; Sa 09:00-15:00"
-website: "https://www.limacher-innendekoration.ch/"
+street: Schmiedenstrasse
+housenumber: "13"
+phone: +41 55 412 21 54
+opening_hours: Tu-Fr 08:30-11:30,13:30-18:30; Sa 09:00-15:00
+website: https://www.limacher-innendekoration.ch/

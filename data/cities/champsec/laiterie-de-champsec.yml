@@ -1,11 +1,11 @@
 id: 237508881
-type: way
+type: node
 latitude: 46.05779
 longitude: 7.24089
 postcode: "1947"
 city: Champsec
-street: "Route de Mauvoisin"
-housenumber: 208
+street: Route de Mauvoisin
+housenumber: "208"
 phone: ""
 opening_hours: ""
-website: "https://www.verbier.ch/hiver/offres/fromagerie-de-champsec-champsec-fr-hiver-2923188/"
+website: https://www.verbier.ch/hiver/offres/fromagerie-de-champsec-champsec-fr-hiver-2923188/

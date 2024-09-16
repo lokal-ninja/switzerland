@@ -4,8 +4,8 @@ latitude: 46.95521
 longitude: 7.47951
 postcode: "3072"
 city: Ostermundigen
-street: "Waldeckstrasse"
-housenumber: 30
+street: Waldeckstrasse
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; Sa 07:00-13:00; Su 08:00-13:00"
-website: "https://www.baeckerei-roethlisberger.ch/ostermundigen"
+opening_hours: Mo-Fr 06:30-18:30; Sa 07:00-13:00; Su 08:00-13:00
+website: https://www.baeckerei-roethlisberger.ch/ostermundigen

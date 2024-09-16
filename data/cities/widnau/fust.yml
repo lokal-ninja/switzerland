@@ -4,8 +4,8 @@ latitude: 47.40777
 longitude: 9.62977
 postcode: "9443"
 city: Widnau
-street: "Bahnhofstrasse"
-housenumber: 5
-phone: "+41 71 727 06 80"
-opening_hours: "Mo-Fr 09:00-12:15,13:15-19:00; Sa 08:00-17:00"
-website: "https://www.fust.ch/de/widnau-127.html"
+street: Bahnhofstrasse
+housenumber: "5"
+phone: +41 71 727 06 80
+opening_hours: Mo-Fr 09:00-12:15,13:15-19:00; Sa 08:00-17:00
+website: https://www.fust.ch/de/widnau-127.html

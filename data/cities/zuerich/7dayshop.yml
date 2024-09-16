@@ -4,8 +4,8 @@ latitude: 47.37094
 longitude: 8.54319
 postcode: "8001"
 city: Zürich
-street: "Rüdenplatz"
-housenumber: 1
+street: Rüdenplatz
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.7dayshop.ch"
+website: https://www.7dayshop.ch

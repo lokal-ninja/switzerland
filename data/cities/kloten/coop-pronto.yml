@@ -4,8 +4,8 @@ latitude: 47.45045
 longitude: 8.59708
 postcode: "8302"
 city: Kloten
-street: "Bassersdorferstrasse"
-housenumber: 113
+street: Bassersdorferstrasse
+housenumber: "113"
 phone: ""
-opening_hours: "05:30-23:00"
-website: "https://www.coop-pronto.ch/"
+opening_hours: 05:30-23:00
+website: https://www.coop-pronto.ch/

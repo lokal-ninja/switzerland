@@ -4,8 +4,8 @@ latitude: 47.42942
 longitude: 8.68744
 postcode: "8307"
 city: Effretikon
-street: "Rikonerstrasse"
-housenumber: 20
+street: Rikonerstrasse
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 05:30-00:00; Sa,Su 06:00-00:00"
-website: "https://www.migrolino.ch/de/standorte/socar-effretikon/"
+opening_hours: Mo-Fr 05:30-00:00; Sa,Su 06:00-00:00
+website: https://www.migrolino.ch/de/standorte/socar-effretikon/

@@ -4,8 +4,8 @@ latitude: 47.50011
 longitude: 8.73221
 postcode: "8400"
 city: Winterthur
-street: "Obertor"
-housenumber: 26
-phone: "+41 52 213 40 59"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "https://www.fontis-shop.ch/pages/buchhandlung-winterthur"
+street: Obertor
+housenumber: "26"
+phone: +41 52 213 40 59
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
+website: https://www.fontis-shop.ch/pages/buchhandlung-winterthur

@@ -5,7 +5,7 @@ longitude: 9.53925
 postcode: "7610"
 city: Soglio
 street: ""
-housenumber: 11
+housenumber: "11"
 phone: ""
-opening_hours: "Jun: Th-Sa 11:00-17:00; Jul 01-Oct 15: We-Sa 11:00-17:00"
+opening_hours: 'Jun: Th-Sa 11:00-17:00; Jul 01-Oct 15: We-Sa 11:00-17:00'
 website: ""

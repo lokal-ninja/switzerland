@@ -4,8 +4,8 @@ latitude: 47.40953
 longitude: 8.5461
 postcode: "8050"
 city: Zürich
-street: "Welchogasse"
-housenumber: 2
+street: Welchogasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00; Su off"
-website: "https://www.blattner.ch/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00; Su off
+website: https://www.blattner.ch/

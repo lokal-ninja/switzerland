@@ -1,11 +1,11 @@
 id: 38789084
-type: way
+type: node
 latitude: 47.08249
 longitude: 8.12738
 postcode: "6017"
 city: Ruswil
-street: "Hellbühlerstrasse"
-housenumber: 8
+street: Hellbühlerstrasse
+housenumber: "8"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

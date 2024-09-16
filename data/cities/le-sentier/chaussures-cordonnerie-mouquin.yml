@@ -4,8 +4,8 @@ latitude: 46.60834
 longitude: 6.23107
 postcode: "1347"
 city: Le Sentier
-street: "Grand-Rue"
-housenumber: 39
-phone: "+4121 845 54 04"
-opening_hours: "Mo 14:00-18:30; Tu-Fr 08:00-12:00,14:00-18:30; Sa 08:00-12:00,14:00-16:00"
+street: Grand-Rue
+housenumber: "39"
+phone: +4121 845 54 04
+opening_hours: Mo 14:00-18:30; Tu-Fr 08:00-12:00,14:00-18:30; Sa 08:00-12:00,14:00-16:00
 website: ""

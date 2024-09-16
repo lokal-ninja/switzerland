@@ -4,8 +4,8 @@ latitude: 47.28878
 longitude: 7.71818
 postcode: "4702"
 city: Oensingen
-street: "Mühlefeldstrasse"
-housenumber: 15
+street: Mühlefeldstrasse
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Th 08:00-20:00; Sa 08:00-17:00; PH off"
-website: "https://www.mueller.ch/"
+opening_hours: Mo-Fr 08:00-18:30; Th 08:00-20:00; Sa 08:00-17:00; PH off
+website: https://www.mueller.ch/

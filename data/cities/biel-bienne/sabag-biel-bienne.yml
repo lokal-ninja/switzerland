@@ -1,11 +1,11 @@
 id: 619944089
-type: way
+type: node
 latitude: 47.1576
 longitude: 7.28563
 postcode: "2504"
 city: Biel/Bienne
-street: "Rue Johann-Renfer / Johann-Renfer-Strasse"
-housenumber: 52
-phone: "+41 32 328 28 28"
+street: Rue Johann-Renfer / Johann-Renfer-Strasse
+housenumber: "52"
+phone: +41 32 328 28 28
 opening_hours: ""
-website: "https://www.sabag.ch/de/innenausbau/bielbienne-renferstrasse"
+website: https://www.sabag.ch/de/innenausbau/bielbienne-renferstrasse

@@ -4,8 +4,8 @@ latitude: 47.37354
 longitude: 8.53137
 postcode: "8004"
 city: Zürich
-street: "Badenerstrasse"
-housenumber: 4
+street: Badenerstrasse
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Fr 09:00-20:00, Sa 09:00-17:00"
-website: "https://www.ghel.ch/salon/stauffacher/"
+opening_hours: Tu-Fr 09:00-20:00, Sa 09:00-17:00
+website: https://www.ghel.ch/salon/stauffacher/

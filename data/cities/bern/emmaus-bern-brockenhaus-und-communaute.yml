@@ -4,8 +4,8 @@ latitude: 46.9372
 longitude: 7.39267
 postcode: "3018"
 city: Bern
-street: "Statthalterstrasse"
-housenumber: 101
-phone: "+41 31 382 66 68"
-opening_hours: "Mo 13:30-17:30; Tu-Fr 10:00-12:00,13:30-17:30; Sa 10:00-17:00"
+street: Statthalterstrasse
+housenumber: "101"
+phone: +41 31 382 66 68
+opening_hours: Mo 13:30-17:30; Tu-Fr 10:00-12:00,13:30-17:30; Sa 10:00-17:00
 website: ""

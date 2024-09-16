@@ -4,8 +4,8 @@ latitude: 47.69683
 longitude: 8.63331
 postcode: "8200"
 city: Schaffhausen
-street: "Fronwagplatz"
-housenumber: 9
-phone: "+41 52 625 16 37"
-opening_hours: "Mo 09:00-12:00,13:30-18:30; Tu-Fr 08:00-18:30; Sa 08:00-16:00"
-website: "https://www.chaes-marili.ch"
+street: Fronwagplatz
+housenumber: "9"
+phone: +41 52 625 16 37
+opening_hours: Mo 09:00-12:00,13:30-18:30; Tu-Fr 08:00-18:30; Sa 08:00-16:00
+website: https://www.chaes-marili.ch

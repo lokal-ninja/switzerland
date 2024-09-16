@@ -4,8 +4,8 @@ latitude: 47.42019
 longitude: 8.39424
 postcode: "8953"
 city: Dietikon
-street: "Riedstrasse"
-housenumber: 5
+street: Riedstrasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; PH closed"
-website: "https://www.ottos.ch/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; PH closed
+website: https://www.ottos.ch/

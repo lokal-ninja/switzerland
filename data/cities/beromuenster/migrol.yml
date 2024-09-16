@@ -1,11 +1,11 @@
 id: 403142634
-type: way
+type: node
 latitude: 47.20609
 longitude: 8.19395
 postcode: "6215"
 city: Beromünster
-street: "Luzernerstrasse"
-housenumber: 2
+street: Luzernerstrasse
+housenumber: "2"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.migrol.ch/de/"
+opening_hours: 24/7
+website: https://www.migrol.ch/de/

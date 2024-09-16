@@ -4,8 +4,8 @@ latitude: 47.18516
 longitude: 7.40561
 postcode: "2540"
 city: Grenchen
-street: "Neumattstrasse"
-housenumber: 25
-phone: "+41 32 677 24 60"
-opening_hours: "Mo-Fr 08:00-12:00 / 13.30-18.00 / Do Abendverkauf bis 20.00 / Sa 08.30-13.00"
-website: "https://www.velo-art.ch/"
+street: Neumattstrasse
+housenumber: "25"
+phone: +41 32 677 24 60
+opening_hours: Mo-Fr 08:00-12:00 / 13.30-18.00 / Do Abendverkauf bis 20.00 / Sa 08.30-13.00
+website: https://www.velo-art.ch/

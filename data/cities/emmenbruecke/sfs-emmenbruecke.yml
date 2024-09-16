@@ -4,8 +4,8 @@ latitude: 47.06928
 longitude: 8.26917
 postcode: "6020"
 city: Emmenbrücke
-street: "Werkstrasse"
-housenumber: 4
+street: Werkstrasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.sfs.ch/de/store/9500_POS"
+website: https://www.sfs.ch/de/store/9500_POS

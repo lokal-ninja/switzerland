@@ -1,11 +1,11 @@
 id: 113681755
-type: way
+type: node
 latitude: 47.35943
 longitude: 7.33106
 postcode: "2800"
 city: Delémont
-street: "Route de Porrentruy"
-housenumber: 91
-phone: "+41 32 422 48 44"
+street: Route de Porrentruy
+housenumber: "91"
+phone: +41 32 422 48 44
 opening_hours: ""
 website: ""

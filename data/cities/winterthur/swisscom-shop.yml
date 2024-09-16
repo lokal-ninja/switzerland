@@ -4,8 +4,8 @@ latitude: 47.50001
 longitude: 8.72638
 postcode: "8401"
 city: Winterthur
-street: "Stadthausstrasse"
-housenumber: 14
+street: Stadthausstrasse
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "https://www.swisscom.ch/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
+website: https://www.swisscom.ch/

@@ -4,8 +4,9 @@ latitude: 47.52696
 longitude: 7.84215
 postcode: "4464"
 city: Maisprach
-street: "Im Langacher"
-housenumber: 114
-phone: "+41 61 841 26 39"
-opening_hours: "Bestellungen: telefonisch oder per E-Mail. (Online-Shop) Gästebewirtung: nach Vereinbarung"
-website: "https://www.kuhstall-maisprach.ch/"
+street: Im Langacher
+housenumber: "114"
+phone: +41 61 841 26 39
+opening_hours: 'Bestellungen: telefonisch oder per E-Mail. (Online-Shop) Gästebewirtung:
+    nach Vereinbarung'
+website: https://www.kuhstall-maisprach.ch/

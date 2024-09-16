@@ -1,11 +1,11 @@
 id: 294163512
-type: way
+type: node
 latitude: 46.71193
 longitude: 9.43538
 postcode: "7430"
 city: Thusis
-street: "Äussere Heinzenbergstrasse"
-housenumber: 2
-phone: "+41 58 433 72 72"
-opening_hours: "Mo-Fr 08:00-18:30, Sa 08:00-17:00"
-website: "https://www.landigraubuenden.ch/landi-laden/verkaufsstellen/landi-laden-thusis"
+street: Äussere Heinzenbergstrasse
+housenumber: "2"
+phone: +41 58 433 72 72
+opening_hours: Mo-Fr 08:00-18:30, Sa 08:00-17:00
+website: https://www.landigraubuenden.ch/landi-laden/verkaufsstellen/landi-laden-thusis

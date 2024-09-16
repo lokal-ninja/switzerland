@@ -4,8 +4,8 @@ latitude: 46.5551
 longitude: 6.37806
 postcode: "1144"
 city: Ballens
-street: "Chemin de la Prélaz"
-housenumber: 2
-phone: "+41 21 809 56 29"
-opening_hours: "Mo-Fr 07:15-11:45,13:30-17:00"
-website: "https://domainedesbiolettes.ch/"
+street: Chemin de la Prélaz
+housenumber: "2"
+phone: +41 21 809 56 29
+opening_hours: Mo-Fr 07:15-11:45,13:30-17:00
+website: https://domainedesbiolettes.ch/

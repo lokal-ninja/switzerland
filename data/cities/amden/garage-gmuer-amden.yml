@@ -1,11 +1,11 @@
 id: 195441661
-type: way
+type: node
 latitude: 47.14765
 longitude: 9.14984
 postcode: "8873"
 city: Amden
-street: "Dorfstrasse"
-housenumber: 62
+street: Dorfstrasse
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

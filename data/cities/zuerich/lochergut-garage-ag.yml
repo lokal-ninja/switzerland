@@ -4,8 +4,8 @@ latitude: 47.3767
 longitude: 8.51749
 postcode: "8004"
 city: Zürich
-street: "Karl-Bürkli-Strasse"
-housenumber: 5
+street: Karl-Bürkli-Strasse
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://garage-lochergut.ch/"
+website: https://garage-lochergut.ch/

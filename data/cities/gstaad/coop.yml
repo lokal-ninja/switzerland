@@ -1,11 +1,11 @@
 id: 240465746
-type: way
+type: node
 latitude: 46.47647
 longitude: 7.28352
 postcode: "3780"
 city: Gstaad
-street: "Untergstaadstrasse"
-housenumber: 20
+street: Untergstaadstrasse
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa 08:00-17:30"
+opening_hours: Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa 08:00-17:30
 website: ""

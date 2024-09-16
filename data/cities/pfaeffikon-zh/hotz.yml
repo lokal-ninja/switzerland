@@ -4,8 +4,9 @@ latitude: 47.3668
 longitude: 8.78279
 postcode: "8330"
 city: Pfäffikon ZH
-street: "Hochstrasse"
-housenumber: 6
-phone: "+41 44 950 12 52"
-opening_hours: "Tu-Th 07:00-12:15,14:15-18:30; Fr 07:00-12:30,14:00-18:30; Sa 07:00-16:00; PH off"
-website: "https://www.schlemmerland.ch/"
+street: Hochstrasse
+housenumber: "6"
+phone: +41 44 950 12 52
+opening_hours: Tu-Th 07:00-12:15,14:15-18:30; Fr 07:00-12:30,14:00-18:30; Sa 07:00-16:00;
+    PH off
+website: https://www.schlemmerland.ch/

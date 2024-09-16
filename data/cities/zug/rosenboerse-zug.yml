@@ -4,8 +4,8 @@ latitude: 47.17155
 longitude: 8.51748
 postcode: "6300"
 city: Zug
-street: "Gotthardplatz"
-housenumber: 3
-phone: "+41 41 710 47 65"
+street: Gotthardplatz
+housenumber: "3"
+phone: +41 41 710 47 65
 opening_hours: ""
-website: "https://rosenboerse.ch/filialen/"
+website: https://rosenboerse.ch/filialen/

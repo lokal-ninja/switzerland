@@ -4,8 +4,8 @@ latitude: 46.92754
 longitude: 7.12349
 postcode: "3280"
 city: Murten
-street: "Schützenmatt"
-housenumber: 36
+street: Schützenmatt
+housenumber: "36"
 phone: ""
-opening_hours: "Mo 14:00-18:30; Tu,Th 10:30-13:00,14:30-18:30; Fr 10:30-18:30; Sa 09:30-15:30"
-website: "https://okilo.ch/"
+opening_hours: Mo 14:00-18:30; Tu,Th 10:30-13:00,14:30-18:30; Fr 10:30-18:30; Sa 09:30-15:30
+website: https://okilo.ch/

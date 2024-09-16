@@ -1,11 +1,11 @@
 id: 36072522
-type: way
+type: node
 latitude: 46.50316
 longitude: 6.68506
 postcode: "1095"
 city: Lutry
-street: "Rue des Terreaux"
-housenumber: 15
+street: Rue des Terreaux
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-12:00"
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-12:00
 website: ""

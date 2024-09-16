@@ -1,11 +1,11 @@
 id: 247831899
-type: way
+type: node
 latitude: 47.33305
 longitude: 8.81109
 postcode: "8623"
 city: Wetzikon
-street: "Bahnhofstrasse"
-housenumber: 295
+street: Bahnhofstrasse
+housenumber: "295"
 phone: ""
 opening_hours: ""
 website: ""

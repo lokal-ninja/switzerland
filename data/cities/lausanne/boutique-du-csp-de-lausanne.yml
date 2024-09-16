@@ -4,8 +4,8 @@ latitude: 46.52212
 longitude: 6.63368
 postcode: "1003"
 city: Lausanne
-street: "Escaliers du Marché"
-housenumber: 9
-phone: "+41 21 312 96 16"
-opening_hours: "Tu-Fr 10:00-18:30; Sa 10:00-15:00"
-website: "https://csp.ch/vaud/galetas-et-boutiques/"
+street: Escaliers du Marché
+housenumber: "9"
+phone: +41 21 312 96 16
+opening_hours: Tu-Fr 10:00-18:30; Sa 10:00-15:00
+website: https://csp.ch/vaud/galetas-et-boutiques/

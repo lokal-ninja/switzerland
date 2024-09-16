@@ -1,11 +1,11 @@
 id: 210282424
-type: way
+type: node
 latitude: 47.24137
 longitude: 8.18645
 postcode: "5737"
 city: Menziken
-street: "Sagiweg"
-housenumber: 8
+street: Sagiweg
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-17:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-menziken"
+opening_hours: Mo-Fr 08:00-19:00, Sa 08:00-17:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-menziken

@@ -4,8 +4,8 @@ latitude: 47.35501
 longitude: 8.55693
 postcode: "8008"
 city: Zürich
-street: "Seefeldstrasse"
-housenumber: 178
+street: Seefeldstrasse
+housenumber: "178"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; Sa 07:00-15:00; Su 07:30-13:00"
-website: "https://baeckereiwuest.ch/"
+opening_hours: Mo-Fr 06:30-18:30; Sa 07:00-15:00; Su 07:30-13:00
+website: https://baeckereiwuest.ch/

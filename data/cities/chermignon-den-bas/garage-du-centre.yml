@@ -1,11 +1,11 @@
 id: 441394268
-type: way
+type: node
 latitude: 46.28348
 longitude: 7.48432
 postcode: "3971"
 city: Chermignon-d'en-Bas
-street: "Rue de Tsamplian"
-housenumber: 4
+street: Rue de Tsamplian
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

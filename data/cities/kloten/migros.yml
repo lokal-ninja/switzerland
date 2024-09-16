@@ -4,8 +4,8 @@ latitude: 47.45085
 longitude: 8.5818
 postcode: "8302"
 city: Kloten
-street: "Kirchgasse"
-housenumber: 5
+street: Kirchgasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-kloten"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-kloten

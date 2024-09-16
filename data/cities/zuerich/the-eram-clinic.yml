@@ -4,8 +4,8 @@ latitude: 47.36648
 longitude: 8.53355
 postcode: "8002"
 city: Zürich
-street: "Bleicherweg"
-housenumber: 33
+street: Bleicherweg
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30"
-website: "https://www.theeramclinic.com/"
+opening_hours: Mo-Fr 09:00-18:30
+website: https://www.theeramclinic.com/

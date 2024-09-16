@@ -4,8 +4,8 @@ latitude: 46.44587
 longitude: 6.15788
 postcode: "1264"
 city: St-Cergue
-street: "Route de Nyon"
-housenumber: 2
-phone: "+41 79 281 80 10"
-opening_hours: "Mo-Su 08:00-12:00"
-website: "https://arti-puces.ch/"
+street: Route de Nyon
+housenumber: "2"
+phone: +41 79 281 80 10
+opening_hours: Mo-Su 08:00-12:00
+website: https://arti-puces.ch/

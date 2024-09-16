@@ -4,8 +4,8 @@ latitude: 47.42448
 longitude: 9.37664
 postcode: "9000"
 city: St. Gallen
-street: "Schmiedgasse"
-housenumber: 2
+street: Schmiedgasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-We,Fr 09:00-18:30; Th 09:00-20:00; Sa 09:00-17:00"
-website: "https://www.chronoart.ch/"
+opening_hours: Mo-We,Fr 09:00-18:30; Th 09:00-20:00; Sa 09:00-17:00
+website: https://www.chronoart.ch/

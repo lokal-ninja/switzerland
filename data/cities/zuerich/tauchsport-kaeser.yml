@@ -4,8 +4,8 @@ latitude: 47.3696
 longitude: 8.52837
 postcode: "8004"
 city: Zürich
-street: "Stauffacherquai"
-housenumber: 54
+street: Stauffacherquai
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-16:00"
-website: "https://tsk.ch"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-16:00
+website: https://tsk.ch

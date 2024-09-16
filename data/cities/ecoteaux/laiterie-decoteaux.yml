@@ -4,8 +4,8 @@ latitude: 46.54327
 longitude: 6.8597
 postcode: "1612"
 city: Ecoteaux
-street: "Grand'Route"
-housenumber: 12
-phone: "+41 21 907 18 69"
-opening_hours: "Tu-Sa 08:00-11:00, 17:30-18:30"
-website: "https://www.fromagie.ch"
+street: Grand'Route
+housenumber: "12"
+phone: +41 21 907 18 69
+opening_hours: Tu-Sa 08:00-11:00, 17:30-18:30
+website: https://www.fromagie.ch

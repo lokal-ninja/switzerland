@@ -4,8 +4,8 @@ latitude: 47.35994
 longitude: 8.0486
 postcode: "5036"
 city: Oberentfelden
-street: "Unterdorfstrasse"
-housenumber: 15
-phone: "+41 62 962 20 00"
-opening_hours: "Sa 08:00-14:00"
-website: "https://www.arte-pasticcera.ch"
+street: Unterdorfstrasse
+housenumber: "15"
+phone: +41 62 962 20 00
+opening_hours: Sa 08:00-14:00
+website: https://www.arte-pasticcera.ch

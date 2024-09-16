@@ -4,8 +4,8 @@ latitude: 47.3619
 longitude: 7.89903
 postcode: "4632"
 city: Trimbach
-street: "Chäppeligass"
-housenumber: 2
-phone: "+41 62 293 02 29"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:30"
+street: Chäppeligass
+housenumber: "2"
+phone: +41 62 293 02 29
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:30
 website: ""

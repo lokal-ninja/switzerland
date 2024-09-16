@@ -1,11 +1,11 @@
 id: 547111096
-type: way
+type: node
 latitude: 47.47181
 longitude: 9.11361
 postcode: "9524"
 city: Zuzwil SG
-street: "Herbergstrasse"
-housenumber: 17
+street: Herbergstrasse
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-17:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-zuzwil"
+opening_hours: Mo-Fr 08:00-19:00, Sa 08:00-17:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-zuzwil

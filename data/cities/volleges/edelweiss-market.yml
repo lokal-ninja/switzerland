@@ -4,8 +4,8 @@ latitude: 46.08732
 longitude: 7.16843
 postcode: "1941"
 city: Vollèges
-street: "Route d'Etiez"
-housenumber: 14
+street: Route d'Etiez
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:30-18:30; Sa 08:00-12:00,14:00-18:30; Su 08:00-12:00"
-website: "https://www.edelweissmarket.ch"
+opening_hours: Mo-Fr 08:00-12:00,14:30-18:30; Sa 08:00-12:00,14:00-18:30; Su 08:00-12:00
+website: https://www.edelweissmarket.ch

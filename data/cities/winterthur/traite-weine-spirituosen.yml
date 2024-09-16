@@ -4,8 +4,8 @@ latitude: 47.50001
 longitude: 8.72817
 postcode: "8400"
 city: Winterthur
-street: "Stadthausstrasse"
-housenumber: 93
+street: Stadthausstrasse
+housenumber: "93"
 phone: ""
-opening_hours: "Mo 13:00-18:30; Tu-Fr 09:00-18:30; Th 09:00-20:00; Sa 09:00-16:00"
-website: "https://www.traite.ch/"
+opening_hours: Mo 13:00-18:30; Tu-Fr 09:00-18:30; Th 09:00-20:00; Sa 09:00-16:00
+website: https://www.traite.ch/

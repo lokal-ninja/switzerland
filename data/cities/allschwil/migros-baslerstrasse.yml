@@ -4,8 +4,8 @@ latitude: 47.55313
 longitude: 7.5503
 postcode: "4123"
 city: Allschwil
-street: "Baslerstrasse"
-housenumber: 191
+street: Baslerstrasse
+housenumber: "191"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00, Sa 07:30-18:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-allschwil-ziegelei"
+opening_hours: Mo-Fr 08:00-19:00, Sa 07:30-18:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-allschwil-ziegelei

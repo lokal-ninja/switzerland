@@ -1,11 +1,11 @@
 id: 225793083
-type: way
+type: node
 latitude: 47.39719
 longitude: 8.4233
 postcode: "8953"
 city: Dietikon
-street: "Zürcherstrasse"
-housenumber: 232
+street: Zürcherstrasse
+housenumber: "232"
 phone: ""
 opening_hours: ""
-website: "https://www.egger-dietikon.ch/"
+website: https://www.egger-dietikon.ch/

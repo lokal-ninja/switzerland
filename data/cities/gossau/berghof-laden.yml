@@ -4,8 +4,8 @@ latitude: 47.30375
 longitude: 8.77209
 postcode: "8625"
 city: Gossau
-street: "Berghofstrasse"
-housenumber: 42
-phone: "+41 44 935 41 07"
-opening_hours: "08:00-20:00"
+street: Berghofstrasse
+housenumber: "42"
+phone: +41 44 935 41 07
+opening_hours: 08:00-20:00
 website: ""

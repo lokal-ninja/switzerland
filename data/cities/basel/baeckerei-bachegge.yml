@@ -4,8 +4,8 @@ latitude: 47.5661
 longitude: 7.58947
 postcode: "4057"
 city: Basel
-street: "Erasmusplatz"
-housenumber: 8
-phone: "+41 61 692 46 80"
-opening_hours: "Mo-Fr 06:30-18:30; Sa 07:30-12:30"
-website: "https://www.gema-basel.ch/"
+street: Erasmusplatz
+housenumber: "8"
+phone: +41 61 692 46 80
+opening_hours: Mo-Fr 06:30-18:30; Sa 07:30-12:30
+website: https://www.gema-basel.ch/

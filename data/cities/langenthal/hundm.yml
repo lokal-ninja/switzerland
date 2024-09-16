@@ -4,8 +4,8 @@ latitude: 47.21193
 longitude: 7.78961
 postcode: "4900"
 city: Langenthal
-street: "St. Urbanstrasse"
-housenumber: 4
+street: St. Urbanstrasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Th 09:00-18:30; Fr 09:00-21:00; Sa 09:00-17:00; Su off; PH off"
-website: "https://www2.hm.com/de_ch/"
+opening_hours: Mo-Th 09:00-18:30; Fr 09:00-21:00; Sa 09:00-17:00; Su off; PH off
+website: https://www2.hm.com/de_ch/

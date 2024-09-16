@@ -4,8 +4,8 @@ latitude: 46.81578
 longitude: 6.89553
 postcode: "1482"
 city: Cugy FR
-street: "Route de Payerne"
-housenumber: 5
-phone: "+41 77 418 24 62"
-opening_hours: "We-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,13:30-16:00"
-website: "https://lecodessaisons.ch"
+street: Route de Payerne
+housenumber: "5"
+phone: +41 77 418 24 62
+opening_hours: We-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,13:30-16:00
+website: https://lecodessaisons.ch

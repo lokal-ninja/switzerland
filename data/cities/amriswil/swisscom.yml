@@ -4,8 +4,8 @@ latitude: 47.54482
 longitude: 9.28527
 postcode: "8580"
 city: Amriswil
-street: "Weinfelderstrasse"
-housenumber: 74
+street: Weinfelderstrasse
+housenumber: "74"
 phone: ""
 opening_hours: ""
-website: "https://www.swisscom.ch/"
+website: https://www.swisscom.ch/

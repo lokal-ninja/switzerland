@@ -1,11 +1,11 @@
 id: 143059299
-type: way
+type: node
 latitude: 47.47863
 longitude: 9.47263
 postcode: "9403"
 city: Goldach
-street: "St. Gallerstrasse"
-housenumber: 52
+street: St. Gallerstrasse
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.38425
 longitude: 8.53165
 postcode: "8005"
 city: Zürich
-street: "Limmatplatz"
-housenumber: 1
+street: Limmatplatz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.uhrenschmuck24.ch/helvetiaplatz"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.uhrenschmuck24.ch/helvetiaplatz

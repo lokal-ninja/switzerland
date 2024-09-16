@@ -1,11 +1,11 @@
 id: 253468360
-type: way
+type: node
 latitude: 47.3944
 longitude: 8.82698
 postcode: "8330"
 city: Hermatswil
-street: "Hermatswilerstrasse"
-housenumber: 68
-phone: "+41 44 381 56 01"
+street: Hermatswilerstrasse
+housenumber: "68"
+phone: +41 44 381 56 01
 opening_hours: ""
-website: "https://ediwyss.ch/"
+website: https://ediwyss.ch/

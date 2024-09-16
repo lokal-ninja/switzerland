@@ -4,8 +4,8 @@ latitude: 47.30098
 longitude: 9.08599
 postcode: "9630"
 city: Wattwil
-street: "Bahnhofstrasse"
-housenumber: 6
+street: Bahnhofstrasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,13:30-18:30; Sa 09:00-16:00"
-website: "https://www.tiefenbacher.ch/"
+opening_hours: Mo-Fr 09:00-12:30,13:30-18:30; Sa 09:00-16:00
+website: https://www.tiefenbacher.ch/

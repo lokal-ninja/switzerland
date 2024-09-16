@@ -4,8 +4,8 @@ latitude: 46.21131
 longitude: 9.0391
 postcode: "6500"
 city: Bellinzona
-street: "Via del Bosco"
-housenumber: 1
+street: Via del Bosco
+housenumber: "1"
 phone: "+41918250090"
-opening_hours: "Tu-Su"
+opening_hours: Tu-Su
 website: ""

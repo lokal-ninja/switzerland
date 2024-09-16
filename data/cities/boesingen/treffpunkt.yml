@@ -4,8 +4,10 @@ latitude: 46.89366
 longitude: 7.22702
 postcode: "3178"
 city: Bösingen
-street: "Bachtelastrasse"
-housenumber: 2
+street: Bachtelastrasse
+housenumber: "2"
 phone: ""
-opening_hours: "Jan-Jun: Mo-Fr 07:30-12:00, 13:30-18:30, Sa 07:00-16:00; Su off; Jul-Aug: Mo-Fr 07:30-12:00, 15:00-18:30, Sa 07:00-16:00; Su off; Sep-Dec Mo-Fr 07:30-12:00, 13:30-18:30, Sa 07:00-16:00; Su off"
+opening_hours: 'Jan-Jun: Mo-Fr 07:30-12:00, 13:30-18:30, Sa 07:00-16:00; Su off; Jul-Aug:
+    Mo-Fr 07:30-12:00, 15:00-18:30, Sa 07:00-16:00; Su off; Sep-Dec Mo-Fr 07:30-12:00,
+    13:30-18:30, Sa 07:00-16:00; Su off'
 website: ""

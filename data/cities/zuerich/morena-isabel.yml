@@ -4,8 +4,8 @@ latitude: 47.37378
 longitude: 8.52673
 postcode: "8004"
 city: Zürich
-street: "Badenerstrasse"
-housenumber: 76
+street: Badenerstrasse
+housenumber: "76"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:30, Sa 11:00-17:00; PH off"
-website: "https://www.morenaisabel.ch/"
+opening_hours: Tu-Fr 10:00-18:30, Sa 11:00-17:00; PH off
+website: https://www.morenaisabel.ch/

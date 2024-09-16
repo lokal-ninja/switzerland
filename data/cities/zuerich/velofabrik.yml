@@ -4,8 +4,8 @@ latitude: 47.36115
 longitude: 8.54959
 postcode: "8008"
 city: Zürich
-street: "Florastrasse"
-housenumber: 17
-phone: "+41 44 300 12 12"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"
-website: "https://www.velofabrik.ch/"
+street: Florastrasse
+housenumber: "17"
+phone: +41 44 300 12 12
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-17:00
+website: https://www.velofabrik.ch/

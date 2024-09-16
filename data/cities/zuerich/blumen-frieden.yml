@@ -4,8 +4,8 @@ latitude: 47.37824
 longitude: 8.50939
 postcode: "8003"
 city: Zürich
-street: "Albisriederstrasse"
-housenumber: 6
+street: Albisriederstrasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-16:00"
-website: "http://www.xn--dablhtdirwas-glb.ch/"
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-16:00
+website: http://www.xn--dablhtdirwas-glb.ch/

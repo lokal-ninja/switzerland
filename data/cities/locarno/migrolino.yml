@@ -5,7 +5,7 @@ longitude: 8.78992
 postcode: "6600"
 city: Locarno
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "06:00-22:00"
-website: "https://www.migrolino.ch/it/standorte/socar-locarno/"
+opening_hours: 06:00-22:00
+website: https://www.migrolino.ch/it/standorte/socar-locarno/

@@ -1,11 +1,11 @@
 id: 236784141
-type: way
+type: node
 latitude: 46.89271
 longitude: 6.73003
 postcode: "1428"
 city: Provence
-street: "Place d'Armes"
-housenumber: 1
+street: Place d'Armes
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

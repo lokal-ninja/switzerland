@@ -4,8 +4,8 @@ latitude: 47.39166
 longitude: 8.05932
 postcode: "5000"
 city: Aarau
-street: "Buchserstrasse"
-housenumber: 3
-phone: "+41 62 390 00 20"
-opening_hours: "Mo-Fr 07:00-13:30, Sa 07:00-13:00"
-website: "https://www.kunz-baeckerei.ch/s"
+street: Buchserstrasse
+housenumber: "3"
+phone: +41 62 390 00 20
+opening_hours: Mo-Fr 07:00-13:30, Sa 07:00-13:00
+website: https://www.kunz-baeckerei.ch/s

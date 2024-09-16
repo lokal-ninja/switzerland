@@ -4,8 +4,8 @@ latitude: 47.40179
 longitude: 8.50058
 postcode: "8049"
 city: Zürich
-street: "Limmattalstrasse"
-housenumber: 164
+street: Limmattalstrasse
+housenumber: "164"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 13:30-18:30; Sa 08:00-13:00"
+opening_hours: Mo-Fr 08:00-12:00, 13:30-18:30; Sa 08:00-13:00
 website: ""

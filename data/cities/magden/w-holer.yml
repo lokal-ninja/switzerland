@@ -1,11 +1,11 @@
 id: 56146062
-type: way
+type: node
 latitude: 47.52788
 longitude: 7.81312
 postcode: "4312"
 city: Magden
-street: "Schulstrasse"
-housenumber: 10
+street: Schulstrasse
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

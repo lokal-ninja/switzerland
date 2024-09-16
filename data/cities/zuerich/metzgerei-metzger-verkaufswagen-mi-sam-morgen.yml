@@ -4,8 +4,8 @@ latitude: 47.41039
 longitude: 8.54473
 postcode: "8050"
 city: Zürich
-street: "Edisonstrasse"
-housenumber: 24
-phone: "+41 71 994 18 16"
-opening_hours: "We,Sa 06:00-11:00"
-website: "https://www.metzger-metzger.ch"
+street: Edisonstrasse
+housenumber: "24"
+phone: +41 71 994 18 16
+opening_hours: We,Sa 06:00-11:00
+website: https://www.metzger-metzger.ch

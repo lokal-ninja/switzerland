@@ -1,11 +1,11 @@
 id: 93942151
-type: way
+type: node
 latitude: 46.94528
 longitude: 7.24276
 postcode: "3205"
 city: Gümmenen
-street: "Austrasse"
-housenumber: 10
+street: Austrasse
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

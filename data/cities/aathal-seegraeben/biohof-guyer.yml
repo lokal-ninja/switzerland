@@ -4,8 +4,8 @@ latitude: 47.34443
 longitude: 8.76385
 postcode: "8607"
 city: Aathal-Seegräben
-street: "Usterstrasse"
-housenumber: 31
+street: Usterstrasse
+housenumber: "31"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.biohofguyer.ch/"
+opening_hours: 24/7
+website: https://www.biohofguyer.ch/

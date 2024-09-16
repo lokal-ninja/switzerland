@@ -4,8 +4,8 @@ latitude: 47.37392
 longitude: 8.52571
 postcode: "8004"
 city: Zürich
-street: "Badenerstrasse"
-housenumber: 89
+street: Badenerstrasse
+housenumber: "89"
 phone: ""
-opening_hours: "Tu-Fr 13:00-19:00; Sa 10:00-16:00; PH off"
-website: "http://kreis4optik.ch/"
+opening_hours: Tu-Fr 13:00-19:00; Sa 10:00-16:00; PH off
+website: http://kreis4optik.ch/

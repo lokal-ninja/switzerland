@@ -1,11 +1,11 @@
 id: 770635478
-type: way
+type: node
 latitude: 47.40848
 longitude: 9.32973
 postcode: "9014"
 city: St. Gallen
-street: "Zürcher Strasse"
-housenumber: 268
+street: Zürcher Strasse
+housenumber: "268"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su,PH 07:00-21:00"
+opening_hours: Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su,PH 07:00-21:00
 website: ""

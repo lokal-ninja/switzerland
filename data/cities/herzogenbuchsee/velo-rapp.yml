@@ -4,8 +4,9 @@ latitude: 47.19192
 longitude: 7.70389
 postcode: "3360"
 city: Herzogenbuchsee
-street: "Wangenstrasse"
-housenumber: 44
-phone: "+41 62 961 14 88"
-opening_hours: "Tu,We,Fr 09:00-12:00,14:00-18:30; Th 14:00-18:30; Sa 09:00-12:00,13:00-16:00; week 12-42 Th 09:00-12:00,14:00-18:30"
-website: "https://velorapp.ch/"
+street: Wangenstrasse
+housenumber: "44"
+phone: +41 62 961 14 88
+opening_hours: Tu,We,Fr 09:00-12:00,14:00-18:30; Th 14:00-18:30; Sa 09:00-12:00,13:00-16:00;
+    week 12-42 Th 09:00-12:00,14:00-18:30
+website: https://velorapp.ch/

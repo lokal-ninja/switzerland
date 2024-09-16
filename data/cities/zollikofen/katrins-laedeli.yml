@@ -1,11 +1,11 @@
 id: 160927783
-type: way
+type: node
 latitude: 47.00635
 longitude: 7.44413
 postcode: "3052"
 city: Zollikofen
-street: "Aegelseeweg"
-housenumber: 39
+street: Aegelseeweg
+housenumber: "39"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

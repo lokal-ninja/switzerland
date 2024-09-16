@@ -1,11 +1,11 @@
 id: 87886643
-type: way
+type: node
 latitude: 46.94357
 longitude: 7.22826
 postcode: "3206"
 city: Rizenbach
-street: "Neuenburgstrasse"
-housenumber: 3
+street: Neuenburgstrasse
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

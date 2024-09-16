@@ -1,11 +1,11 @@
 id: 127605707
-type: way
+type: node
 latitude: 47.34647
 longitude: 8.60008
 postcode: "8125"
 city: Zollikerberg
-street: "Forchstrasse"
-housenumber: 170
+street: Forchstrasse
+housenumber: "170"
 phone: ""
 opening_hours: ""
 website: ""

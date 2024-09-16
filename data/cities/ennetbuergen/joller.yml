@@ -1,11 +1,11 @@
 id: 308319893
-type: way
+type: node
 latitude: 46.97912
 longitude: 8.39652
 postcode: "6373"
 city: Ennetbürgen
-street: "Stanserstrasse"
-housenumber: 106
+street: Stanserstrasse
+housenumber: "106"
 phone: ""
 opening_hours: ""
-website: "http://www.garagejoller.ch/"
+website: http://www.garagejoller.ch/

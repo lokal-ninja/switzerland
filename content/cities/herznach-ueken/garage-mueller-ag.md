@@ -1,5 +1,5 @@
 ---
 title: "Garage Müller AG"
-url: /herznach/garage-mueller-ag/
+url: /herznach-ueken/garage-mueller-ag/
 shop: Autohaus
 ---

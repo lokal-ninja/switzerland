@@ -1,11 +1,11 @@
 id: 323658751
-type: way
+type: node
 latitude: 46.60063
 longitude: 7.0769
 postcode: "1635"
 city: La Tour-de-Trême
-street: "Route du Closalet"
-housenumber: 26
-phone: "+33 26 9210660"
-opening_hours: "Tu-Fr 07:30-12:00, 13:30-18:30; Sa 07:30-12:00,13:30-16:00; Su,Mo off"
-website: "http://www.andrey-cm.ch"
+street: Route du Closalet
+housenumber: "26"
+phone: +33 26 9210660
+opening_hours: Tu-Fr 07:30-12:00, 13:30-18:30; Sa 07:30-12:00,13:30-16:00; Su,Mo off
+website: http://www.andrey-cm.ch

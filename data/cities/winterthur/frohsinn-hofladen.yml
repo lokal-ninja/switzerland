@@ -4,8 +4,8 @@ latitude: 47.51019
 longitude: 8.69273
 postcode: "8408"
 city: Winterthur
-street: "Wülflingerstrasse"
-housenumber: 261
+street: Wülflingerstrasse
+housenumber: "261"
 phone: ""
-opening_hours: "Mo-Su 06:00-21:00"
-website: "https://radhof-winterthur.ch/frohsinn-laden-in-winterthur-wuelflingen/"
+opening_hours: Mo-Su 06:00-21:00
+website: https://radhof-winterthur.ch/frohsinn-laden-in-winterthur-wuelflingen/

@@ -4,8 +4,8 @@ latitude: 47.12975
 longitude: 8.74124
 postcode: "8840"
 city: Einsiedeln
-street: "Spitalstrasse"
+street: Spitalstrasse
 housenumber: 20a
-phone: "+41 55 418 86 86"
-opening_hours: "Mo-Fr 07:30-12:00,13:15-18:30; Sa 07:30-16:00"
-website: "https://www.einsiedlerbier.ch/"
+phone: +41 55 418 86 86
+opening_hours: Mo-Fr 07:30-12:00,13:15-18:30; Sa 07:30-16:00
+website: https://www.einsiedlerbier.ch/

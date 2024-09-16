@@ -1,11 +1,11 @@
 id: 101382266
-type: way
+type: node
 latitude: 47.54783
 longitude: 7.55337
 postcode: "4123"
 city: Allschwil
-street: "Spitzwaldstrasse"
-housenumber: 215
+street: Spitzwaldstrasse
+housenumber: "215"
 phone: ""
 opening_hours: ""
 website: ""

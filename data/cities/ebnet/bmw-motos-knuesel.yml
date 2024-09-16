@@ -1,11 +1,11 @@
 id: 206135192
-type: way
+type: node
 latitude: 47.02181
 longitude: 8.07683
 postcode: "6163"
 city: Ebnet
-street: "Ebnet"
-housenumber: 28
-phone: "+41 41 480 15 45"
+street: Ebnet
+housenumber: "28"
+phone: +41 41 480 15 45
 opening_hours: ""
-website: "https://www.motos-knuesel.ch/"
+website: https://www.motos-knuesel.ch/

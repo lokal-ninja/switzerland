@@ -4,8 +4,8 @@ latitude: 47.30955
 longitude: 8.52535
 postcode: "8134"
 city: Adliswil
-street: "Albisstrasse"
-housenumber: 26
-phone: "+41 44 710 72 39"
-opening_hours: "Tu-Th,Sa 09:00-12:00; Fr 09:00-12:00,14:00-18:00"
-website: "https://www.ep-online.ch/gysin/de/"
+street: Albisstrasse
+housenumber: "26"
+phone: +41 44 710 72 39
+opening_hours: Tu-Th,Sa 09:00-12:00; Fr 09:00-12:00,14:00-18:00
+website: https://www.ep-online.ch/gysin/de/

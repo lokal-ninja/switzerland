@@ -4,8 +4,8 @@ latitude: 46.21951
 longitude: 7.30335
 postcode: "1964"
 city: Conthey
-street: "Avenue de la Gare"
-housenumber: 13
-phone: "+41 79 375 14 43"
-opening_hours: "Mo 10:30-18:00; Tu-Fr 08:00-18:00; We 07:00-12:00; Sa 09:00-16:00"
-website: "https://www.bloomerup.ch/"
+street: Avenue de la Gare
+housenumber: "13"
+phone: +41 79 375 14 43
+opening_hours: Mo 10:30-18:00; Tu-Fr 08:00-18:00; We 07:00-12:00; Sa 09:00-16:00
+website: https://www.bloomerup.ch/

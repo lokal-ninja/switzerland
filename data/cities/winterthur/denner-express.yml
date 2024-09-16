@@ -1,11 +1,11 @@
 id: 760805323
-type: way
+type: node
 latitude: 47.50039
 longitude: 8.72659
 postcode: "8400"
 city: Winterthur
-street: "Stadthausstrasse"
+street: Stadthausstrasse
 housenumber: 10a
 phone: ""
-opening_hours: "Mo-Fr 07:30-20:00; Sa 08:00-20:00"
+opening_hours: Mo-Fr 07:30-20:00; Sa 08:00-20:00
 website: ""

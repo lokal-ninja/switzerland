@@ -1,11 +1,11 @@
 id: 231720332
-type: way
+type: node
 latitude: 46.59744
 longitude: 9.59704
 postcode: "7460"
 city: Savognin
-street: "Stradung"
-housenumber: 13
+street: Stradung
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00,14:00-18:30; Sa 07:30-12:00,13:30-17:00; Su 09:00-12:00,15:00-17:00"
+opening_hours: Mo-Fr 07:30-12:00,14:00-18:30; Sa 07:30-12:00,13:30-17:00; Su 09:00-12:00,15:00-17:00
 website: ""

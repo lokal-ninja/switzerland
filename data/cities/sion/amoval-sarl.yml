@@ -4,8 +4,8 @@ latitude: 46.21992
 longitude: 7.35247
 postcode: "1950"
 city: Sion
-street: "Route de la Drague"
-housenumber: 52
-phone: "+41 27 323 46 82"
-opening_hours: "Mo-Fr 07:30-12:00,13:30-18:00; Sa 08:00-11:00"
-website: "http://www.amoval.ch/"
+street: Route de la Drague
+housenumber: "52"
+phone: +41 27 323 46 82
+opening_hours: Mo-Fr 07:30-12:00,13:30-18:00; Sa 08:00-11:00
+website: http://www.amoval.ch/

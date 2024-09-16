@@ -1,11 +1,11 @@
 id: 154562595
-type: way
+type: node
 latitude: 47.40846
 longitude: 8.60148
 postcode: "8304"
 city: Wallisellen
-street: "Husacherstrasse"
-housenumber: 1
+street: Husacherstrasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

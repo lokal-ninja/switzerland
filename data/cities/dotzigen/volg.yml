@@ -1,11 +1,11 @@
 id: 88223249
-type: way
+type: node
 latitude: 47.11836
 longitude: 7.33745
 postcode: "3293"
 city: Dotzigen
-street: "Bahnhofstrasse"
-housenumber: 35
+street: Bahnhofstrasse
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 06:00-20:00; Sa 07:00-17:00"
+opening_hours: Mo-Fr 06:00-20:00; Sa 07:00-17:00
 website: ""

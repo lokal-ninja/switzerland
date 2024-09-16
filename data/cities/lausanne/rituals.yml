@@ -4,8 +4,8 @@ latitude: 46.52291
 longitude: 6.63218
 postcode: "1003"
 city: Lausanne
-street: "Place de la Palud"
-housenumber: 14
+street: Place de la Palud
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.rituals.com"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.rituals.com

@@ -4,8 +4,8 @@ latitude: 47.12756
 longitude: 8.74492
 postcode: "8840"
 city: Einsiedeln
-street: "Hauptstrasse"
-housenumber: 17
-phone: "+41 55 412 30 44"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:00; Sa 08:00-14:00"
-website: "https://www.blumen-binder.ch/"
+street: Hauptstrasse
+housenumber: "17"
+phone: +41 55 412 30 44
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:00; Sa 08:00-14:00
+website: https://www.blumen-binder.ch/

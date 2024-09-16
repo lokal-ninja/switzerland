@@ -1,11 +1,11 @@
 id: 379803904
-type: way
+type: node
 latitude: 47.16441
 longitude: 9.47918
 postcode: "9470"
 city: Buchs SG
-street: "Mühleäulistrasse"
-housenumber: 1
+street: Mühleäulistrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30, Sa 08:00-16:30"
-website: "http://www.landibuchs.ch"
+opening_hours: Mo-Fr 08:00-18:30, Sa 08:00-16:30
+website: http://www.landibuchs.ch

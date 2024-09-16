@@ -4,8 +4,8 @@ latitude: 47.41875
 longitude: 8.5065
 postcode: ""
 city: Zürich
-street: "Wehntalerstrasse"
-housenumber: 541
+street: Wehntalerstrasse
+housenumber: "541"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:30; Sa 09:00-16:00; Su off"
-website: "https://doernberger.ch/"
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:30; Sa 09:00-16:00; Su off
+website: https://doernberger.ch/

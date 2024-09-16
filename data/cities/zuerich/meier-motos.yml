@@ -4,8 +4,8 @@ latitude: 47.40349
 longitude: 8.55533
 postcode: "8057"
 city: Zürich
-street: "Winterthurerstrasse"
-housenumber: 309
+street: Winterthurerstrasse
+housenumber: "309"
 phone: ""
-opening_hours: "Tu-Fr 08:00-12:00,13:00-18:00; Sa 08:00-16:00"
-website: "https://www.meiermotos.ch/"
+opening_hours: Tu-Fr 08:00-12:00,13:00-18:00; Sa 08:00-16:00
+website: https://www.meiermotos.ch/

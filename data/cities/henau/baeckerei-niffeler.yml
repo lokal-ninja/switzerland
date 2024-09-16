@@ -1,11 +1,11 @@
 id: 192096272
-type: way
+type: node
 latitude: 47.45253
 longitude: 9.11872
 postcode: "9247"
 city: Henau
-street: "Felseggstrasse"
-housenumber: 1
-phone: "+41 71 951 53 92"
+street: Felseggstrasse
+housenumber: "1"
+phone: +41 71 951 53 92
 opening_hours: ""
-website: "https://www.niffelerhenau.ch/"
+website: https://www.niffelerhenau.ch/

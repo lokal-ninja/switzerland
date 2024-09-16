@@ -4,8 +4,8 @@ latitude: 47.38625
 longitude: 8.4985
 postcode: "8048"
 city: Zürich
-street: "Baslerstrasse"
-housenumber: 50
-phone: "+41 44 493 00 05"
+street: Baslerstrasse
+housenumber: "50"
+phone: +41 44 493 00 05
 opening_hours: ""
-website: "https://www.alexandermode.ch/"
+website: https://www.alexandermode.ch/

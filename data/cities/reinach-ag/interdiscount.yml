@@ -1,11 +1,11 @@
 id: 706944560
-type: way
+type: node
 latitude: 47.2515
 longitude: 8.18208
 postcode: "5734"
 city: Reinach AG
-street: "Obere Stumpenbachstrasse"
-housenumber: 10
+street: Obere Stumpenbachstrasse
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.interdiscount.ch/"
+website: https://www.interdiscount.ch/

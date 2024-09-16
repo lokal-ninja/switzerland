@@ -1,11 +1,11 @@
 id: 265629727
-type: way
+type: node
 latitude: 47.44739
 longitude: 9.15367
 postcode: "9245"
 city: Oberbüren
-street: "Buechental"
-housenumber: 4
+street: Buechental
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

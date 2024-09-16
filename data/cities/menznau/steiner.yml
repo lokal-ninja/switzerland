@@ -4,8 +4,8 @@ latitude: 47.0828
 longitude: 8.03905
 postcode: "6122"
 city: Menznau
-street: "Wolhuserstrasse"
-housenumber: 4
+street: Wolhuserstrasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.steiner-baeckerei.ch/"
+website: https://www.steiner-baeckerei.ch/

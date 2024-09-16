@@ -4,8 +4,8 @@ latitude: 47.4586
 longitude: 8.32932
 postcode: "5430"
 city: Wettingen
-street: "Jurastrasse"
-housenumber: 42
+street: Jurastrasse
+housenumber: "42"
 phone: ""
 opening_hours: ""
-website: "https://www.impo.ch/"
+website: https://www.impo.ch/

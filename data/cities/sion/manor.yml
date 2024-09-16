@@ -4,8 +4,8 @@ latitude: 46.23104
 longitude: 7.35925
 postcode: "1951"
 city: Sion
-street: "Avenue du Midi"
-housenumber: 3
+street: Avenue du Midi
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Th 08:00-18:30; Fr 08:00-20:00; Sa 08:00-17:00"
+opening_hours: Mo-Th 08:00-18:30; Fr 08:00-20:00; Sa 08:00-17:00
 website: ""

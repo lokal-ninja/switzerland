@@ -4,8 +4,8 @@ latitude: 47.63744
 longitude: 8.97466
 postcode: "8507"
 city: Hörhausen
-street: "Hauptstrasse"
-housenumber: 
+street: Hauptstrasse
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:30, Sa 08:00-16:00, Su 08:00-13:00"
-website: "https://www.migrol.ch/de/"
+opening_hours: Mo-Fr 06:00-18:30, Sa 08:00-16:00, Su 08:00-13:00
+website: https://www.migrol.ch/de/

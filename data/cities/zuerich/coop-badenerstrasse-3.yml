@@ -4,8 +4,8 @@ latitude: 47.37329
 longitude: 8.53056
 postcode: "8004"
 city: Zürich
-street: "Badenerstrasse"
-housenumber: 15
-phone: "+41 44 206 91 70"
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.coop.ch/de/standorte/coop-supermarkt-zuerich-stauffacher/1412_POS"
+street: Badenerstrasse
+housenumber: "15"
+phone: +41 44 206 91 70
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.coop.ch/de/standorte/coop-supermarkt-zuerich-stauffacher/1412_POS

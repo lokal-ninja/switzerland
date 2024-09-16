@@ -1,11 +1,12 @@
 id: 379582610
-type: way
+type: node
 latitude: 46.94902
 longitude: 7.44071
 postcode: "3011"
 city: Bern
-street: "Neuengass-Unterführung"
-housenumber: 3
+street: Neuengass-Unterführung
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-We 09:00-21:00; Th 09:00-22:00; Fr 09:00-21:00; Sa 09:00-20:00; Su 10:00-20:00"
-website: "https://www.interdiscount.ch/"
+opening_hours: Mo-We 09:00-21:00; Th 09:00-22:00; Fr 09:00-21:00; Sa 09:00-20:00;
+    Su 10:00-20:00
+website: https://www.interdiscount.ch/

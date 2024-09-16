@@ -1,11 +1,11 @@
 id: 370801706
-type: way
+type: node
 latitude: 47.38756
 longitude: 8.75305
 postcode: "8320"
 city: Fehraltorf
-street: "Kempttalstrasse"
-housenumber: 73
+street: Kempttalstrasse
+housenumber: "73"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.migrol.ch/de/"
+opening_hours: 24/7
+website: https://www.migrol.ch/de/

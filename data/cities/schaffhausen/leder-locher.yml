@@ -4,8 +4,8 @@ latitude: 47.69648
 longitude: 8.63419
 postcode: "8200"
 city: Schaffhausen
-street: "Vordergasse"
-housenumber: 78
-phone: "+41 52 625 40 40"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-17:00"
-website: "http://www.tasche-lederlocher.ch/"
+street: Vordergasse
+housenumber: "78"
+phone: +41 52 625 40 40
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-17:00
+website: http://www.tasche-lederlocher.ch/

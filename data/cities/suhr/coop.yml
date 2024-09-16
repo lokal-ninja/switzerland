@@ -4,8 +4,8 @@ latitude: 47.37428
 longitude: 8.07718
 postcode: "5034"
 city: Suhr
-street: "Obere Dorfstrasse"
-housenumber: 12
-phone: "+41 62 855 08 30"
-opening_hours: "Mo-Fr 07:30-20:00; Sa 07:30-18:00"
-website: "https://www.coop.ch/de/standorte/coop-supermarkt-suhr/1158_POS"
+street: Obere Dorfstrasse
+housenumber: "12"
+phone: +41 62 855 08 30
+opening_hours: Mo-Fr 07:30-20:00; Sa 07:30-18:00
+website: https://www.coop.ch/de/standorte/coop-supermarkt-suhr/1158_POS

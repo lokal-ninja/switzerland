@@ -1,11 +1,11 @@
 id: 251638359
-type: way
+type: node
 latitude: 47.3672
 longitude: 8.87918
 postcode: "8494"
 city: Bauma
-street: "Dorfstrasse"
-housenumber: 42
+street: Dorfstrasse
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:30; Sa 08:00-15:00"
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:30; Sa 08:00-15:00
 website: ""

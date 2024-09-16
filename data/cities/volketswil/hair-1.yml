@@ -4,8 +4,8 @@ latitude: 47.38217
 longitude: 8.66791
 postcode: "8604"
 city: Volketswil
-street: "Industriestrasse"
-housenumber: 1
+street: Industriestrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; PH off"
-website: "https://coiffina.ch/salons/hair-1_volkiland/"
+opening_hours: Mo-Sa 09:00-20:00; PH off
+website: https://coiffina.ch/salons/hair-1_volkiland/

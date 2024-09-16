@@ -1,11 +1,11 @@
 id: 38908082
-type: way
+type: node
 latitude: 47.43877
 longitude: 8.53289
 postcode: "8153"
 city: Rümlang
-street: "Altwistrasse"
-housenumber: 4
+street: Altwistrasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://juchler.ch/"
+website: https://juchler.ch/

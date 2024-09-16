@@ -4,8 +4,8 @@ latitude: 47.35454
 longitude: 8.52666
 postcode: "8002"
 city: Zürich
-street: "Brunaustrasse"
-housenumber: 61
+street: Brunaustrasse
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Fr 06:30-17:00; Sa 07:00-15:00; Su 07:30-15:00"
+opening_hours: Mo-Fr 06:30-17:00; Sa 07:00-15:00; Su 07:30-15:00
 website: ""

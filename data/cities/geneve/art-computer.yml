@@ -4,8 +4,8 @@ latitude: 46.20631
 longitude: 6.14242
 postcode: "1201"
 city: Genève
-street: "Rue de Coutance"
-housenumber: 3
-phone: "0848 27 82 78"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://artcomputer.ch/"
+street: Rue de Coutance
+housenumber: "3"
+phone: 0848 27 82 78
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://artcomputer.ch/

@@ -1,11 +1,11 @@
 id: 198263888
-type: way
+type: node
 latitude: 46.47461
 longitude: 6.86363
 postcode: ""
 city: Saint-Légier-La Chiésaz
-street: "Route Industrielle"
-housenumber: 9
+street: Route Industrielle
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 347682397
-type: way
+type: node
 latitude: 47.37469
 longitude: 8.08418
 postcode: "5034"
 city: Suhr
-street: "Bernstrasse Ost"
-housenumber: 48
-phone: "+41 62 855 20 70"
+street: Bernstrasse Ost
+housenumber: "48"
+phone: +41 62 855 20 70
 opening_hours: ""
-website: "https://www.jumbo.ch/de/filialen/jumbo-suhr"
+website: https://www.jumbo.ch/de/filialen/jumbo-suhr

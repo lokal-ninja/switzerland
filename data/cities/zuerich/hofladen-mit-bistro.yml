@@ -4,8 +4,8 @@ latitude: 47.32396
 longitude: 8.50576
 postcode: "8041"
 city: Zürich
-street: "Grossackerstrasse"
-housenumber: 121
-phone: "+41 44 481 53 34"
-opening_hours: "Mo-Sa 08:00-18:30; Su 09:00-18:30"
-website: "https://www.leimbihof.ch/"
+street: Grossackerstrasse
+housenumber: "121"
+phone: +41 44 481 53 34
+opening_hours: Mo-Sa 08:00-18:30; Su 09:00-18:30
+website: https://www.leimbihof.ch/

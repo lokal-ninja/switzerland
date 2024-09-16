@@ -1,11 +1,11 @@
 id: 269121416
-type: way
+type: node
 latitude: 46.13845
 longitude: 7.11462
 postcode: "1926"
 city: Fully
-street: "Rue de l'Eglise"
-housenumber: 49
-phone: "+41 27 746 32 58"
-opening_hours: "Mo-Fr 07:30-12:30,14:00-18:30; Sa 07:30-17:00"
-website: "https://www.edelweissmarket.ch/magasins/magasin-de-fully/"
+street: Rue de l'Eglise
+housenumber: "49"
+phone: +41 27 746 32 58
+opening_hours: Mo-Fr 07:30-12:30,14:00-18:30; Sa 07:30-17:00
+website: https://www.edelweissmarket.ch/magasins/magasin-de-fully/

@@ -1,11 +1,11 @@
 id: 273812135
-type: way
+type: node
 latitude: 47.22751
 longitude: 8.96697
 postcode: "8730"
 city: Uznach
-street: "Etzelstrasse"
-housenumber: 6
-phone: "+41 (0)55 285 90 98"
-opening_hours: "Mo-Fr 9:00-12:00, 13:00-18:30; Sa 9:00-17:00"
-website: "https://www.hde.ch/"
+street: Etzelstrasse
+housenumber: "6"
+phone: +41 (0)55 285 90 98
+opening_hours: Mo-Fr 9:00-12:00, 13:00-18:30; Sa 9:00-17:00
+website: https://www.hde.ch/

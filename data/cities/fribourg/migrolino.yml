@@ -1,11 +1,11 @@
 id: 32703708
-type: way
+type: node
 latitude: 46.81154
 longitude: 7.13918
 postcode: "1700"
 city: Fribourg
-street: "Route du Jura"
-housenumber: 73
+street: Route du Jura
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Su 06:00-21:00; Su 6:00-19:00"
+opening_hours: Mo-Su 06:00-21:00; Su 6:00-19:00
 website: ""

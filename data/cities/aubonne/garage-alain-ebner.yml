@@ -4,8 +4,8 @@ latitude: 46.48859
 longitude: 6.39728
 postcode: "1170"
 city: Aubonne
-street: "Chemin de Clamogne"
-housenumber: 21
-phone: "+41 21 808 52 52"
-opening_hours: "Mo-Fr 07:30-12:00,13:30-18:30; Sa 09:00-12:00,13:30-16:00"
-website: "http://www.garage-ebner.ch"
+street: Chemin de Clamogne
+housenumber: "21"
+phone: +41 21 808 52 52
+opening_hours: Mo-Fr 07:30-12:00,13:30-18:30; Sa 09:00-12:00,13:30-16:00
+website: http://www.garage-ebner.ch

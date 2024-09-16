@@ -4,8 +4,8 @@ latitude: 47.3873
 longitude: 8.48574
 postcode: "8048"
 city: Zürich
-street: "Lindenplatz"
-housenumber: 4
-phone: "+41 44 431 11 31"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 08:00-16:00"
-website: "https://www.fotowelti.ch/"
+street: Lindenplatz
+housenumber: "4"
+phone: +41 44 431 11 31
+opening_hours: Mo-Fr 09:00-18:30; Sa 08:00-16:00
+website: https://www.fotowelti.ch/

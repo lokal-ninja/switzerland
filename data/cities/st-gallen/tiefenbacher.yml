@@ -4,8 +4,8 @@ latitude: 47.42494
 longitude: 9.37685
 postcode: "9000"
 city: St. Gallen
-street: "Spisergasse"
-housenumber: 9
+street: Spisergasse
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.tiefenbacher.ch/"
+website: https://www.tiefenbacher.ch/

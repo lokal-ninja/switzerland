@@ -1,11 +1,11 @@
 id: 184982062
-type: way
+type: node
 latitude: 46.83753
 longitude: 7.42345
 postcode: "3089"
 city: Hinterfultigen
-street: "Fultigenstrasse"
-housenumber: 26
+street: Fultigenstrasse
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.36718
 longitude: 8.53648
 postcode: "8002"
 city: Zürich
-street: "Dreikönigstrasse"
-housenumber: 18
-phone: "+41 43 344 40 70"
-opening_hours: "Mo,Su off; Tu-Fr 09:00-18:00; Sa 10:00-16:00"
-website: "https://noltekuechen-showroom.com/zuerich"
+street: Dreikönigstrasse
+housenumber: "18"
+phone: +41 43 344 40 70
+opening_hours: Mo,Su off; Tu-Fr 09:00-18:00; Sa 10:00-16:00
+website: https://noltekuechen-showroom.com/zuerich

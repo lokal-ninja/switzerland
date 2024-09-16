@@ -1,11 +1,11 @@
 id: 379735206
-type: way
+type: node
 latitude: 46.8578
 longitude: 8.64263
 postcode: "6467"
 city: Schattdorf
-street: "Militärstrasse"
-housenumber: 12
+street: Militärstrasse
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

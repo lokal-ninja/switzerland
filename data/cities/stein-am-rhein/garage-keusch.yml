@@ -1,11 +1,11 @@
 id: 59213778
-type: way
+type: node
 latitude: 47.65583
 longitude: 8.85779
 postcode: "8260"
 city: Stein am Rhein
-street: "Kaltenbacherstrasse"
-housenumber: 4
+street: Kaltenbacherstrasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

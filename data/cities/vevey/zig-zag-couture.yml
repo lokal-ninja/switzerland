@@ -4,8 +4,8 @@ latitude: 46.45972
 longitude: 6.84339
 postcode: "1800"
 city: Vevey
-street: "Rue du Conseil"
-housenumber: 21
-phone: "+41 21 921 97 20"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-18:00; Sa 09:00-13:00"
-website: "http://broderie-couture-vevey.ch/"
+street: Rue du Conseil
+housenumber: "21"
+phone: +41 21 921 97 20
+opening_hours: Tu-Fr 09:00-12:00,14:00-18:00; Sa 09:00-13:00
+website: http://broderie-couture-vevey.ch/

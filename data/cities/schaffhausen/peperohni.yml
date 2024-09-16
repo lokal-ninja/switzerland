@@ -4,8 +4,8 @@ latitude: 47.69823
 longitude: 8.63637
 postcode: "8200"
 city: Schaffhausen
-street: "Webergasse"
-housenumber: 11
+street: Webergasse
+housenumber: "11"
 phone: ""
-opening_hours: "Tu-Fr 09:00-14:00,15:00-18:30; Sa 09:00-16:00"
-website: "https://peperohni.ch/"
+opening_hours: Tu-Fr 09:00-14:00,15:00-18:30; Sa 09:00-16:00
+website: https://peperohni.ch/

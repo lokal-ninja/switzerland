@@ -1,6 +1,6 @@
 ---
 title: Lenzerheide/Lai
 url: /lenzerheide-lai/
-latitude: 46.728
-longitude: 9.554
+latitude: 46.725
+longitude: 9.558
 ---

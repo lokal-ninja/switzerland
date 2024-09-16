@@ -4,8 +4,8 @@ latitude: 46.94879
 longitude: 7.44891
 postcode: "3011"
 city: Bern
-street: "Brunngasse"
-housenumber: 27
+street: Brunngasse
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-18:30; Sa 08:30-12:30; Su off; PH off"
-website: "https://www.velojacob.ch"
+opening_hours: Mo-Fr 08:00-12:00, 14:00-18:30; Sa 08:30-12:30; Su off; PH off
+website: https://www.velojacob.ch

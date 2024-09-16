@@ -4,8 +4,8 @@ latitude: 47.31245
 longitude: 8.52431
 postcode: "8134"
 city: Adliswil
-street: "Florastrasse"
-housenumber: 10
+street: Florastrasse
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:30; Sa 07:00-18:00; Su 08:00-18:00"
+opening_hours: Mo-Fr 06:00-19:30; Sa 07:00-18:00; Su 08:00-18:00
 website: ""

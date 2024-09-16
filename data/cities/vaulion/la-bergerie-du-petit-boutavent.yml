@@ -4,8 +4,8 @@ latitude: 46.67206
 longitude: 6.3816
 postcode: "1325"
 city: Vaulion
-street: "Route de la Busine"
-housenumber: 4
-phone: "+41 21 843 30 45"
-opening_hours: "Sur rendez-vous"
-website: "https://www.lepetitboutavant.ch/"
+street: Route de la Busine
+housenumber: "4"
+phone: +41 21 843 30 45
+opening_hours: '"Sur rendez-vous"'
+website: https://www.lepetitboutavant.ch/

@@ -4,8 +4,8 @@ latitude: 46.29309
 longitude: 7.5328
 postcode: "3960"
 city: Sierre
-street: "Rue du Bourg"
-housenumber: 3
-phone: "+41 27 455 55 00"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 08:30-17:00"
-website: "https://www.optic2000.ch/opticien/sierre/"
+street: Rue du Bourg
+housenumber: "3"
+phone: +41 27 455 55 00
+opening_hours: Mo-Fr 09:00-18:30; Sa 08:30-17:00
+website: https://www.optic2000.ch/opticien/sierre/

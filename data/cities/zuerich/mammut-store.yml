@@ -4,8 +4,8 @@ latitude: 47.37661
 longitude: 8.53816
 postcode: "8001"
 city: Zürich
-street: "Löwenstrasse"
-housenumber: 60
-phone: "+41 43 233 00 66"
-opening_hours: "Mo 09:30-19:00; Tu,We,Fr 09:30-19:00; Th 09:30-19:00; Sa 09:30-17:00"
-website: "https://www.mammut.com/ch/de/"
+street: Löwenstrasse
+housenumber: "60"
+phone: +41 43 233 00 66
+opening_hours: Mo 09:30-19:00; Tu,We,Fr 09:30-19:00; Th 09:30-19:00; Sa 09:30-17:00
+website: https://www.mammut.com/ch/de/

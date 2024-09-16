@@ -4,8 +4,8 @@ latitude: 47.36882
 longitude: 8.54507
 postcode: "8001"
 city: Zürich
-street: "Scheitergasse"
-housenumber: 5
+street: Scheitergasse
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-We 09:00-19:00; Th-Fr 09:00-21:00; Sa 09:00-16:00; PH closed"
-website: "http://www.heroesandflames.com"
+opening_hours: Tu-We 09:00-19:00; Th-Fr 09:00-21:00; Sa 09:00-16:00; PH closed
+website: http://www.heroesandflames.com

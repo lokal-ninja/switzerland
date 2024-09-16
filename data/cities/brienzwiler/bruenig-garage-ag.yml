@@ -4,8 +4,8 @@ latitude: 46.74797
 longitude: 8.09949
 postcode: "3856"
 city: Brienzwiler
-street: "Ziindli"
-housenumber: 1
-phone: "+41 33 951 31 44"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.brueniggarage.ch/"
+street: Ziindli
+housenumber: "1"
+phone: +41 33 951 31 44
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.brueniggarage.ch/

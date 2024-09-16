@@ -4,8 +4,8 @@ latitude: 46.99444
 longitude: 6.9306
 postcode: "2000"
 city: Neuchâtel
-street: "Rue du Tertre"
-housenumber: 12
-phone: "+41 32 521 06 58"
-opening_hours: "Tu-Fr 17:00-19:00; Sa 09:30-14:30; PH off"
-website: "https://lepiceriedacote.ch/"
+street: Rue du Tertre
+housenumber: "12"
+phone: +41 32 521 06 58
+opening_hours: Tu-Fr 17:00-19:00; Sa 09:30-14:30; PH off
+website: https://lepiceriedacote.ch/

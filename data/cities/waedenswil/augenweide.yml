@@ -1,11 +1,11 @@
 id: 171905705
-type: way
+type: node
 latitude: 47.22924
 longitude: 8.67337
 postcode: "8820"
 city: Wädenswil
-street: "Gerbestrasse"
-housenumber: 1
-phone: "+41 44 780 14 24"
-opening_hours: "Mo-Fr 08:30-12:00,13:30-18:30; Sa 08:00-16:00"
-website: "https://www.augenweide.ch/"
+street: Gerbestrasse
+housenumber: "1"
+phone: +41 44 780 14 24
+opening_hours: Mo-Fr 08:30-12:00,13:30-18:30; Sa 08:00-16:00
+website: https://www.augenweide.ch/

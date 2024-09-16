@@ -1,11 +1,11 @@
 id: 203297251
-type: way
+type: node
 latitude: 47.28522
 longitude: 8.15187
 postcode: "5732"
 city: Zetzwil
-street: "Hauptstrasse"
-housenumber: 249
+street: Hauptstrasse
+housenumber: "249"
 phone: ""
-opening_hours: "Mo-Fr 06:30-20:00; Sa 06:30-17:00"
+opening_hours: Mo-Fr 06:30-20:00; Sa 06:30-17:00
 website: ""

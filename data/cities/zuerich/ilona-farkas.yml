@@ -4,8 +4,8 @@ latitude: 47.37349
 longitude: 8.53556
 postcode: "8001"
 city: Zürich
-street: "Uraniastrasse"
-housenumber: 32
+street: Uraniastrasse
+housenumber: "32"
 phone: ""
-opening_hours: "Tu-Fr 11:00-18:30, Sa 11:00-16:30; PH off"
-website: "https://www.luxury-first-second-hand.ch/"
+opening_hours: Tu-Fr 11:00-18:30, Sa 11:00-16:30; PH off
+website: https://www.luxury-first-second-hand.ch/

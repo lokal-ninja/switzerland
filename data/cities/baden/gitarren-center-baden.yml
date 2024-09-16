@@ -4,8 +4,8 @@ latitude: 47.47711
 longitude: 8.30476
 postcode: "5400"
 city: Baden
-street: "Bruggerstrasse"
-housenumber: 46
+street: Bruggerstrasse
+housenumber: "46"
 phone: ""
-opening_hours: "Tu-Fr 13:30-18:30; Sa 10:00-16:00"
-website: "https://www.gitarren-center.ch/"
+opening_hours: Tu-Fr 13:30-18:30; Sa 10:00-16:00
+website: https://www.gitarren-center.ch/

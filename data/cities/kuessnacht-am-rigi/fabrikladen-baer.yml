@@ -1,11 +1,11 @@
 id: 385368636
-type: way
+type: node
 latitude: 47.08339
 longitude: 8.43486
 postcode: "6403"
 city: Küssnacht am Rigi
-street: "Geissacherstrasse"
-housenumber: 5
+street: Geissacherstrasse
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

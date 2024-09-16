@@ -1,11 +1,11 @@
 id: 130848709
-type: way
+type: node
 latitude: 46.70318
 longitude: 6.5999
 postcode: "1374"
 city: Corcelles-sur-Chavornay
-street: "Rue des Hirondelles"
-housenumber: 2
+street: Rue des Hirondelles
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "www.promoviande.ch"
+website: www.promoviande.ch

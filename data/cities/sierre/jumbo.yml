@@ -4,8 +4,8 @@ latitude: 46.28067
 longitude: 7.51017
 postcode: "3960"
 city: Sierre
-street: "Route de Sion"
-housenumber: 115
-phone: "+41 27 324 74 30"
-opening_hours: "Mo-Th 08:30-18:30; Fr 08:30-20:00; Sa 08:00-17:00"
-website: "https://www.bricoetloisirs.ch/points-de-vente/sierre/s/1058_POS"
+street: Route de Sion
+housenumber: "115"
+phone: +41 27 324 74 30
+opening_hours: Mo-Th 08:30-18:30; Fr 08:30-20:00; Sa 08:00-17:00
+website: https://www.bricoetloisirs.ch/points-de-vente/sierre/s/1058_POS

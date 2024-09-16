@@ -4,8 +4,8 @@ latitude: 47.36901
 longitude: 8.54504
 postcode: "8001"
 city: Zürich
-street: "Oberdorfstrasse"
-housenumber: 17
+street: Oberdorfstrasse
+housenumber: "17"
 phone: ""
-opening_hours: "by apppointment"
+opening_hours: '"by apppointment"'
 website: ""

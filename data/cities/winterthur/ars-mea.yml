@@ -4,8 +4,8 @@ latitude: 47.50607
 longitude: 8.72577
 postcode: "8400"
 city: Winterthur
-street: "Rundstrasse"
-housenumber: 5
+street: Rundstrasse
+housenumber: "5"
 phone: ""
-opening_hours: "Th-Fr 09:00-18:00"
-website: "https://arsmea.ch/"
+opening_hours: Th-Fr 09:00-18:00
+website: https://arsmea.ch/

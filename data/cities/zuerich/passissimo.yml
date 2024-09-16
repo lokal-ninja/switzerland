@@ -4,8 +4,8 @@ latitude: 47.37481
 longitude: 8.54335
 postcode: "8001"
 city: Zürich
-street: "Limmatquai"
-housenumber: 102
+street: Limmatquai
+housenumber: "102"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00"
-website: "https://passissimo.ch"
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-18:00
+website: https://passissimo.ch

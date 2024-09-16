@@ -4,8 +4,8 @@ latitude: 46.73361
 longitude: 7.29334
 postcode: "1716"
 city: Plaffeien
-street: "Telmoos"
-housenumber: 70
-phone: "+4126 419 20 32"
-opening_hours: "Tu-Fr 08:00-12:00,13:30-18:00; Sa 08:00-16:00"
-website: "https://mahu.ch/"
+street: Telmoos
+housenumber: "70"
+phone: +4126 419 20 32
+opening_hours: Tu-Fr 08:00-12:00,13:30-18:00; Sa 08:00-16:00
+website: https://mahu.ch/

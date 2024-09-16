@@ -4,8 +4,8 @@ latitude: 46.97456
 longitude: 8.75721
 postcode: "6436"
 city: Muotathal
-street: "Hauptstrasse"
-housenumber: 27
+street: Hauptstrasse
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 06:00-12:00,13:30-18:00; Sa 06:00-15:00"
-website: "https://www.schweglerbeck.ch"
+opening_hours: Mo-Fr 06:00-12:00,13:30-18:00; Sa 06:00-15:00
+website: https://www.schweglerbeck.ch

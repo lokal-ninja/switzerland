@@ -1,11 +1,11 @@
 id: 54606336
-type: way
+type: node
 latitude: 46.92714
 longitude: 7.56497
 postcode: "3076"
 city: Worb
-street: "Richigenstrasse"
-housenumber: 1
-phone: "+41 58 567 45 00"
-opening_hours: "Mo-Th 08:00-19:00, Fr 08:00-21:00, Sa 07:30-17:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-worb"
+street: Richigenstrasse
+housenumber: "1"
+phone: +41 58 567 45 00
+opening_hours: Mo-Th 08:00-19:00, Fr 08:00-21:00, Sa 07:30-17:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-worb

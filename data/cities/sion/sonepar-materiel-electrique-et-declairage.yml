@@ -4,8 +4,8 @@ latitude: 46.22316
 longitude: 7.34624
 postcode: "1950"
 city: Sion
-street: "Route de l'Aéroport"
-housenumber: 37
-phone: "+41 27 451 80 10"
-opening_hours: "Mo-Th 07:00-11:45,13:00-17:00; Fr 07:00-11:45,13:00-16:00"
-website: "https://www.sonepar.ch/fr"
+street: Route de l'Aéroport
+housenumber: "37"
+phone: +41 27 451 80 10
+opening_hours: Mo-Th 07:00-11:45,13:00-17:00; Fr 07:00-11:45,13:00-16:00
+website: https://www.sonepar.ch/fr

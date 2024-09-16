@@ -4,8 +4,9 @@ latitude: 47.4717
 longitude: 8.08198
 postcode: "5079"
 city: Zeihen
-street: "Spitzmättli"
-housenumber: 6
-phone: "+41 62 876 22 89"
-opening_hours: "Sa: 9-12 Uhr Verkaufswagen,  Bahnhofstrasse 3, Zeihen. Abholung beim Hof."
+street: Spitzmättli
+housenumber: "6"
+phone: +41 62 876 22 89
+opening_hours: 'Sa: 9-12 Uhr Verkaufswagen,  Bahnhofstrasse 3, Zeihen. Abholung beim
+    Hof.'
 website: ""

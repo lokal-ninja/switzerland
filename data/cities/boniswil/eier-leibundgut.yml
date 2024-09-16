@@ -1,11 +1,11 @@
 id: 82955600
-type: way
+type: node
 latitude: 47.30754
 longitude: 8.19149
 postcode: "5706"
 city: Boniswil
-street: "Weidweg"
-housenumber: 1
-phone: "+41 62 7771340"
+street: Weidweg
+housenumber: "1"
+phone: +41 62 7771340
 opening_hours: ""
-website: "http://www.eier-leibundgut.ch"
+website: http://www.eier-leibundgut.ch

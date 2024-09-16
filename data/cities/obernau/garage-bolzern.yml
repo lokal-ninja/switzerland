@@ -1,11 +1,11 @@
 id: 153745677
-type: way
+type: node
 latitude: 47.03508
 longitude: 8.24817
 postcode: "6012"
 city: Obernau
-street: "Rengglochstrasse"
-housenumber: 30
+street: Rengglochstrasse
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

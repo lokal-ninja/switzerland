@@ -4,8 +4,8 @@ latitude: 47.38116
 longitude: 8.4921
 postcode: "8047"
 city: Zürich
-street: "Rautistrasse"
-housenumber: 32
+street: Rautistrasse
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.migrolino.ch/de/standorte/migrol-service-flurstrasse/"
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.migrolino.ch/de/standorte/migrol-service-flurstrasse/

@@ -1,11 +1,11 @@
 id: 28228378
-type: way
+type: node
 latitude: 47.09382
 longitude: 6.8151
 postcode: "2300"
 city: La Chaux-de-Fonds
-street: "Avenue Léopold-Robert"
-housenumber: 151
+street: Avenue Léopold-Robert
+housenumber: "151"
 phone: ""
-opening_hours: "Mo-Th 07:30-19:00; Fr 07:30-20:00; Sa 07:30-18:00"
-website: "https://lesentilles.ch/"
+opening_hours: Mo-Th 07:30-19:00; Fr 07:30-20:00; Sa 07:30-18:00
+website: https://lesentilles.ch/

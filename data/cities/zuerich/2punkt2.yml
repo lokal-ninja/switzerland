@@ -4,8 +4,9 @@ latitude: 47.37267
 longitude: 8.52552
 postcode: "8004"
 city: Zürich
-street: "Zweierstrasse"
-housenumber: 35
+street: Zweierstrasse
+housenumber: "35"
 phone: ""
-opening_hours: "Mo,Su off; Tu 11:30-18:00; We-Fr 11:30-19:00; Sa 11:00-17:00 || oder nach Vereinbarung"
-website: "https://www.2punkt2.ch/"
+opening_hours: Mo,Su off; Tu 11:30-18:00; We-Fr 11:30-19:00; Sa 11:00-17:00 || "oder
+    nach Vereinbarung"
+website: https://www.2punkt2.ch/

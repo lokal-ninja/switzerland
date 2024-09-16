@@ -4,8 +4,8 @@ latitude: 46.95554
 longitude: 7.42815
 postcode: "3012"
 city: Bern
-street: "Länggassstrasse"
-housenumber: 74
+street: Länggassstrasse
+housenumber: "74"
 phone: ""
-opening_hours: "Tu-Fr 07:00-12:00,14:00-18:30; Sa 08:00-12:00"
+opening_hours: Tu-Fr 07:00-12:00,14:00-18:30; Sa 08:00-12:00
 website: ""

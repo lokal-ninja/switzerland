@@ -4,8 +4,8 @@ latitude: 47.49216
 longitude: 8.55206
 postcode: "8185"
 city: Winkel
-street: "Seebnerstrasse"
-housenumber: 14
+street: Seebnerstrasse
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 06:00-20:00; Sa 07:00-16:00"
-website: "https://www.volg.ch/standorte-oeffnungszeiten/detail/volg-winkel/"
+opening_hours: Mo-Fr 06:00-20:00; Sa 07:00-16:00
+website: https://www.volg.ch/standorte-oeffnungszeiten/detail/volg-winkel/

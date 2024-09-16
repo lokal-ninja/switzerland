@@ -1,11 +1,11 @@
 id: 242687277
-type: way
+type: node
 latitude: 47.33051
 longitude: 9.40769
 postcode: "9050"
 city: Appenzell
-street: "Engelgasse"
-housenumber: 5
-phone: "+41 71 787 32 66"
+street: Engelgasse
+housenumber: "5"
+phone: +41 71 787 32 66
 opening_hours: ""
 website: ""

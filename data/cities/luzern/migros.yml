@@ -4,8 +4,8 @@ latitude: 47.05444
 longitude: 8.3399
 postcode: "6006"
 city: Luzern
-street: "Kreuzbuchstrasse"
-housenumber: 53
+street: Kreuzbuchstrasse
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Th 08:00-19:00, Fr 08:00-20:00, Sa 08:00-17:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-luzern-wuerzenbach"
+opening_hours: Mo-Th 08:00-19:00, Fr 08:00-20:00, Sa 08:00-17:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-luzern-wuerzenbach

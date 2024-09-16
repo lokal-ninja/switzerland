@@ -4,8 +4,8 @@ latitude: 47.26121
 longitude: 9.12458
 postcode: "9642"
 city: Ebnat-Kappel
-street: "Ebnaterstrasse"
-housenumber: 30
-phone: "+71 993 19 65"
-opening_hours: "Mo-Sa 08:00-18:30"
-website: "https://www.metzger-metzger.ch/"
+street: Ebnaterstrasse
+housenumber: "30"
+phone: +71 993 19 65
+opening_hours: Mo-Sa 08:00-18:30
+website: https://www.metzger-metzger.ch/

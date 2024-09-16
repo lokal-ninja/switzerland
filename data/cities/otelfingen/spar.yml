@@ -4,8 +4,8 @@ latitude: 47.45941
 longitude: 8.3856
 postcode: "8112"
 city: Otelfingen
-street: "Landstrasse"
-housenumber: 8
-phone: "+41 44 844 11 80"
-opening_hours: "Mo-Fr 06:00-21:00; Sa 07:00-21:00; PH closed"
+street: Landstrasse
+housenumber: "8"
+phone: +41 44 844 11 80
+opening_hours: Mo-Fr 06:00-21:00; Sa 07:00-21:00; PH closed
 website: ""

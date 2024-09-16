@@ -1,11 +1,11 @@
 id: 376382308
-type: way
+type: node
 latitude: 47.54726
 longitude: 7.58909
 postcode: "4053"
 city: Basel
-street: "Güterstrasse"
-housenumber: 115
+street: Güterstrasse
+housenumber: "115"
 phone: ""
-opening_hours: "Mo-Fr 05:00-20:00; PH,Sa,Su 06:00-19:00"
-website: "https://www.sutterbegg.ch/filialen/sutter-begg-railcity-bahnhof-sbb"
+opening_hours: Mo-Fr 05:00-20:00; PH,Sa,Su 06:00-19:00
+website: https://www.sutterbegg.ch/filialen/sutter-begg-railcity-bahnhof-sbb

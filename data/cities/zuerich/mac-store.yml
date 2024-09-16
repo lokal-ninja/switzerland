@@ -4,8 +4,8 @@ latitude: 47.36736
 longitude: 8.5455
 postcode: "8001"
 city: Zürich
-street: "Rämistrasse"
-housenumber: 2
+street: Rämistrasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00, Sa 10:00-18:00"
-website: "https://www.maccosmetics.ch/"
+opening_hours: Mo-Fr 09:30-19:00, Sa 10:00-18:00
+website: https://www.maccosmetics.ch/

@@ -4,8 +4,9 @@ latitude: 47.53147
 longitude: 7.55307
 postcode: "4102"
 city: Binningen
-street: "Paradieshofweg"
-housenumber: 44
-phone: "+41 61 421 30 06"
-opening_hours: "Mo-Sa 09:00-11:00, 14:00-18:00; Vorher bitte anrufen! Markt: Freitag in Binningen."
+street: Paradieshofweg
+housenumber: "44"
+phone: +41 61 421 30 06
+opening_hours: 'Mo-Sa 09:00-11:00, 14:00-18:00; "Vorher bitte anrufen! Markt: Freitag
+    in Binningen."'
 website: ""

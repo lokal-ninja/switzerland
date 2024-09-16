@@ -4,8 +4,8 @@ latitude: 46.16879
 longitude: 8.79581
 postcode: "6600"
 city: Locarno
-street: "Via Trevani"
-housenumber: 2
+street: Via Trevani
+housenumber: "2"
 phone: "+41912202286"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "https://www.homeoutlet.ch/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
+website: https://www.homeoutlet.ch/

@@ -4,8 +4,8 @@ latitude: 46.16911
 longitude: 8.77839
 postcode: "6600"
 city: Locarno
-street: "Via Alberto Franzoni"
-housenumber: 71
-phone: "+41 91 7523322"
-opening_hours: "Mo-Fr 08:00-12:00, 14:30-18:00, Sa by appointment"
-website: "https://www.midacucine.ch"
+street: Via Alberto Franzoni
+housenumber: "71"
+phone: +41 91 7523322
+opening_hours: Mo-Fr 08:00-12:00, 14:30-18:00, Sa "by appointment"
+website: https://www.midacucine.ch

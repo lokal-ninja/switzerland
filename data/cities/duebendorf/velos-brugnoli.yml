@@ -4,8 +4,8 @@ latitude: 47.39946
 longitude: 8.61408
 postcode: "8600"
 city: Dübendorf
-street: "Birchlenstrasse"
-housenumber: 16
-phone: "+41 44 821 68 23"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-12:00"
-website: "http://www.velo-brugnoli.ch/"
+street: Birchlenstrasse
+housenumber: "16"
+phone: +41 44 821 68 23
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-12:00
+website: http://www.velo-brugnoli.ch/

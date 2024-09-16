@@ -4,8 +4,8 @@ latitude: 47.36065
 longitude: 8.05347
 postcode: "5036"
 city: Oberentfelden
-street: "Suhrenmattengässli"
-housenumber: 2
+street: Suhrenmattengässli
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH closed"
-website: "https://www.qualipet.ch/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH closed
+website: https://www.qualipet.ch/

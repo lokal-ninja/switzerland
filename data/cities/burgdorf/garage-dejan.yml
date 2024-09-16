@@ -4,8 +4,8 @@ latitude: 47.04729
 longitude: 7.62905
 postcode: "3400"
 city: Burgdorf
-street: "Einschlagweg"
-housenumber: 67
-phone: "+41 34 423 02 34"
-opening_hours: "Mo-Fr 07:30-12:00,13:30-18:00; Sa 07:30-12:00,13:30-16:00"
-website: "https://garagedejan.ch"
+street: Einschlagweg
+housenumber: "67"
+phone: +41 34 423 02 34
+opening_hours: Mo-Fr 07:30-12:00,13:30-18:00; Sa 07:30-12:00,13:30-16:00
+website: https://garagedejan.ch

@@ -4,8 +4,8 @@ latitude: 46.54635
 longitude: 6.55716
 postcode: "1030"
 city: Bussigny
-street: "Rue de l'Industrie"
-housenumber: 32
-phone: "+41 78 250 89 87"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://aupetitterroir.ch"
+street: Rue de l'Industrie
+housenumber: "32"
+phone: +41 78 250 89 87
+opening_hours: Mo-Su 06:00-22:00
+website: https://aupetitterroir.ch

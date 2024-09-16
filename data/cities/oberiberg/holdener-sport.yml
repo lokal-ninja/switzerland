@@ -4,8 +4,8 @@ latitude: 47.03971
 longitude: 8.7817
 postcode: "8843"
 city: Oberiberg
-street: "Tschalunstrasse"
-housenumber: 4
-phone: "+41 55 414 12 12"
-opening_hours: "Mo-Fr 08:00-12:00, 13:15-18:30; Sa 08:00-12:00, 13:15-17:00"
-website: "https://www.holdener-sport.ch"
+street: Tschalunstrasse
+housenumber: "4"
+phone: +41 55 414 12 12
+opening_hours: Mo-Fr 08:00-12:00, 13:15-18:30; Sa 08:00-12:00, 13:15-17:00
+website: https://www.holdener-sport.ch

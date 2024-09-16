@@ -1,11 +1,11 @@
 id: 410677378
-type: way
+type: node
 latitude: 47.05894
 longitude: 9.41113
 postcode: "8888"
 city: Heiligkreuz
-street: "Staatsstrasse"
-housenumber: 94
+street: Staatsstrasse
+housenumber: "94"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-17:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-17:00
 website: ""

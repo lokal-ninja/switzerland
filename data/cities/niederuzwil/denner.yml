@@ -1,11 +1,11 @@
 id: 199829081
-type: way
+type: node
 latitude: 47.44614
 longitude: 9.14142
 postcode: "9244"
 city: Niederuzwil
-street: "Oswald-Heer-Gasse"
-housenumber: 4
+street: Oswald-Heer-Gasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su off"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su off
 website: ""

@@ -4,8 +4,9 @@ latitude: 47.17162
 longitude: 8.10013
 postcode: "6210"
 city: Sursee
-street: "Bahnhofstrasse"
-housenumber: 37
+street: Bahnhofstrasse
+housenumber: "37"
 phone: ""
-opening_hours: "Su,Mo off; Tu-We 09:00-12:00, 13:30-18:30; Th 09:00-12:00, 13:30-20:00; Fr 09:00-12:00, 13:30-18:30; Sa 08:00-16:00"
-website: "https://go-in.ch/go-up/"
+opening_hours: Su,Mo off; Tu-We 09:00-12:00, 13:30-18:30; Th 09:00-12:00, 13:30-20:00;
+    Fr 09:00-12:00, 13:30-18:30; Sa 08:00-16:00
+website: https://go-in.ch/go-up/

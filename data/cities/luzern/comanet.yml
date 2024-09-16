@@ -4,8 +4,8 @@ latitude: 47.03927
 longitude: 8.30407
 postcode: "6005"
 city: Luzern
-street: "Moosmattstrasse"
-housenumber: 28
-phone: "+41 76 7458 98 87"
-opening_hours: "Mo-We 17:00-19:00; Th 17:00-20:00; Fr 17:00-19:00; Sa 10:00-17:00"
+street: Moosmattstrasse
+housenumber: "28"
+phone: +41 76 7458 98 87
+opening_hours: Mo-We 17:00-19:00; Th 17:00-20:00; Fr 17:00-19:00; Sa 10:00-17:00
 website: ""

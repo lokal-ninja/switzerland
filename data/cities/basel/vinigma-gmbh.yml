@@ -4,8 +4,8 @@ latitude: 47.53546
 longitude: 7.6079
 postcode: "4053"
 city: Basel
-street: "Lyon-Strasse"
-housenumber: 15
-phone: "+41 79 667 46 64"
+street: Lyon-Strasse
+housenumber: "15"
+phone: +41 79 667 46 64
 opening_hours: ""
-website: "https://vinigma.ch/"
+website: https://vinigma.ch/

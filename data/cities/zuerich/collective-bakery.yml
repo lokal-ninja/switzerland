@@ -4,8 +4,8 @@ latitude: 47.39232
 longitude: 8.51099
 postcode: "8005"
 city: Zürich
-street: "Förrlibuckstrasse"
-housenumber: 160
+street: Förrlibuckstrasse
+housenumber: "160"
 phone: ""
-opening_hours: "Mo-Fr 08:00-15:00; Sa,Su 09:00-15:00"
-website: "https://collectivebakery.ch"
+opening_hours: Mo-Fr 08:00-15:00; Sa,Su 09:00-15:00
+website: https://collectivebakery.ch

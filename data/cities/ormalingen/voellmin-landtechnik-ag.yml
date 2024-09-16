@@ -1,11 +1,11 @@
 id: 239849924
-type: way
+type: node
 latitude: 47.47193
 longitude: 7.88211
 postcode: "4466"
 city: Ormalingen
-street: "Hemmikerstrasse"
-housenumber: 51
-phone: "+41 61 9858666"
-opening_hours: "Mo-Fr 07:15-12:00,13:30-17:30; Sa 08:00-12:00; PH off"
-website: "https://www.voellminag.ch/"
+street: Hemmikerstrasse
+housenumber: "51"
+phone: +41 61 9858666
+opening_hours: Mo-Fr 07:15-12:00,13:30-17:30; Sa 08:00-12:00; PH off
+website: https://www.voellminag.ch/

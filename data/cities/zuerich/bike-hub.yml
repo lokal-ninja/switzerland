@@ -4,8 +4,8 @@ latitude: 47.37037
 longitude: 8.51534
 postcode: "8003"
 city: Zürich
-street: "Rotachstrasse"
-housenumber: 27
-phone: "+41 43 811 57 48"
-opening_hours: "Tu-Fr 09:30-12:30, 14:00-19:00; Sa 10:00-16:00"
-website: "https://www.bikehub.ch/"
+street: Rotachstrasse
+housenumber: "27"
+phone: +41 43 811 57 48
+opening_hours: Tu-Fr 09:30-12:30, 14:00-19:00; Sa 10:00-16:00
+website: https://www.bikehub.ch/

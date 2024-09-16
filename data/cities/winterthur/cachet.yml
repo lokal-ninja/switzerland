@@ -4,8 +4,8 @@ latitude: 47.49949
 longitude: 8.72428
 postcode: "8400"
 city: Winterthur
-street: "Stadthausstrasse"
-housenumber: 145
+street: Stadthausstrasse
+housenumber: "145"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "https://www.cachet.ch/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
+website: https://www.cachet.ch/

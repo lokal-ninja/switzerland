@@ -4,8 +4,8 @@ latitude: 47.02167
 longitude: 8.65325
 postcode: "6430"
 city: Schwyz
-street: "Schulgasse"
-housenumber: 7
-phone: "+41 41 558 61 00"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.cafeladen.ch"
+street: Schulgasse
+housenumber: "7"
+phone: +41 41 558 61 00
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.cafeladen.ch

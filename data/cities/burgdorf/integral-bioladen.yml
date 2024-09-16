@@ -4,8 +4,8 @@ latitude: 47.06052
 longitude: 7.62428
 postcode: "3400"
 city: Burgdorf
-street: "Poststrasse"
-housenumber: 8
-phone: "+41 34 423 14 13"
-opening_hours: "Mo off; Tu-Fr 09:00-12:30,13:30-18:30; Sa 09:00-16:00; PH off"
+street: Poststrasse
+housenumber: "8"
+phone: +41 34 423 14 13
+opening_hours: Mo off; Tu-Fr 09:00-12:30,13:30-18:30; Sa 09:00-16:00; PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.40328
 longitude: 8.54698
 postcode: "8057"
 city: Zürich
-street: "Schaffhauserstrasse"
-housenumber: 239
+street: Schaffhauserstrasse
+housenumber: "239"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:30-18:00"
-website: "https://coiffeur-saleh.ch/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:30-18:00
+website: https://coiffeur-saleh.ch/

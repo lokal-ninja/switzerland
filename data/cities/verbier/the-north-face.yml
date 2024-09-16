@@ -4,8 +4,8 @@ latitude: 46.09445
 longitude: 7.23181
 postcode: "1936"
 city: Verbier
-street: "Rue de Médran"
-housenumber: 21
-phone: "+41 27 771 44 11"
-opening_hours: "Winter: 9:30-19:00"
-website: "https://www.skiservice.com/en/the-north-face-verbier"
+street: Rue de Médran
+housenumber: "21"
+phone: +41 27 771 44 11
+opening_hours: 'Winter: 9:30-19:00'
+website: https://www.skiservice.com/en/the-north-face-verbier

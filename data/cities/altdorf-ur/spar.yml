@@ -4,8 +4,8 @@ latitude: 46.88111
 longitude: 8.64365
 postcode: "6460"
 city: Altdorf UR
-street: "Schmiedgasse"
-housenumber: 10
+street: Schmiedgasse
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:30;Sa 07:30-16:00"
-website: "https://www.zentrummarkt.ch/"
+opening_hours: Mo-Fr 07:30-18:30;Sa 07:30-16:00
+website: https://www.zentrummarkt.ch/

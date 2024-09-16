@@ -4,8 +4,8 @@ latitude: 47.08833
 longitude: 6.80235
 postcode: "2300"
 city: La Chaux-de-Fonds
-street: "Boulevard des Eplatures"
-housenumber: 20
-phone: "+41 32 926 18 92"
-opening_hours: "Mo-Fr 08:00-19:00; Th 08:00-20:00; Sa 08:00-18:00"
+street: Boulevard des Eplatures
+housenumber: "20"
+phone: +41 32 926 18 92
+opening_hours: Mo-Fr 08:00-19:00; Th 08:00-20:00; Sa 08:00-18:00
 website: ""

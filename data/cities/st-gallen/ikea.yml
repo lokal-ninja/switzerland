@@ -1,11 +1,11 @@
 id: 38960313
-type: way
+type: node
 latitude: 47.40894
 longitude: 9.30668
 postcode: "9015"
 city: St. Gallen
-street: "Zürcherstrasse"
-housenumber: 460
-phone: "+41 84 880 11 00"
-opening_hours: "Mo-Fr 09:00-19:00; Th 09:00-21:00; Sa 09:00-17:00; PH off"
-website: "https://www.ikea.com/ch/de/stores/st-gallen/"
+street: Zürcherstrasse
+housenumber: "460"
+phone: +41 84 880 11 00
+opening_hours: Mo-Fr 09:00-19:00; Th 09:00-21:00; Sa 09:00-17:00; PH off
+website: https://www.ikea.com/ch/de/stores/st-gallen/

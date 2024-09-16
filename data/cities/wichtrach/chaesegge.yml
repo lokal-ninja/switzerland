@@ -1,11 +1,11 @@
 id: 116306888
-type: way
+type: node
 latitude: 46.85046
 longitude: 7.57578
 postcode: "3114"
 city: Wichtrach
 street: ""
-housenumber: 5
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:15,15:00-18:30; Th off; Sa 08:30-16:00; Su 09:00-12:00,16:30-18:30"
+opening_hours: Mo-Fr 08:30-12:15,15:00-18:30; Th off; Sa 08:30-16:00; Su 09:00-12:00,16:30-18:30
 website: ""

@@ -1,11 +1,11 @@
 id: 48652994
-type: way
+type: node
 latitude: 46.85395
 longitude: 7.19027
 postcode: "3186"
 city: Düdingen
-street: "Industriestrasse"
-housenumber: 4
+street: Industriestrasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Th 08:00-19:00;Fr 08:00-21:00;Sa 07:30-16:00;Su off"
+opening_hours: Mo-Th 08:00-19:00;Fr 08:00-21:00;Sa 07:30-16:00;Su off
 website: ""

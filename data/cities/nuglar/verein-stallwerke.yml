@@ -4,8 +4,9 @@ latitude: 47.46965
 longitude: 7.69088
 postcode: "4412"
 city: Nuglar
-street: "Hofackerstrasse"
-housenumber: 2
+street: Hofackerstrasse
+housenumber: "2"
 phone: ""
-opening_hours: "Do-Fr 14.00 - 18.30 & Warenabgabe 17:00 - 18:00; Sa 10.00 - 16.00 & Warenabgabe 10:00 - 16:00"
-website: "https://www.stallwerke.ch/"
+opening_hours: Do-Fr 14.00 - 18.30 & Warenabgabe 17:00 - 18:00; Sa 10.00 - 16.00 &
+    Warenabgabe 10:00 - 16:00
+website: https://www.stallwerke.ch/

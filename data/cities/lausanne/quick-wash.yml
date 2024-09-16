@@ -4,8 +4,8 @@ latitude: 46.53375
 longitude: 6.64801
 postcode: "1010"
 city: Lausanne
-street: "Route d'Oron"
-housenumber: 4
+street: Route d'Oron
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.quick-wash.ch/"
+website: https://www.quick-wash.ch/

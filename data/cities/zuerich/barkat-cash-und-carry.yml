@@ -4,8 +4,8 @@ latitude: 47.36969
 longitude: 8.51993
 postcode: "8003"
 city: Zürich
-street: "Birmensdorferstrasse"
-housenumber: 141
+street: Birmensdorferstrasse
+housenumber: "141"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00; PH off"
-website: "https://barkat.ch/"
+opening_hours: Mo-Sa 07:30-20:00; PH off
+website: https://barkat.ch/

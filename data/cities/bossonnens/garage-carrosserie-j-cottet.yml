@@ -1,11 +1,11 @@
 id: 199225977
-type: way
+type: node
 latitude: 46.53013
 longitude: 6.85036
 postcode: "1615"
 city: Bossonnens
-street: "Route d'Oron"
-housenumber: 32
+street: Route d'Oron
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Th 07:30-12:00,13:30-17:45; Fr 07:30-12:00,13:30-17:00"
+opening_hours: Mo-Th 07:30-12:00,13:30-17:45; Fr 07:30-12:00,13:30-17:00
 website: ""

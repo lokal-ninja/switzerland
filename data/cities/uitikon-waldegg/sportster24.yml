@@ -1,11 +1,11 @@
 id: 155444512
-type: way
+type: node
 latitude: 47.3673
 longitude: 8.46195
 postcode: "8142"
 city: Uitikon Waldegg
-street: "Birmensdorferstrasse"
-housenumber: 26
-phone: "+41 44 590 52 24"
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-16:00; Su-Mo off"
-website: "https://www.sportster24.online/"
+street: Birmensdorferstrasse
+housenumber: "26"
+phone: +41 44 590 52 24
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-16:00; Su-Mo off
+website: https://www.sportster24.online/

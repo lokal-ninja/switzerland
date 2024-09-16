@@ -1,11 +1,11 @@
 id: 409183950
-type: way
+type: node
 latitude: 47.04375
 longitude: 9.4442
 postcode: "7320"
 city: Sargans
-street: "Ragazerstrasse"
-housenumber: 
+street: Ragazerstrasse
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Th 07:30-12:00,13:30-17:30; Fr 07:30-12:00,13:00-16:00"
+opening_hours: Mo-Th 07:30-12:00,13:30-17:30; Fr 07:30-12:00,13:00-16:00
 website: ""

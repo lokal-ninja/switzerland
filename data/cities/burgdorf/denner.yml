@@ -4,8 +4,9 @@ latitude: 47.0593
 longitude: 7.6207
 postcode: "3400"
 city: Burgdorf
-street: "Lyssachstrasse"
-housenumber: 27
+street: Lyssachstrasse
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-We 08:00-19:00; Th 08:00-20:00; Fr 08:00-21:00; Sa 07:30-17:00; PH off"
-website: "https://www.denner.ch/de/filialen/denner-filiale-und-oeffnungszeiten/store/einkaufszentrum-neumarkt-lyssachstrasse-27-3400-burgdorf/"
+opening_hours: Mo-We 08:00-19:00; Th 08:00-20:00; Fr 08:00-21:00; Sa 07:30-17:00;
+    PH off
+website: https://www.denner.ch/de/filialen/denner-filiale-und-oeffnungszeiten/store/einkaufszentrum-neumarkt-lyssachstrasse-27-3400-burgdorf/

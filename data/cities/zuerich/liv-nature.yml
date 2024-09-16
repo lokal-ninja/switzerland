@@ -4,8 +4,8 @@ latitude: 47.36745
 longitude: 8.53494
 postcode: "8002"
 city: Zürich
-street: "Stockerstrasse"
-housenumber: 38
+street: Stockerstrasse
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30, Sa 09:00-16:00; PH off"
-website: "https://www.reformhaus-stockerstrasse.ch/"
+opening_hours: Mo-Fr 08:00-18:30, Sa 09:00-16:00; PH off
+website: https://www.reformhaus-stockerstrasse.ch/

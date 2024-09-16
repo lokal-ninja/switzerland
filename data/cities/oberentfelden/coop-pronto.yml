@@ -1,11 +1,11 @@
 id: 404797638
-type: way
+type: node
 latitude: 47.35015
 longitude: 8.05153
 postcode: "5036"
 city: Oberentfelden
-street: "Industriestrasse"
-housenumber: 43
+street: Industriestrasse
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 05:30-23:00; Sa,Su,PH 06:00-23:00"
+opening_hours: Mo-Fr 05:30-23:00; Sa,Su,PH 06:00-23:00
 website: ""

@@ -1,11 +1,11 @@
 id: 96132713
-type: way
+type: node
 latitude: 47.12468
 longitude: 8.39019
 postcode: "6038"
 city: Gisikon
 street: ""
-housenumber: 1
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

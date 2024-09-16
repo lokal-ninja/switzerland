@@ -1,11 +1,11 @@
 id: 835071593
-type: way
+type: node
 latitude: 47.30465
 longitude: 8.44917
 postcode: "8908"
 city: Hedingen
-street: "Moosstrasse"
-housenumber: 
+street: Moosstrasse
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

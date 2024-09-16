@@ -4,8 +4,8 @@ latitude: 47.47511
 longitude: 8.30832
 postcode: "5400"
 city: Baden
-street: "Badstrasse"
-housenumber: 21
+street: Badstrasse
+housenumber: "21"
 phone: ""
 opening_hours: ""
-website: "https://www.sunrise.ch/"
+website: https://www.sunrise.ch/

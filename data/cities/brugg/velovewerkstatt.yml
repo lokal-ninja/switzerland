@@ -4,8 +4,8 @@ latitude: 47.4845
 longitude: 8.20839
 postcode: "5200"
 city: Brugg
-street: "Annerstrasse"
-housenumber: 9
-phone: "+41 77 522 86 14"
-opening_hours: "Tu-Th 09:00-12:00,13:00-18:00; Fr 10:00-12:00,13:00-20:00; Sa 10:00-12:00,13:00-16:00"
-website: "https://velovewerkstatt.ch/"
+street: Annerstrasse
+housenumber: "9"
+phone: +41 77 522 86 14
+opening_hours: Tu-Th 09:00-12:00,13:00-18:00; Fr 10:00-12:00,13:00-20:00; Sa 10:00-12:00,13:00-16:00
+website: https://velovewerkstatt.ch/

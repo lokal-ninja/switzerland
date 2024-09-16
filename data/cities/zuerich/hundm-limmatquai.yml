@@ -4,8 +4,8 @@ latitude: 47.37117
 longitude: 8.54322
 postcode: "8001"
 city: Zürich
-street: "Limmatquai"
-housenumber: 48
+street: Limmatquai
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-18:00"
-website: "https://www2.hm.com/de_ch/"
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-18:00
+website: https://www2.hm.com/de_ch/

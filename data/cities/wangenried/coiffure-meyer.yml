@@ -1,11 +1,11 @@
 id: 175908405
-type: way
+type: node
 latitude: 47.21805
 longitude: 7.65779
 postcode: "3374"
 city: Wangenried
-street: "Dorfstrasse"
-housenumber: 42
+street: Dorfstrasse
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

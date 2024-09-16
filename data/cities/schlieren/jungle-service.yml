@@ -4,8 +4,8 @@ latitude: 47.40139
 longitude: 8.46216
 postcode: "8952"
 city: Schlieren
-street: "Kohlestrasse"
-housenumber: 12
-phone: "+41 78 666 82 63"
+street: Kohlestrasse
+housenumber: "12"
+phone: +41 78 666 82 63
 opening_hours: ""
-website: "https://jungleservice.ch/"
+website: https://jungleservice.ch/

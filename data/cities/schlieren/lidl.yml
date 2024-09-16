@@ -1,11 +1,11 @@
 id: 238691616
-type: way
+type: node
 latitude: 47.39953
 longitude: 8.43268
 postcode: "8952"
 city: Schlieren
-street: "Reitmenstrasse"
-housenumber: 5
+street: Reitmenstrasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; PH off"
+opening_hours: Mo-Sa 07:30-21:00; PH off
 website: ""

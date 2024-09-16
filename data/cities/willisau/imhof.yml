@@ -4,8 +4,8 @@ latitude: 47.12039
 longitude: 7.9902
 postcode: "6130"
 city: Willisau
-street: "Hauptgasse"
-housenumber: 29
-phone: "+41 41 970 14 34"
-opening_hours: "Mo 13:30-18:30; Tu-Th 08:30-12:00,13:30-18:30; Sa 08:30-16:00; PH off"
-website: "https://www.imhofpapeterie.ch"
+street: Hauptgasse
+housenumber: "29"
+phone: +41 41 970 14 34
+opening_hours: Mo 13:30-18:30; Tu-Th 08:30-12:00,13:30-18:30; Sa 08:30-16:00; PH off
+website: https://www.imhofpapeterie.ch

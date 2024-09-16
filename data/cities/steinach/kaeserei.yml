@@ -1,11 +1,11 @@
 id: 427479132
-type: way
+type: node
 latitude: 47.49225
 longitude: 9.43502
 postcode: "9323"
 city: Steinach
-street: "Rorschacherstrasse"
-housenumber: 11
+street: Rorschacherstrasse
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

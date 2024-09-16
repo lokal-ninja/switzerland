@@ -1,11 +1,11 @@
 id: 79785945
-type: way
+type: node
 latitude: 47.16056
 longitude: 7.29141
 postcode: "2504"
 city: Biel/Bienne
-street: "Zürichstrasse"
-housenumber: 24
+street: Zürichstrasse
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.38376
 longitude: 8.498
 postcode: ""
 city: Zürich
-street: "Badenerstrasse"
-housenumber: 565
-phone: "+41 43 541 71 93"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-16:00"
-website: "https://www.coiffeure-cut-curl.ch/"
+street: Badenerstrasse
+housenumber: "565"
+phone: +41 43 541 71 93
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-16:00
+website: https://www.coiffeure-cut-curl.ch/

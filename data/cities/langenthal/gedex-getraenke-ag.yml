@@ -1,11 +1,11 @@
 id: 222778032
-type: way
+type: node
 latitude: 47.22528
 longitude: 7.78109
 postcode: "4900"
 city: Langenthal
-street: "Bern-Zürichstrasse"
-housenumber: 43
+street: Bern-Zürichstrasse
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

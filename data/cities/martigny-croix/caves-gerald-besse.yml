@@ -1,11 +1,11 @@
 id: 375000193
-type: way
+type: node
 latitude: 46.08192
 longitude: 7.04803
 postcode: "1921"
 city: Martigny-Croix
-street: "Route de la Combe"
-housenumber: 14
+street: Route de la Combe
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 132664136
-type: way
+type: node
 latitude: 46.20759
 longitude: 6.14302
 postcode: "1201"
 city: Genève
-street: "Rue Cornavin"
-housenumber: 6
-phone: "+41 22 909 46 99"
-opening_hours: "Mo-We 09:00-19:00; Th 09:00-21:00; Fr 09:00-19:30; Sa 08:30-18:00"
-website: "https://www.manor.ch/"
+street: Rue Cornavin
+housenumber: "6"
+phone: +41 22 909 46 99
+opening_hours: Mo-We 09:00-19:00; Th 09:00-21:00; Fr 09:00-19:30; Sa 08:30-18:00
+website: https://www.manor.ch/

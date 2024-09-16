@@ -4,8 +4,8 @@ latitude: 46.69654
 longitude: 6.91852
 postcode: "1680"
 city: Romont FR
-street: "Grand-Rue"
-housenumber: 35
-phone: "+41 26 652 19 68"
-opening_hours: "Mo 13:30-18:30; Tu-Fr 09:00-11:45,13:30-18:30; Sa 09:00-12:00,13:00-16:00"
-website: "https://coupdpouce.ch/index.php/magasins/romont"
+street: Grand-Rue
+housenumber: "35"
+phone: +41 26 652 19 68
+opening_hours: Mo 13:30-18:30; Tu-Fr 09:00-11:45,13:30-18:30; Sa 09:00-12:00,13:00-16:00
+website: https://coupdpouce.ch/index.php/magasins/romont

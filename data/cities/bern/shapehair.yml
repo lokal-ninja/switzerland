@@ -4,8 +4,8 @@ latitude: 46.93725
 longitude: 7.41658
 postcode: "3008"
 city: Bern
-street: "Könizstrasse"
-housenumber: 11
-phone: "+41 31 371 30 20"
-opening_hours: "Tu; Th; Fr; Sa || on request"
-website: "https://www.shape-hair.ch/bern/shapehair/"
+street: Könizstrasse
+housenumber: "11"
+phone: +41 31 371 30 20
+opening_hours: Tu; Th; Fr; Sa || "on request"
+website: https://www.shape-hair.ch/bern/shapehair/

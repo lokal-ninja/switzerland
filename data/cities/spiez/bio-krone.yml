@@ -4,8 +4,8 @@ latitude: 46.68851
 longitude: 7.67962
 postcode: "3700"
 city: Spiez
-street: "Seestrasse"
-housenumber: 30
+street: Seestrasse
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Su 07:00-21:00"
-website: "www.bio-krone.ch"
+opening_hours: Mo-Su 07:00-21:00
+website: www.bio-krone.ch

@@ -4,8 +4,8 @@ latitude: 47.69819
 longitude: 8.63433
 postcode: "8200"
 city: Schaffhausen
-street: "Vorstadt"
+street: Vorstadt
 housenumber: 22;24
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 08:30-17:00; PH off"
-website: "https://www.buchhaus.ch/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 08:30-17:00; PH off
+website: https://www.buchhaus.ch/

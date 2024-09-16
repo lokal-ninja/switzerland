@@ -1,11 +1,11 @@
 id: 48405618
-type: way
+type: node
 latitude: 47.38193
 longitude: 8.67358
 postcode: "8604"
 city: Volketswil
-street: "Industriestrasse"
-housenumber: 15
+street: Industriestrasse
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00, Sa 09:00-18:00; PH off"
-website: "https://www.mediamarkt.ch/"
+opening_hours: Mo-Fr 10:00-19:00, Sa 09:00-18:00; PH off
+website: https://www.mediamarkt.ch/

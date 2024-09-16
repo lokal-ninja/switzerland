@@ -4,8 +4,8 @@ latitude: 47.40671
 longitude: 8.55012
 postcode: "8050"
 city: Zürich
-street: "Dörflistrasse"
-housenumber: 55
+street: Dörflistrasse
+housenumber: "55"
 phone: ""
-opening_hours: "Sa 09:00-16:00; Tu-Fr 10:00-12:30,13:30-18:30"
-website: "https://www.schuler.ch/weinhandlung-oerlikon"
+opening_hours: Sa 09:00-16:00; Tu-Fr 10:00-12:30,13:30-18:30
+website: https://www.schuler.ch/weinhandlung-oerlikon

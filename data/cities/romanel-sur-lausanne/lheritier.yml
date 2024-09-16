@@ -1,11 +1,11 @@
 id: 99912734
-type: way
+type: node
 latitude: 46.56287
 longitude: 6.60416
 postcode: "1032"
 city: Romanel-sur-Lausanne
-street: "Route de Lausanne"
-housenumber: 3
+street: Route de Lausanne
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:30; Su 06:00-12:30"
+opening_hours: Mo-Fr 06:00-18:30; Su 06:00-12:30
 website: ""

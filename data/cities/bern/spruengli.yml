@@ -1,11 +1,11 @@
 id: 678194273
-type: way
+type: node
 latitude: 46.94858
 longitude: 7.43997
 postcode: "3011"
 city: Bern
 street: ""
-housenumber: 
-phone: "+41 313116507"
-opening_hours: "Mo-Fr 07:00-20:00; Sa,Su 08:00-20:00"
-website: "https://www.spruengli.ch/de/standorte/bahnhof-bern.html"
+housenumber: ""
+phone: +41 313116507
+opening_hours: Mo-Fr 07:00-20:00; Sa,Su 08:00-20:00
+website: https://www.spruengli.ch/de/standorte/bahnhof-bern.html

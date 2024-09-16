@@ -4,8 +4,8 @@ latitude: 47.21462
 longitude: 7.58254
 postcode: "4542"
 city: Luterbach
-street: "Poststrasse"
-housenumber: 29
-phone: "+41 32 682 25 42"
-opening_hours: "Mo-Fr 13:30-18:30; Sa 09:00-12:00,13:30-16:00"
-website: "https://www.fahradies.ch/"
+street: Poststrasse
+housenumber: "29"
+phone: +41 32 682 25 42
+opening_hours: Mo-Fr 13:30-18:30; Sa 09:00-12:00,13:30-16:00
+website: https://www.fahradies.ch/

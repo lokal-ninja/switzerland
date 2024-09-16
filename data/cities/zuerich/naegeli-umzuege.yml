@@ -4,8 +4,8 @@ latitude: 47.41486
 longitude: 8.56203
 postcode: "8050"
 city: Zürich
-street: "Hagenholzstrasse"
-housenumber: 108
-phone: "+41 44 322 70 70"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://naegeliumzuege.ch/"
+street: Hagenholzstrasse
+housenumber: "108"
+phone: +41 44 322 70 70
+opening_hours: Mo-Fr 08:00-18:00
+website: https://naegeliumzuege.ch/

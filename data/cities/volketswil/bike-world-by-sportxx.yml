@@ -4,8 +4,8 @@ latitude: 47.38039
 longitude: 8.67735
 postcode: "8604"
 city: Volketswil
-street: "Industriestrasse"
-housenumber: 22
+street: Industriestrasse
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 08:00-18:00"
-website: "https://www.bikeworld.ch/filialen/volketswil/"
+opening_hours: Mo-Fr 10:00-20:00; Sa 08:00-18:00
+website: https://www.bikeworld.ch/filialen/volketswil/

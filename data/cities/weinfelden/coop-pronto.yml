@@ -1,11 +1,11 @@
 id: 813659159
-type: way
+type: node
 latitude: 47.56587
 longitude: 9.09706
 postcode: "8570"
 city: Weinfelden
-street: "Fichtenstrasse"
-housenumber: 20
+street: Fichtenstrasse
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00, Su 08:00-20:00"
-website: "https://www.coop-pronto.ch/"
+opening_hours: Mo-Sa 06:00-22:00, Su 08:00-20:00
+website: https://www.coop-pronto.ch/

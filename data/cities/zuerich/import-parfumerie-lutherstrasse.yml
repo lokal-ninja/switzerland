@@ -4,8 +4,8 @@ latitude: 47.37371
 longitude: 8.52985
 postcode: "8004"
 city: Zürich
-street: "Lutherstrasse"
-housenumber: 2
+street: Lutherstrasse
+housenumber: "2"
 phone: ""
-opening_hours: "Sa 09:00-17:00; Mo-Fr 09:00-18:30"
-website: "https://www.impo.ch/"
+opening_hours: Sa 09:00-17:00; Mo-Fr 09:00-18:30
+website: https://www.impo.ch/

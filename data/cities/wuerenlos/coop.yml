@@ -1,11 +1,11 @@
 id: 116949024
-type: way
+type: node
 latitude: 47.44301
 longitude: 8.36244
 postcode: "5436"
 city: Würenlos
-street: "Poststrasse"
-housenumber: 1
-phone: "+41 56 436 70 90"
+street: Poststrasse
+housenumber: "1"
+phone: +41 56 436 70 90
 opening_hours: ""
-website: "http://www.coop.ch/pb/site/vstinfo/node/76518709/Lde/index.htm#0&id=2374"
+website: http://www.coop.ch/pb/site/vstinfo/node/76518709/Lde/index.htm#0&id=2374

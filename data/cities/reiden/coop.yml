@@ -1,11 +1,11 @@
 id: 195274156
-type: way
+type: node
 latitude: 47.24827
 longitude: 7.9708
 postcode: "6260"
 city: Reiden
-street: "Hauptstrasse"
-housenumber: 63
+street: Hauptstrasse
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

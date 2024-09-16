@@ -4,8 +4,9 @@ latitude: 47.32854
 longitude: 7.7614
 postcode: "4718"
 city: Holderbank (SO)
-street: "Obere Wies"
-housenumber: 242
-phone: "+41 62 390 03 05"
-opening_hours: "Bestellungen telefonisch oder per E-mail. Sa: 8-13 Uhr Matthäusmarkt Basel"
-website: "https://silberdistel-kost.ch/"
+street: Obere Wies
+housenumber: "242"
+phone: +41 62 390 03 05
+opening_hours: 'Bestellungen telefonisch oder per E-mail. Sa: 8-13 Uhr Matthäusmarkt
+    Basel'
+website: https://silberdistel-kost.ch/

@@ -4,8 +4,8 @@ latitude: 46.83055
 longitude: 9.28481
 postcode: "7018"
 city: Flims
-street: "Promenada"
-housenumber: 10
-phone: "+41 81 936 70 77"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:30; Sa-Su 09:00-17:00"
-website: "http://bergsportflims.ch/shop-flims/"
+street: Promenada
+housenumber: "10"
+phone: +41 81 936 70 77
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:30; Sa-Su 09:00-17:00
+website: http://bergsportflims.ch/shop-flims/

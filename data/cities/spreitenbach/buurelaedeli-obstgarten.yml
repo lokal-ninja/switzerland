@@ -1,11 +1,11 @@
 id: 1056941421
-type: way
+type: node
 latitude: 47.41881
 longitude: 8.36755
 postcode: "8957"
 city: Spreitenbach
-street: "Dorfstrasse"
-housenumber: 41
+street: Dorfstrasse
+housenumber: "41"
 phone: ""
 opening_hours: ""
-website: "https://obstgarten-spreitenbach.ch/hof.php?read_group=4"
+website: https://obstgarten-spreitenbach.ch/hof.php?read_group=4

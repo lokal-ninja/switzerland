@@ -4,8 +4,8 @@ latitude: 46.49401
 longitude: 6.71678
 postcode: "1091"
 city: Grandvaux
-street: "Passage de la Voûte"
-housenumber: 2
+street: Passage de la Voûte
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://www.vieuxpressoir-vins.ch/contact"
+opening_hours: Mo-Su 08:00-20:00
+website: https://www.vieuxpressoir-vins.ch/contact

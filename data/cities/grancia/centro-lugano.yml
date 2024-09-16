@@ -1,11 +1,11 @@
 id: 982035004
-type: way
+type: node
 latitude: 45.97423
 longitude: 8.92661
 postcode: "6916"
 city: Grancia
-street: "Via Cantonale"
-housenumber: 
+street: Via Cantonale
+housenumber: ""
 phone: ""
-opening_hours: "Mo-We 09:00-18:30, Th 09:00-21:00, Fr 09:00-18:30, Sa 09:00-17:00"
-website: "https://www.centroluganosud.ch/"
+opening_hours: Mo-We 09:00-18:30, Th 09:00-21:00, Fr 09:00-18:30, Sa 09:00-17:00
+website: https://www.centroluganosud.ch/

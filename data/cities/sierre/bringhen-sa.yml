@@ -4,8 +4,8 @@ latitude: 46.28201
 longitude: 7.51467
 postcode: "3960"
 city: Sierre
-street: "Rue de la Potence"
-housenumber: 5
-phone: "+41 27 303 48 61"
-opening_hours: "Mo-Fr 07:30-12:00,13:30-17:30"
-website: "https://www.bringhen.ch"
+street: Rue de la Potence
+housenumber: "5"
+phone: +41 27 303 48 61
+opening_hours: Mo-Fr 07:30-12:00,13:30-17:30
+website: https://www.bringhen.ch

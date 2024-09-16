@@ -1,11 +1,11 @@
 id: 99951097
-type: way
+type: node
 latitude: 47.09462
 longitude: 8.23954
 postcode: "6023"
 city: Rothenburg
-street: "Hasenmoosstrasse"
-housenumber: 31
+street: Hasenmoosstrasse
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

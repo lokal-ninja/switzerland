@@ -4,8 +4,8 @@ latitude: 46.50988
 longitude: 6.66005
 postcode: "1009"
 city: Pully
-street: "Rue de la Gare"
-housenumber: 6
-phone: "+41 21 534 61 15"
-opening_hours: "Tu-Fr 12:00-18:00"
-website: "https://aitotattoo.ch/"
+street: Rue de la Gare
+housenumber: "6"
+phone: +41 21 534 61 15
+opening_hours: Tu-Fr 12:00-18:00
+website: https://aitotattoo.ch/

@@ -1,11 +1,11 @@
 id: 215296164
-type: way
+type: node
 latitude: 47.23469
 longitude: 7.22697
 postcode: "2732"
 city: Reconvilier
-street: "Grand-Rue"
-housenumber: 38
+street: Grand-Rue
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

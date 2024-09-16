@@ -1,11 +1,11 @@
 id: 322777228
-type: way
+type: node
 latitude: 46.75698
 longitude: 9.06772
 postcode: "7162"
 city: Tavanasa
-street: "Via Mutteins"
-housenumber: 2
+street: Via Mutteins
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 261666725
-type: way
+type: node
 latitude: 47.3056
 longitude: 8.82235
 postcode: "8340"
 city: Hinwil
-street: "Wässeristrasse"
+street: Wässeristrasse
 housenumber: 24b
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; PH off"
-website: "https://www.c-and-a.com/ch/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; PH off
+website: https://www.c-and-a.com/ch/

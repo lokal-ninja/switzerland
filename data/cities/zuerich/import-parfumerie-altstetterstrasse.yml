@@ -4,8 +4,8 @@ latitude: 47.38837
 longitude: 8.48706
 postcode: "8048"
 city: Zürich
-street: "Altstetterstrasse"
-housenumber: 145
+street: Altstetterstrasse
+housenumber: "145"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.impo.ch/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.impo.ch/

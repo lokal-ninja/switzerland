@@ -4,8 +4,8 @@ latitude: 46.87997
 longitude: 7.04085
 postcode: "1580"
 city: Avenches
-street: "Rue Centrale"
-housenumber: 31
-phone: "+41 78 639 32 43"
-opening_hours: "Mo-Fr 08:30-12:30,14:30-18:30; Sa 08:30-13:00"
-website: "https://aventivrac.ch/"
+street: Rue Centrale
+housenumber: "31"
+phone: +41 78 639 32 43
+opening_hours: Mo-Fr 08:30-12:30,14:30-18:30; Sa 08:30-13:00
+website: https://aventivrac.ch/

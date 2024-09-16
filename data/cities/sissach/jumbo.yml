@@ -4,8 +4,8 @@ latitude: 47.4667
 longitude: 7.80174
 postcode: "4450"
 city: Sissach
-street: "Gewerbestrasse"
-housenumber: 8
+street: Gewerbestrasse
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Th 09:00-18:30; Fr 09:00-20:00; Sa 08:00-17:00; PH off"
-website: "https://www.jumbo.ch/de/standorte/s/1045_POS"
+opening_hours: Mo-Th 09:00-18:30; Fr 09:00-20:00; Sa 08:00-17:00; PH off
+website: https://www.jumbo.ch/de/standorte/s/1045_POS

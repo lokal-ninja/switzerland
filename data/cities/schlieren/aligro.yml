@@ -1,11 +1,11 @@
 id: 307224239
-type: way
+type: node
 latitude: 47.39993
 longitude: 8.46612
 postcode: "8952"
 city: Schlieren
-street: "Bernerstrasse"
-housenumber: 335
-phone: "+41 44 732 42 42"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH off"
-website: "https://www.aligro.ch/fr/lentreprise/les-marches-aligro/schlieren/"
+street: Bernerstrasse
+housenumber: "335"
+phone: +41 44 732 42 42
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH off
+website: https://www.aligro.ch/fr/lentreprise/les-marches-aligro/schlieren/

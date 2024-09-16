@@ -1,11 +1,11 @@
 id: 281751650
-type: way
+type: node
 latitude: 47.27309
 longitude: 9.10986
 postcode: "9642"
 city: Ebnat-Kappel
-street: "Kapplerstrasse"
-housenumber: 113
+street: Kapplerstrasse
+housenumber: "113"
 phone: ""
 opening_hours: ""
-website: "https://auto-hermann.ch/"
+website: https://auto-hermann.ch/

@@ -4,8 +4,8 @@ latitude: 47.21238
 longitude: 7.78869
 postcode: "4900"
 city: Langenthal
-street: "Bahnhofstrasse"
-housenumber: 3
+street: Bahnhofstrasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:00; Mo-Fr 13:00-17:00; Sa-Su off; PH off"
-website: "https://www.kuoni.ch/beratung/kuoni-reisebuero-langenthal/"
+opening_hours: Mo-Fr 10:00-12:00; Mo-Fr 13:00-17:00; Sa-Su off; PH off
+website: https://www.kuoni.ch/beratung/kuoni-reisebuero-langenthal/

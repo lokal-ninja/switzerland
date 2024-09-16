@@ -4,8 +4,8 @@ latitude: 47.4817
 longitude: 8.20888
 postcode: "5200"
 city: Brugg
-street: "Neumarkt"
-housenumber: 2
+street: Neumarkt
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.amsler-spielwaren.ch/"
+website: https://www.amsler-spielwaren.ch/

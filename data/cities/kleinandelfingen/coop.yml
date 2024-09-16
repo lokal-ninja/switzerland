@@ -1,11 +1,11 @@
 id: 543308938
-type: way
+type: node
 latitude: 47.60328
 longitude: 8.68846
 postcode: "8451"
 city: Kleinandelfingen
-street: "Schaffhauserstrasse"
-housenumber: 62
+street: Schaffhauserstrasse
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Fr 07:30-20:00; Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-20:00; Sa 07:30-18:00
 website: ""

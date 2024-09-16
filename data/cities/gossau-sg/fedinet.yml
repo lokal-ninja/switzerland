@@ -4,8 +4,8 @@ latitude: 47.4165
 longitude: 9.24188
 postcode: "9200"
 city: Gossau SG
-street: "Wilerstrasse"
-housenumber: 30
-phone: "+41 71 508 14 51"
-opening_hours: "Mo-Fr 08:00-20:00"
-website: "https://fedinet.ch"
+street: Wilerstrasse
+housenumber: "30"
+phone: +41 71 508 14 51
+opening_hours: Mo-Fr 08:00-20:00
+website: https://fedinet.ch

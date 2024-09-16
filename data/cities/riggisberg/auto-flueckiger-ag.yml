@@ -1,11 +1,12 @@
 id: 234237709
-type: way
+type: node
 latitude: 46.80996
 longitude: 7.47256
 postcode: "3132"
 city: Riggisberg
-street: "Schwarzenburgstrasse"
-housenumber: 7
-phone: "+41 31 809 20 28"
-opening_hours: "Mo-Th 07:30-12:00,13:00-17:30;Fr 07:30-12:00,13:00-17:00;Sa 09:00-11:45;Su off"
-website: "http://www.autoflueckiger.ch"
+street: Schwarzenburgstrasse
+housenumber: "7"
+phone: +41 31 809 20 28
+opening_hours: Mo-Th 07:30-12:00,13:00-17:30;Fr 07:30-12:00,13:00-17:00;Sa 09:00-11:45;Su
+    off
+website: http://www.autoflueckiger.ch

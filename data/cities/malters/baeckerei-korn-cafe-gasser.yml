@@ -4,8 +4,8 @@ latitude: 47.04188
 longitude: 8.18398
 postcode: "6102"
 city: Malters
-street: "Hellbühlstrasse"
-housenumber: 28
-phone: "+41 41 497 50 02"
-opening_hours: "Mo-Fr 07:15-18:15; Sa 08:00-17:00; Su 08:00-17:00"
-website: "https://gasser-malters.ch/filiale/"
+street: Hellbühlstrasse
+housenumber: "28"
+phone: +41 41 497 50 02
+opening_hours: Mo-Fr 07:15-18:15; Sa 08:00-17:00; Su 08:00-17:00
+website: https://gasser-malters.ch/filiale/

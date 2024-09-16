@@ -1,11 +1,11 @@
 id: 217197256
-type: way
+type: node
 latitude: 46.45394
 longitude: 7.43973
 postcode: "3775"
 city: Lenk im Simmental
-street: "Lischmattenstrasse"
-housenumber: 1
-phone: "+41 33 733 18 27"
-opening_hours: "Tu-Su 7:30-18:30"
-website: "https://kuhnenlenk.ch/"
+street: Lischmattenstrasse
+housenumber: "1"
+phone: +41 33 733 18 27
+opening_hours: Tu-Su 7:30-18:30
+website: https://kuhnenlenk.ch/

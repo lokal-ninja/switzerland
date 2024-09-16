@@ -4,8 +4,8 @@ latitude: 47.18161
 longitude: 8.87695
 postcode: "8854"
 city: Galgenen
-street: "Kantonsstrasse"
-housenumber: 54
+street: Kantonsstrasse
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:30; Sa 09:00-16:00"
-website: "https://www.fotomaechler.ch/"
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:30; Sa 09:00-16:00
+website: https://www.fotomaechler.ch/

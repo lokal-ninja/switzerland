@@ -1,11 +1,11 @@
 id: 158008138
-type: way
+type: node
 latitude: 47.42157
 longitude: 7.07879
 postcode: "2900"
 city: Porrentruy
-street: "Rue Xavier-Stockmar"
-housenumber: 6
+street: Rue Xavier-Stockmar
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Su 05:45-22:00"
-website: "https://www.migrolino.ch/fr/standorte/shell-porrentruy/"
+opening_hours: Mo-Su 05:45-22:00
+website: https://www.migrolino.ch/fr/standorte/shell-porrentruy/

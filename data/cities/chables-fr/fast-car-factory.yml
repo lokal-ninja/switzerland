@@ -4,8 +4,8 @@ latitude: 46.82663
 longitude: 6.8104
 postcode: "1474"
 city: Châbles FR
-street: "Rue de la Chapelle"
-housenumber: 40
-phone: "+41 76 468 30 17"
-opening_hours: "Mo-Th 07:30-12:00,13:30-17:00; Fr 07:30-12:00,13:30-16:00; Sa 08:30-12:00"
-website: "https://www.fastcarfactory.ch"
+street: Rue de la Chapelle
+housenumber: "40"
+phone: +41 76 468 30 17
+opening_hours: Mo-Th 07:30-12:00,13:30-17:00; Fr 07:30-12:00,13:30-16:00; Sa 08:30-12:00
+website: https://www.fastcarfactory.ch

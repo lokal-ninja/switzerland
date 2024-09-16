@@ -4,8 +4,8 @@ latitude: 47.3824
 longitude: 8.66865
 postcode: "8604"
 city: Volketswil
-street: "Industriestrasse"
-housenumber: 1
+street: Industriestrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; PH off"
-website: "https://www.c-and-a.com/ch/"
+opening_hours: Mo-Sa 09:00-20:00; PH off
+website: https://www.c-and-a.com/ch/

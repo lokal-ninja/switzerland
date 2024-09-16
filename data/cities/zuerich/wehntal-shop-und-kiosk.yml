@@ -4,8 +4,8 @@ latitude: 47.41955
 longitude: 8.50564
 postcode: "8046"
 city: Zürich
-street: "Wehntalerstrasse"
-housenumber: 550
+street: Wehntalerstrasse
+housenumber: "550"
 phone: ""
-opening_hours: "Mo-Th 16:00-02:00, Fr,Sa 16:00-04:00, Su 16:00-24:00"
-website: "http://ishoplino.ch/"
+opening_hours: Mo-Th 16:00-02:00, Fr,Sa 16:00-04:00, Su 16:00-24:00
+website: http://ishoplino.ch/

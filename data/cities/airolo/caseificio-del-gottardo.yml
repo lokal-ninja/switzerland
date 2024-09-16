@@ -4,8 +4,8 @@ latitude: 46.52413
 longitude: 8.60083
 postcode: "6780"
 city: Airolo
-street: "Via Fontana"
-housenumber: 3
+street: Via Fontana
+housenumber: "3"
 phone: ""
-opening_hours: "PH,Mo-Su 09:00-20:00"
-website: "https://www.caseificiodelgottardo.ch/chiosco-caseificio"
+opening_hours: PH,Mo-Su 09:00-20:00
+website: https://www.caseificiodelgottardo.ch/chiosco-caseificio

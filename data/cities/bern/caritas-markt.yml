@@ -4,8 +4,8 @@ latitude: 46.94309
 longitude: 7.42642
 postcode: "3007"
 city: Bern
-street: "Brunnmattstrasse"
-housenumber: 44
+street: Brunnmattstrasse
+housenumber: "44"
 phone: ""
-opening_hours: "Mo 14:00-18:30; Tu-Fr 10:00-12:00,14:00-18:30; Sa 10:00-14:00"
-website: "https://www.caritas-bern.ch/was-wir-tun/caritas-markt-guenstig-und-gesund"
+opening_hours: Mo 14:00-18:30; Tu-Fr 10:00-12:00,14:00-18:30; Sa 10:00-14:00
+website: https://www.caritas-bern.ch/was-wir-tun/caritas-markt-guenstig-und-gesund

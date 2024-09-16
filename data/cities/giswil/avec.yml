@@ -4,8 +4,8 @@ latitude: 46.83659
 longitude: 8.1863
 postcode: "6074"
 city: Giswil
-street: "Brünigstrasse"
-housenumber: 49
+street: Brünigstrasse
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Th 05:45-18:45; Fr 05:45-20:00; Sa, Su 07:00-20:00"
-website: "https://avec.ch"
+opening_hours: Mo-Th 05:45-18:45; Fr 05:45-20:00; Sa, Su 07:00-20:00
+website: https://avec.ch

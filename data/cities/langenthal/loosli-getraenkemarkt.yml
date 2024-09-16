@@ -1,11 +1,12 @@
 id: 159026550
-type: way
+type: node
 latitude: 47.22036
 longitude: 7.78805
 postcode: "4900"
 city: Langenthal
-street: "Murgenthalstrasse"
-housenumber: 21
+street: Murgenthalstrasse
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Th 13:30-18:00; Mo-Fr 08:00-12:00; Fr 13:30-18:30; Sa 08:00-16:00; Su off; PH off"
+opening_hours: Mo-Th 13:30-18:00; Mo-Fr 08:00-12:00; Fr 13:30-18:30; Sa 08:00-16:00;
+    Su off; PH off
 website: ""

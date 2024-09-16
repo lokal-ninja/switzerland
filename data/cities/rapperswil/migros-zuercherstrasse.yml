@@ -4,8 +4,8 @@ latitude: 47.22935
 longitude: 8.82105
 postcode: "8640"
 city: Rapperswil
-street: "Zürcherstrasse"
-housenumber: 4
+street: Zürcherstrasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-rapperswil-sonnenhof"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-rapperswil-sonnenhof

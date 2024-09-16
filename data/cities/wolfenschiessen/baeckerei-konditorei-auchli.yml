@@ -1,11 +1,11 @@
 id: 345011919
-type: way
+type: node
 latitude: 46.9085
 longitude: 8.39714
 postcode: "6386"
 city: Wolfenschiessen
-street: "Oberrickenbachstrasse"
-housenumber: 3
+street: Oberrickenbachstrasse
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

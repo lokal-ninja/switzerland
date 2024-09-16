@@ -1,11 +1,11 @@
 id: 331297864
-type: way
+type: node
 latitude: 47.55199
 longitude: 7.54948
 postcode: "4123"
 city: Allschwil
-street: "Baslerstrasse"
-housenumber: 192
-phone: "+41 61 481 05 55"
-opening_hours: "Tu-Fr 14:00-18:00; Sa 10:00-16:00"
+street: Baslerstrasse
+housenumber: "192"
+phone: +41 61 481 05 55
+opening_hours: Tu-Fr 14:00-18:00; Sa 10:00-16:00
 website: ""

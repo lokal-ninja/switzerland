@@ -1,11 +1,11 @@
 id: 219186290
-type: way
+type: node
 latitude: 46.79371
 longitude: 7.26282
 postcode: "1715"
 city: Alterswil FR
-street: "Hauptstrasse"
-housenumber: 72
+street: Hauptstrasse
+housenumber: "72"
 phone: ""
 opening_hours: ""
 website: ""

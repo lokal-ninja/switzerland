@@ -1,11 +1,11 @@
 id: 138947194
-type: way
+type: node
 latitude: 47.37064
 longitude: 8.77389
 postcode: "8330"
 city: Pfäffikon ZH
-street: "Witzbergstrasse"
-housenumber: 3
-phone: "+41 44 955 18 91"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-18:30; Sa 09:00-15:00"
-website: "http://www.macbike.ch"
+street: Witzbergstrasse
+housenumber: "3"
+phone: +41 44 955 18 91
+opening_hours: Tu-Fr 09:00-12:00,14:00-18:30; Sa 09:00-15:00
+website: http://www.macbike.ch

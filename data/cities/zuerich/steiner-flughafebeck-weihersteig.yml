@@ -4,8 +4,8 @@ latitude: 47.39627
 longitude: 8.52677
 postcode: "8037"
 city: Zürich
-street: "Weihersteig"
-housenumber: 1
+street: Weihersteig
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 06:00-13:00; Sa 06:30-13:00; Su 08:00-12:00"
-website: "https://www.flughafebeck.ch/standorte/zuerich-wipkingen/"
+opening_hours: Mo-Fr 06:00-13:00; Sa 06:30-13:00; Su 08:00-12:00
+website: https://www.flughafebeck.ch/standorte/zuerich-wipkingen/

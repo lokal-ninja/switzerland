@@ -1,11 +1,11 @@
 id: 100052411
-type: way
+type: node
 latitude: 46.69467
 longitude: 8.59622
 postcode: "6484"
 city: Wassen
-street: "Wattingen"
-housenumber: 5
+street: Wattingen
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00, 13:00-17:30"
+opening_hours: Mo-Fr 07:30-12:00, 13:00-17:30
 website: ""

@@ -1,11 +1,11 @@
 id: 137215725
-type: way
+type: node
 latitude: 47.31038
 longitude: 7.89463
 postcode: "4852"
 city: Rothrist
-street: "Rössliweg"
-housenumber: 43
+street: Rössliweg
+housenumber: "43"
 phone: ""
 opening_hours: ""
-website: "https://www.moebel-hubacher.ch/"
+website: https://www.moebel-hubacher.ch/

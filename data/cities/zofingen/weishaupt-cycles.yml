@@ -4,8 +4,8 @@ latitude: 47.2787
 longitude: 7.94687
 postcode: "4800"
 city: Zofingen
-street: "Brittnauerstrasse"
-housenumber: 16
-phone: "+41 62 752 54 54"
-opening_hours: "Tu-Fr 08:30-12:00, 13:30-18:30; Sa 08:00-16:00; Su, Mo off"
-website: "https://www.weishaupt-cycles.ch/"
+street: Brittnauerstrasse
+housenumber: "16"
+phone: +41 62 752 54 54
+opening_hours: Tu-Fr 08:30-12:00, 13:30-18:30; Sa 08:00-16:00; Su, Mo off
+website: https://www.weishaupt-cycles.ch/

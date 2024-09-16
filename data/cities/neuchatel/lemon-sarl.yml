@@ -4,8 +4,8 @@ latitude: 46.99296
 longitude: 6.92859
 postcode: "2000"
 city: Neuchâtel
-street: "Rue de la Raffinerie"
-housenumber: 4
-phone: "+41 32 730 40 20"
+street: Rue de la Raffinerie
+housenumber: "4"
+phone: +41 32 730 40 20
 opening_hours: ""
-website: "https://lemon.ch/"
+website: https://lemon.ch/

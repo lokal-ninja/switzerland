@@ -4,8 +4,8 @@ latitude: 47.55391
 longitude: 7.58975
 postcode: "4051"
 city: Basel
-street: "Theaterstrasse"
-housenumber: 2
+street: Theaterstrasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo 12:00-18:30; Tu-Fr 09:00-18:30; Sa 09:00-17:00"
+opening_hours: Mo 12:00-18:30; Tu-Fr 09:00-18:30; Sa 09:00-17:00
 website: ""

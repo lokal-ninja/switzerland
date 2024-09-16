@@ -4,8 +4,8 @@ latitude: 47.4216
 longitude: 8.61922
 postcode: "8305"
 city: Dietlikon
-street: "Bahnhofstrasse"
-housenumber: 37
-phone: "+41 44 833 20 82"
-opening_hours: "Mo-We,Fr 09:00-19:00; Th 09:00-20:00; Sa 08:30-18:00; PH,Su off"
+street: Bahnhofstrasse
+housenumber: "37"
+phone: +41 44 833 20 82
+opening_hours: Mo-We,Fr 09:00-19:00; Th 09:00-20:00; Sa 08:30-18:00; PH,Su off
 website: ""

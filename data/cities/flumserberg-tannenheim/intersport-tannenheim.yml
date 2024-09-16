@@ -1,11 +1,11 @@
 id: 325408045
-type: way
+type: node
 latitude: 47.08958
 longitude: 9.30244
 postcode: "8897"
 city: Flumserberg Tannenheim
-street: "Flumserbergstrasse"
-housenumber: 134
+street: Flumserbergstrasse
+housenumber: "134"
 phone: ""
 opening_hours: ""
 website: ""

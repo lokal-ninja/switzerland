@@ -4,8 +4,8 @@ latitude: 47.39074
 longitude: 8.04523
 postcode: "5001"
 city: Aarau
-street: "Vordere Vorstadt"
-housenumber: 27
+street: Vordere Vorstadt
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-14:00"
-website: "https://www.knecht-reisen.ch/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-14:00
+website: https://www.knecht-reisen.ch/

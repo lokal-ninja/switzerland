@@ -4,8 +4,8 @@ latitude: 47.36985
 longitude: 8.51962
 postcode: "8003"
 city: Zürich
-street: "Birmensdorferstrasse"
-housenumber: 145
+street: Birmensdorferstrasse
+housenumber: "145"
 phone: ""
-opening_hours: "Tu-Fr 09:30-18:30, Sa 09:30-16:00; PH off"
-website: "https://www.apodro.ch/%C3%BCber-uns/apodro-standorte/z%C3%BCrich/"
+opening_hours: Tu-Fr 09:30-18:30, Sa 09:30-16:00; PH off
+website: https://www.apodro.ch/%C3%BCber-uns/apodro-standorte/z%C3%BCrich/

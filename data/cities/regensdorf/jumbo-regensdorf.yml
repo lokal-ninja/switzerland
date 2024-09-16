@@ -4,8 +4,8 @@ latitude: 47.44429
 longitude: 8.46528
 postcode: "8105"
 city: Regensdorf
-street: "Adlikerstrasse"
-housenumber: 295
+street: Adlikerstrasse
+housenumber: "295"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.jumbo.ch/de/standorte/jumbo-regensdorf/s/2017_POS"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.jumbo.ch/de/standorte/jumbo-regensdorf/s/2017_POS

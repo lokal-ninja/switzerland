@@ -1,11 +1,11 @@
 id: 100059150
-type: way
+type: node
 latitude: 47.31979
 longitude: 8.55089
 postcode: "8802"
 city: Kilchberg
-street: "Seestrasse"
-housenumber: 184
+street: Seestrasse
+housenumber: "184"
 phone: ""
 opening_hours: ""
 website: ""

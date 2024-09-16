@@ -4,8 +4,8 @@ latitude: 46.93001
 longitude: 7.45053
 postcode: "3084"
 city: Wabern
-street: "Gossetstrasse"
-housenumber: 8
+street: Gossetstrasse
+housenumber: "8"
 phone: ""
-opening_hours: "We 17:00-19:30; Sa 10:00-12:30; PH off"
-website: "https://www.leihbar.ch"
+opening_hours: We 17:00-19:30; Sa 10:00-12:30; PH off
+website: https://www.leihbar.ch

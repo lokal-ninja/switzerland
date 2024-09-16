@@ -1,11 +1,11 @@
 id: 131519091
-type: way
+type: node
 latitude: 46.78026
 longitude: 7.22676
 postcode: "1717"
 city: Sankt Ursen
-street: "Struss"
-housenumber: 1
+street: Struss
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

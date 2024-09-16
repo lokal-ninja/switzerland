@@ -1,11 +1,11 @@
 id: 205774548
-type: way
+type: node
 latitude: 46.86043
 longitude: 7.49345
 postcode: "3125"
 city: Toffen
-street: "Bahnhofstrasse"
-housenumber: 17
+street: Bahnhofstrasse
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:30,14:00-19:00; Sa 08:00-17:00"
+opening_hours: Mo-Fr 08:00-12:30,14:00-19:00; Sa 08:00-17:00
 website: ""

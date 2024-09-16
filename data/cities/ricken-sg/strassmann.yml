@@ -1,11 +1,11 @@
 id: 388204052
-type: way
+type: node
 latitude: 47.2621
 longitude: 9.0443
 postcode: "8726"
 city: Ricken SG
-street: "Uznacherstrasse"
-housenumber: 5
+street: Uznacherstrasse
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

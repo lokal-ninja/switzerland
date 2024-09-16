@@ -1,11 +1,11 @@
 id: 297450979
-type: way
+type: node
 latitude: 46.82426
 longitude: 8.38499
 postcode: "6390"
 city: Engelberg
-street: "Engelbergerstrasse"
-housenumber: 121
+street: Engelbergerstrasse
+housenumber: "121"
 phone: ""
 opening_hours: ""
-website: "https://www.autoportmann.ch/"
+website: https://www.autoportmann.ch/

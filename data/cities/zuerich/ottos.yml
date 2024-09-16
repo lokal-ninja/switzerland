@@ -4,8 +4,8 @@ latitude: 47.3875
 longitude: 8.48884
 postcode: "8048"
 city: Zürich
-street: "Badenerstrasse"
-housenumber: 650
+street: Badenerstrasse
+housenumber: "650"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.ottos.ch/"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.ottos.ch/

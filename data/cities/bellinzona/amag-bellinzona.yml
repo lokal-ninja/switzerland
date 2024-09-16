@@ -1,11 +1,11 @@
 id: 373484412
-type: way
+type: node
 latitude: 46.20536
 longitude: 9.03636
 postcode: "6500"
 city: Bellinzona
-street: "Via San Gottardo"
-housenumber: 71
+street: Via San Gottardo
+housenumber: "71"
 phone: ""
 opening_hours: ""
-website: "http://www.amag.ch/"
+website: http://www.amag.ch/

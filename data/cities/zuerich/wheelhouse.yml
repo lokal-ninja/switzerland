@@ -4,8 +4,8 @@ latitude: 47.37479
 longitude: 8.51488
 postcode: "8003"
 city: Zürich
-street: "Bertastrasse"
-housenumber: 18
-phone: "+41 44 463 10 90"
-opening_hours: "Mo-Fr 10:00-18:30"
-website: "http://www.wheelhouse.ch/"
+street: Bertastrasse
+housenumber: "18"
+phone: +41 44 463 10 90
+opening_hours: Mo-Fr 10:00-18:30
+website: http://www.wheelhouse.ch/

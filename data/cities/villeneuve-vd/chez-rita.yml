@@ -4,8 +4,8 @@ latitude: 46.39757
 longitude: 6.92552
 postcode: "1844"
 city: Villeneuve VD
-street: "Grand-Rue"
-housenumber: 13
-phone: "+41 21 968 14 19"
-opening_hours: "Tu-Fr 09:30-12:00,14:30-18:00; Sa 09:30-12:30,14:30-16:30"
-website: "https://www.chezrita.ch/"
+street: Grand-Rue
+housenumber: "13"
+phone: +41 21 968 14 19
+opening_hours: Tu-Fr 09:30-12:00,14:30-18:00; Sa 09:30-12:30,14:30-16:30
+website: https://www.chezrita.ch/

@@ -4,8 +4,8 @@ latitude: 46.79374
 longitude: 9.82319
 postcode: "7270"
 city: Davos Platz
-street: "Talstrasse"
-housenumber: 19
-phone: "+41 81 413 10 04"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-18:30; Sa 09:00-13:00"
-website: "https://www.biodavos.ch/"
+street: Talstrasse
+housenumber: "19"
+phone: +41 81 413 10 04
+opening_hours: Tu-Fr 09:00-12:00,14:00-18:30; Sa 09:00-13:00
+website: https://www.biodavos.ch/

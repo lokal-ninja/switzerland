@@ -1,11 +1,11 @@
 id: 159326259
-type: way
+type: node
 latitude: 46.9678
 longitude: 7.48663
 postcode: "3072"
 city: Ostermundigen
-street: "Untere Zollgasse"
-housenumber: 81
+street: Untere Zollgasse
+housenumber: "81"
 phone: ""
 opening_hours: ""
 website: ""

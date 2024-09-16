@@ -4,8 +4,8 @@ latitude: 47.12846
 longitude: 8.74271
 postcode: "8840"
 city: Einsiedeln
-street: "Spitalstrasse"
-housenumber: 4
+street: Spitalstrasse
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Fr 13:30-19:30; Sa 09:00-16:00"
-website: "https://www.veloeggae.ch/"
+opening_hours: Tu-Fr 13:30-19:30; Sa 09:00-16:00
+website: https://www.veloeggae.ch/

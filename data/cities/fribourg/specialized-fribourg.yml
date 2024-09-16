@@ -4,8 +4,8 @@ latitude: 46.79565
 longitude: 7.14492
 postcode: "1700"
 city: Fribourg
-street: "Route de la Glâne"
-housenumber: 15
+street: Route de la Glâne
+housenumber: "15"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:30; Sa 09:00-16:00"
-website: "https://www.specialized.com/ch/fr/fribourg"
+opening_hours: Tu-Fr 10:00-18:30; Sa 09:00-16:00
+website: https://www.specialized.com/ch/fr/fribourg

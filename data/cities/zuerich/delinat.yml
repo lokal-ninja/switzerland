@@ -4,8 +4,8 @@ latitude: 47.37503
 longitude: 8.53604
 postcode: "8001"
 city: Zürich
-street: "Löwenstrasse"
-housenumber: 31
+street: Löwenstrasse
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.delinat.com/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.delinat.com/

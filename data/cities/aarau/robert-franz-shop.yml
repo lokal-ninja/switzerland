@@ -4,8 +4,8 @@ latitude: 47.39673
 longitude: 8.0649
 postcode: "5000"
 city: Aarau
-street: "Weihermattstrasse"
-housenumber: 86
+street: Weihermattstrasse
+housenumber: "86"
 phone: ""
 opening_hours: ""
-website: "https://rfshop.ch/"
+website: https://rfshop.ch/

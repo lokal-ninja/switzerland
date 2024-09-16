@@ -4,8 +4,8 @@ latitude: 47.13817
 longitude: 7.24517
 postcode: "2502"
 city: Biel/Bienne
-street: "Rue Centrale / Zentralstrasse"
-housenumber: 30
-phone: "+41 32 322 22 03"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 10:00-17:00; Su off"
-website: "https://www.shbiel.com"
+street: Rue Centrale / Zentralstrasse
+housenumber: "30"
+phone: +41 32 322 22 03
+opening_hours: Mo-Fr 09:00-20:00; Sa 10:00-17:00; Su off
+website: https://www.shbiel.com

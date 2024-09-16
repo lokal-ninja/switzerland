@@ -4,8 +4,8 @@ latitude: 47.37143
 longitude: 8.54395
 postcode: "8001"
 city: Zürich
-street: "Münstergasse"
-housenumber: 19
+street: Münstergasse
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "https://www.schwarzenbach.ch/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
+website: https://www.schwarzenbach.ch/

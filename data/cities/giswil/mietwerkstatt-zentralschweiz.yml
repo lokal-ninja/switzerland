@@ -4,8 +4,8 @@ latitude: 46.84334
 longitude: 8.16599
 postcode: "6074"
 city: Giswil
-street: "Rüteli"
-housenumber: 40
-phone: "+41 79 235 1993"
-opening_hours: "by appointment"
+street: Rüteli
+housenumber: "40"
+phone: +41 79 235 1993
+opening_hours: '"by appointment"'
 website: ""

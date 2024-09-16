@@ -4,8 +4,8 @@ latitude: 47.05015
 longitude: 8.30742
 postcode: "6003"
 city: Luzern
-street: "Seidenhofstrasse"
-housenumber: 10
+street: Seidenhofstrasse
+housenumber: "10"
 phone: ""
-opening_hours: "Mo 13:30-18:30; Tu-Fr 09:00-12:00,13:00-18:30; Sa 09:00-16:00"
-website: "https://www.modebayard.ch/de/filiale-bayard-luzern-women/"
+opening_hours: Mo 13:30-18:30; Tu-Fr 09:00-12:00,13:00-18:30; Sa 09:00-16:00
+website: https://www.modebayard.ch/de/filiale-bayard-luzern-women/

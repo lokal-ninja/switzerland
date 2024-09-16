@@ -4,8 +4,8 @@ latitude: 47.44845
 longitude: 8.32848
 postcode: "5432"
 city: Neuenhof
-street: "Zürcherstrasse"
-housenumber: 142
+street: Zürcherstrasse
+housenumber: "142"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:15, 13:30-18:30, Sa 08:00-15:00"
-website: "https://www.magenta-blumen.ch"
+opening_hours: Mo-Fr 08:00-12:15, 13:30-18:30, Sa 08:00-15:00
+website: https://www.magenta-blumen.ch

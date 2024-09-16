@@ -4,8 +4,8 @@ latitude: 47.38708
 longitude: 8.48886
 postcode: "8048"
 city: Zürich
-street: "Badenerstrasse"
-housenumber: 653
-phone: "+41 43 811 71 74"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 09:00-17:00"
-website: "http://www.coiffeurnarine.ch/"
+street: Badenerstrasse
+housenumber: "653"
+phone: +41 43 811 71 74
+opening_hours: Tu-Fr 10:00-19:00; Sa 09:00-17:00
+website: http://www.coiffeurnarine.ch/

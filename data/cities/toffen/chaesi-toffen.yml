@@ -4,8 +4,8 @@ latitude: 46.86201
 longitude: 7.49042
 postcode: "3125"
 city: Toffen
-street: "Bernstrasse"
-housenumber: 22
+street: Bernstrasse
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 06:15-12:00, 14:00-18:30; Sa 06:15-16:00; Su off"
-website: "http://www.chäsi-toffen.ch"
+opening_hours: Mo-Fr 06:15-12:00, 14:00-18:30; Sa 06:15-16:00; Su off
+website: http://www.chäsi-toffen.ch

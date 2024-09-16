@@ -4,8 +4,8 @@ latitude: 47.55427
 longitude: 7.58929
 postcode: "4051"
 city: Basel
-street: "Steinenberg"
-housenumber: 14
-phone: "+41 61 201 16 80"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "https://www.spruengli.ch/de/standorte/basel-barfuesserplatz.html"
+street: Steinenberg
+housenumber: "14"
+phone: +41 61 201 16 80
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
+website: https://www.spruengli.ch/de/standorte/basel-barfuesserplatz.html

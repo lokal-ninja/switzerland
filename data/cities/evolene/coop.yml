@@ -1,11 +1,11 @@
 id: 233007585
-type: way
+type: node
 latitude: 46.10859
 longitude: 7.50143
 postcode: "1983"
 city: Evolène
-street: "Route Neuve"
-housenumber: 103
+street: Route Neuve
+housenumber: "103"
 phone: ""
-opening_hours: "Mo-Sa 08:00-12:30, 14:00-18:30"
+opening_hours: Mo-Sa 08:00-12:30, 14:00-18:30
 website: ""

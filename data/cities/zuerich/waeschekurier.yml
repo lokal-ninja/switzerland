@@ -4,8 +4,8 @@ latitude: 47.36141
 longitude: 8.52667
 postcode: "8002"
 city: Zürich
-street: "Waffenplatzstrasse"
-housenumber: 11
+street: Waffenplatzstrasse
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30"
-website: "https://waeschekurier.ch/"
+opening_hours: Mo-Fr 09:00-18:30
+website: https://waeschekurier.ch/

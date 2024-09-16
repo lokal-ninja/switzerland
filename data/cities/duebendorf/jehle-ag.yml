@@ -4,8 +4,8 @@ latitude: 47.40068
 longitude: 8.60318
 postcode: "8600"
 city: Dübendorf
-street: "Lagerstrasse"
-housenumber: 14
-phone: "+41 44 820 02 91"
-opening_hours: "Mo-Fr 07:30-12:00, 13:00-18:00; Sa 07:30-12:00"
-website: "https://pneu-jehle.ch/"
+street: Lagerstrasse
+housenumber: "14"
+phone: +41 44 820 02 91
+opening_hours: Mo-Fr 07:30-12:00, 13:00-18:00; Sa 07:30-12:00
+website: https://pneu-jehle.ch/

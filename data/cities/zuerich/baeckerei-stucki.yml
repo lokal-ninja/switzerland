@@ -4,8 +4,8 @@ latitude: 47.42648
 longitude: 8.50677
 postcode: "8046"
 city: Zürich
-street: "Horensteinstrasse"
-housenumber: 51
-phone: "+41 79 3651187"
-opening_hours: "Sa on demand"
+street: Horensteinstrasse
+housenumber: "51"
+phone: +41 79 3651187
+opening_hours: Sa "on demand"
 website: ""

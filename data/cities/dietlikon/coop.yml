@@ -4,8 +4,8 @@ latitude: 47.41331
 longitude: 8.6189
 postcode: "8305"
 city: Dietlikon
-street: "Industriestrasse"
-housenumber: 28
+street: Industriestrasse
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00, Sa 08:00-21:00; PH off"
-website: "https://www.coop.ch/"
+opening_hours: Mo-Fr 09:00-21:00, Sa 08:00-21:00; PH off
+website: https://www.coop.ch/

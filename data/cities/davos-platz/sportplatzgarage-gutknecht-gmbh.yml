@@ -4,8 +4,8 @@ latitude: 46.79811
 longitude: 9.82855
 postcode: "7270"
 city: Davos Platz
-street: "Talstrasse"
-housenumber: 30
-phone: "+41 81 413 27 20"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://www.sportplatzgarage.ch"
+street: Talstrasse
+housenumber: "30"
+phone: +41 81 413 27 20
+opening_hours: Mo-Sa 08:00-18:00
+website: https://www.sportplatzgarage.ch

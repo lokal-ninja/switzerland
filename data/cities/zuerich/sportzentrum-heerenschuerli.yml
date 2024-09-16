@@ -1,11 +1,11 @@
 id: 102775134
-type: way
+type: node
 latitude: 47.40181
 longitude: 8.59523
 postcode: "8051"
 city: Zürich
-street: "Helen-Keller-Strasse"
-housenumber: 20
+street: Helen-Keller-Strasse
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

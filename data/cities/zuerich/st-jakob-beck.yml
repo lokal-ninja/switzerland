@@ -4,8 +4,8 @@ latitude: 47.37381
 longitude: 8.52784
 postcode: "8004"
 city: Zürich
-street: "Kanzleistrasse"
-housenumber: 18
+street: Kanzleistrasse
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:30; Sa 08:00-16:00"
-website: "https://www.st-jakob.ch/de/kontakt/kanzleistrasse.html"
+opening_hours: Mo-Fr 07:00-18:30; Sa 08:00-16:00
+website: https://www.st-jakob.ch/de/kontakt/kanzleistrasse.html

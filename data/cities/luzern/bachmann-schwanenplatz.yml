@@ -4,8 +4,9 @@ latitude: 47.05376
 longitude: 8.30863
 postcode: "6002"
 city: Luzern
-street: "Schwanenplatz"
-housenumber: 7
+street: Schwanenplatz
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-We 07:00-19:00; Th 07:00-21:00; Fr 07:00-19:00; Sa 07:00-17:30; Su 09:30-18:00"
-website: "https://www.confiserie.ch/de/schwanenplatz"
+opening_hours: Mo-We 07:00-19:00; Th 07:00-21:00; Fr 07:00-19:00; Sa 07:00-17:30;
+    Su 09:30-18:00
+website: https://www.confiserie.ch/de/schwanenplatz

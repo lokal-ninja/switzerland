@@ -5,7 +5,7 @@ longitude: 8.66681
 postcode: "8127"
 city: Forch
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 06:00-21:00, Sa-Su 07:00-21:00"
-website: "https://www.migrolino.ch/de/standorte/shell-forch-heuberg/"
+opening_hours: Mo-Fr 06:00-21:00, Sa-Su 07:00-21:00
+website: https://www.migrolino.ch/de/standorte/shell-forch-heuberg/

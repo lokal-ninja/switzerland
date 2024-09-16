@@ -1,11 +1,11 @@
 id: 191202904
-type: way
+type: node
 latitude: 47.49982
 longitude: 8.00934
 postcode: "5073"
 city: Gipf-Oberfrick
-street: "Enzbergstich"
-housenumber: 3
+street: Enzbergstich
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

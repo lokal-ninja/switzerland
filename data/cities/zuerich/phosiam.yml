@@ -4,8 +4,8 @@ latitude: 47.37075
 longitude: 8.50905
 postcode: "8055"
 city: Zürich
-street: "Gutstrasse"
-housenumber: 12
+street: Gutstrasse
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://pho-siam.ch/"
+website: https://pho-siam.ch/

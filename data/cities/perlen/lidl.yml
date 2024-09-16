@@ -1,11 +1,11 @@
 id: 158637423
-type: way
+type: node
 latitude: 47.10469
 longitude: 8.35047
 postcode: "6035"
 city: Perlen
-street: "Dorfstrasse"
-housenumber: 75
+street: Dorfstrasse
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

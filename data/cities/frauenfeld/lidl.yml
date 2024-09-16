@@ -1,11 +1,11 @@
 id: 232830868
-type: way
+type: node
 latitude: 47.56567
 longitude: 8.90815
 postcode: "8500"
 city: Frauenfeld
-street: "Langfeldstrasse"
-housenumber: 70
+street: Langfeldstrasse
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00; Th 07:30-21:00; PH off"
+opening_hours: Mo-Sa 07:30-20:00; Th 07:30-21:00; PH off
 website: ""

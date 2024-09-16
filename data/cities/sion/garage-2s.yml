@@ -4,8 +4,8 @@ latitude: 46.22266
 longitude: 7.35222
 postcode: "1950"
 city: Sion
-street: "Chemin St-Hubert"
-housenumber: 40
-phone: "+41 79 601 76 20"
-opening_hours: "Mo-Th 07:30-18:00; Fr 07:30-17:00"
-website: "http://www.garage2s.ch/"
+street: Chemin St-Hubert
+housenumber: "40"
+phone: +41 79 601 76 20
+opening_hours: Mo-Th 07:30-18:00; Fr 07:30-17:00
+website: http://www.garage2s.ch/

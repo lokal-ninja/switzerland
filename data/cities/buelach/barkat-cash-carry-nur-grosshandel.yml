@@ -4,8 +4,8 @@ latitude: 47.52882
 longitude: 8.5335
 postcode: "8180"
 city: Bülach
-street: "Schützenmattstrasse"
-housenumber: 34
-phone: "+41 44 860 38 77"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:00-12:00"
-website: "https://www.barkat.ch/"
+street: Schützenmattstrasse
+housenumber: "34"
+phone: +41 44 860 38 77
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:00-12:00
+website: https://www.barkat.ch/

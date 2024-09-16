@@ -1,11 +1,11 @@
 id: 201337007
-type: way
+type: node
 latitude: 47.40827
 longitude: 9.44605
 postcode: "9042"
 city: Speicher
-street: "Trogenerstrasse"
-housenumber: 1
+street: Trogenerstrasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.autobischof.ch/"
+website: https://www.autobischof.ch/

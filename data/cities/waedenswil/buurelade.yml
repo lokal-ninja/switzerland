@@ -4,8 +4,9 @@ latitude: 47.22511
 longitude: 8.66727
 postcode: "8820"
 city: Wädenswil
-street: "Speerstrasse"
-housenumber: 
+street: Speerstrasse
+housenumber: ""
 phone: ""
-opening_hours: "Mo-We 09:00-12:00,16:00-18:00; Th off; Fr 09:00-12:00,14:00-18:00; Sa 09:00-13:00"
-website: "https://rellstab-obst.ch/buurelade/"
+opening_hours: Mo-We 09:00-12:00,16:00-18:00; Th off; Fr 09:00-12:00,14:00-18:00;
+    Sa 09:00-13:00
+website: https://rellstab-obst.ch/buurelade/

@@ -4,8 +4,8 @@ latitude: 47.34446
 longitude: 8.53072
 postcode: "8038"
 city: Zürich
-street: "Etzelstrasse"
-housenumber: 6
+street: Etzelstrasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.denner.ch/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.denner.ch/

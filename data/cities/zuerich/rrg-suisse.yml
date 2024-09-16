@@ -4,8 +4,8 @@ latitude: 47.3779
 longitude: 8.51158
 postcode: "8004"
 city: Zürich
-street: "Badenerstrasse"
-housenumber: 330
+street: Badenerstrasse
+housenumber: "330"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-16:00"
-website: "https://www.rrg-renault.ch/de/Filialen/rrg-zurich-albisriederplatz-141"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-16:00
+website: https://www.rrg-renault.ch/de/Filialen/rrg-zurich-albisriederplatz-141

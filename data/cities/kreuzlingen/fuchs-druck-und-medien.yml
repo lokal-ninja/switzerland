@@ -1,11 +1,12 @@
 id: 171497857
-type: way
+type: node
 latitude: 47.64438
 longitude: 9.18289
 postcode: "8280"
 city: Kreuzlingen
-street: "Rankstrasse"
-housenumber: 9
+street: Rankstrasse
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00,13:30-17:00; Fr 08:00-12:00,13:30-15:00 || gerne nach Vereinbarung!"
+opening_hours: Mo-Th 08:00-12:00,13:30-17:00; Fr 08:00-12:00,13:30-15:00 || "gerne
+    nach Vereinbarung!"
 website: ""

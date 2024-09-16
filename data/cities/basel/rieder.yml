@@ -4,8 +4,8 @@ latitude: 47.55619
 longitude: 7.57353
 postcode: "4055"
 city: Basel
-street: "Allschwilerstrasse"
-housenumber: 30
+street: Allschwilerstrasse
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 06:15-18:30; Sa 06:15-17:00; Su 09:00-17:00"
-website: "https://www.whiskytruffes.ch/"
+opening_hours: Mo-Fr 06:15-18:30; Sa 06:15-17:00; Su 09:00-17:00
+website: https://www.whiskytruffes.ch/

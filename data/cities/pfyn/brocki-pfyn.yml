@@ -4,8 +4,8 @@ latitude: 47.59416
 longitude: 8.96626
 postcode: "8505"
 city: Pfyn
-street: "Fabrikstrasse"
-housenumber: 23
-phone: "+41 52 770 17 00"
-opening_hours: "Tu-Fr 13:30-18:00; Sa 10:00-16:00"
-website: "https://brockipfyn.ch/"
+street: Fabrikstrasse
+housenumber: "23"
+phone: +41 52 770 17 00
+opening_hours: Tu-Fr 13:30-18:00; Sa 10:00-16:00
+website: https://brockipfyn.ch/

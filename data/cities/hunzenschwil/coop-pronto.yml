@@ -1,11 +1,11 @@
 id: 680684675
-type: way
+type: node
 latitude: 47.38649
 longitude: 8.13079
 postcode: "5502"
 city: Hunzenschwil
-street: "Gewerbestrasse"
-housenumber: 1
-phone: "+41 62 897 61 17"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.coop-pronto.ch/de/standort/hunzenschwil/"
+street: Gewerbestrasse
+housenumber: "1"
+phone: +41 62 897 61 17
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.coop-pronto.ch/de/standort/hunzenschwil/

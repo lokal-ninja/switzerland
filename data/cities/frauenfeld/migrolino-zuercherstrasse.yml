@@ -4,8 +4,8 @@ latitude: 47.56193
 longitude: 8.90622
 postcode: "8500"
 city: Frauenfeld
-street: "Zürcherstrasse"
-housenumber: 276
+street: Zürcherstrasse
+housenumber: "276"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00, Su 08:00-20:00"
-website: "https://www.migrolino.ch/de/standorte/migrol-frauenfeld/"
+opening_hours: Mo-Sa 06:00-22:00, Su 08:00-20:00
+website: https://www.migrolino.ch/de/standorte/migrol-frauenfeld/

@@ -4,8 +4,8 @@ latitude: 47.39201
 longitude: 8.04466
 postcode: "5000"
 city: Aarau
-street: "Graben"
-housenumber: 36
+street: Graben
+housenumber: "36"
 phone: ""
 opening_hours: ""
-website: "https://rent-a-box.ch/aarau"
+website: https://rent-a-box.ch/aarau

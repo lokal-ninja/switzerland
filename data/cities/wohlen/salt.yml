@@ -4,8 +4,8 @@ latitude: 47.34955
 longitude: 8.27275
 postcode: "5610"
 city: Wohlen
-street: "Bahnhofstrasse"
-housenumber: 5
+street: Bahnhofstrasse
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.salt.ch/"
+website: https://www.salt.ch/

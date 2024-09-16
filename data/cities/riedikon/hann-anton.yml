@@ -1,11 +1,11 @@
 id: 29255360
-type: way
+type: node
 latitude: 47.33131
 longitude: 8.71296
 postcode: "8616"
 city: Riedikon
-street: "Turicaphonstrasse"
-housenumber: 33
+street: Turicaphonstrasse
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

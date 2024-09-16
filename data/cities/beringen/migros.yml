@@ -1,11 +1,11 @@
 id: 599982947
-type: way
+type: node
 latitude: 47.69598
 longitude: 8.58197
 postcode: "8222"
 city: Beringen
-street: "Schaffhauserstrasse"
-housenumber: 72
+street: Schaffhauserstrasse
+housenumber: "72"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-19:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-beringen"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-19:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-beringen

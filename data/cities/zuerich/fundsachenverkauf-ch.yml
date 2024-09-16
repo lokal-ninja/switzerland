@@ -4,8 +4,8 @@ latitude: 47.34315
 longitude: 8.53032
 postcode: "8038"
 city: Zürich
-street: "Albisstrasse"
-housenumber: 54
-phone: "+41 43 817 05 46"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://fundsachenverkauf.ch/"
+street: Albisstrasse
+housenumber: "54"
+phone: +41 43 817 05 46
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://fundsachenverkauf.ch/

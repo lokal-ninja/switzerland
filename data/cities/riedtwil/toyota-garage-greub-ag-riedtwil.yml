@@ -1,11 +1,11 @@
 id: 226671234
-type: way
+type: node
 latitude: 47.13991
 longitude: 7.69363
 postcode: "3475"
 city: Riedtwil
-street: "Hauptstrasse"
-housenumber: 20
+street: Hauptstrasse
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.36525
 longitude: 8.52132
 postcode: "8045"
 city: Zürich
-street: "Manessestrasse"
-housenumber: 88
+street: Manessestrasse
+housenumber: "88"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-15:00"
-website: "https://www.metzgerei-keller.ch/Manesseplatz.htm"
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-15:00
+website: https://www.metzgerei-keller.ch/Manesseplatz.htm

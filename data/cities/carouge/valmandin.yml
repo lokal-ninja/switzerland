@@ -4,8 +4,8 @@ latitude: 46.18298
 longitude: 6.14151
 postcode: "1227"
 city: Carouge
-street: "Rue Ancienne"
-housenumber: 5
-phone: "+41 22 547 18 91"
-opening_hours: "Tu,Th,Sa 10:30-17:15; Fr 12:30-17:15"
+street: Rue Ancienne
+housenumber: "5"
+phone: +41 22 547 18 91
+opening_hours: Tu,Th,Sa 10:30-17:15; Fr 12:30-17:15
 website: ""

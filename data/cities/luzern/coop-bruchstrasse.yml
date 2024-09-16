@@ -1,11 +1,11 @@
 id: 93459850
-type: way
+type: node
 latitude: 47.05104
 longitude: 8.29997
 postcode: "6003"
 city: Luzern
-street: "Bruchstrasse"
-housenumber: 9
+street: Bruchstrasse
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-We 07:00-18:30, Th,Fr 07:00-20:00, Sa 07:00-16:00"
+opening_hours: Mo-We 07:00-18:30, Th,Fr 07:00-20:00, Sa 07:00-16:00
 website: ""

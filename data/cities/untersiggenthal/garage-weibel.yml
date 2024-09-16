@@ -1,11 +1,11 @@
 id: 219931578
-type: way
+type: node
 latitude: 47.49699
 longitude: 8.26763
 postcode: "5417"
 city: Untersiggenthal
-street: "Zelglistrasse"
-housenumber: 45
-phone: "+41 56 282 28 71"
+street: Zelglistrasse
+housenumber: "45"
+phone: +41 56 282 28 71
 opening_hours: ""
-website: "https://www.garage-weibel.ch/"
+website: https://www.garage-weibel.ch/

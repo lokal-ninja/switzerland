@@ -4,8 +4,8 @@ latitude: 46.54418
 longitude: 6.52406
 postcode: "1121"
 city: Bremblens
-street: "Route de Bussigny"
-housenumber: 66
+street: Route de Bussigny
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Fr 13:30-18:00; Sa 08:00-12:00"
-website: "https://www.marche-cuendet.ch"
+opening_hours: Mo-Fr 13:30-18:00; Sa 08:00-12:00
+website: https://www.marche-cuendet.ch

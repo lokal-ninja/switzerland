@@ -4,8 +4,8 @@ latitude: 47.25929
 longitude: 8.59815
 postcode: "8810"
 city: Horgen
-street: "Zugerstrasse"
-housenumber: 21
-phone: "+41 44 202 00 03"
-opening_hours: "Tu-Fr 10:00-12:00,14:00-18:00; Sa 10:00-16:00"
-website: "https://shoe-lounge.ch/"
+street: Zugerstrasse
+housenumber: "21"
+phone: +41 44 202 00 03
+opening_hours: Tu-Fr 10:00-12:00,14:00-18:00; Sa 10:00-16:00
+website: https://shoe-lounge.ch/

@@ -1,11 +1,11 @@
 id: 97462440
-type: way
+type: node
 latitude: 46.84876
 longitude: 7.18952
 postcode: "3186"
 city: Düdingen
-street: "Hauptstrasse"
-housenumber: 36
+street: Hauptstrasse
+housenumber: "36"
 phone: ""
 opening_hours: ""
-website: "https://zentrum-garage.ch/"
+website: https://zentrum-garage.ch/

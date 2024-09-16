@@ -1,11 +1,11 @@
 id: 327732977
-type: way
+type: node
 latitude: 47.16825
 longitude: 9.47153
 postcode: "9470"
 city: Buchs SG
-street: "Wiedenstrasse"
-housenumber: 19
-phone: "+41 81 756 12 36"
-opening_hours: "Mo-Fr 07:00-12:00, Mo,Tu,Fr 13:00-18:30"
+street: Wiedenstrasse
+housenumber: "19"
+phone: +41 81 756 12 36
+opening_hours: Mo-Fr 07:00-12:00, Mo,Tu,Fr 13:00-18:30
 website: ""

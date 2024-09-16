@@ -4,8 +4,8 @@ latitude: 47.31261
 longitude: 8.5283
 postcode: "8134"
 city: Adliswil
-street: "Kilchbergstrasse"
-housenumber: 5
+street: Kilchbergstrasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
 website: ""

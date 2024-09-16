@@ -4,8 +4,8 @@ latitude: 47.55541
 longitude: 7.59117
 postcode: "4051"
 city: Basel
-street: "Münsterberg"
-housenumber: 10
-phone: "+41 61 274 04 70"
-opening_hours: "Mo-We,Fr 09:00-18:30, Th 09:00-20:00, Sa 09:00-17:00"
-website: "https://www.dannys-tee.ch"
+street: Münsterberg
+housenumber: "10"
+phone: +41 61 274 04 70
+opening_hours: Mo-We,Fr 09:00-18:30, Th 09:00-20:00, Sa 09:00-17:00
+website: https://www.dannys-tee.ch

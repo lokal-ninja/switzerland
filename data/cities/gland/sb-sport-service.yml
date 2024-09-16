@@ -1,11 +1,11 @@
 id: 160893589
-type: way
+type: node
 latitude: 46.41531
 longitude: 6.27354
 postcode: "1196"
 city: Gland
-street: "Avenue du Mont-Blanc"
-housenumber: 37
+street: Avenue du Mont-Blanc
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

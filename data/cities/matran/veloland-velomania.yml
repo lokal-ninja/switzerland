@@ -4,8 +4,8 @@ latitude: 46.77931
 longitude: 7.08966
 postcode: "1753"
 city: Matran
-street: "Route du Bois"
-housenumber: 11
+street: Route du Bois
+housenumber: "11"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:30,13:30-18:30; Sa 09:00-16:00"
-website: "https://www.velomania.ch/fr/c/14-fribourg"
+opening_hours: Tu-Fr 09:00-12:30,13:30-18:30; Sa 09:00-16:00
+website: https://www.velomania.ch/fr/c/14-fribourg

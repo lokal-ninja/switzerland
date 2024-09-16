@@ -1,11 +1,11 @@
 id: 251163196
-type: way
+type: node
 latitude: 47.33796
 longitude: 8.81171
 postcode: "8623"
 city: Wetzikon
-street: "Breitistrasse"
-housenumber: 15
+street: Breitistrasse
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

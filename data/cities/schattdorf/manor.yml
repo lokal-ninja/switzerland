@@ -4,8 +4,8 @@ latitude: 46.85529
 longitude: 8.64573
 postcode: "6467"
 city: Schattdorf
-street: "Militärstrasse"
-housenumber: 9
+street: Militärstrasse
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Th 08:30-18:30; Fr 08:30-20:00; Sa 08:00-17:00; PH off"
-website: "https://www.manor.ch/de/store-finder/store/SAT"
+opening_hours: Mo-Th 08:30-18:30; Fr 08:30-20:00; Sa 08:00-17:00; PH off
+website: https://www.manor.ch/de/store-finder/store/SAT

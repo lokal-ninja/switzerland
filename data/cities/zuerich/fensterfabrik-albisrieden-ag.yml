@@ -1,11 +1,11 @@
 id: 40772030
-type: way
+type: node
 latitude: 47.37397
 longitude: 8.49352
 postcode: "8047"
 city: Zürich
-street: "Fellenbergweg"
-housenumber: 15
-phone: "+41 44 496 95 00"
+street: Fellenbergweg
+housenumber: "15"
+phone: +41 44 496 95 00
 opening_hours: ""
-website: "https://www.ffa.ch/"
+website: https://www.ffa.ch/

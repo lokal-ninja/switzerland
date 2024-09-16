@@ -4,8 +4,8 @@ latitude: 47.44305
 longitude: 7.91302
 postcode: "4493"
 city: Wenslingen
-street: "Leimen"
-housenumber: 240
-phone: "+41 61 991 00 80"
-opening_hours: "Leimenstübli: Fr,Sa 18:00-24:00"
-website: "https://www.leimenstuebli.ch/"
+street: Leimen
+housenumber: "240"
+phone: +41 61 991 00 80
+opening_hours: 'Leimenstübli: Fr,Sa 18:00-24:00'
+website: https://www.leimenstuebli.ch/

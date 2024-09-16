@@ -4,8 +4,8 @@ latitude: 47.3551
 longitude: 8.09949
 postcode: "5722"
 city: Gränichen
-street: "Kirchenfeldstrasse"
-housenumber: 10
+street: Kirchenfeldstrasse
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-16:00"
-website: "https://www.landi.ch/"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-16:00
+website: https://www.landi.ch/

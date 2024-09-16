@@ -4,8 +4,8 @@ latitude: 47.49498
 longitude: 8.75679
 postcode: "8404"
 city: Winterthur
-street: "Rudolf-Diesel-Strasse"
-housenumber: 13
+street: Rudolf-Diesel-Strasse
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 06:00-23:00"
-website: "https://www.coop-pronto.ch/"
+opening_hours: Mo-Sa 06:00-23:00
+website: https://www.coop-pronto.ch/

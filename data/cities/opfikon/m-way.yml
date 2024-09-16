@@ -4,8 +4,9 @@ latitude: 47.42146
 longitude: 8.558
 postcode: "8152"
 city: Opfikon
-street: "Blériot-Allee"
-housenumber: 2
-phone: "+41 44 545 34 00"
-opening_hours: "Mar-Oct Mo-Fr 10:00-19:00; Mar-Oct Sa 10:00-16:00; Nov-Feb Mo-Fr 10:00-13:00,14:00-18:30; Nov-Feb Sa 10:00-16:00"
-website: "https://m-way.ch/m-way-shop-glattpark-opfikon/"
+street: Blériot-Allee
+housenumber: "2"
+phone: +41 44 545 34 00
+opening_hours: Mar-Oct Mo-Fr 10:00-19:00; Mar-Oct Sa 10:00-16:00; Nov-Feb Mo-Fr 10:00-13:00,14:00-18:30;
+    Nov-Feb Sa 10:00-16:00
+website: https://m-way.ch/m-way-shop-glattpark-opfikon/

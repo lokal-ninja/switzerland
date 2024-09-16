@@ -4,8 +4,8 @@ latitude: 47.56997
 longitude: 7.60274
 postcode: "4058"
 city: Basel
-street: "Erlenmattstrasse"
-housenumber: 61
-phone: "+41 61 525 99 14"
-opening_hours: "Th-Fr 15:00-18:30"
-website: "https://www.puntonero.com/"
+street: Erlenmattstrasse
+housenumber: "61"
+phone: +41 61 525 99 14
+opening_hours: Th-Fr 15:00-18:30
+website: https://www.puntonero.com/

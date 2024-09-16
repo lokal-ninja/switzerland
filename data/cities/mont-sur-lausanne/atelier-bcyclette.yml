@@ -4,8 +4,8 @@ latitude: 46.54597
 longitude: 6.63004
 postcode: "1052"
 city: Mont-sur-Lausanne
-street: "Chemin du Rionzi"
-housenumber: 35
-phone: "+41 21 646 54 41"
-opening_hours: "Tu-Fr 07:30-11:30,13:30-18:00; Sa: 09:00,16:00"
+street: Chemin du Rionzi
+housenumber: "35"
+phone: +41 21 646 54 41
+opening_hours: 'Tu-Fr 07:30-11:30,13:30-18:00; Sa: 09:00,16:00'
 website: ""

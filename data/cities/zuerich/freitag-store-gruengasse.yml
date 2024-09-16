@@ -4,8 +4,8 @@ latitude: 47.37347
 longitude: 8.52471
 postcode: "8004"
 city: Zürich
-street: "Grüngasse"
-housenumber: 21
-phone: "+41 43 243 97 49"
-opening_hours: "Tu,Th,Fr 11:00-14:30,15:00-18:30; Sa 11:00-17:00"
-website: "https://www.freitag.ch/de/store/freitag-store-gruengasse"
+street: Grüngasse
+housenumber: "21"
+phone: +41 43 243 97 49
+opening_hours: Tu,Th,Fr 11:00-14:30,15:00-18:30; Sa 11:00-17:00
+website: https://www.freitag.ch/de/store/freitag-store-gruengasse

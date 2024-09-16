@@ -4,8 +4,8 @@ latitude: 47.49819
 longitude: 8.72955
 postcode: "8400"
 city: Winterthur
-street: "Steinberggasse"
-housenumber: 15
+street: Steinberggasse
+housenumber: "15"
 phone: ""
-opening_hours: "Tu,Fr 09:00-13:00,14:00-18:30; Th 10:00-13:00,14:00-18:30; Sa 10:00-17:00"
+opening_hours: Tu,Fr 09:00-13:00,14:00-18:30; Th 10:00-13:00,14:00-18:30; Sa 10:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.37284
 longitude: 8.52114
 postcode: "8003"
 city: Zürich
-street: "Seebahnstrasse"
-housenumber: 100
+street: Seebahnstrasse
+housenumber: "100"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

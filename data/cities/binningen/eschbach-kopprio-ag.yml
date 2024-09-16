@@ -4,8 +4,8 @@ latitude: 47.54647
 longitude: 7.56455
 postcode: "4054"
 city: Binningen
-street: "Neubadstrasse"
-housenumber: 150
-phone: "+41 61 301 86 00"
-opening_hours: "Tu-Fr 08:00-18:00; Mo 13:00-18:00; Sa 08:00-16:00"
+street: Neubadstrasse
+housenumber: "150"
+phone: +41 61 301 86 00
+opening_hours: Tu-Fr 08:00-18:00; Mo 13:00-18:00; Sa 08:00-16:00
 website: ""

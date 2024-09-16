@@ -1,11 +1,11 @@
 id: 248456011
-type: way
+type: node
 latitude: 47.33366
 longitude: 8.81378
 postcode: "8623"
 city: Wetzikon
-street: "Wallenbachstrasse"
-housenumber: 25
+street: Wallenbachstrasse
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 39520166
-type: way
+type: node
 latitude: 47.19603
 longitude: 8.75088
 postcode: "8832"
 city: Wollerau
-street: "Fuchsberg Nord"
-housenumber: 
+street: Fuchsberg Nord
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 05:30-23:00"
-website: "https://www.mio-shops.ch/de/standorte/mio-fuchsberg-nord"
+opening_hours: Mo-Su 05:30-23:00
+website: https://www.mio-shops.ch/de/standorte/mio-fuchsberg-nord

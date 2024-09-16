@@ -1,11 +1,11 @@
 id: 30244309
-type: way
+type: node
 latitude: 47.27104
 longitude: 8.6534
 postcode: "8706"
 city: Meilen
-street: "Pfannenstielstrasse"
-housenumber: 109
+street: Pfannenstielstrasse
+housenumber: "109"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:30,16:30-18:30; Sa 08:00-13:00"
+opening_hours: Mo-Fr 08:00-12:30,16:30-18:30; Sa 08:00-13:00
 website: ""

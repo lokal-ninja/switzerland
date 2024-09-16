@@ -1,11 +1,11 @@
 id: 209143398
-type: way
+type: node
 latitude: 46.76236
 longitude: 7.1958
 postcode: "1734"
 city: Tentlingen
-street: "Ärgerastrasse"
-housenumber: 12
+street: Ärgerastrasse
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "http://coro-handels.ch"
+website: http://coro-handels.ch

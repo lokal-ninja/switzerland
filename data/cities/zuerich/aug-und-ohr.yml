@@ -4,8 +4,8 @@ latitude: 47.38917
 longitude: 8.52244
 postcode: "8005"
 city: Zürich
-street: "Heinrichstrasse"
-housenumber: 
-phone: "+41 44 271 12 22"
-opening_hours: "Tu-Fr 13:00-19:00; Sa 09:00-16:00"
-website: "https://augundohr.com/"
+street: Heinrichstrasse
+housenumber: ""
+phone: +41 44 271 12 22
+opening_hours: Tu-Fr 13:00-19:00; Sa 09:00-16:00
+website: https://augundohr.com/

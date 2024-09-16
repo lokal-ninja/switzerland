@@ -4,8 +4,8 @@ latitude: 47.43863
 longitude: 8.62625
 postcode: "8303"
 city: Bassersdorf
-street: "Bahnhofstrasse"
-housenumber: 40
-phone: "+41 43 266 37 51"
-opening_hours: "Mo-Fr 05:30-22:00; Sa 06:00-22:00; Su 07:00-22:00"
-website: "https://avec.ch/de/standorte"
+street: Bahnhofstrasse
+housenumber: "40"
+phone: +41 43 266 37 51
+opening_hours: Mo-Fr 05:30-22:00; Sa 06:00-22:00; Su 07:00-22:00
+website: https://avec.ch/de/standorte

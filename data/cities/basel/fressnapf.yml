@@ -4,8 +4,8 @@ latitude: 47.53815
 longitude: 7.60649
 postcode: "4053"
 city: Basel
-street: "Dornacherstrasse"
-housenumber: 393
+street: Dornacherstrasse
+housenumber: "393"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:30-18:00"
-website: "https://www.fressnapf.ch/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:30-18:00
+website: https://www.fressnapf.ch/

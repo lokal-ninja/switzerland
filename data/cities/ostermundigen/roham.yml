@@ -4,8 +4,8 @@ latitude: 46.95366
 longitude: 7.48299
 postcode: "3072"
 city: Ostermundigen
-street: "Oberdorfstrasse"
-housenumber: 2
+street: Oberdorfstrasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su off
 website: ""

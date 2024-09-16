@@ -4,8 +4,8 @@ latitude: 46.75732
 longitude: 7.63066
 postcode: "3600"
 city: Thun
-street: "Freienhofgasse"
-housenumber: 20
-phone: "+41 33 221 40 90"
-opening_hours: "Tu-Fr 08:00-18:30; Sa 08:00-15:00"
-website: "https://www.coiffeurglanzundgloria.ch"
+street: Freienhofgasse
+housenumber: "20"
+phone: +41 33 221 40 90
+opening_hours: Tu-Fr 08:00-18:30; Sa 08:00-15:00
+website: https://www.coiffeurglanzundgloria.ch

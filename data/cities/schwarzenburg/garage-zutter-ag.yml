@@ -1,11 +1,11 @@
 id: 158770942
-type: way
+type: node
 latitude: 46.82251
 longitude: 7.34053
 postcode: "3150"
 city: Schwarzenburg
-street: "Bernstrasse"
-housenumber: 23
+street: Bernstrasse
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "https://www.garage-zutter.ch/"
+website: https://www.garage-zutter.ch/

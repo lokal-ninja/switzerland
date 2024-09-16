@@ -1,11 +1,11 @@
 id: 191029653
-type: way
+type: node
 latitude: 47.36168
 longitude: 8.74572
 postcode: "8615"
 city: Wermatswil
-street: "Sennhüttenstrasse"
-housenumber: 10
+street: Sennhüttenstrasse
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 08:00-12:15"
-website: "https://wermatswil.ch/p58000206.html"
+opening_hours: Mo-Sa 08:00-12:15
+website: https://wermatswil.ch/p58000206.html

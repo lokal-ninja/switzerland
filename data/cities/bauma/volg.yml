@@ -1,11 +1,11 @@
 id: 252077923
-type: way
+type: node
 latitude: 47.3679
 longitude: 8.88072
 postcode: "8494"
 city: Bauma
-street: "Heinrich Gujer-Strasse"
-housenumber: 32
+street: Heinrich Gujer-Strasse
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00"
+opening_hours: Mo-Sa 06:00-22:00
 website: ""

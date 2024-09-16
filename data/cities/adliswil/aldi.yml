@@ -4,8 +4,8 @@ latitude: 47.32223
 longitude: 8.52975
 postcode: "8134"
 city: Adliswil
-street: "Dietlimoosplatz"
-housenumber: 1
-phone: "+41 71 980 20 10"
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.aldi-suisse.ch/"
+street: Dietlimoosplatz
+housenumber: "1"
+phone: +41 71 980 20 10
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.aldi-suisse.ch/

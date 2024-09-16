@@ -4,8 +4,8 @@ latitude: 46.19764
 longitude: 7.22834
 postcode: "1955"
 city: Chamoson
-street: "Plantys"
-housenumber: 2
+street: Plantys
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00, 13:30-18:00; Fr 08:00-12:00, 13:30-17:00"
-website: "http://www.garagedesplantys.ch"
+opening_hours: Mo-Th 08:00-12:00, 13:30-18:00; Fr 08:00-12:00, 13:30-17:00
+website: http://www.garagedesplantys.ch

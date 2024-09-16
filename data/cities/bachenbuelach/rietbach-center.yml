@@ -1,11 +1,11 @@
 id: 1216793892
-type: way
+type: node
 latitude: 47.50484
 longitude: 8.54164
 postcode: "8184"
 city: Bachenbülach
-street: "Grabenstrasse"
-housenumber: 4
+street: Grabenstrasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.rietbach-center.ch"
+website: https://www.rietbach-center.ch

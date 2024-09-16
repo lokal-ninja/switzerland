@@ -1,11 +1,11 @@
 id: 110927096
-type: way
+type: node
 latitude: 46.85873
 longitude: 8.63873
 postcode: "6467"
 city: Schattdorf
-street: "Umfahrungsstrasse"
-housenumber: 25
+street: Umfahrungsstrasse
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Th 07:30-12:00, 13:15-17:30; Fr 07:30-12:00, 13:15-17:30; Sa 08:00-12:00"
-website: "https://www.christen-automobile.ch/"
+opening_hours: Mo-Th 07:30-12:00, 13:15-17:30; Fr 07:30-12:00, 13:15-17:30; Sa 08:00-12:00
+website: https://www.christen-automobile.ch/

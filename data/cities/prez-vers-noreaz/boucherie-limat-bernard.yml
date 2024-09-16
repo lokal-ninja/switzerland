@@ -1,11 +1,11 @@
 id: 345403761
-type: way
+type: node
 latitude: 46.7852
 longitude: 7.01625
 postcode: "1746"
 city: Prez-vers-Noréaz
-street: "Route de Plancy-l'Abbaye"
-housenumber: 3
+street: Route de Plancy-l'Abbaye
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.47255
 longitude: 7.75959
 postcode: "4415"
 city: Lausen
-street: "Unterdorfstrasse"
-housenumber: 16
-phone: "+41 61 921 58 42"
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-16:00; Su 08:00-17:00"
-website: "https://www.bangibeck.ch/"
+street: Unterdorfstrasse
+housenumber: "16"
+phone: +41 61 921 58 42
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-16:00; Su 08:00-17:00
+website: https://www.bangibeck.ch/

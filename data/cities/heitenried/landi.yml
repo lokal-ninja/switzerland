@@ -1,11 +1,11 @@
 id: 229969306
-type: way
+type: node
 latitude: 46.82618
 longitude: 7.30166
 postcode: "1714"
 city: Heitenried
-street: "Hauptstrasse"
-housenumber: 47
+street: Hauptstrasse
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

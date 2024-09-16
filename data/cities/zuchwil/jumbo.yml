@@ -4,8 +4,8 @@ latitude: 47.2014
 longitude: 7.56953
 postcode: "4528"
 city: Zuchwil
-street: "Dorfackerstrasse"
-housenumber: 45
+street: Dorfackerstrasse
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; We 09:00-21:00; Sa 08:00-17:00; PH off"
-website: "https://www.bauundhobby.ch/"
+opening_hours: Mo-Fr 09:00-18:30; We 09:00-21:00; Sa 08:00-17:00; PH off
+website: https://www.bauundhobby.ch/

@@ -1,11 +1,11 @@
 id: 51393750
-type: way
+type: node
 latitude: 47.39692
 longitude: 8.48135
 postcode: "8064"
 city: Zürich
-street: "Bändlistrasse"
-housenumber: 93
+street: Bändlistrasse
+housenumber: "93"
 phone: ""
 opening_hours: ""
 website: ""

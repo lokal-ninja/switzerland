@@ -4,8 +4,8 @@ latitude: 46.74499
 longitude: 7.61425
 postcode: "3604"
 city: Thun
-street: "Talackerstrasse"
-housenumber: 62
+street: Talackerstrasse
+housenumber: "62"
 phone: ""
 opening_hours: ""
-website: "https://www.melectronics.ch/"
+website: https://www.melectronics.ch/

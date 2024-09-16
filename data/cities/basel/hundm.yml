@@ -4,8 +4,8 @@ latitude: 47.55665
 longitude: 7.58941
 postcode: "4001"
 city: Basel
-street: "Freie Strasse"
-housenumber: 26
+street: Freie Strasse
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-We 09:00-19:00; Th 09:00-20:00; Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www2.hm.com/de_ch/"
+opening_hours: Mo-We 09:00-19:00; Th 09:00-20:00; Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www2.hm.com/de_ch/

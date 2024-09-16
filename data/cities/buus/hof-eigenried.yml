@@ -4,8 +4,9 @@ latitude: 47.51657
 longitude: 7.86837
 postcode: "4463"
 city: Buus
-street: "Oberes Eigenried"
-housenumber: 36
-phone: "+41 61 841 15 42"
-opening_hours: "nach telefonischer Absprache Fr: 7.45-11 Uhr: Bure Märt Sissach Sa: 8-12 Uhr: Gelterkinder Markt."
-website: "https://www.texaslonghorn.ch/"
+street: Oberes Eigenried
+housenumber: "36"
+phone: +41 61 841 15 42
+opening_hours: 'nach telefonischer Absprache Fr: 7.45-11 Uhr: Bure Märt Sissach Sa:
+    8-12 Uhr: Gelterkinder Markt.'
+website: https://www.texaslonghorn.ch/

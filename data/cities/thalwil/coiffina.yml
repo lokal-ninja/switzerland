@@ -4,8 +4,8 @@ latitude: 47.29675
 longitude: 8.56165
 postcode: "8800"
 city: Thalwil
-street: "Florastrasse"
-housenumber: 1
+street: Florastrasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://coiffina.ch/salons/thalwil/"
+website: https://coiffina.ch/salons/thalwil/

@@ -1,11 +1,11 @@
 id: 396557558
-type: way
+type: node
 latitude: 47.16765
 longitude: 8.97981
 postcode: "8864"
 city: Reichenburg
-street: "Kantonsstrasse"
-housenumber: 60
+street: Kantonsstrasse
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 07:30-18:00"
-website: "https://hirzlipark.ch/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 07:30-18:00
+website: https://hirzlipark.ch/

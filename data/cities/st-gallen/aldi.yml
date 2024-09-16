@@ -1,11 +1,11 @@
 id: 308193972
-type: way
+type: node
 latitude: 47.44366
 longitude: 9.41692
 postcode: "9016"
 city: St. Gallen
-street: "Lerchentalstrasse"
-housenumber: 14
+street: Lerchentalstrasse
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.aldi-suisse.ch/"
+website: https://www.aldi-suisse.ch/

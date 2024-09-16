@@ -1,11 +1,11 @@
 id: 57904056
-type: way
+type: node
 latitude: 47.36106
 longitude: 7.9882
 postcode: "5014"
 city: Gretzenbach
-street: "Unterer Schachen"
-housenumber: 2
-phone: "+41 62 849 51 41"
+street: Unterer Schachen
+housenumber: "2"
+phone: +41 62 849 51 41
 opening_hours: ""
-website: "https://www.aarios.ch/"
+website: https://www.aarios.ch/

@@ -4,8 +4,8 @@ latitude: 47.37564
 longitude: 8.53675
 postcode: "8001"
 city: Zürich
-street: "Löwenstrasse"
-housenumber: 37
+street: Löwenstrasse
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00, Sa 09:00-19:00; PH off"
-website: "https://www.pkz.ch/"
+opening_hours: Mo-Fr 10:00-19:00, Sa 09:00-19:00; PH off
+website: https://www.pkz.ch/

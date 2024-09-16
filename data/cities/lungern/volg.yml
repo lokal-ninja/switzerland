@@ -1,11 +1,11 @@
 id: 158520592
-type: way
+type: node
 latitude: 46.78418
 longitude: 8.15943
 postcode: "6078"
 city: Lungern
-street: "Brünigstrasse"
-housenumber: 103
+street: Brünigstrasse
+housenumber: "103"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-16:00; PH off"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-16:00; PH off
 website: ""

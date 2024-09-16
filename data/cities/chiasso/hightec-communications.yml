@@ -4,8 +4,8 @@ latitude: 45.83316
 longitude: 9.03145
 postcode: "6830"
 city: Chiasso
-street: "Corso San Gottardo"
-housenumber: 27
+street: Corso San Gottardo
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:30; Sa 09:00-12:30,14:00-17:30"
-website: "http://www.hightechcommunications.ch"
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:30; Sa 09:00-12:30,14:00-17:30
+website: http://www.hightechcommunications.ch

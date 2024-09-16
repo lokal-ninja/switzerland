@@ -4,8 +4,8 @@ latitude: 47.36608
 longitude: 7.34294
 postcode: "2800"
 city: Delémont
-street: "Rue de l'Hôpital"
-housenumber: 28
-phone: "+41 79 353 37 29"
-opening_hours: "We,Sa 08:00-12:00; Th,Fr 16:30-18:30"
-website: "https://www.cavalbocal.ch/"
+street: Rue de l'Hôpital
+housenumber: "28"
+phone: +41 79 353 37 29
+opening_hours: We,Sa 08:00-12:00; Th,Fr 16:30-18:30
+website: https://www.cavalbocal.ch/

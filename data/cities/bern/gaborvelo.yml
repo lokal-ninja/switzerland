@@ -4,8 +4,8 @@ latitude: 46.9375
 longitude: 7.43241
 postcode: "3007"
 city: Bern
-street: "Seftigenstrasse"
-housenumber: 29
+street: Seftigenstrasse
+housenumber: "29"
 phone: ""
-opening_hours: "Mo,We,Fr 12:00-19:00; Tu,Th 12:00-14:00,16:00-18:30; Sa 11:00-15:00"
-website: "https://www.gaborvelo.ch/"
+opening_hours: Mo,We,Fr 12:00-19:00; Tu,Th 12:00-14:00,16:00-18:30; Sa 11:00-15:00
+website: https://www.gaborvelo.ch/

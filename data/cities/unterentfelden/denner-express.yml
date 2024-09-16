@@ -1,11 +1,11 @@
 id: 220169628
-type: way
+type: node
 latitude: 47.36707
 longitude: 8.04397
 postcode: "5035"
 city: Unterentfelden
-street: "Hauptstrasse"
-housenumber: 23
+street: Hauptstrasse
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.denner.ch/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.denner.ch/

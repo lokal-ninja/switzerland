@@ -4,8 +4,8 @@ latitude: 47.36901
 longitude: 8.5382
 postcode: "8001"
 city: Zürich
-street: "Bleicherweg"
-housenumber: 3
+street: Bleicherweg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-17:00; PH off"
-website: "https://madame.ch/"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-17:00; PH off
+website: https://madame.ch/

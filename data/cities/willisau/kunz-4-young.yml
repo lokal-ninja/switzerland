@@ -4,8 +4,9 @@ latitude: 47.12142
 longitude: 7.99336
 postcode: "6130"
 city: Willisau
-street: "Bahnhofstrasse"
-housenumber: 28
+street: Bahnhofstrasse
+housenumber: "28"
 phone: "+41419701866"
-opening_hours: "Mo,Su off; Tu-Th 09:00-12:00,13:30-18:30; Fr 09:00-12:00,13:30-20:00; Sa 08:00-16:00"
-website: "https://go-in.ch/kunzsport/kunz4young/"
+opening_hours: Mo,Su off; Tu-Th 09:00-12:00,13:30-18:30; Fr 09:00-12:00,13:30-20:00;
+    Sa 08:00-16:00
+website: https://go-in.ch/kunzsport/kunz4young/

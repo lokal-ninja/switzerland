@@ -4,8 +4,8 @@ latitude: 46.93223
 longitude: 7.41922
 postcode: "3097"
 city: Liebefeld
-street: "Waldeggstrasse"
-housenumber: 47
-phone: "+41 31 332 88 77"
-opening_hours: "Mo 12:00-18:00; Tu,Th 07:00-17:30; We,Fr 08:30-19:00"
-website: "https://www.hairvorragend.ch/"
+street: Waldeggstrasse
+housenumber: "47"
+phone: +41 31 332 88 77
+opening_hours: Mo 12:00-18:00; Tu,Th 07:00-17:30; We,Fr 08:30-19:00
+website: https://www.hairvorragend.ch/

@@ -1,11 +1,12 @@
 id: 208689327
-type: way
+type: node
 latitude: 46.89518
 longitude: 7.17037
 postcode: "3212"
 city: Gurmels
-street: "Brüelmatt"
+street: Brüelmatt
 housenumber: 5C
-phone: "+41 79 388 72 24"
-opening_hours: "Nov-Apr: Fr 17:00-19:00; Sa 10:00-12:00; May-Oct: Mo 17:00-19:00; Fr 17:00-19:00; Sa 10:00-12:00"
-website: "https://www.hermanns-ts.ch/"
+phone: +41 79 388 72 24
+opening_hours: 'Nov-Apr: Fr 17:00-19:00; Sa 10:00-12:00; May-Oct: Mo 17:00-19:00;
+    Fr 17:00-19:00; Sa 10:00-12:00'
+website: https://www.hermanns-ts.ch/

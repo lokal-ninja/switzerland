@@ -4,8 +4,8 @@ latitude: 47.54604
 longitude: 9.30066
 postcode: "8580"
 city: Amriswil
-street: "Romanshornerstrasse"
-housenumber: 3
-phone: "071 411 11 22"
-opening_hours: "Mo 13:30-18:00; Tu-Fr 08:30-12:00, 13:30-18:00"
-website: "https://orthopaedie-rick.ch"
+street: Romanshornerstrasse
+housenumber: "3"
+phone: 071 411 11 22
+opening_hours: Mo 13:30-18:00; Tu-Fr 08:30-12:00, 13:30-18:00
+website: https://orthopaedie-rick.ch

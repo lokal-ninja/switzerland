@@ -1,11 +1,11 @@
 id: 281269619
-type: way
+type: node
 latitude: 47.27684
 longitude: 8.91376
 postcode: "8636"
 city: Wald ZH
-street: "Bachtelstrasse"
-housenumber: 22
-phone: "+41 55 246 11 17"
+street: Bachtelstrasse
+housenumber: "22"
+phone: +41 55 246 11 17
 opening_hours: ""
 website: ""

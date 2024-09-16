@@ -4,8 +4,8 @@ latitude: 47.65122
 longitude: 8.85296
 postcode: "8260"
 city: Stein am Rhein
-street: "Kaltenbacherstrasse"
-housenumber: 41
+street: Kaltenbacherstrasse
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-18:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-stein-am-rhein"
+opening_hours: Mo-Fr 08:00-20:00, Sa 08:00-18:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-stein-am-rhein

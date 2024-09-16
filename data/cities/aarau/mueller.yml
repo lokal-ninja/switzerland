@@ -4,8 +4,8 @@ latitude: 47.39234
 longitude: 8.05748
 postcode: "5000"
 city: Aarau
-street: "Industriestrasse"
-housenumber: 1
+street: Industriestrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Th 09:00-20:00; Sa 09:00-18:00; PH off"
-website: "https://www.mueller.ch/"
+opening_hours: Mo-Fr 09:00-19:00; Th 09:00-20:00; Sa 09:00-18:00; PH off
+website: https://www.mueller.ch/

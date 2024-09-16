@@ -4,8 +4,8 @@ latitude: 47.49716
 longitude: 8.72016
 postcode: "8400"
 city: Winterthur
-street: "Pionierstrasse"
-housenumber: 10
+street: Pionierstrasse
+housenumber: "10"
 phone: ""
-opening_hours: "Tu-Fr 12:00-19:00; Sa 10:00-16:00"
-website: "https://wikingsports.ch"
+opening_hours: Tu-Fr 12:00-19:00; Sa 10:00-16:00
+website: https://wikingsports.ch

@@ -1,11 +1,11 @@
 id: 55724244
-type: way
+type: node
 latitude: 47.36982
 longitude: 8.77235
 postcode: "8330"
 city: Pfäffikon
-street: "Speckstrasse"
-housenumber: 1
-phone: "+41 44 950 91 15"
-opening_hours: "Mo-Sa 07:30-20:00; PH off"
-website: "https://www.aldi-suisse.ch/"
+street: Speckstrasse
+housenumber: "1"
+phone: +41 44 950 91 15
+opening_hours: Mo-Sa 07:30-20:00; PH off
+website: https://www.aldi-suisse.ch/

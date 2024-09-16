@@ -1,11 +1,11 @@
 id: 171084823
-type: way
+type: node
 latitude: 47.43105
 longitude: 8.67414
 postcode: "8317"
 city: Tagelswangen
-street: "Zürcherstrasse"
-housenumber: 23
+street: Zürcherstrasse
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 06:00-20:00"
+opening_hours: Mo-Sa 06:00-20:00
 website: ""

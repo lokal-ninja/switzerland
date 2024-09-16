@@ -4,8 +4,8 @@ latitude: 46.95608
 longitude: 7.45317
 postcode: "3013"
 city: Bern
-street: "Spitalackerstrasse"
-housenumber: 50
-phone: "+41 31 333 87 33"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.citycycles.ch"
+street: Spitalackerstrasse
+housenumber: "50"
+phone: +41 31 333 87 33
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.citycycles.ch

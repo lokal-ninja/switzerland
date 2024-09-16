@@ -4,8 +4,8 @@ latitude: 47.37446
 longitude: 8.52255
 postcode: "8004"
 city: Zürich
-street: "Badenerstrasse"
-housenumber: 144
+street: Badenerstrasse
+housenumber: "144"
 phone: ""
-opening_hours: "Tu-Fr 10:00-20:00; Sa 10:00-16:00"
-website: "https://www.haarrock.ch/"
+opening_hours: Tu-Fr 10:00-20:00; Sa 10:00-16:00
+website: https://www.haarrock.ch/

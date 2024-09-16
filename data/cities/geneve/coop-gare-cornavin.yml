@@ -4,8 +4,8 @@ latitude: 46.21005
 longitude: 6.1422
 postcode: "1201"
 city: Genève
-street: "Gare Cornavin"
-housenumber: 1
+street: Gare Cornavin
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.coop.ch/"
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.coop.ch/

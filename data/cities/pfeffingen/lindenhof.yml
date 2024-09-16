@@ -4,8 +4,9 @@ latitude: 47.45821
 longitude: 7.58896
 postcode: "4148"
 city: Pfeffingen
-street: "Etterweg"
-housenumber: 8
-phone: "+41 61 751 19 92"
-opening_hours: "Lindenhof-Lädeli: Selbstbedienung 24h Lindenhof Stube: Sa. 9-12 Uhr Chemineeholz abholen täglich von 17-18 Uhr und Sa. 9-12 Uhr."
-website: "https://linden-hof.ch/"
+street: Etterweg
+housenumber: "8"
+phone: +41 61 751 19 92
+opening_hours: 'Lindenhof-Lädeli: Selbstbedienung 24h Lindenhof Stube: Sa. 9-12 Uhr
+    Chemineeholz abholen täglich von 17-18 Uhr und Sa. 9-12 Uhr.'
+website: https://linden-hof.ch/

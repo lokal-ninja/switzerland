@@ -1,11 +1,11 @@
 id: 150270006
-type: way
+type: node
 latitude: 47.20175
 longitude: 8.79048
 postcode: "8808"
 city: Pfäffikon (SZ)
-street: "Churerstrasse"
-housenumber: 136
+street: Churerstrasse
+housenumber: "136"
 phone: ""
 opening_hours: ""
-website: "http://www.smartli.ch/"
+website: http://www.smartli.ch/

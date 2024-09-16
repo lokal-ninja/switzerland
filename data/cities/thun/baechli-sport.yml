@@ -4,8 +4,8 @@ latitude: 46.75948
 longitude: 7.62455
 postcode: "3600"
 city: Thun
-street: "Gewerbestrasse"
-housenumber: 6
-phone: "+41 33 225 55 10"
-opening_hours: "Mo-Fr 09:00-20:00; Th 10:00-20:00; Sa 09:00-17:00"
-website: "https://www.baechli-bergsport.ch"
+street: Gewerbestrasse
+housenumber: "6"
+phone: +41 33 225 55 10
+opening_hours: Mo-Fr 09:00-20:00; Th 10:00-20:00; Sa 09:00-17:00
+website: https://www.baechli-bergsport.ch

@@ -4,8 +4,8 @@ latitude: 47.37728
 longitude: 8.53399
 postcode: "8004"
 city: Zürich
-street: "Lagerstrasse"
-housenumber: 12
+street: Lagerstrasse
+housenumber: "12"
 phone: "+41442713633"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-18:00"
-website: "https://radixweb.ch/shop-zuerich"
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-18:00
+website: https://radixweb.ch/shop-zuerich

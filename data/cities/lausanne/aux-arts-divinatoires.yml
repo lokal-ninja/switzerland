@@ -4,8 +4,8 @@ latitude: 46.51945
 longitude: 6.63213
 postcode: "1003"
 city: Lausanne
-street: "Rue du Petit-Chêne"
-housenumber: 1
-phone: "+41 21 351 90 20"
-opening_hours: "Mo 13:30-18:30; Tu-Fr 09:30-18:30"
-website: "https://www.esoterique.shop/"
+street: Rue du Petit-Chêne
+housenumber: "1"
+phone: +41 21 351 90 20
+opening_hours: Mo 13:30-18:30; Tu-Fr 09:30-18:30
+website: https://www.esoterique.shop/

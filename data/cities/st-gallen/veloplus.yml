@@ -4,8 +4,8 @@ latitude: 47.43248
 longitude: 9.3826
 postcode: "9000"
 city: St. Gallen
-street: "St. Jakob-Strasse"
-housenumber: 87
+street: St. Jakob-Strasse
+housenumber: "87"
 phone: ""
 opening_hours: ""
-website: "https://www.veloplus.ch/"
+website: https://www.veloplus.ch/

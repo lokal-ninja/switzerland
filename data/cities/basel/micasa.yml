@@ -4,8 +4,8 @@ latitude: 47.53921
 longitude: 7.60506
 postcode: "4053"
 city: Basel
-street: "Münchensteinerstrasse"
-housenumber: 200
+street: Münchensteinerstrasse
+housenumber: "200"
 phone: ""
 opening_hours: ""
-website: "https://www.micasa.ch/"
+website: https://www.micasa.ch/

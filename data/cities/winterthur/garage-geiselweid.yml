@@ -4,8 +4,8 @@ latitude: 47.49939
 longitude: 8.74415
 postcode: "8400"
 city: Winterthur
-street: "Geiselweidstrasse"
-housenumber: 37
+street: Geiselweidstrasse
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Fr 07:00-12:00,13:30-18:00"
-website: "http://www.geiselweid.ch"
+opening_hours: Mo-Fr 07:00-12:00,13:30-18:00
+website: http://www.geiselweid.ch

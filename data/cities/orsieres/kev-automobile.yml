@@ -1,11 +1,11 @@
 id: 723242066
-type: way
+type: node
 latitude: 46.03242
 longitude: 7.14505
 postcode: "1937"
 city: Orsières
-street: "Route de la Gare"
-housenumber: 4
+street: Route de la Gare
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.37407
 longitude: 8.53814
 postcode: "8001"
 city: Zürich
-street: "Bahnhofstrasse"
-housenumber: 69
+street: Bahnhofstrasse
+housenumber: "69"
 phone: ""
-opening_hours: "Tu-Fr 08:00-20:00, Sa 09:00-14:00; PH off"
-website: "https://youseezueri.ch/"
+opening_hours: Tu-Fr 08:00-20:00, Sa 09:00-14:00; PH off
+website: https://youseezueri.ch/

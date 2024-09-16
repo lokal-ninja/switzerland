@@ -1,11 +1,11 @@
 id: 1273804965
-type: way
+type: node
 latitude: 47.3094
 longitude: 7.91194
 postcode: "4665"
 city: Oftringen
-street: "AdresseBernstrasse"
-housenumber: 27
-phone: "+41 62 798 01 80"
+street: AdresseBernstrasse
+housenumber: "27"
+phone: +41 62 798 01 80
 opening_hours: ""
-website: "https://aversusbikes.ch/"
+website: https://aversusbikes.ch/

@@ -4,8 +4,8 @@ latitude: 47.3489
 longitude: 8.71635
 postcode: "8610"
 city: Uster
-street: "Zürichstrasse"
-housenumber: 5
+street: Zürichstrasse
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.hotelplan.ch/hotelplan-uster"
+website: https://www.hotelplan.ch/hotelplan-uster

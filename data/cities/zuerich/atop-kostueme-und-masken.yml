@@ -4,8 +4,8 @@ latitude: 47.39049
 longitude: 8.47995
 postcode: "8048"
 city: Zürich
-street: "Badenerstrasse"
-housenumber: 742
+street: Badenerstrasse
+housenumber: "742"
 phone: ""
-opening_hours: "Tu-Fr 09:00-13:00, 13:30-18:30; Sa 09:00-16:00"
-website: "https://www.atop.ch/"
+opening_hours: Tu-Fr 09:00-13:00, 13:30-18:30; Sa 09:00-16:00
+website: https://www.atop.ch/

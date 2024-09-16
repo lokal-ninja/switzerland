@@ -1,11 +1,11 @@
 id: 154413908
-type: way
+type: node
 latitude: 46.82265
 longitude: 8.03256
 postcode: "6174"
 city: Sörenberg
-street: "Rothornstrasse"
+street: Rothornstrasse
 housenumber: 14a
-phone: "+41 41 488 12 49"
-opening_hours: "Mo-Fr 08:00-12:00, 13:30-18:00; Sa 08:00-16:00; Su 10:00-16:00"
-website: "https://www.feldersport.ch"
+phone: +41 41 488 12 49
+opening_hours: Mo-Fr 08:00-12:00, 13:30-18:00; Sa 08:00-16:00; Su 10:00-16:00
+website: https://www.feldersport.ch

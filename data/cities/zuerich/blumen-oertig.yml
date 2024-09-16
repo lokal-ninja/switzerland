@@ -4,8 +4,8 @@ latitude: 47.40999
 longitude: 8.54638
 postcode: "8050"
 city: Zürich
-street: "Schaffhauserstrasse"
-housenumber: 354
-phone: "+41 44 311 48 94"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-16:00"
-website: "https://oertig.ch"
+street: Schaffhauserstrasse
+housenumber: "354"
+phone: +41 44 311 48 94
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-16:00
+website: https://oertig.ch

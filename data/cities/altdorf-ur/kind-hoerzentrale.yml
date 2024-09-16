@@ -5,7 +5,7 @@ longitude: 8.64466
 postcode: "6460"
 city: Altdorf UR
 street: ""
-housenumber: 20
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:30,13:30-17:30"
-website: "https://www.kind.com/de-ch/fachgeschaefte/Altdorf/"
+opening_hours: Mo-Fr 08:30-12:30,13:30-17:30
+website: https://www.kind.com/de-ch/fachgeschaefte/Altdorf/

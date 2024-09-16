@@ -4,8 +4,9 @@ latitude: 46.94681
 longitude: 7.39506
 postcode: "3027"
 city: Bern
-street: "Bethlehemstrasse"
-housenumber: 40
-phone: "+41 58 5672585"
-opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-17:00; PH off; Jul 31 08:00-17:00; Aug 01 off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-bern-westfluegel"
+street: Bethlehemstrasse
+housenumber: "40"
+phone: +41 58 5672585
+opening_hours: Mo-Fr 08:00-19:00, Sa 08:00-17:00; PH off; Jul 31 08:00-17:00; Aug
+    01 off
+website: https://filialen.migros.ch/de/migros-supermarkt-bern-westfluegel

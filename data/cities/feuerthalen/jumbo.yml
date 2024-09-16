@@ -4,8 +4,8 @@ latitude: 47.69031
 longitude: 8.64871
 postcode: "8245"
 city: Feuerthalen
-street: "Schützenstrasse"
-housenumber: 32
+street: Schützenstrasse
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.bauundhobby.ch/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.bauundhobby.ch/

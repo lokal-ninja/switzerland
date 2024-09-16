@@ -4,8 +4,8 @@ latitude: 46.13938
 longitude: 7.11729
 postcode: "1926"
 city: Fully
-street: "Rue de l'Église"
-housenumber: 14
-phone: "+41 27 746 11 89"
-opening_hours: "Tu-Fr 09:00-11:30,14:00-18:00; Sa 09:00-12:00,14:00-17:00"
-website: "https://www.mdm.ch/magasins/fully"
+street: Rue de l'Église
+housenumber: "14"
+phone: +41 27 746 11 89
+opening_hours: Tu-Fr 09:00-11:30,14:00-18:00; Sa 09:00-12:00,14:00-17:00
+website: https://www.mdm.ch/magasins/fully

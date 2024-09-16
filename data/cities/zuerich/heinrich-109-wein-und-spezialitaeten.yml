@@ -4,8 +4,8 @@ latitude: 47.3856
 longitude: 8.52863
 postcode: "8005"
 city: Zürich
-street: "Heinrichstrasse"
-housenumber: 109
+street: Heinrichstrasse
+housenumber: "109"
 phone: ""
-opening_hours: "Sa 11:00-18:00; We-Fr 12:00-19:00"
-website: "https://www.heinrich109.ch/"
+opening_hours: Sa 11:00-18:00; We-Fr 12:00-19:00
+website: https://www.heinrich109.ch/

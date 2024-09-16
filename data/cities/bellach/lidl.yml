@@ -1,11 +1,11 @@
 id: 154978414
-type: way
+type: node
 latitude: 47.21179
 longitude: 7.5093
 postcode: "4512"
 city: Bellach
-street: "Grederstrasse"
-housenumber: 29
+street: Grederstrasse
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Th 07:30-18:30; Fr 07:30-21:00; Sa 07:30-18:00"
+opening_hours: Mo-Th 07:30-18:30; Fr 07:30-21:00; Sa 07:30-18:00
 website: ""

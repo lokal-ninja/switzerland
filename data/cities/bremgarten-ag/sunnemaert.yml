@@ -1,11 +1,11 @@
 id: 87377632
-type: way
+type: node
 latitude: 47.35159
 longitude: 8.34733
 postcode: "5620"
 city: Bremgarten AG
-street: "Sonnengutstrasse"
-housenumber: 2
+street: Sonnengutstrasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://einkaufszentrum-bremgarten.ch"
+website: https://einkaufszentrum-bremgarten.ch

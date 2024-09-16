@@ -4,8 +4,8 @@ latitude: 47.34633
 longitude: 9.07921
 postcode: "9615"
 city: Dietfurt
-street: "Landstrasse"
-housenumber: 11
-phone: "+41 71 983 17 86"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:30; We off; Sa 08:00-12:00"
-website: "https://chaes-trueckli.ch"
+street: Landstrasse
+housenumber: "11"
+phone: +41 71 983 17 86
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:30; We off; Sa 08:00-12:00
+website: https://chaes-trueckli.ch

@@ -4,8 +4,8 @@ latitude: 47.39038
 longitude: 8.51811
 postcode: "8005"
 city: Zürich
-street: "Giessereistrasse"
-housenumber: 18
-phone: "+41 43 818 28 28"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-17:00"
-website: "https://www.k-5.ch/"
+street: Giessereistrasse
+housenumber: "18"
+phone: +41 43 818 28 28
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:00-17:00
+website: https://www.k-5.ch/

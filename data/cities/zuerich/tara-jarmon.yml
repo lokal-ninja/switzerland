@@ -4,8 +4,8 @@ latitude: 47.37331
 longitude: 8.53951
 postcode: "8001"
 city: Zürich
-street: "Rennweg"
-housenumber: 32
+street: Rennweg
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 09:30-18:30"
-website: "https://www.tarajarmon.com/"
+opening_hours: Mo-Sa 09:30-18:30
+website: https://www.tarajarmon.com/

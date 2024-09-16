@@ -1,11 +1,11 @@
 id: 204651556
-type: way
+type: node
 latitude: 46.88719
 longitude: 7.50022
 postcode: "3123"
 city: Belp
-street: "Sägetstrasse"
-housenumber: 20
-phone: "+41 31 812 90 98"
-opening_hours: "Mo-Sa 07:00-12:00, Su 08:00-12:00"
+street: Sägetstrasse
+housenumber: "20"
+phone: +41 31 812 90 98
+opening_hours: Mo-Sa 07:00-12:00, Su 08:00-12:00
 website: ""

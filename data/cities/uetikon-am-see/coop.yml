@@ -1,11 +1,11 @@
 id: 25965363
-type: way
+type: node
 latitude: 47.26275
 longitude: 8.67694
 postcode: "8707"
 city: Uetikon am See
-street: "Bergstrasse"
-housenumber: 93
+street: Bergstrasse
+housenumber: "93"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
+opening_hours: Mo-Sa 07:30-20:00
 website: ""

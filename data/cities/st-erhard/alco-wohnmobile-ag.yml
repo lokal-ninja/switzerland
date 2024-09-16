@@ -1,11 +1,11 @@
 id: 257981588
-type: way
+type: node
 latitude: 47.18143
 longitude: 8.08257
 postcode: "6212"
 city: St. Erhard
-street: "Moosstrasse"
-housenumber: 4
+street: Moosstrasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://alco-wohnmobile.ch/"
+website: https://alco-wohnmobile.ch/

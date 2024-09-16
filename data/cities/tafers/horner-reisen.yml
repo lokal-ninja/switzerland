@@ -1,11 +1,11 @@
 id: 181443507
-type: way
+type: node
 latitude: 46.82204
 longitude: 7.20851
 postcode: "1712"
 city: Tafers
-street: "Mariahilfstrasse"
-housenumber: 47
+street: Mariahilfstrasse
+housenumber: "47"
 phone: ""
 opening_hours: ""
-website: "https://www.horner-reisen.ch/"
+website: https://www.horner-reisen.ch/

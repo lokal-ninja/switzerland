@@ -1,11 +1,11 @@
 id: 31859276
-type: way
+type: node
 latitude: 47.03291
 longitude: 8.62871
 postcode: "6423"
 city: Seewen SZ
-street: "Steinbislin"
-housenumber: 7
+street: Steinbislin
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.seewenmarkt.ch/"
+website: https://www.seewenmarkt.ch/

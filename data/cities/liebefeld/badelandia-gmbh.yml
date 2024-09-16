@@ -4,8 +4,8 @@ latitude: 46.93404
 longitude: 7.42066
 postcode: "3097"
 city: Liebefeld
-street: "Wilkerstrasse"
-housenumber: 20
-phone: "+41 31 964 11 44"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:00"
-website: "http://badelandia.ch"
+street: Wilkerstrasse
+housenumber: "20"
+phone: +41 31 964 11 44
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:00
+website: http://badelandia.ch

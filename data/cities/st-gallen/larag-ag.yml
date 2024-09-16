@@ -1,11 +1,11 @@
 id: 308190826
-type: way
+type: node
 latitude: 47.44176
 longitude: 9.41513
 postcode: "9016"
 city: St. Gallen
-street: "Lerchentalstrasse"
-housenumber: 6
+street: Lerchentalstrasse
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "www.larag.ch"
+website: www.larag.ch

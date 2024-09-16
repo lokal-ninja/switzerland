@@ -4,8 +4,8 @@ latitude: 46.54202
 longitude: 6.6276
 postcode: "1052"
 city: Le Mont-sur-Lausanne
-street: "Chemin de Maillefer"
-housenumber: 139
-phone: "+41 21 683 30 30"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-17:00"
-website: "http://www.boucherie-maillefer.ch"
+street: Chemin de Maillefer
+housenumber: "139"
+phone: +41 21 683 30 30
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-17:00
+website: http://www.boucherie-maillefer.ch

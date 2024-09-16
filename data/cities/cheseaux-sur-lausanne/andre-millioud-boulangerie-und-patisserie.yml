@@ -4,8 +4,8 @@ latitude: 46.58599
 longitude: 6.60486
 postcode: "1030"
 city: Cheseaux-sur-Lausanne
-street: "Route d'Yverdon"
-housenumber: 1
-phone: "+41 (0)21 732 13 53"
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-13:00; Su 07:00-12:00"
-website: "http://www.boulangerie-millioud.ch/"
+street: Route d'Yverdon
+housenumber: "1"
+phone: +41 (0)21 732 13 53
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-13:00; Su 07:00-12:00
+website: http://www.boulangerie-millioud.ch/

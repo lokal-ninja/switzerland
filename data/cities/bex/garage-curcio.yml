@@ -1,11 +1,11 @@
 id: 118103851
-type: way
+type: node
 latitude: 46.24766
 longitude: 7.0038
 postcode: "1880"
 city: Bex
-street: "Rue du Simplon"
-housenumber: 38
+street: Rue du Simplon
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.23532
 longitude: 8.63756
 postcode: "8820"
 city: Wädenswil
-street: "Rütistrasse"
-housenumber: 1
+street: Rütistrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://filialen.migros.ch/de/migros-supermarkt-waedenswil-zuerisee-center"
+opening_hours: Mo-Sa 08:00-19:00
+website: https://filialen.migros.ch/de/migros-supermarkt-waedenswil-zuerisee-center

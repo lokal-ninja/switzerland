@@ -4,8 +4,8 @@ latitude: 47.40552
 longitude: 8.48128
 postcode: "8049"
 city: Zürich
-street: "Frankentalerstrasse"
-housenumber: 10
+street: Frankentalerstrasse
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:45; Sa 08:00-17:00"
+opening_hours: Mo-Fr 06:00-18:45; Sa 08:00-17:00
 website: ""

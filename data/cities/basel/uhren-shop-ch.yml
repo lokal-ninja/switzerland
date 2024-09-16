@@ -4,8 +4,8 @@ latitude: 47.55672
 longitude: 7.589
 postcode: "4001"
 city: Basel
-street: "Rüdengasse"
-housenumber: 3
-phone: "+41 61 2639208"
+street: Rüdengasse
+housenumber: "3"
+phone: +41 61 2639208
 opening_hours: ""
-website: "https://www.uhren-shop.ch/"
+website: https://www.uhren-shop.ch/

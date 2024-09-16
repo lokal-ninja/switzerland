@@ -4,8 +4,8 @@ latitude: 46.55601
 longitude: 6.46884
 postcode: "1114"
 city: Colombier
-street: "La Condémine"
-housenumber: 5
-phone: "+41 78 755 06 34"
-opening_hours: "24/7"
-website: "https://www.condemine.ch"
+street: La Condémine
+housenumber: "5"
+phone: +41 78 755 06 34
+opening_hours: 24/7
+website: https://www.condemine.ch

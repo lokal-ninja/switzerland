@@ -4,8 +4,8 @@ latitude: 47.36203
 longitude: 8.52686
 postcode: "8002"
 city: Zürich
-street: "Bederstrasse"
-housenumber: 91
+street: Bederstrasse
+housenumber: "91"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

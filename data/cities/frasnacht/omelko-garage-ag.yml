@@ -1,11 +1,11 @@
 id: 301207310
-type: way
+type: node
 latitude: 47.52326
 longitude: 9.41087
 postcode: "9320"
 city: Frasnacht
-street: "Egnacherstrasse"
-housenumber: 19
+street: Egnacherstrasse
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 120907753
-type: way
+type: node
 latitude: 46.84594
 longitude: 6.84292
 postcode: "1470"
 city: Estavayer-le-Lac
-street: "Avenue de la Gare"
-housenumber: 115
+street: Avenue de la Gare
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

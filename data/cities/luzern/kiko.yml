@@ -4,8 +4,8 @@ latitude: 47.0525
 longitude: 8.30532
 postcode: "6004"
 city: Luzern
-street: "Hirschenplatz"
-housenumber: 1
+street: Hirschenplatz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-We 09:00-18:30, Th,Fr 09:00-21:00, Sa 09:00-16:00"
-website: "https://www.kikocosmetics.com/de-ch/"
+opening_hours: Mo-We 09:00-18:30, Th,Fr 09:00-21:00, Sa 09:00-16:00
+website: https://www.kikocosmetics.com/de-ch/

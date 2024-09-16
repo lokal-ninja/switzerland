@@ -4,8 +4,8 @@ latitude: 46.64194
 longitude: 6.63257
 postcode: "1040"
 city: Echallens
-street: "Place de l'Hôtel de Ville"
-housenumber: 5
-phone: "+41 21 881 50 71"
-opening_hours: "Tu-Sa 08:30-17:00; Su 08:00-16:30"
-website: "https://bonpain.ch/"
+street: Place de l'Hôtel de Ville
+housenumber: "5"
+phone: +41 21 881 50 71
+opening_hours: Tu-Sa 08:30-17:00; Su 08:00-16:30
+website: https://bonpain.ch/

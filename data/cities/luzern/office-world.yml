@@ -1,11 +1,11 @@
 id: 101768340
-type: way
+type: node
 latitude: 47.06779
 longitude: 8.27952
 postcode: "6015"
 city: Luzern
-street: "Rothenbadstrasse"
-housenumber: 2
+street: Rothenbadstrasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://www.officeworld.ch/"
+opening_hours: Mo-Sa 09:00-18:00
+website: https://www.officeworld.ch/

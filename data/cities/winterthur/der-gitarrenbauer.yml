@@ -4,8 +4,8 @@ latitude: 47.49866
 longitude: 8.73219
 postcode: "8400"
 city: Winterthur
-street: "Neustadtgasse"
-housenumber: 3
+street: Neustadtgasse
+housenumber: "3"
 phone: ""
-opening_hours: "Tu,We 12:00-18:00; Th 10:00-14:00"
-website: "https://dergitarrenbauer.ch/"
+opening_hours: Tu,We 12:00-18:00; Th 10:00-14:00
+website: https://dergitarrenbauer.ch/

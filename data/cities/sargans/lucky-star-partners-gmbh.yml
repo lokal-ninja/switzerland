@@ -1,11 +1,11 @@
 id: 411503699
-type: way
+type: node
 latitude: 47.05752
 longitude: 9.45309
 postcode: "7320"
 city: Sargans
-street: "St. Gallerstrasse"
-housenumber: 110
+street: St. Gallerstrasse
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

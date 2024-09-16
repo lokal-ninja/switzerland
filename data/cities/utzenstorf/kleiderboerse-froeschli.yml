@@ -1,11 +1,11 @@
 id: 226094017
-type: way
+type: node
 latitude: 47.12724
 longitude: 7.55534
 postcode: "3427"
 city: Utzenstorf
-street: "Kirchstrasse"
-housenumber: 22
+street: Kirchstrasse
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

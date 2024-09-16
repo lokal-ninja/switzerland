@@ -4,8 +4,8 @@ latitude: 47.5554
 longitude: 7.58892
 postcode: "4051"
 city: Basel
-street: "Gerbergasse"
-housenumber: 69
-phone: "+41 61 269 91 20"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00"
-website: "https://www.chrueterhuesli.ch/"
+street: Gerbergasse
+housenumber: "69"
+phone: +41 61 269 91 20
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00
+website: https://www.chrueterhuesli.ch/

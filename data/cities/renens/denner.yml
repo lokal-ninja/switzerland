@@ -1,11 +1,11 @@
 id: 237267234
-type: way
+type: node
 latitude: 46.5334
 longitude: 6.59809
 postcode: ""
 city: Renens
-street: "Avenue de Florissant"
-housenumber: 24
+street: Avenue de Florissant
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.49926
 longitude: 8.72607
 postcode: "8400"
 city: Winterthur
-street: "Untertor"
-housenumber: 3
+street: Untertor
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-We,Fr 09:00-18:30; Th 09:00-20:00; Sa 09:00-17:00"
-website: "https://www.sunrise.ch/"
+opening_hours: Mo-We,Fr 09:00-18:30; Th 09:00-20:00; Sa 09:00-17:00
+website: https://www.sunrise.ch/

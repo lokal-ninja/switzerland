@@ -1,11 +1,11 @@
 id: 345367244
-type: way
+type: node
 latitude: 46.90999
 longitude: 8.39539
 postcode: "6386"
 city: Wolfenschiessen
-street: "Hauptstrasse"
-housenumber: 8
+street: Hauptstrasse
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "http://mkmaschinen.ch"
+website: http://mkmaschinen.ch

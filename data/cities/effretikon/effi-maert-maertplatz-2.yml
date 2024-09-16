@@ -1,11 +1,11 @@
 id: 1039244912
-type: way
+type: node
 latitude: 47.42829
 longitude: 8.6859
 postcode: "8307"
 city: Effretikon
-street: "Märtplatz"
-housenumber: 1
-phone: "+41 52 343 66 13"
+street: Märtplatz
+housenumber: "1"
+phone: +41 52 343 66 13
 opening_hours: ""
-website: "http://paarberatung-mediation-zo.ch/"
+website: http://paarberatung-mediation-zo.ch/

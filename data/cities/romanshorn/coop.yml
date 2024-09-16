@@ -1,11 +1,11 @@
 id: 193460390
-type: way
+type: node
 latitude: 47.56307
 longitude: 9.37667
 postcode: "8590"
 city: Romanshorn
-street: "Alleestrasse"
-housenumber: 41
+street: Alleestrasse
+housenumber: "41"
 phone: "+4171466720"
-opening_hours: "Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa 08:00-17:00"
+opening_hours: Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa 08:00-17:00
 website: ""

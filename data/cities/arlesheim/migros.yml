@@ -4,8 +4,8 @@ latitude: 47.49431
 longitude: 7.6185
 postcode: "4144"
 city: Arlesheim
-street: "Postplatz"
-housenumber: 7
+street: Postplatz
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://filialen.migros.ch/de/migros-supermarkt-arlesheim"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://filialen.migros.ch/de/migros-supermarkt-arlesheim

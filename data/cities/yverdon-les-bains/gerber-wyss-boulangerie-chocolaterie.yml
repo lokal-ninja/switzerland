@@ -4,8 +4,8 @@ latitude: 46.77848
 longitude: 6.63956
 postcode: "1400"
 city: Yverdon-les-Bains
-street: "Rue du Four"
-housenumber: 15
-phone: "+41 24 426 08 08"
-opening_hours: "Tu-Fr 06:30-18:00; Sa 07:00-16:00; Su 07:00-12:00"
-website: "https://www.gerberwyss.ch/"
+street: Rue du Four
+housenumber: "15"
+phone: +41 24 426 08 08
+opening_hours: Tu-Fr 06:30-18:00; Sa 07:00-16:00; Su 07:00-12:00
+website: https://www.gerberwyss.ch/

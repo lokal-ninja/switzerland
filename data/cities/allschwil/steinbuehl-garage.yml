@@ -1,11 +1,11 @@
 id: 231123807
-type: way
+type: node
 latitude: 47.54873
 longitude: 7.55717
 postcode: "4123"
 city: Allschwil
-street: "Steinbühlallee"
-housenumber: 182
+street: Steinbühlallee
+housenumber: "182"
 phone: ""
-opening_hours: ""
+opening_hours: Mo-Fr 07:30-12:00,13:30-17:30
 website: ""

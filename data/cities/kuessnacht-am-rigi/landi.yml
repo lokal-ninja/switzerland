@@ -1,11 +1,11 @@
 id: 227197521
-type: way
+type: node
 latitude: 47.09268
 longitude: 8.44923
 postcode: "6403"
 city: Küssnacht am Rigi
-street: "Zugerstrasse"
-housenumber: 4
+street: Zugerstrasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

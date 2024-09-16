@@ -4,8 +4,8 @@ latitude: 47.40623
 longitude: 9.60678
 postcode: "9436"
 city: Balgach
-street: "Turnhallestrasse"
-housenumber: 1
+street: Turnhallestrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 06:00-21:00; PH,Su off"
-website: "https://www.goposchta.ch/"
+opening_hours: Mo-Sa 06:00-21:00; PH,Su off
+website: https://www.goposchta.ch/

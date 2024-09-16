@@ -4,8 +4,8 @@ latitude: 46.94136
 longitude: 7.46581
 postcode: "3006"
 city: Bern
-street: "Thunstrasse"
-housenumber: 110
+street: Thunstrasse
+housenumber: "110"
 phone: "+41585671930"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00"
-website: "https://www.migros.ch/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00
+website: https://www.migros.ch/

@@ -4,8 +4,8 @@ latitude: 47.40118
 longitude: 8.07783
 postcode: ""
 city: Aarau Rohr
-street: "Hauptstrasse"
-housenumber: 30
-phone: "+41 62 822 77 57"
-opening_hours: "Mo,We,Th 09:00-12:00,14:00-17:00; Tu,Fr-Su,PH off"
+street: Hauptstrasse
+housenumber: "30"
+phone: +41 62 822 77 57
+opening_hours: Mo,We,Th 09:00-12:00,14:00-17:00; Tu,Fr-Su,PH off
 website: ""

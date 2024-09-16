@@ -4,8 +4,8 @@ latitude: 47.49463
 longitude: 8.34188
 postcode: "5420"
 city: Ehrendingen
-street: "Schmiedhofstrasse"
-housenumber: 2
-phone: "+41 56 222 32 72"
-opening_hours: "Mo off; Tu-Fr 08:30-12:00,14:00-18:30; Sa 08:30-16:00"
-website: "https://www.papeterie-baeumler.ch/"
+street: Schmiedhofstrasse
+housenumber: "2"
+phone: +41 56 222 32 72
+opening_hours: Mo off; Tu-Fr 08:30-12:00,14:00-18:30; Sa 08:30-16:00
+website: https://www.papeterie-baeumler.ch/

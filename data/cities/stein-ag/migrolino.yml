@@ -4,8 +4,8 @@ latitude: 47.54759
 longitude: 7.95356
 postcode: "4332"
 city: Stein AG
-street: "Schaffhauserstrasse"
-housenumber: 46
+street: Schaffhauserstrasse
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Fr 05:00-22:00, Sa 06:00-22:00, Su 08:00-21:00"
-website: "https://www.migrolino.ch/de/standorte/shell-stein/"
+opening_hours: Mo-Fr 05:00-22:00, Sa 06:00-22:00, Su 08:00-21:00
+website: https://www.migrolino.ch/de/standorte/shell-stein/

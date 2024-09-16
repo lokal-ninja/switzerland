@@ -4,8 +4,8 @@ latitude: 46.95564
 longitude: 7.47697
 postcode: "3006"
 city: Bern
-street: "Breiteweg"
-housenumber: 2
+street: Breiteweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-18:00; Sa 09:00-12:00; Su off"
-website: "http://www.lerch-zweirad.ch"
+opening_hours: Mo-Fr 08:00-12:00, 14:00-18:00; Sa 09:00-12:00; Su off
+website: http://www.lerch-zweirad.ch

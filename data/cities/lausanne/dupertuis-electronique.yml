@@ -4,8 +4,8 @@ latitude: 46.51791
 longitude: 6.63388
 postcode: "1003"
 city: Lausanne
-street: "Rue de la Grotte"
-housenumber: 
-phone: "+41 21 312 79 22"
-opening_hours: "Tu-Fr 09:00-12:00,13:30-18:30; Sa 10:00-12:00,13:30-17:00"
-website: "https://dupertuis.com"
+street: Rue de la Grotte
+housenumber: ""
+phone: +41 21 312 79 22
+opening_hours: Tu-Fr 09:00-12:00,13:30-18:30; Sa 10:00-12:00,13:30-17:00
+website: https://dupertuis.com

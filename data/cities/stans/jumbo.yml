@@ -1,11 +1,11 @@
 id: 263991322
-type: way
+type: node
 latitude: 46.96518
 longitude: 8.3803
 postcode: "6370"
 city: Stans
-street: "Rieden"
-housenumber: 5
-phone: "+41 41 618 26 56"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:00-17:00"
-website: "https://www.jumbo.ch/de/standorte/s/1056_POS"
+street: Rieden
+housenumber: "5"
+phone: +41 41 618 26 56
+opening_hours: Mo-Fr 09:00-20:00; Sa 08:00-17:00
+website: https://www.jumbo.ch/de/standorte/s/1056_POS

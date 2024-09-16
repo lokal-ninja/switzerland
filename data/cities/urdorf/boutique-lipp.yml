@@ -4,8 +4,8 @@ latitude: 47.38428
 longitude: 8.42232
 postcode: "8902"
 city: Urdorf
-street: "Birmensdorferstrasse"
-housenumber: 79
-phone: "+41 79 198 54 76"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-17:00"
-website: "https://www.boutique-lipp.ch/"
+street: Birmensdorferstrasse
+housenumber: "79"
+phone: +41 79 198 54 76
+opening_hours: Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-17:00
+website: https://www.boutique-lipp.ch/

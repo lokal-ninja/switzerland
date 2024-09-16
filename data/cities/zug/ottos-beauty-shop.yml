@@ -4,8 +4,8 @@ latitude: 47.17151
 longitude: 8.51787
 postcode: "6300"
 city: Zug
-street: "Gotthardstrasse"
-housenumber: 3
+street: Gotthardstrasse
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.ottos.ch/"
+website: https://www.ottos.ch/

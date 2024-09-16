@@ -1,11 +1,11 @@
 id: 300384652
-type: way
+type: node
 latitude: 47.44267
 longitude: 9.46835
 postcode: "9034"
 city: Eggersriet
-street: "St. Gallerstrasse"
-housenumber: 13
+street: St. Gallerstrasse
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

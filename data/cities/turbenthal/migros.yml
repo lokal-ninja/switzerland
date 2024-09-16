@@ -1,11 +1,11 @@
 id: 36983118
-type: way
+type: node
 latitude: 47.43858
 longitude: 8.84415
 postcode: "8488"
 city: Turbenthal
-street: "Tösstalstrasse"
-housenumber: 54
+street: Tösstalstrasse
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-19:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-turbenthal"
+opening_hours: Mo-Fr 08:00-20:00, Sa 08:00-19:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-turbenthal

@@ -1,11 +1,11 @@
 id: 202075263
-type: way
+type: node
 latitude: 47.31295
 longitude: 7.92186
 postcode: "4665"
 city: Oftringen
-street: "Zürichstrasse"
-housenumber: 11
+street: Zürichstrasse
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

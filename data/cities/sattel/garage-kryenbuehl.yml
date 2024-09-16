@@ -1,11 +1,11 @@
 id: 216626791
-type: way
+type: node
 latitude: 47.08289
 longitude: 8.62805
 postcode: "6417"
 city: Sattel
-street: "Aegeristrasse"
-housenumber: 21
+street: Aegeristrasse
+housenumber: "21"
 phone: ""
 opening_hours: ""
-website: "https://www.garage-kryenbuehl.ch/de/index.html"
+website: https://www.garage-kryenbuehl.ch/de/index.html

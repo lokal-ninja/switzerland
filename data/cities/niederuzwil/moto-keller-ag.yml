@@ -4,8 +4,8 @@ latitude: 47.44517
 longitude: 9.1482
 postcode: "9244"
 city: Niederuzwil
-street: "Hirzenweg"
-housenumber: 3
-phone: "+41 71 951 28 05"
-opening_hours: "Mo-Fr 07:30-12:00,13:30-18:30; Sa 07:30-16:00"
-website: "https://www.kellermotos.ch/"
+street: Hirzenweg
+housenumber: "3"
+phone: +41 71 951 28 05
+opening_hours: Mo-Fr 07:30-12:00,13:30-18:30; Sa 07:30-16:00
+website: https://www.kellermotos.ch/

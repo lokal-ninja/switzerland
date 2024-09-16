@@ -4,8 +4,8 @@ latitude: 47.59484
 longitude: 8.28869
 postcode: "5330"
 city: Bad Zurzach
-street: "Wasenstrasse"
-housenumber: 8
+street: Wasenstrasse
+housenumber: "8"
 phone: "+41565014444"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.baris.swiss/"
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.baris.swiss/

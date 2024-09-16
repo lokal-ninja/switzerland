@@ -4,8 +4,8 @@ latitude: 47.41029
 longitude: 8.54504
 postcode: "8050"
 city: Zürich
-street: "Edisonstrasse"
-housenumber: 22
-phone: "+41 58 702 65 75"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.kuoni.ch/beratung/kuoni-reisebuero-zuerich-oerlikon/"
+street: Edisonstrasse
+housenumber: "22"
+phone: +41 58 702 65 75
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.kuoni.ch/beratung/kuoni-reisebuero-zuerich-oerlikon/

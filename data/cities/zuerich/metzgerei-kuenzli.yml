@@ -4,8 +4,8 @@ latitude: 47.37467
 longitude: 8.49615
 postcode: "8047"
 city: Zürich
-street: "Letzigraben"
-housenumber: 149
-phone: "+41 44 492 16 56"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-17:00"
-website: "https://www.metzgereikuenzli.ch/"
+street: Letzigraben
+housenumber: "149"
+phone: +41 44 492 16 56
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-17:00
+website: https://www.metzgereikuenzli.ch/

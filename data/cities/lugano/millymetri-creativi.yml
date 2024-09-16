@@ -4,8 +4,8 @@ latitude: 46.00859
 longitude: 8.95451
 postcode: "6900"
 city: Lugano
-street: "Via Carlo Maderno"
-housenumber: 1
-phone: "+41 77 210 78 90"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00; PH closed"
+street: Via Carlo Maderno
+housenumber: "1"
+phone: +41 77 210 78 90
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00; PH closed
 website: ""

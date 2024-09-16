@@ -1,11 +1,11 @@
 id: 322443153
-type: way
+type: node
 latitude: 46.84654
 longitude: 9.51263
 postcode: "7000"
 city: Chur
-street: "Kasernenstrasse"
-housenumber: 148
+street: Kasernenstrasse
+housenumber: "148"
 phone: ""
 opening_hours: ""
 website: ""

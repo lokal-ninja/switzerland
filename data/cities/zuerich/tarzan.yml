@@ -4,8 +4,8 @@ latitude: 47.38678
 longitude: 8.52355
 postcode: "8005"
 city: Zürich
-street: "Viaduktstrasse"
-housenumber: 51
+street: Viaduktstrasse
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00"
-website: "https://www.tarzan.ch/"
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-18:00
+website: https://www.tarzan.ch/

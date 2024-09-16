@@ -4,8 +4,8 @@ latitude: 47.41303
 longitude: 8.59295
 postcode: "8304"
 city: Wallisellen
-street: "Bahnhofplatz"
-housenumber: 2
+street: Bahnhofplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00, Sa 06:30-17:00, Su 08:00-17:00"
-website: "https://www.fleischli.swiss/stores/backerei-fleischli-wallisellen/"
+opening_hours: Mo-Fr 06:00-18:00, Sa 06:30-17:00, Su 08:00-17:00
+website: https://www.fleischli.swiss/stores/backerei-fleischli-wallisellen/

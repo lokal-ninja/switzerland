@@ -4,8 +4,8 @@ latitude: 46.41693
 longitude: 6.27645
 postcode: "1196"
 city: Gland
-street: "Rue Mauverney"
-housenumber: 22
-phone: "+41 58 573 49 00"
-opening_hours: "Mo-Sa 08:00-19:00"
+street: Rue Mauverney
+housenumber: "22"
+phone: +41 58 573 49 00
+opening_hours: Mo-Sa 08:00-19:00
 website: ""

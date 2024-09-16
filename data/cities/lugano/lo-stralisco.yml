@@ -4,8 +4,8 @@ latitude: 46.01146
 longitude: 8.96446
 postcode: "6900"
 city: Lugano
-street: "Via La Santa"
-housenumber: 20
+street: Via La Santa
+housenumber: "20"
 phone: "+41919702841"
-opening_hours: "Mo-Fr 09:00-12:00, Sa 13:30-18:00"
-website: "https://lostralisco.ch/"
+opening_hours: Mo-Fr 09:00-12:00, Sa 13:30-18:00
+website: https://lostralisco.ch/

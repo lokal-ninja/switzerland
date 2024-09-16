@@ -4,8 +4,8 @@ latitude: 46.25924
 longitude: 7.47344
 postcode: "3977"
 city: Granges
-street: "Route du Moulin"
-housenumber: 51
+street: Route du Moulin
+housenumber: "51"
 phone: "+41274550237"
-opening_hours: "Mo-Fr 8:00 - 12:00, 13:30 - 18:00"
-website: "https://garageunion.ch"
+opening_hours: Mo-Fr 8:00 - 12:00, 13:30 - 18:00
+website: https://garageunion.ch

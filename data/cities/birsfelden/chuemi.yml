@@ -1,11 +1,11 @@
 id: 111540555
-type: way
+type: node
 latitude: 47.55265
 longitude: 7.63329
 postcode: "4127"
 city: Birsfelden
-street: "Sternenfeldstrasse"
-housenumber: 15
-phone: "+41  61 313 22 66"
+street: Sternenfeldstrasse
+housenumber: "15"
+phone: +41  61 313 22 66
 opening_hours: ""
-website: "https://www.chuemi.ch/"
+website: https://www.chuemi.ch/

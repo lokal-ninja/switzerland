@@ -4,8 +4,8 @@ latitude: 47.41342
 longitude: 8.54058
 postcode: "8050"
 city: Zürich
-street: "Sophie-Taeuber-Strasse"
-housenumber: 4
-phone: "+41 44 315 32 20"
-opening_hours: "Mo-Sa 07:30-21:00"
-website: "https://www.coop.ch/de/standorte/coop-supermarkt-zuerich-eleven/2250_POS"
+street: Sophie-Taeuber-Strasse
+housenumber: "4"
+phone: +41 44 315 32 20
+opening_hours: Mo-Sa 07:30-21:00
+website: https://www.coop.ch/de/standorte/coop-supermarkt-zuerich-eleven/2250_POS

@@ -4,8 +4,8 @@ latitude: 47.47837
 longitude: 7.55049
 postcode: "4107"
 city: Ettingen
-street: "Im Bohnacker"
-housenumber: 32
-phone: "+41 79 632 99 53"
-opening_hours: "Selbstbedienungsstand: 24h Postversand: Fr. 20.-"
+street: Im Bohnacker
+housenumber: "32"
+phone: +41 79 632 99 53
+opening_hours: 'Selbstbedienungsstand: 24h Postversand: Fr. 20.-'
 website: ""

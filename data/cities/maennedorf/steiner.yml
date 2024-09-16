@@ -4,8 +4,8 @@ latitude: 47.25519
 longitude: 8.69009
 postcode: "8708"
 city: Männedorf
-street: "Dammstrasse"
-housenumber: 22
+street: Dammstrasse
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; Sa 07:00-16:30; Su 07:30-16:00"
-website: "https://www.steiner-beck.ch/filialen/maennedorf/"
+opening_hours: Mo-Fr 06:30-18:30; Sa 07:00-16:30; Su 07:30-16:00
+website: https://www.steiner-beck.ch/filialen/maennedorf/

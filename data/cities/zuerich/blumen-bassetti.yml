@@ -4,8 +4,8 @@ latitude: 47.37756
 longitude: 8.50801
 postcode: "8003"
 city: Zürich
-street: "Aemtlerstrasse"
-housenumber: 205
+street: Aemtlerstrasse
+housenumber: "205"
 phone: ""
-opening_hours: "Mo 07:30-18:30; Tu-Fr 08:00-18:30; Sa 08:00-16:00"
-website: "https://www.blumenbassetti.ch/"
+opening_hours: Mo 07:30-18:30; Tu-Fr 08:00-18:30; Sa 08:00-16:00
+website: https://www.blumenbassetti.ch/

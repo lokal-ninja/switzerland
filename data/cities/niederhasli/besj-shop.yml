@@ -4,8 +4,8 @@ latitude: 47.48076
 longitude: 8.48419
 postcode: "8155"
 city: Niederhasli
-street: "Dorfstrasse"
-housenumber: 10
-phone: "+41 44 850 69 52"
-opening_hours: "Mo-Th 08:30-11:30; Fr 08:30-11:30,15:00-18:00; Sa 09:00-14:00; PH off"
-website: "https://shop.besj.ch/"
+street: Dorfstrasse
+housenumber: "10"
+phone: +41 44 850 69 52
+opening_hours: Mo-Th 08:30-11:30; Fr 08:30-11:30,15:00-18:00; Sa 09:00-14:00; PH off
+website: https://shop.besj.ch/

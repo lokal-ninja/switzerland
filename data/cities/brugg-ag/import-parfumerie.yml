@@ -4,8 +4,8 @@ latitude: 47.48272
 longitude: 8.20802
 postcode: "5200"
 city: Brugg AG
-street: "Neumarktplatz"
-housenumber: 8
+street: Neumarktplatz
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.impo.ch/"
+website: https://www.impo.ch/

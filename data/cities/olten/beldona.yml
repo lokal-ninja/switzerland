@@ -4,8 +4,8 @@ latitude: 47.34987
 longitude: 7.90278
 postcode: "4600"
 city: Olten
-street: "Hauptgasse"
-housenumber: 33
+street: Hauptgasse
+housenumber: "33"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-17:00; Mo 13:30-18:30"
-website: "https://www.beldona.com/"
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-17:00; Mo 13:30-18:30
+website: https://www.beldona.com/

@@ -4,8 +4,8 @@ latitude: 46.24714
 longitude: 6.96093
 postcode: "1870"
 city: Monthey
-street: "Avenue du Simplon"
-housenumber: 100
+street: Avenue du Simplon
+housenumber: "100"
 phone: "+41244722972"
-opening_hours: "Mo-Fr 07:30-12:00,13:00-18:00; Sa 08:00-12:00"
-website: "https://www.verolet.com/"
+opening_hours: Mo-Fr 07:30-12:00,13:00-18:00; Sa 08:00-12:00
+website: https://www.verolet.com/

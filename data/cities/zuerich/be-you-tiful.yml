@@ -4,8 +4,8 @@ latitude: 47.37075
 longitude: 8.51803
 postcode: "8003"
 city: Zürich
-street: "Bremgartnerstrasse"
-housenumber: 59
+street: Bremgartnerstrasse
+housenumber: "59"
 phone: ""
 opening_hours: ""
-website: "https://www.schoenheitsschmiede.ch/"
+website: https://www.schoenheitsschmiede.ch/

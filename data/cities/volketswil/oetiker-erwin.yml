@@ -1,11 +1,11 @@
 id: 90524888
-type: way
+type: node
 latitude: 47.38261
 longitude: 8.67684
 postcode: "8604"
 city: Volketswil
-street: "Zelgliweg"
-housenumber: 11
+street: Zelgliweg
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

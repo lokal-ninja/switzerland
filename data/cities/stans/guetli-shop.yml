@@ -1,11 +1,11 @@
 id: 263991364
-type: way
+type: node
 latitude: 46.96493
 longitude: 8.38215
 postcode: "6370"
 city: Stans
-street: "Rieden"
-housenumber: 1
+street: Rieden
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

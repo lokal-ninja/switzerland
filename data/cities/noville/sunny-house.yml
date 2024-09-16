@@ -4,8 +4,8 @@ latitude: 46.3825
 longitude: 6.90848
 postcode: "1845"
 city: Noville
-street: "Route d'Evian"
-housenumber: 28
-phone: "+41 78 708 29 30"
-opening_hours: "Th 14:30-19:00, Sa[1] 10:00-17:00"
-website: "https://sunnyhouse.ch/"
+street: Route d'Evian
+housenumber: "28"
+phone: +41 78 708 29 30
+opening_hours: Th 14:30-19:00, Sa[1] 10:00-17:00
+website: https://sunnyhouse.ch/

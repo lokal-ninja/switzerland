@@ -4,8 +4,8 @@ latitude: 47.35292
 longitude: 8.72193
 postcode: "8610"
 city: Uster
-street: "Brunnenwiesenstrasse"
-housenumber: 4
-phone: "+41 43 366 56 56"
-opening_hours: "Mo-Sa 11:00-24:00"
-website: "https://www.lacorona.ch/"
+street: Brunnenwiesenstrasse
+housenumber: "4"
+phone: +41 43 366 56 56
+opening_hours: Mo-Sa 11:00-24:00
+website: https://www.lacorona.ch/

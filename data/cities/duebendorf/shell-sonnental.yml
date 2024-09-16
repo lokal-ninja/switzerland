@@ -4,8 +4,8 @@ latitude: 47.39564
 longitude: 8.60611
 postcode: "8600"
 city: Dübendorf
-street: "Zürichstrasse"
-housenumber: 89
+street: Zürichstrasse
+housenumber: "89"
 phone: ""
-opening_hours: "24/7"
-website: "https://find.shell.com/ch/fuel/10023358-shell-sonnental/de_CH"
+opening_hours: 24/7
+website: https://find.shell.com/ch/fuel/10023358-shell-sonnental/de_CH

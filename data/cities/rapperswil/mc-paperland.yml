@@ -5,7 +5,7 @@ longitude: 8.82132
 postcode: "8640"
 city: Rapperswil
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:00-18:00"
-website: "https://www.mcpaperland.ch/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 08:00-18:00
+website: https://www.mcpaperland.ch/

@@ -4,8 +4,8 @@ latitude: 46.60719
 longitude: 6.52255
 postcode: "1305"
 city: Penthalaz
-street: "Chemin de l'Islettaz"
-housenumber: 1
+street: Chemin de l'Islettaz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Do 07:30-19:00, Fr 7:30-20:00, Sa 7:30-18:00"
-website: "https://www.coop.ch/"
+opening_hours: Mo-Do 07:30-19:00, Fr 7:30-20:00, Sa 7:30-18:00
+website: https://www.coop.ch/

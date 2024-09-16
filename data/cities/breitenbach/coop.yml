@@ -4,8 +4,8 @@ latitude: 47.40655
 longitude: 7.54132
 postcode: "4226"
 city: Breitenbach
-street: "Neumattstrasse"
-housenumber: 1
+street: Neumattstrasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.coop.ch/de/unternehmen/standorte-und-oeffnungszeiten/detail.html/5328/coop-supermarkt-breitenbach.html"
+website: https://www.coop.ch/de/unternehmen/standorte-und-oeffnungszeiten/detail.html/5328/coop-supermarkt-breitenbach.html

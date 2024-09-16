@@ -4,8 +4,8 @@ latitude: 46.38233
 longitude: 6.21741
 postcode: "1260"
 city: Nyon
-street: "Route de Champ-Colin"
-housenumber: 20
-phone: "+41 22 544 33 50"
+street: Route de Champ-Colin
+housenumber: "20"
+phone: +41 22 544 33 50
 opening_hours: ""
-website: "https://www.sfs.ch/de/store/1068_POS"
+website: https://www.sfs.ch/de/store/1068_POS

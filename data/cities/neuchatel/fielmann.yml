@@ -4,8 +4,8 @@ latitude: 46.99195
 longitude: 6.92924
 postcode: "2000"
 city: Neuchâtel
-street: "Grand Rue"
-housenumber: 2
-phone: "+41 32 722 74 44"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.fielmann.ch/fr/succursales/neuchatel/2000-grand-rue-2/"
+street: Grand Rue
+housenumber: "2"
+phone: +41 32 722 74 44
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.fielmann.ch/fr/succursales/neuchatel/2000-grand-rue-2/

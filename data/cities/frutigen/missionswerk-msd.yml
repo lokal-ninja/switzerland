@@ -4,8 +4,8 @@ latitude: 46.58456
 longitude: 7.64605
 postcode: "3714"
 city: Frutigen
-street: "Grassiweg"
-housenumber: 3
-phone: "+41 33 672 50 10"
-opening_hours: "DI und DO 8:30-12:00 und 13:30-17:00"
-website: "https://msd-online.ch"
+street: Grassiweg
+housenumber: "3"
+phone: +41 33 672 50 10
+opening_hours: DI und DO 8:30-12:00 und 13:30-17:00
+website: https://msd-online.ch

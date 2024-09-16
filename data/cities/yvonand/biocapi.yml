@@ -4,8 +4,9 @@ latitude: 46.80008
 longitude: 6.7436
 postcode: "1462"
 city: Yvonand
-street: "Grand'Rue"
+street: Grand'Rue
 housenumber: 31a
-phone: "+41 24 430 17 74"
-opening_hours: "Mo, Tu, We, Sa Sur rendez-vous; Th,Fr 08:30-12:00,13:30-18:00; Sa 09:00-12:00"
-website: "https://www.biocapi.ch/"
+phone: +41 24 430 17 74
+opening_hours: Mo, Tu, We, Sa "Sur rendez-vous"; Th,Fr 08:30-12:00,13:30-18:00; Sa
+    09:00-12:00
+website: https://www.biocapi.ch/

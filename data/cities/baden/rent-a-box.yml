@@ -4,8 +4,8 @@ latitude: 47.47563
 longitude: 8.30868
 postcode: "5400"
 city: Baden
-street: "Badstrasse"
-housenumber: 33
+street: Badstrasse
+housenumber: "33"
 phone: ""
 opening_hours: ""
-website: "https://rent-a-box.ch/baden"
+website: https://rent-a-box.ch/baden

@@ -4,8 +4,8 @@ latitude: 47.50536
 longitude: 8.72105
 postcode: "8400"
 city: Winterthur
-street: "Neugutstrasse"
-housenumber: 5
-phone: "+41 52 202 32 52"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 09:00-16:00"
-website: "https://mojo-design.ch/"
+street: Neugutstrasse
+housenumber: "5"
+phone: +41 52 202 32 52
+opening_hours: Tu-Fr 10:00-18:00; Sa 09:00-16:00
+website: https://mojo-design.ch/

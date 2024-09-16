@@ -1,11 +1,11 @@
 id: 483070055
-type: way
+type: node
 latitude: 47.44451
 longitude: 8.1692
 postcode: "5116"
 city: Schinznach-Bad
-street: "Aarauerstrasse"
-housenumber: 45
+street: Aarauerstrasse
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

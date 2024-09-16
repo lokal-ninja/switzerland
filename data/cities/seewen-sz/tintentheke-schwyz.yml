@@ -4,8 +4,8 @@ latitude: 47.02901
 longitude: 8.63065
 postcode: "6423"
 city: Seewen SZ
-street: "Bienenheimstrasse"
-housenumber: 4
+street: Bienenheimstrasse
+housenumber: "4"
 phone: "+41418104355"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:30"
-website: "https://www.tintentheke-schwyz.ch/"
+opening_hours: Mo-Fr 09:00-12:00, 14:00-18:30
+website: https://www.tintentheke-schwyz.ch/

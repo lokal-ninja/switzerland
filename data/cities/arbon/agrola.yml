@@ -1,11 +1,11 @@
 id: 48600226
-type: way
+type: node
 latitude: 47.50804
 longitude: 9.41595
 postcode: "9320"
 city: Arbon
-street: "St. Gallerstrasse"
-housenumber: 107
+street: St. Gallerstrasse
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.72189
 longitude: 6.54472
 postcode: "1350"
 city: Orbe
-street: "Rue des Ducats"
-housenumber: 2
+street: Rue des Ducats
+housenumber: "2"
 phone: ""
-opening_hours: "24/7"
-website: "http://www.lapetiteepicerie.ch/"
+opening_hours: 24/7
+website: http://www.lapetiteepicerie.ch/

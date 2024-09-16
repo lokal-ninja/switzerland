@@ -4,8 +4,8 @@ latitude: 47.55485
 longitude: 8.89572
 postcode: "8501"
 city: Frauenfeld
-street: "Zürcherstrasse"
-housenumber: 147
+street: Zürcherstrasse
+housenumber: "147"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:30,13:30-18:30; Sa 09:30-16:00; PH closed"
-website: "https://www.kuoni.ch/reisebueros/ostschweiz-graubuenden/details/kuoni-reisebuero-frauenfeld/"
+opening_hours: Mo-Fr 08:00-12:30,13:30-18:30; Sa 09:30-16:00; PH closed
+website: https://www.kuoni.ch/reisebueros/ostschweiz-graubuenden/details/kuoni-reisebuero-frauenfeld/

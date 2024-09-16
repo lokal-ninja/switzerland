@@ -4,8 +4,8 @@ latitude: 47.37166
 longitude: 8.541
 postcode: "8001"
 city: Zürich
-street: "St. Peterhofstatt"
-housenumber: 10
-phone: "+41 44 545 00 20"
-opening_hours: "Tu-Fr 11:00-18:30; Sa 10:00-18:00"
+street: St. Peterhofstatt
+housenumber: "10"
+phone: +41 44 545 00 20
+opening_hours: Tu-Fr 11:00-18:30; Sa 10:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.29937
 longitude: 9.08787
 postcode: "9630"
 city: Wattwil
-street: "Bahnhofstrasse"
-housenumber: 19
+street: Bahnhofstrasse
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Th 07:30-19:00, Fr 07:30-20:00, Sa 07:30-17:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-wattwil"
+opening_hours: Mo-Th 07:30-19:00, Fr 07:30-20:00, Sa 07:30-17:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-wattwil

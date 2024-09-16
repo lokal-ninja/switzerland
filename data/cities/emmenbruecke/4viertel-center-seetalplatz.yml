@@ -1,11 +1,11 @@
 id: 87342217
-type: way
+type: node
 latitude: 47.0689
 longitude: 8.28059
 postcode: "6020"
 city: Emmenbrücke
-street: "Seetalplatz"
-housenumber: 1
+street: Seetalplatz
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.25265
 longitude: 8.69057
 postcode: "8708"
 city: Männedorf
-street: "Dorfgasse"
-housenumber: 46
+street: Dorfgasse
+housenumber: "46"
 phone: ""
-opening_hours: "Fr 09:00-12:00, Tu-Fr 14:00-18:30, Sa 09:00-16:00"
-website: "https://www.bauraulacvins.ch/de/filiale-maennedorf.html"
+opening_hours: Fr 09:00-12:00, Tu-Fr 14:00-18:30, Sa 09:00-16:00
+website: https://www.bauraulacvins.ch/de/filiale-maennedorf.html

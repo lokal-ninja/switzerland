@@ -4,8 +4,8 @@ latitude: 47.55191
 longitude: 7.56313
 postcode: "4054"
 city: Basel
-street: "Wanderstrasse"
-housenumber: 121
+street: Wanderstrasse
+housenumber: "121"
 phone: ""
-opening_hours: "Mo-Fr 07:30-20:00, Sa 07:30-18:00, Su 08:00-20:00"
-website: "https://filialen.migros.ch/de/migros-partner-basel-wanderstrasse"
+opening_hours: Mo-Fr 07:30-20:00, Sa 07:30-18:00, Su 08:00-20:00
+website: https://filialen.migros.ch/de/migros-partner-basel-wanderstrasse

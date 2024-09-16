@@ -1,11 +1,11 @@
 id: 372562505
-type: way
+type: node
 latitude: 47.40805
 longitude: 9.62798
 postcode: "9435"
 city: Heerbrugg
-street: "Widnauerstrasse"
-housenumber: 8
+street: Widnauerstrasse
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Th 09:00-18:30; Fr 09:00-19:00; Sa 09:00-17:00"
+opening_hours: Mo-Th 09:00-18:30; Fr 09:00-19:00; Sa 09:00-17:00
 website: ""

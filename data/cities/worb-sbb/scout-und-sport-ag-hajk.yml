@@ -4,8 +4,8 @@ latitude: 46.91525
 longitude: 7.56276
 postcode: "3076"
 city: Worb SBB
-street: "Rubigenstrasse"
-housenumber: 79
+street: Rubigenstrasse
+housenumber: "79"
 phone: "+41318383838"
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-17:00"
-website: "https://www.hajk.ch"
+opening_hours: Mo-Fr 08:00-12:00, 13:00-17:00
+website: https://www.hajk.ch

@@ -4,8 +4,8 @@ latitude: 47.38134
 longitude: 8.5363
 postcode: "8005"
 city: Zürich
-street: "Limmatstrasse"
-housenumber: 34
+street: Limmatstrasse
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00,13:00-17:30; Fr 08:00-12:00,13:00-17:00"
-website: "https://www.okhaller.ch/"
+opening_hours: Mo-Th 08:00-12:00,13:00-17:30; Fr 08:00-12:00,13:00-17:00
+website: https://www.okhaller.ch/

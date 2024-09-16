@@ -4,8 +4,8 @@ latitude: 47.47535
 longitude: 8.30592
 postcode: "5400"
 city: Baden
-street: "Stadtturmstrasse"
-housenumber: 15
-phone: "+41 56 555 35 87"
-opening_hours: "Tu-Fr 08:30-19:00; Sa 09:00-18:00"
-website: "https://www.ohne.ch/"
+street: Stadtturmstrasse
+housenumber: "15"
+phone: +41 56 555 35 87
+opening_hours: Tu-Fr 08:30-19:00; Sa 09:00-18:00
+website: https://www.ohne.ch/

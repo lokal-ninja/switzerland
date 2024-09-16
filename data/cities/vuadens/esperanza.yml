@@ -4,8 +4,8 @@ latitude: 46.61817
 longitude: 7.02052
 postcode: "1628"
 city: Vuadens
-street: "Rue des Artisans"
-housenumber: 136
+street: Rue des Artisans
+housenumber: "136"
 phone: ""
-opening_hours: "Mo-Sa 08:00-12:00,13:00-17:00"
-website: "https://www.esperanza.ch/"
+opening_hours: Mo-Sa 08:00-12:00,13:00-17:00
+website: https://www.esperanza.ch/

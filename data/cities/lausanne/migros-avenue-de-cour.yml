@@ -1,11 +1,11 @@
 id: 46765109
-type: way
+type: node
 latitude: 46.51582
 longitude: 6.61773
 postcode: "1007"
 city: Lausanne
-street: "Avenue de Cour"
-housenumber: 36
+street: Avenue de Cour
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00
 website: ""

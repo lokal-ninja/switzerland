@@ -4,8 +4,8 @@ latitude: 47.05756
 longitude: 7.62688
 postcode: "3400"
 city: Burgdorf
-street: "Mühlegasse"
-housenumber: 4
-phone: "+41 34 530 13 08"
-opening_hours: "Tu-Fr 09:00-12:30,13:30-18:00; Sa 09:00-16:00"
-website: "https://www.rad-werk.ch/"
+street: Mühlegasse
+housenumber: "4"
+phone: +41 34 530 13 08
+opening_hours: Tu-Fr 09:00-12:30,13:30-18:00; Sa 09:00-16:00
+website: https://www.rad-werk.ch/

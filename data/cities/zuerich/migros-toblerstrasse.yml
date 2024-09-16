@@ -4,8 +4,8 @@ latitude: 47.37938
 longitude: 8.55947
 postcode: "8044"
 city: Zürich
-street: "Toblerstrasse"
-housenumber: 73
+street: Toblerstrasse
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-zuerich-toblerplatz"
+opening_hours: Mo-Sa 07:30-20:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-zuerich-toblerplatz

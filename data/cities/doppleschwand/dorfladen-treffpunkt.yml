@@ -1,11 +1,11 @@
 id: 197686738
-type: way
+type: node
 latitude: 47.01808
 longitude: 8.05527
 postcode: "6112"
 city: Doppleschwand
-street: "Dorfmatte"
-housenumber: 15
+street: Dorfmatte
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

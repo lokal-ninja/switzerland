@@ -1,11 +1,11 @@
 id: 285894502
-type: way
+type: node
 latitude: 47.42964
 longitude: 8.96463
 postcode: "8374"
 city: Dussnang
-street: "Kurhausstrasse"
-housenumber: 19
+street: Kurhausstrasse
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

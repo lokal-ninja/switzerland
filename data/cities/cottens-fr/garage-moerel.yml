@@ -1,11 +1,11 @@
 id: 687571478
-type: way
+type: node
 latitude: 46.75233
 longitude: 7.03056
 postcode: "1741"
 city: Cottens (FR)
-street: "Route de Lentigny"
-housenumber: 1
+street: Route de Lentigny
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

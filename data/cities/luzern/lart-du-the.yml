@@ -1,11 +1,11 @@
 id: 95985635
-type: way
+type: node
 latitude: 47.05078
 longitude: 8.3031
 postcode: "6003"
 city: Luzern
-street: "Burgerstrasse"
-housenumber: 1
+street: Burgerstrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo 13:45-18:30; Tu-Fr 09:00-12:00,13:45-18:30; Sa 09:00-16:00"
-website: "https://art-du-the.ch"
+opening_hours: Mo 13:45-18:30; Tu-Fr 09:00-12:00,13:45-18:30; Sa 09:00-16:00
+website: https://art-du-the.ch

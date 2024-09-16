@@ -4,8 +4,8 @@ latitude: 47.26899
 longitude: 8.6452
 postcode: "8706"
 city: Meilen
-street: "Dorfstrasse"
-housenumber: 126
+street: Dorfstrasse
+housenumber: "126"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.walder.ch/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.walder.ch/

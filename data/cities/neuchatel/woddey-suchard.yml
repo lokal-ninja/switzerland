@@ -4,8 +4,8 @@ latitude: 46.99152
 longitude: 6.92885
 postcode: "2000"
 city: Neuchâtel
-street: "Rue du Seyon"
-housenumber: 5
-phone: "+41 32 725 10 92"
-opening_hours: "Mo 11:00-18:30; Tu-Fr 06:30-18:30; Sa 06:30-17:00"
-website: "https://www.wodey-suchard.ch/"
+street: Rue du Seyon
+housenumber: "5"
+phone: +41 32 725 10 92
+opening_hours: Mo 11:00-18:30; Tu-Fr 06:30-18:30; Sa 06:30-17:00
+website: https://www.wodey-suchard.ch/

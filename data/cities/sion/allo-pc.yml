@@ -4,8 +4,8 @@ latitude: 46.22837
 longitude: 7.34368
 postcode: "1950"
 city: Sion
-street: "Rue de Lausanne"
-housenumber: 116
+street: Rue de Lausanne
+housenumber: "116"
 phone: "+41273230202"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00"
-website: "https://allopc.ch/"
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00
+website: https://allopc.ch/

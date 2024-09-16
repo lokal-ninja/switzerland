@@ -4,8 +4,8 @@ latitude: 46.20206
 longitude: 6.14765
 postcode: "1204"
 city: Genève
-street: "Rue du Perron"
-housenumber: 12
-phone: "+41 22 700 1806"
+street: Rue du Perron
+housenumber: "12"
+phone: +41 22 700 1806
 opening_hours: ""
-website: "https://www.souslespaves.ch/"
+website: https://www.souslespaves.ch/

@@ -1,11 +1,11 @@
 id: 83468937
-type: way
+type: node
 latitude: 47.38821
 longitude: 9.65144
 postcode: "9444"
 city: Diepoldsau
-street: "Tramstrasse"
-housenumber: 19
+street: Tramstrasse
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.80524
 longitude: 7.15726
 postcode: "1700"
 city: Fribourg
-street: "Rue de Lausanne"
-housenumber: 82
+street: Rue de Lausanne
+housenumber: "82"
 phone: ""
 opening_hours: ""
-website: "https://www.comptoir-des-thes.ch/"
+website: https://www.comptoir-des-thes.ch/

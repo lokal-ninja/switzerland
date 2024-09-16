@@ -4,8 +4,8 @@ latitude: 47.27832
 longitude: 8.75974
 postcode: "8627"
 city: Grüningen
-street: "Binzikerstrasse"
-housenumber: 25
-phone: "+41 44 975 30 60"
-opening_hours: "Tu-Fr 07:30-12:15,15:00-18:30; Sa 07:30-15:00; PH off"
-website: "https://www.kaese-huette.ch"
+street: Binzikerstrasse
+housenumber: "25"
+phone: +41 44 975 30 60
+opening_hours: Tu-Fr 07:30-12:15,15:00-18:30; Sa 07:30-15:00; PH off
+website: https://www.kaese-huette.ch

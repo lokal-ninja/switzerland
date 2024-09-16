@@ -4,8 +4,8 @@ latitude: 47.34689
 longitude: 7.90956
 postcode: "4600"
 city: Olten
-street: "Louis-Giroud-Strasse"
-housenumber: 20
+street: Louis-Giroud-Strasse
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Th 08:00-20:00; Sa 08:00-18:00; PH off"
-website: "https://filialen.migros.ch/de/florissimo-olten-saelipark"
+opening_hours: Mo-Fr 08:00-18:30; Th 08:00-20:00; Sa 08:00-18:00; PH off
+website: https://filialen.migros.ch/de/florissimo-olten-saelipark

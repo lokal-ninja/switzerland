@@ -1,11 +1,11 @@
 id: 702495742
-type: way
+type: node
 latitude: 47.30526
 longitude: 7.93067
 postcode: "4665"
 city: Oftringen
-street: "Campingweg"
-housenumber: 11
+street: Campingweg
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.migrolino.ch/de/standorte/shell-oftringen/"
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.migrolino.ch/de/standorte/shell-oftringen/

@@ -1,11 +1,11 @@
 id: 44449112
-type: way
+type: node
 latitude: 47.49356
 longitude: 8.75613
 postcode: "8404"
 city: Winterthur
-street: "Rudolf-Diesel-Strasse"
-housenumber: 12
+street: Rudolf-Diesel-Strasse
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 07:00-12:00, 13:00-18:00; Sa 09:00-16:00"
-website: "https://www.hasler.ch/"
+opening_hours: Mo-Fr 07:00-12:00, 13:00-18:00; Sa 09:00-16:00
+website: https://www.hasler.ch/

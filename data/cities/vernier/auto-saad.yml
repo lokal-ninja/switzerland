@@ -1,11 +1,11 @@
 id: 81358833
-type: way
+type: node
 latitude: 46.22163
 longitude: 6.09373
 postcode: ""
 city: Vernier
-street: "Chemin des Coquelicots"
-housenumber: 25
+street: Chemin des Coquelicots
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

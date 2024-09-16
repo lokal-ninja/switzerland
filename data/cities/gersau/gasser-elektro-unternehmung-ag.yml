@@ -4,8 +4,8 @@ latitude: 46.99188
 longitude: 8.52552
 postcode: "6442"
 city: Gersau
-street: "Dorfstrasse"
-housenumber: 30
-phone: "+41 41 818 30 99;Störungsdienst: +41 41 818 30 30"
+street: Dorfstrasse
+housenumber: "30"
+phone: '+41 41 818 30 99;Störungsdienst: +41 41 818 30 30'
 opening_hours: ""
-website: "https://www.gasser-elektro.ch"
+website: https://www.gasser-elektro.ch

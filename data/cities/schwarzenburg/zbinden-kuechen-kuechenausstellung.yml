@@ -1,11 +1,11 @@
 id: 158769269
-type: way
+type: node
 latitude: 46.82337
 longitude: 7.34881
 postcode: "3150"
 city: Schwarzenburg
-street: "Feldmoosstrasse"
-housenumber: 5
-phone: "+41 31 731 25 63"
-opening_hours: "Mo off; Tu-Fr 09:00-12:00,14:00-17:30; Sa[1] 10:00-14:00; Su off"
-website: "http://www.zbindenküchen.ch"
+street: Feldmoosstrasse
+housenumber: "5"
+phone: +41 31 731 25 63
+opening_hours: Mo off; Tu-Fr 09:00-12:00,14:00-17:30; Sa[1] 10:00-14:00; Su off
+website: http://www.zbindenküchen.ch

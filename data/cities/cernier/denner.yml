@@ -1,11 +1,11 @@
 id: 195295344
-type: way
+type: node
 latitude: 47.05812
 longitude: 6.90076
 postcode: "2053"
 city: Cernier
-street: "Route de Neuchâtel"
-housenumber: 3
-phone: "+41 58 999 17 03"
-opening_hours: "Mo-We 08:00-19:00; Th 08:00-20:00; Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.denner.ch/"
+street: Route de Neuchâtel
+housenumber: "3"
+phone: +41 58 999 17 03
+opening_hours: Mo-We 08:00-19:00; Th 08:00-20:00; Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.denner.ch/

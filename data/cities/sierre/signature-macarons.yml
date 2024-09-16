@@ -4,8 +4,8 @@ latitude: 46.29332
 longitude: 7.53456
 postcode: "3960"
 city: Sierre
-street: "Rue du Bourg"
-housenumber: 18
-phone: "+41 79 219 69 98"
-opening_hours: "tu-fr 08:00-12:00,14:00-18:30; sa 8:30-17:00,su 08:00-12:00,mo off"
+street: Rue du Bourg
+housenumber: "18"
+phone: +41 79 219 69 98
+opening_hours: tu-fr 08:00-12:00,14:00-18:30; sa 8:30-17:00,su 08:00-12:00,mo off
 website: ""

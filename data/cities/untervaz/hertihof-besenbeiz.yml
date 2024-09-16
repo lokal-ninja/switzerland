@@ -1,11 +1,11 @@
 id: 401880007
-type: way
+type: node
 latitude: 46.92481
 longitude: 9.54801
 postcode: "7204"
 city: Untervaz
-street: "Baltschinweg"
-housenumber: 1
-phone: "+41  81  322 17 42"
-opening_hours: "Mo-Fr 08:30-19:00"
-website: "https://www.hertihof.ch/"
+street: Baltschinweg
+housenumber: "1"
+phone: +41  81  322 17 42
+opening_hours: Mo-Fr 08:30-19:00
+website: https://www.hertihof.ch/

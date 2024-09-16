@@ -1,11 +1,11 @@
 id: 205289061
-type: way
+type: node
 latitude: 47.67417
 longitude: 9.01642
 postcode: "8267"
 city: Berlingen
-street: "Seestrasse"
-housenumber: 30
+street: Seestrasse
+housenumber: "30"
 phone: "+41715589777"
 opening_hours: ""
-website: "https://www.xn--rhy-und-bodans-tchter-wec.ch/"
+website: https://www.xn--rhy-und-bodans-tchter-wec.ch/

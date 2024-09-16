@@ -1,11 +1,11 @@
 id: 24253610
-type: way
+type: node
 latitude: 47.2685
 longitude: 8.64523
 postcode: "8706"
 city: Meilen
-street: "Rosengartenstrasse"
-housenumber: 10
+street: Rosengartenstrasse
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-meilen"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-meilen

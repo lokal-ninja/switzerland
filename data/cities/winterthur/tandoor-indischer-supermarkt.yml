@@ -4,8 +4,8 @@ latitude: 47.50073
 longitude: 8.72017
 postcode: "8400"
 city: Winterthur
-street: "Neuwiesenstrasse"
-housenumber: 6
+street: Neuwiesenstrasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00"
+opening_hours: Mo-Sa 10:00-21:00
 website: ""

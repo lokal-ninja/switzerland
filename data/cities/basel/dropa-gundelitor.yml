@@ -4,8 +4,8 @@ latitude: 47.54353
 longitude: 7.59192
 postcode: "4053"
 city: Basel
-street: "Güterstrasse"
-housenumber: 180
+street: Güterstrasse
+housenumber: "180"
 phone: ""
-opening_hours: "Sa 08:00-18:00; Mo-Fr 08:00-19:30"
-website: "https://dropa.ch/standorte/dropa-drogerie-apotheke-gundelitor"
+opening_hours: Sa 08:00-18:00; Mo-Fr 08:00-19:30
+website: https://dropa.ch/standorte/dropa-drogerie-apotheke-gundelitor

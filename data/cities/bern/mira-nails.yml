@@ -4,8 +4,8 @@ latitude: 46.95916
 longitude: 7.45661
 postcode: "3014"
 city: Bern
-street: "Rodtmattstrasse"
-housenumber: 97
-phone: "+41 76 415 30 93"
-opening_hours: "nach Vereinbarung"
-website: "https://www.miranails.ch/"
+street: Rodtmattstrasse
+housenumber: "97"
+phone: +41 76 415 30 93
+opening_hours: '"nach Vereinbarung"'
+website: https://www.miranails.ch/

@@ -1,11 +1,11 @@
 id: 144106878
-type: way
+type: node
 latitude: 47.472
 longitude: 9.47291
 postcode: "9403"
 city: Goldach
-street: "Sulzstrasse"
-housenumber: 33
-phone: "+4171 841 14 27"
+street: Sulzstrasse
+housenumber: "33"
+phone: +4171 841 14 27
 opening_hours: ""
-website: "https://www.sulzgarage.ch/de/"
+website: https://www.sulzgarage.ch/de/

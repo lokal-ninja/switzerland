@@ -1,11 +1,11 @@
 id: 453382603
-type: way
+type: node
 latitude: 47.40816
 longitude: 8.60177
 postcode: "8304"
 city: Wallisellen
-street: "Husacherstrasse"
-housenumber: 2
+street: Husacherstrasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 06:00-23:00, Su 07:00-23:00"
-website: "https://www.migrolino.ch/de/standorte/migrol-service-wallisellen/"
+opening_hours: Mo-Sa 06:00-23:00, Su 07:00-23:00
+website: https://www.migrolino.ch/de/standorte/migrol-service-wallisellen/

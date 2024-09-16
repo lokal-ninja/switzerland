@@ -4,8 +4,8 @@ latitude: 47.04938
 longitude: 8.54455
 postcode: "6410"
 city: Goldau
-street: "Gotthardstrasse"
-housenumber: 24
-phone: "+41 41 855 5737"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-12:30; Su off"
+street: Gotthardstrasse
+housenumber: "24"
+phone: +41 41 855 5737
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-12:30; Su off
 website: ""

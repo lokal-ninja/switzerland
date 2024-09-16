@@ -1,11 +1,11 @@
 id: 384559735
-type: way
+type: node
 latitude: 46.55999
 longitude: 6.61211
 postcode: "1032"
 city: Romanel-sur-Lausanne
-street: "En Felezin"
-housenumber: 1
+street: En Felezin
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

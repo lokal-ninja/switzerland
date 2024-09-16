@@ -4,8 +4,8 @@ latitude: 46.19591
 longitude: 5.99328
 postcode: "1283"
 city: Dardagny
-street: "Route du Mandement"
-housenumber: 540
+street: Route du Mandement
+housenumber: "540"
 phone: "+41227541446"
-opening_hours: "Fr 16:00-18:00; Sa 10:00-13:00"
-website: "https://www.les-faunes.ch"
+opening_hours: Fr 16:00-18:00; Sa 10:00-13:00
+website: https://www.les-faunes.ch

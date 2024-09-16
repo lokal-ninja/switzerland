@@ -4,8 +4,8 @@ latitude: 47.4696
 longitude: 8.00611
 postcode: "5063"
 city: Wölflinswil
-street: "Birch"
-housenumber: 335
-phone: "+41 62 877 11 64"
-opening_hours: "We 13:00-17:30; Sa 08:00-17:30"
-website: "https://treier-obstbau.ch/"
+street: Birch
+housenumber: "335"
+phone: +41 62 877 11 64
+opening_hours: We 13:00-17:30; Sa 08:00-17:30
+website: https://treier-obstbau.ch/

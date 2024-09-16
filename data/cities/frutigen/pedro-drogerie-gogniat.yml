@@ -4,8 +4,8 @@ latitude: 46.58685
 longitude: 7.64667
 postcode: "3714"
 city: Frutigen
-street: "Kanderstegstrasse"
-housenumber: 20
-phone: "+41 33 671 2885"
-opening_hours: "Mo-Fr 08:00-12:15,13:30-18:30;Sa 08:00-12:15,13:00-16:00"
+street: Kanderstegstrasse
+housenumber: "20"
+phone: +41 33 671 2885
+opening_hours: Mo-Fr 08:00-12:15,13:30-18:30;Sa 08:00-12:15,13:00-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.3517
 longitude: 8.34205
 postcode: "5620"
 city: Bremgarten
-street: "Sternengasse"
-housenumber: 4
-phone: "+41 76 413 15 02"
-opening_hours: "Sa 09:00-16:00; Mo-Fr by appointment from 18:00 on"
-website: "https://rad73.ch/"
+street: Sternengasse
+housenumber: "4"
+phone: +41 76 413 15 02
+opening_hours: Sa 09:00-16:00; Mo-Fr "by appointment from 18:00 on"
+website: https://rad73.ch/

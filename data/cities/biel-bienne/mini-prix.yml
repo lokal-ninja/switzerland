@@ -1,11 +1,11 @@
 id: 231254790
-type: way
+type: node
 latitude: 47.13201
 longitude: 7.23946
 postcode: "2502"
 city: Biel/Bienne
 street: ""
-housenumber: 71
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Fr 06:00-21:00; Sa 08:00-21:00; Su 08:00-20:00"
+opening_hours: Mo-Fr 06:00-21:00; Sa 08:00-21:00; Su 08:00-20:00
 website: ""

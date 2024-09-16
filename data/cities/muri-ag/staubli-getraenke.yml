@@ -1,11 +1,11 @@
 id: 386400532
-type: way
+type: node
 latitude: 47.27526
 longitude: 8.34555
 postcode: "5630"
 city: Muri (AG)
-street: "Maiholzstrasse"
-housenumber: 6
+street: Maiholzstrasse
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

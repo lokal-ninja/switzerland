@@ -4,8 +4,8 @@ latitude: 47.40978
 longitude: 8.54427
 postcode: "8050"
 city: Zürich
-street: "Querstrasse"
-housenumber: 16
-phone: "+41 43 288 55 25"
-opening_hours: "Tu-Fr 09:00-18:30; Sa 08:00-15:00"
-website: "https://www.coiffeurcap.ch/"
+street: Querstrasse
+housenumber: "16"
+phone: +41 43 288 55 25
+opening_hours: Tu-Fr 09:00-18:30; Sa 08:00-15:00
+website: https://www.coiffeurcap.ch/

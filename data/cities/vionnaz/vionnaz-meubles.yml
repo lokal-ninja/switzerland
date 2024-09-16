@@ -1,11 +1,11 @@
 id: 307282878
-type: way
+type: node
 latitude: 46.30001
 longitude: 6.90985
 postcode: "1895"
 city: Vionnaz
-street: "Route du Simplon"
-housenumber: 89
+street: Route du Simplon
+housenumber: "89"
 phone: ""
 opening_hours: ""
 website: ""

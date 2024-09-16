@@ -4,8 +4,8 @@ latitude: 47.5211
 longitude: 8.54074
 postcode: "8180"
 city: Bülach
-street: "Bahnhofstrasse"
-housenumber: 28
-phone: "+41 44 862 70 00"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.gidor.ch/filiale/buelach/"
+street: Bahnhofstrasse
+housenumber: "28"
+phone: +41 44 862 70 00
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.gidor.ch/filiale/buelach/

@@ -1,11 +1,12 @@
 id: 81676055
-type: way
+type: node
 latitude: 47.45252
 longitude: 9.63456
 postcode: ""
 city: St. Margrethen
-street: "Grenzstrasse"
-housenumber: 8
-phone: "+41 71 744 13 87"
-opening_hours: "Mo-Tu 07:30-12:00, 13:30-18:30; We 07:30-12:00; Th-Fr 07:30-12:00, 13:30-18:30; Sa 07:30-16:00"
-website: "https://www.molkicaviezel.ch/"
+street: Grenzstrasse
+housenumber: "8"
+phone: +41 71 744 13 87
+opening_hours: Mo-Tu 07:30-12:00, 13:30-18:30; We 07:30-12:00; Th-Fr 07:30-12:00,
+    13:30-18:30; Sa 07:30-16:00
+website: https://www.molkicaviezel.ch/

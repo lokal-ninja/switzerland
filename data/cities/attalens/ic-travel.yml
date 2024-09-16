@@ -4,8 +4,8 @@ latitude: 46.50977
 longitude: 6.84876
 postcode: "1616"
 city: Attalens
-street: "Grand-Rue"
-housenumber: 8
-phone: "+41 21 947 52 00"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00"
-website: "https://ictravel.ch/"
+street: Grand-Rue
+housenumber: "8"
+phone: +41 21 947 52 00
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00
+website: https://ictravel.ch/

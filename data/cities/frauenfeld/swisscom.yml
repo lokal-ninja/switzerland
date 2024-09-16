@@ -4,8 +4,8 @@ latitude: 47.55693
 longitude: 8.89568
 postcode: "8500"
 city: Frauenfeld
-street: "Bahnhofplatz"
-housenumber: 68
+street: Bahnhofplatz
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Th 09:00-18:30; Fr 09:00-20:00; Sa 09:00-16:00; PH closed"
-website: "https://www.swisscom.ch/"
+opening_hours: Mo-Th 09:00-18:30; Fr 09:00-20:00; Sa 09:00-16:00; PH closed
+website: https://www.swisscom.ch/

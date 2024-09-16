@@ -1,11 +1,11 @@
 id: 49157199
-type: way
+type: node
 latitude: 47.46543
 longitude: 8.67132
 postcode: "8311"
 city: Brütten
-street: "Buechmes"
-housenumber: 1
+street: Buechmes
+housenumber: "1"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.migrol.ch/de/"
+opening_hours: 24/7
+website: https://www.migrol.ch/de/

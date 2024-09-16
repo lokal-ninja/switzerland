@@ -4,8 +4,8 @@ latitude: 46.19445
 longitude: 6.1437
 postcode: "1205"
 city: Genève
-street: "Rue de Carouge"
-housenumber: 37
-phone: "+41 22 329 32 50"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-17:00"
-website: "https://renfile.ch/boutique-renfile-plainpalais/"
+street: Rue de Carouge
+housenumber: "37"
+phone: +41 22 329 32 50
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-17:00
+website: https://renfile.ch/boutique-renfile-plainpalais/

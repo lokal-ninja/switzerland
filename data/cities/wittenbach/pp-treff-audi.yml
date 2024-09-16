@@ -1,11 +1,11 @@
 id: 180022208
-type: way
+type: node
 latitude: 47.46201
 longitude: 9.39485
 postcode: "9300"
 city: Wittenbach
-street: "Arbonerstrasse"
-housenumber: 14
+street: Arbonerstrasse
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

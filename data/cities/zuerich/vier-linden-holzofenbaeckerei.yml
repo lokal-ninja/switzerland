@@ -4,8 +4,8 @@ latitude: 47.36959
 longitude: 8.55541
 postcode: "8032"
 city: Zürich
-street: "Freiestrasse"
-housenumber: 50
-phone: "+41 44 268 88 10"
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-16:00"
-website: "http://www.vierlinden.ch/"
+street: Freiestrasse
+housenumber: "50"
+phone: +41 44 268 88 10
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-16:00
+website: http://www.vierlinden.ch/

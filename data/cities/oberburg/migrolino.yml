@@ -4,8 +4,8 @@ latitude: 47.03248
 longitude: 7.63265
 postcode: "3414"
 city: Oberburg
-street: "Emmentalstrasse"
-housenumber: 166
+street: Emmentalstrasse
+housenumber: "166"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00, Sa-Su 07:00-22:00"
-website: "https://www.migrolino.ch/de/standorte/migrol-service-oberburg/"
+opening_hours: Mo-Fr 06:00-22:00, Sa-Su 07:00-22:00
+website: https://www.migrolino.ch/de/standorte/migrol-service-oberburg/

@@ -4,8 +4,8 @@ latitude: 47.38991
 longitude: 8.49272
 postcode: "8048"
 city: Zürich
-street: "Hohlstrasse"
-housenumber: 534
-phone: "+41 44 575 22 30"
+street: Hohlstrasse
+housenumber: "534"
+phone: +41 44 575 22 30
 opening_hours: ""
-website: "https://www.sfs.ch/de/store/1074_POS"
+website: https://www.sfs.ch/de/store/1074_POS

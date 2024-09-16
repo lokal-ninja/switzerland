@@ -1,11 +1,11 @@
 id: 232172573
-type: way
+type: node
 latitude: 47.56332
 longitude: 8.90781
 postcode: "8500"
 city: Frauenfeld
-street: "Zürcherstrasse"
-housenumber: 291
+street: Zürcherstrasse
+housenumber: "291"
 phone: ""
-opening_hours: "Mo-Fr 05:30-22:00, Sa 06:00-22:00, Su 08:00-20:00"
-website: "https://www.migrolino.ch/de/standorte/shell-frauenfeld/"
+opening_hours: Mo-Fr 05:30-22:00, Sa 06:00-22:00, Su 08:00-20:00
+website: https://www.migrolino.ch/de/standorte/shell-frauenfeld/

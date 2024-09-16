@@ -1,11 +1,11 @@
 id: 291753786
-type: way
+type: node
 latitude: 47.58712
 longitude: 9.33415
 postcode: "8592"
 city: Uttwil
-street: "Kesswilerstrasse"
-housenumber: 20
+street: Kesswilerstrasse
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:00; Sa 08:00-16:00
 website: ""

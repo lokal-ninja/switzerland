@@ -4,8 +4,8 @@ latitude: 47.39135
 longitude: 8.0473
 postcode: "5000"
 city: Aarau
-street: "Kasinostrasse"
-housenumber: 40
+street: Kasinostrasse
+housenumber: "40"
 phone: ""
 opening_hours: ""
-website: "https://www.varibelle.ch/coiffeur-aarau"
+website: https://www.varibelle.ch/coiffeur-aarau

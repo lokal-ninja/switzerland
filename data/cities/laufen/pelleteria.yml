@@ -4,8 +4,8 @@ latitude: 47.42241
 longitude: 7.50037
 postcode: "4242"
 city: Laufen
-street: "Hauptstrasse"
-housenumber: 29
+street: Hauptstrasse
+housenumber: "29"
 phone: "+41617614031"
-opening_hours: "Mo off; Tu-Fr 09:00-12:00,13:30-18:30; Sa-Su off"
+opening_hours: Mo off; Tu-Fr 09:00-12:00,13:30-18:30; Sa-Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 527367846
-type: way
+type: node
 latitude: 47.36859
 longitude: 9.28378
 postcode: "9100"
 city: Herisau
-street: "Alpsteinstrasse"
-housenumber: 83
+street: Alpsteinstrasse
+housenumber: "83"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,13:30-18:30; Sa 08:30-16:00"
-website: "www.zubischuhe.ch"
+opening_hours: Mo-Fr 09:00-12:00,13:30-18:30; Sa 08:30-16:00
+website: www.zubischuhe.ch

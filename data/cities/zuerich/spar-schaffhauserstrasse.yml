@@ -4,8 +4,8 @@ latitude: 47.40287
 longitude: 8.54655
 postcode: "8057"
 city: Zürich
-street: "Schaffhauserstrasse"
-housenumber: 239
+street: Schaffhauserstrasse
+housenumber: "239"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-21:00"
-website: "https://www.spar.ch/"
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-21:00
+website: https://www.spar.ch/

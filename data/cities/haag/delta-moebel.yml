@@ -1,11 +1,11 @@
 id: 250521960
-type: way
+type: node
 latitude: 47.20568
 longitude: 9.49279
 postcode: "9469"
 city: Haag
-street: "Rütistrasse"
-housenumber: 5
+street: Rütistrasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "https://www.delta-moebel.ch/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
+website: https://www.delta-moebel.ch/

@@ -4,8 +4,8 @@ latitude: 46.94007
 longitude: 7.43196
 postcode: "3007"
 city: Bern
-street: "Seftigenstrasse"
-housenumber: 1
+street: Seftigenstrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00, Sa 08:00-17:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-bern-eigerplatz"
+opening_hours: Mo-Fr 07:00-20:00, Sa 08:00-17:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-bern-eigerplatz

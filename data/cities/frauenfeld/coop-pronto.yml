@@ -1,11 +1,11 @@
 id: 227939323
-type: way
+type: node
 latitude: 47.55211
 longitude: 8.87859
 postcode: "8500"
 city: Frauenfeld
-street: "Zürcherstrasse"
-housenumber: 32
+street: Zürcherstrasse
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

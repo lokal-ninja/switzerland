@@ -5,7 +5,7 @@ longitude: 8.64383
 postcode: "6460"
 city: Altdorf UR
 street: ""
-housenumber: 4
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Fr 08:30-12:00,13:30-18:30, Sa 08:30-16:00; PH off"
-website: "https://www.lauener-altdorf.ch"
+opening_hours: Tu-Fr 08:30-12:00,13:30-18:30, Sa 08:30-16:00; PH off
+website: https://www.lauener-altdorf.ch

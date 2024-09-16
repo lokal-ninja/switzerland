@@ -4,8 +4,8 @@ latitude: 47.33325
 longitude: 8.71213
 postcode: "8616"
 city: Riedikon
-street: "Riedikerstrasse"
-housenumber: 
+street: Riedikerstrasse
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 05:30-21:45; Sa-Su 06:30-21:45"
-website: "https://www.agrola.ch/"
+opening_hours: Mo-Fr 05:30-21:45; Sa-Su 06:30-21:45
+website: https://www.agrola.ch/

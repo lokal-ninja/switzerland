@@ -1,11 +1,11 @@
 id: 237477106
-type: way
+type: node
 latitude: 47.135
 longitude: 7.60126
 postcode: "3425"
 city: Koppigen
-street: "Friedhofweg"
-housenumber: 6
+street: Friedhofweg
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

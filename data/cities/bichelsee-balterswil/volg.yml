@@ -1,11 +1,11 @@
 id: 285893737
-type: way
+type: node
 latitude: 47.44848
 longitude: 8.92624
 postcode: "8363"
 city: Bichelsee-Balterswil
-street: "Hauptstrasse"
-housenumber: 7
-phone: "+41 71 971 14 28"
-opening_hours: "Mo-Fr 06:00-20:00; Sa 07:00-19:00"
+street: Hauptstrasse
+housenumber: "7"
+phone: +41 71 971 14 28
+opening_hours: Mo-Fr 06:00-20:00; Sa 07:00-19:00
 website: ""

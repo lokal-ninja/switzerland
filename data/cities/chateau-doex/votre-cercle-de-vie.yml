@@ -1,11 +1,12 @@
 id: 596502002
-type: way
+type: node
 latitude: 46.47583
 longitude: 7.13626
 postcode: "1660"
 city: Château-d'Oex
-street: "Grand Rue"
-housenumber: 106
+street: Grand Rue
+housenumber: "106"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:30,14:00-18:00; Jan 1, Dec 26 09:00-12:30,14:00-16:00; PH off"
-website: "https://votre-cercledevie.ch"
+opening_hours: Mo-Sa 09:00-12:30,14:00-18:00; Jan 1, Dec 26 09:00-12:30,14:00-16:00;
+    PH off
+website: https://votre-cercledevie.ch

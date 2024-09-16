@@ -4,8 +4,8 @@ latitude: 46.65401
 longitude: 6.50949
 postcode: "1315"
 city: La Sarraz
-street: "Chemin des Prés-Morés"
-housenumber: 4
+street: Chemin des Prés-Morés
+housenumber: "4"
 phone: "+41218666846"
-opening_hours: "Mo-Fr 08:30-12:30, 14:00-18:30, Sa 09:00-17:00, Su 09:00-12:30"
-website: "https://leuphorbia.ch/"
+opening_hours: Mo-Fr 08:30-12:30, 14:00-18:30, Sa 09:00-17:00, Su 09:00-12:30
+website: https://leuphorbia.ch/

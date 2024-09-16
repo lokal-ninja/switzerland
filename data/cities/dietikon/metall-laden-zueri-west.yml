@@ -1,11 +1,11 @@
 id: 808677404
-type: way
+type: node
 latitude: 47.41655
 longitude: 8.39914
 postcode: "8953"
 city: Dietikon
-street: "Lerzenstrasse"
+street: Lerzenstrasse
 housenumber: 11e
-phone: "+41 43 317 87 59"
-opening_hours: "Mo-Th 07:30-12:00,13:15-17:30; Fr 07:30-12:00,13:15-16:30; Sa 09:00-12:00"
-website: "https://www.metall-laden.ch"
+phone: +41 43 317 87 59
+opening_hours: Mo-Th 07:30-12:00,13:15-17:30; Fr 07:30-12:00,13:15-16:30; Sa 09:00-12:00
+website: https://www.metall-laden.ch

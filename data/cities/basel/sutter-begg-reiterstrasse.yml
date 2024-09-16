@@ -4,8 +4,8 @@ latitude: 47.54732
 longitude: 7.56516
 postcode: "4054"
 city: Basel
-street: "Reiterstrasse"
-housenumber: 53
+street: Reiterstrasse
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:30; Sa 07:00-17:00; Su 07:30-16:00"
-website: "https://www.sutterbegg.ch/filialen/sutter-begg-neuweilerplatz"
+opening_hours: Mo-Fr 06:00-18:30; Sa 07:00-17:00; Su 07:30-16:00
+website: https://www.sutterbegg.ch/filialen/sutter-begg-neuweilerplatz

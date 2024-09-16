@@ -4,8 +4,8 @@ latitude: 47.39159
 longitude: 8.53842
 postcode: "8006"
 city: Zürich
-street: "Schaffhauserplatz"
-housenumber: 3
+street: Schaffhauserplatz
+housenumber: "3"
 phone: ""
-opening_hours: "24/7"
-website: "https://avec.ch/"
+opening_hours: 24/7
+website: https://avec.ch/

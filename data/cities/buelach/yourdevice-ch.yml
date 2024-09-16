@@ -4,8 +4,8 @@ latitude: 47.5214
 longitude: 8.53659
 postcode: "8180"
 city: Bülach
-street: "Spitalstrasse"
-housenumber: 10
+street: Spitalstrasse
+housenumber: "10"
 phone: "0041772782808"
-opening_hours: "24/7"
-website: "https://yourdevice.ch"
+opening_hours: 24/7
+website: https://yourdevice.ch

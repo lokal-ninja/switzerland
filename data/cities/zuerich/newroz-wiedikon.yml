@@ -4,8 +4,8 @@ latitude: 47.37114
 longitude: 8.52446
 postcode: "8004"
 city: Zürich
-street: "Birmensdorferstrasse"
-housenumber: 67
-phone: "+41 44 291 29 29"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-19:00"
+street: Birmensdorferstrasse
+housenumber: "67"
+phone: +41 44 291 29 29
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.18769
 longitude: 7.7047
 postcode: "3360"
 city: Herzogenbuchsee
-street: "Bernstrasse"
-housenumber: 14
-phone: "+41 62 961 40 40"
-opening_hours: "Mo-Fr 06:15-18:30; Sa 06:15-16:00; Su 07:30-12:00"
-website: "https://felberbeck.ch/"
+street: Bernstrasse
+housenumber: "14"
+phone: +41 62 961 40 40
+opening_hours: Mo-Fr 06:15-18:30; Sa 06:15-16:00; Su 07:30-12:00
+website: https://felberbeck.ch/

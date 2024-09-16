@@ -4,8 +4,8 @@ latitude: 47.37385
 longitude: 8.5391
 postcode: "8001"
 city: Zürich
-street: "Rennweg"
-housenumber: 56
+street: Rennweg
+housenumber: "56"
 phone: ""
 opening_hours: ""
-website: "https://www.snipes.ch/"
+website: https://www.snipes.ch/

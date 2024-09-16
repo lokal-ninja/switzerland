@@ -4,8 +4,8 @@ latitude: 47.48262
 longitude: 8.27885
 postcode: "5400"
 city: Baden
-street: "Bruggerstrasse"
-housenumber: 194
+street: Bruggerstrasse
+housenumber: "194"
 phone: ""
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.migrolino.ch/de/standorte/shell-baden-kappelerhof/"
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.migrolino.ch/de/standorte/shell-baden-kappelerhof/

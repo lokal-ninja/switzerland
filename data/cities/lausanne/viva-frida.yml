@@ -4,8 +4,8 @@ latitude: 46.52093
 longitude: 6.63928
 postcode: "1005"
 city: Lausanne
-street: "Rue Charles-Augustin-Sainte-Beuve"
-housenumber: 1
-phone: "+41 21 311 1080"
+street: Rue Charles-Augustin-Sainte-Beuve
+housenumber: "1"
+phone: +41 21 311 1080
 opening_hours: ""
-website: "https://vivafrida.ch/"
+website: https://vivafrida.ch/

@@ -4,8 +4,8 @@ latitude: 47.21635
 longitude: 7.18332
 postcode: "2710"
 city: Tavannes
-street: "La Combe"
-housenumber: 12
+street: La Combe
+housenumber: "12"
 phone: ""
-opening_hours: "24/7"
-website: "https://rolog.ch"
+opening_hours: 24/7
+website: https://rolog.ch

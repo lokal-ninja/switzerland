@@ -4,8 +4,8 @@ latitude: 46.94475
 longitude: 7.43625
 postcode: "3011"
 city: Bern
-street: "Monbijoustrasse"
-housenumber: 16
-phone: "+41 31 381 71 25"
-opening_hours: "Tu-Fr 11:00-18:00; Sa 11:00-15:00"
-website: "https://www.buecherbergwerk.ch/"
+street: Monbijoustrasse
+housenumber: "16"
+phone: +41 31 381 71 25
+opening_hours: Tu-Fr 11:00-18:00; Sa 11:00-15:00
+website: https://www.buecherbergwerk.ch/

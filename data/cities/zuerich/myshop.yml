@@ -4,8 +4,8 @@ latitude: 47.36913
 longitude: 8.50093
 postcode: "8055"
 city: Zürich
-street: "Birmensdorferstrasse"
-housenumber: 430
+street: Birmensdorferstrasse
+housenumber: "430"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su off
 website: ""

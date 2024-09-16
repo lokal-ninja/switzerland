@@ -1,11 +1,11 @@
 id: 386205307
-type: way
+type: node
 latitude: 47.36255
 longitude: 8.26653
 postcode: "5611"
 city: Anglikon
-street: "Raimattstrasse"
-housenumber: 125
+street: Raimattstrasse
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

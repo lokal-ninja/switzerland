@@ -1,11 +1,11 @@
 id: 85474878
-type: way
+type: node
 latitude: 46.16987
 longitude: 6.12662
 postcode: "1228"
 city: Plan-les-Ouates
-street: "Chemin de la Milice"
-housenumber: 19
-phone: "+41 22 884 99 94"
-opening_hours: "Mo-Fr 10:00-17:30; Sa 10:00-17:00"
-website: "https://recyclerie.ch/magasins/"
+street: Chemin de la Milice
+housenumber: "19"
+phone: +41 22 884 99 94
+opening_hours: Mo-Fr 10:00-17:30; Sa 10:00-17:00
+website: https://recyclerie.ch/magasins/

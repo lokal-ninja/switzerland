@@ -1,11 +1,11 @@
 id: 339301311
-type: way
+type: node
 latitude: 46.66843
 longitude: 7.07187
 postcode: "1642"
 city: Sorens
-street: "Route Principale"
-housenumber: 22
+street: Route Principale
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

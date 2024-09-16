@@ -4,8 +4,8 @@ latitude: 47.35944
 longitude: 8.51484
 postcode: "8045"
 city: Zürich
-street: "Töpferstrasse"
-housenumber: 28
+street: Töpferstrasse
+housenumber: "28"
 phone: ""
-opening_hours: "Fr-Sa 12:00-18:00"
-website: "http://www.buehlerweine.ch/"
+opening_hours: Fr-Sa 12:00-18:00
+website: http://www.buehlerweine.ch/

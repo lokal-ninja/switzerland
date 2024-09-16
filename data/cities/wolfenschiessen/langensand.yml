@@ -1,11 +1,11 @@
 id: 305193875
-type: way
+type: node
 latitude: 46.90796
 longitude: 8.39512
 postcode: "6386"
 city: Wolfenschiessen
-street: "Bahnhofstrasse"
-housenumber: 4
+street: Bahnhofstrasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

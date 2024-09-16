@@ -1,11 +1,11 @@
 id: 169255224
-type: way
+type: node
 latitude: 47.52754
 longitude: 7.69623
 postcode: "4133"
 city: Pratteln
-street: "Zurlindenstrasse"
-housenumber: 31
+street: Zurlindenstrasse
+housenumber: "31"
 phone: ""
 opening_hours: ""
-website: "https://www.ottos.ch/"
+website: https://www.ottos.ch/

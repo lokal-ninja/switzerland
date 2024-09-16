@@ -4,8 +4,9 @@ latitude: 46.96727
 longitude: 7.17808
 postcode: "3216"
 city: Ried bei Kerzers
-street: "Biberenweg"
-housenumber: 1
+street: Biberenweg
+housenumber: "1"
 phone: ""
-opening_hours: "Apr-Oct Mo-Fr 08:00-18:30,Sa 08:00-14:00 ; Nov-Mar Mo-Fr 09:00-18:00, Sa 09:00-13:00"
-website: "https://www.gutknecht-gemuese.ch/de/"
+opening_hours: Apr-Oct Mo-Fr 08:00-18:30,Sa 08:00-14:00 ; Nov-Mar Mo-Fr 09:00-18:00,
+    Sa 09:00-13:00
+website: https://www.gutknecht-gemuese.ch/de/

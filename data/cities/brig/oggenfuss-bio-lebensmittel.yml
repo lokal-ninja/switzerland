@@ -1,11 +1,11 @@
 id: 273477288
-type: way
+type: node
 latitude: 46.31799
 longitude: 7.98833
 postcode: "3900"
 city: Brig
-street: "Bahnhofstrasse"
-housenumber: 7
+street: Bahnhofstrasse
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

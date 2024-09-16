@@ -4,8 +4,9 @@ latitude: 46.31757
 longitude: 6.93699
 postcode: "1860"
 city: Aigle
-street: "Chemin Sous le Grand-Pré"
-housenumber: 4
-phone: "+41 24 468 25 25"
-opening_hours: "Mo 09:00-18:30; Tu-Th 08:30-18:30; Fr 08:30-21:00; Sa 08:00-17:00; Su,PH closed"
-website: "https://www.mediamarkt.ch/fr/"
+street: Chemin Sous le Grand-Pré
+housenumber: "4"
+phone: +41 24 468 25 25
+opening_hours: Mo 09:00-18:30; Tu-Th 08:30-18:30; Fr 08:30-21:00; Sa 08:00-17:00;
+    Su,PH closed
+website: https://www.mediamarkt.ch/fr/

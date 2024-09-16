@@ -1,11 +1,11 @@
 id: 219695314
-type: way
+type: node
 latitude: 47.59986
 longitude: 9.00063
 postcode: "8555"
 city: Müllheim Dorf
-street: "Thurstrasse"
-housenumber: 3
+street: Thurstrasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-19:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-muellheim"
+opening_hours: Mo-Fr 08:00-20:00, Sa 08:00-19:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-muellheim

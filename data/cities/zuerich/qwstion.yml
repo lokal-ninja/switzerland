@@ -4,8 +4,8 @@ latitude: 47.38818
 longitude: 8.52617
 postcode: "8005"
 city: Zürich
-street: "Limmatstrasse"
-housenumber: 257
+street: Limmatstrasse
+housenumber: "257"
 phone: ""
-opening_hours: "Mo,Su off; Tu-Fr 11:00-14:30,15:00-19:00; Sa 11:00-17:00"
-website: "https://qwstion.com"
+opening_hours: Mo,Su off; Tu-Fr 11:00-14:30,15:00-19:00; Sa 11:00-17:00
+website: https://qwstion.com

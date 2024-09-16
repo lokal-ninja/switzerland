@@ -4,8 +4,8 @@ latitude: 47.49385
 longitude: 8.54673
 postcode: "8185"
 city: Winkel
-street: "Zürichstrasse"
-housenumber: 7
+street: Zürichstrasse
+housenumber: "7"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.migrol.ch/de/"
+opening_hours: 24/7
+website: https://www.migrol.ch/de/

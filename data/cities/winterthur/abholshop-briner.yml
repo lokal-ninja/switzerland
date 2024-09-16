@@ -4,8 +4,8 @@ latitude: 47.49615
 longitude: 8.75353
 postcode: "8404"
 city: Winterthur
-street: "Industriestrasse"
-housenumber: 18
+street: Industriestrasse
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Th 07:00-12:00,13:00-17:00; Fr 07:00-12:00,13:00-16:00"
+opening_hours: Mo-Th 07:00-12:00,13:00-17:00; Fr 07:00-12:00,13:00-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.23797
 longitude: 7.39552
 postcode: "1967"
 city: Bramois
-street: "Route de Préjeux"
-housenumber: 17
+street: Route de Préjeux
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://www.bioterroir.ch/fr/"
+opening_hours: Mo-Su 08:00-20:00
+website: https://www.bioterroir.ch/fr/

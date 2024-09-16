@@ -4,8 +4,8 @@ latitude: 47.39817
 longitude: 8.44841
 postcode: "8952"
 city: Schlieren
-street: "Bahnhofstrasse"
-housenumber: 2
-phone: "+41 43 544 11 63"
-opening_hours: "Mo-Sa 05:30-22:00"
-website: "https://www.coop-pronto.ch/"
+street: Bahnhofstrasse
+housenumber: "2"
+phone: +41 43 544 11 63
+opening_hours: Mo-Sa 05:30-22:00
+website: https://www.coop-pronto.ch/

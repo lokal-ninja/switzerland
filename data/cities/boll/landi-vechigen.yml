@@ -4,8 +4,8 @@ latitude: 46.95405
 longitude: 7.54729
 postcode: "3067"
 city: Boll
-street: "Bahnhofstrasse"
-housenumber: 2
+street: Bahnhofstrasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-17:00"
-website: "landivechigen.ch"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-17:00
+website: landivechigen.ch

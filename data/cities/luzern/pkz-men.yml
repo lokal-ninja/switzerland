@@ -4,8 +4,8 @@ latitude: 47.05222
 longitude: 8.30605
 postcode: "6004"
 city: Luzern
-street: "Kapellgasse"
-housenumber: 21
+street: Kapellgasse
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-We,Fr 09:00-18:30; Th 09:00-21:00; Sa 09:00-16:00"
-website: "https://www.pkz.ch/de/36-storelocator?sid=6"
+opening_hours: Mo-We,Fr 09:00-18:30; Th 09:00-21:00; Sa 09:00-16:00
+website: https://www.pkz.ch/de/36-storelocator?sid=6

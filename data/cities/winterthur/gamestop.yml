@@ -4,8 +4,8 @@ latitude: 47.49804
 longitude: 8.72471
 postcode: "8400"
 city: Winterthur
-street: "Archplatz"
-housenumber: 2
+street: Archplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.gamestop.ch/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.gamestop.ch/

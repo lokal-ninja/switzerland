@@ -1,11 +1,11 @@
 id: 48683172
-type: way
+type: node
 latitude: 47.3104
 longitude: 7.83097
 postcode: "4617"
 city: Gunzgen
-street: "Eurorest-Nord"
-housenumber: 2
+street: Eurorest-Nord
+housenumber: "2"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

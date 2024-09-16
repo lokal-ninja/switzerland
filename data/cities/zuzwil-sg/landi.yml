@@ -1,11 +1,11 @@
 id: 301817640
-type: way
+type: node
 latitude: 47.46744
 longitude: 9.11111
 postcode: "9524"
 city: Zuzwil SG
-street: "Henauerstrasse"
-housenumber: 5
+street: Henauerstrasse
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

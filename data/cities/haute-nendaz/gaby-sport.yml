@@ -4,8 +4,8 @@ latitude: 46.18068
 longitude: 7.29126
 postcode: "1997"
 city: Haute-Nendaz
-street: "Route de la Télécabine"
-housenumber: 38
+street: Route de la Télécabine
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00,14:00-18:30; PH,Su 09:00-12:00,14:00-18:00"
-website: "https://gaby-sports.business.site/?utm_source=openstreetmap"
+opening_hours: Mo-Sa 09:00-12:00,14:00-18:30; PH,Su 09:00-12:00,14:00-18:00
+website: https://gaby-sports.business.site/?utm_source=openstreetmap

@@ -1,11 +1,11 @@
 id: 475374868
-type: way
+type: node
 latitude: 46.8878
 longitude: 6.9834
 postcode: "1566"
 city: St-Aubin FR
-street: "Route de Villars"
-housenumber: 12
+street: Route de Villars
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

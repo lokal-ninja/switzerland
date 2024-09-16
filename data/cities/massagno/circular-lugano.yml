@@ -4,8 +4,8 @@ latitude: 46.01241
 longitude: 8.94647
 postcode: "6900"
 city: Massagno
-street: "Via San Gottardo"
-housenumber: 77
+street: Via San Gottardo
+housenumber: "77"
 phone: "+41762006862"
-opening_hours: "Mo-Sa 10:00-17:00"
-website: "https://www.circular-lugano.ch/"
+opening_hours: Mo-Sa 10:00-17:00
+website: https://www.circular-lugano.ch/

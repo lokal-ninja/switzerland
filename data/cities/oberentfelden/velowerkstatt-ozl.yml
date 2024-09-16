@@ -4,8 +4,8 @@ latitude: 47.35452
 longitude: 8.05481
 postcode: "5036"
 city: Oberentfelden
-street: "Lerchenweg"
-housenumber: 13
-phone: "+41 62 737 61 50"
-opening_hours: "Mo-Fr 07:45-11:45, 13:00-16:45"
-website: "https://www.ozl.ch/fuer-unsere-privatkunden/velowerkstatt"
+street: Lerchenweg
+housenumber: "13"
+phone: +41 62 737 61 50
+opening_hours: Mo-Fr 07:45-11:45, 13:00-16:45
+website: https://www.ozl.ch/fuer-unsere-privatkunden/velowerkstatt

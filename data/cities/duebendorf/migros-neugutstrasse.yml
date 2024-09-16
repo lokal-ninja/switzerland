@@ -4,8 +4,8 @@ latitude: 47.40107
 longitude: 8.60355
 postcode: "8600"
 city: Dübendorf
-street: "Neugutstrasse"
-housenumber: 83
-phone: "+41 44 820 43 01"
-opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-18:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-duebendorf-hochbord-nord"
+street: Neugutstrasse
+housenumber: "83"
+phone: +41 44 820 43 01
+opening_hours: Mo-Fr 09:00-20:00, Sa 09:00-18:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-duebendorf-hochbord-nord

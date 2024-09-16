@@ -1,11 +1,11 @@
 id: 28882469
-type: way
+type: node
 latitude: 47.47442
 longitude: 8.21302
 postcode: "5210"
 city: Windisch
-street: "Hauserstrasse"
-housenumber: 41
+street: Hauserstrasse
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
 website: ""

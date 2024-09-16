@@ -4,8 +4,8 @@ latitude: 45.95428
 longitude: 8.94726
 postcode: "6815"
 city: Melide
-street: "Via Giulio Pocobelli"
-housenumber: 15
+street: Via Giulio Pocobelli
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-16:00; Su closed; PH closed"
-website: "https://farmaciamelide.ch/"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-16:00; Su closed; PH closed
+website: https://farmaciamelide.ch/

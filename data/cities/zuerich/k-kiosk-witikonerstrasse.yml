@@ -4,8 +4,8 @@ latitude: 47.35908
 longitude: 8.58585
 postcode: "8053"
 city: Zürich
-street: "Witikonerstrasse"
-housenumber: 295
+street: Witikonerstrasse
+housenumber: "295"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.kkiosk.ch/de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.kkiosk.ch/de/

@@ -4,8 +4,8 @@ latitude: 47.35082
 longitude: 7.9028
 postcode: "4600"
 city: Olten
-street: "Baslerstrasse"
-housenumber: 30
+street: Baslerstrasse
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://www.mueller.ch/"
+website: https://www.mueller.ch/

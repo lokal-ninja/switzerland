@@ -4,8 +4,8 @@ latitude: 47.36805
 longitude: 8.54595
 postcode: "8001"
 city: Zürich
-street: "Rämistrasse"
-housenumber: 7
+street: Rämistrasse
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "http://www.philateliewalter.ch/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: http://www.philateliewalter.ch/

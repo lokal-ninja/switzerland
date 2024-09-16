@@ -1,11 +1,11 @@
 id: 203888333
-type: way
+type: node
 latitude: 47.15155
 longitude: 9.02759
 postcode: "8865"
 city: Bilten
-street: "Linth-Escherstrasse"
-housenumber: 16
+street: Linth-Escherstrasse
+housenumber: "16"
 phone: "+41556153325"
 opening_hours: ""
-website: "https://www.danis-pneuhaus.ch/"
+website: https://www.danis-pneuhaus.ch/

@@ -4,8 +4,8 @@ latitude: 46.95202
 longitude: 7.43445
 postcode: "3012"
 city: Bern
-street: "Länggassstrasse"
-housenumber: 12
+street: Länggassstrasse
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:15-16:00"
-website: "https://www.libromania.ch/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:15-16:00
+website: https://www.libromania.ch/

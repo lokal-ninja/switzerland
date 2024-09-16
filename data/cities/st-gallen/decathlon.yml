@@ -1,11 +1,11 @@
 id: 93522583
-type: way
+type: node
 latitude: 47.41541
 longitude: 9.31447
 postcode: "9015"
 city: St. Gallen
-street: "Gaiserwaldstrasse"
-housenumber: 7
+street: Gaiserwaldstrasse
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

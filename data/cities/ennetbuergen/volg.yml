@@ -1,11 +1,11 @@
 id: 295649690
-type: way
+type: node
 latitude: 46.98635
 longitude: 8.41391
 postcode: "6373"
 city: Ennetbürgen
-street: "Alte Gasse"
-housenumber: 6
+street: Alte Gasse
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

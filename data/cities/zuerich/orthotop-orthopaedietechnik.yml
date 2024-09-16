@@ -4,8 +4,8 @@ latitude: 47.42911
 longitude: 8.54181
 postcode: "8052"
 city: Zürich
-street: "Rümlangstrasse"
-housenumber: 55
+street: Rümlangstrasse
+housenumber: "55"
 phone: "+41435211610"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.orthotop.ch"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.orthotop.ch

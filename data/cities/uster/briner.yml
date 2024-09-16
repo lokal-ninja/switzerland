@@ -1,11 +1,11 @@
 id: 183114318
-type: way
+type: node
 latitude: 47.33899
 longitude: 8.72073
 postcode: "8610"
 city: Uster
-street: "Schwizerstrasse"
-housenumber: 53
+street: Schwizerstrasse
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.37222
 longitude: 8.54036
 postcode: "8001"
 city: Zürich
-street: "Strehlgasse"
-housenumber: 33
+street: Strehlgasse
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30, 13:30-18:00; Sa 09:00-12:30, 13:30-16:00"
-website: "https://www.peclard.com/"
+opening_hours: Mo-Fr 09:00-12:30, 13:30-18:00; Sa 09:00-12:30, 13:30-16:00
+website: https://www.peclard.com/

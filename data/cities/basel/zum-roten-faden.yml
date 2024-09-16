@@ -4,8 +4,8 @@ latitude: 47.55124
 longitude: 7.58021
 postcode: "4051"
 city: Basel
-street: "Steinenring"
-housenumber: 
+street: Steinenring
+housenumber: ""
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:00,13:30-18:30, Sa 09:30-16:00"
-website: "https://www.zumrotenfaden.ch"
+opening_hours: Tu-Fr 09:00-12:00,13:30-18:30, Sa 09:30-16:00
+website: https://www.zumrotenfaden.ch

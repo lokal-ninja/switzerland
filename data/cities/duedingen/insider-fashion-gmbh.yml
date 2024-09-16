@@ -1,11 +1,11 @@
 id: 97213951
-type: way
+type: node
 latitude: 46.84505
 longitude: 7.19043
 postcode: "3186"
 city: Düdingen
-street: "Duensstrasse"
-housenumber: 6
+street: Duensstrasse
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

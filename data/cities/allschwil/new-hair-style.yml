@@ -4,8 +4,8 @@ latitude: 47.55084
 longitude: 7.54121
 postcode: "4123"
 city: Allschwil
-street: "Gartenstrasse"
-housenumber: 34
+street: Gartenstrasse
+housenumber: "34"
 phone: ""
-opening_hours: ""
+opening_hours: Tu,We 09:00-18:30; Th,Fr 09:00-18:00; Sa 08:00-14:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.37916
 longitude: 8.52952
 postcode: "8004"
 city: Zürich
-street: "Militärstrasse"
-housenumber: 90
-phone: "+41 44 241 34 68"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00"
-website: "https://karle.ch/"
+street: Militärstrasse
+housenumber: "90"
+phone: +41 44 241 34 68
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00
+website: https://karle.ch/

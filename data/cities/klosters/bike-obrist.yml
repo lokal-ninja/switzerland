@@ -1,11 +1,11 @@
 id: 132457833
-type: way
+type: node
 latitude: 46.86509
 longitude: 9.88509
 postcode: "7250"
 city: Klosters
-street: "Doggilochstrasse"
-housenumber: 31
+street: Doggilochstrasse
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

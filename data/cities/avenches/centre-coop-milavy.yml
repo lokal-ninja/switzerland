@@ -1,11 +1,11 @@
 id: 213743631
-type: way
+type: node
 latitude: 46.8772
 longitude: 7.03117
 postcode: "1580"
 city: Avenches
 street: ""
-housenumber: 1
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa 08:00-17:00"
+opening_hours: Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa 08:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.96364
 longitude: 7.48214
 postcode: "3072"
 city: Ostermundigen
-street: "Milchstrasse"
-housenumber: 2
+street: Milchstrasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa 07:00-17:00, Su 08:00-16:00"
-website: "http://www.reinhard.ch"
+opening_hours: Mo-Fr 06:00-19:00; Sa 07:00-17:00, Su 08:00-16:00
+website: http://www.reinhard.ch

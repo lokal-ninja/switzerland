@@ -4,8 +4,8 @@ latitude: 47.5175
 longitude: 8.99663
 postcode: "9506"
 city: Lommis
-street: "Sägestrasse"
-housenumber: 2
-phone: "+41 52 376 21 90"
-opening_hours: "Su,Mo,Tu off; We-Fr 09:00-12:00, 13:30-17:00; Sa 09:00-16:00"
-website: "http://www.stilmoebel-rustico.ch/"
+street: Sägestrasse
+housenumber: "2"
+phone: +41 52 376 21 90
+opening_hours: Su,Mo,Tu off; We-Fr 09:00-12:00, 13:30-17:00; Sa 09:00-16:00
+website: http://www.stilmoebel-rustico.ch/

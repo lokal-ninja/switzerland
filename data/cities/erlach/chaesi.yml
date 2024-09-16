@@ -1,11 +1,11 @@
 id: 430579293
-type: way
+type: node
 latitude: 47.04352
 longitude: 7.09632
 postcode: "3235"
 city: Erlach
-street: "Breitenweg"
-housenumber: 3
+street: Breitenweg
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

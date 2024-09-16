@@ -4,8 +4,8 @@ latitude: 47.35763
 longitude: 8.52286
 postcode: "8045"
 city: Zürich
-street: "Kalanderplatz"
-housenumber: 1
+street: Kalanderplatz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.christ-swiss.ch/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.christ-swiss.ch/

@@ -1,11 +1,11 @@
 id: 262905655
-type: way
+type: node
 latitude: 47.02145
 longitude: 7.04308
 postcode: "3238"
 city: Gals
-street: "Bernstrasse"
-housenumber: 7
+street: Bernstrasse
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-17:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.19506
 longitude: 6.12993
 postcode: "1227"
 city: Les Acacias
-street: "Rue François-Dussaud"
-housenumber: 15
-phone: "+41 22 308 60 20"
-opening_hours: "Mo-We 08:00-19:00; Th 08:00-20:00; Fr 08:00-19:30; Sa 08:00-18:00"
-website: "https://www.aligro.ch/fr/lentreprise/les-marches-aligro/geneve/"
+street: Rue François-Dussaud
+housenumber: "15"
+phone: +41 22 308 60 20
+opening_hours: Mo-We 08:00-19:00; Th 08:00-20:00; Fr 08:00-19:30; Sa 08:00-18:00
+website: https://www.aligro.ch/fr/lentreprise/les-marches-aligro/geneve/

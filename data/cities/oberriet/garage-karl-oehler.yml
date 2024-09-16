@@ -4,8 +4,8 @@ latitude: 47.3373
 longitude: 9.57612
 postcode: "9463"
 city: Oberriet
-street: "Felbenmadweg"
-housenumber: 6
+street: Felbenmadweg
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00,13:30-17:45; Sa 07:30-12:00"
-website: "https://garage-oehler.ch/"
+opening_hours: Mo-Fr 07:30-12:00,13:30-17:45; Sa 07:30-12:00
+website: https://garage-oehler.ch/

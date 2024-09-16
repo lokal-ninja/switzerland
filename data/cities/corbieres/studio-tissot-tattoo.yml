@@ -1,11 +1,11 @@
 id: 319066276
-type: way
+type: node
 latitude: 46.66221
 longitude: 7.11116
 postcode: "1647"
 city: Corbières
-street: "Route de la Condemena"
-housenumber: 36
-phone: "+41 79 357 53 82"
+street: Route de la Condemena
+housenumber: "36"
+phone: +41 79 357 53 82
 opening_hours: ""
-website: "https://www.tissot-tattoo.ch/"
+website: https://www.tissot-tattoo.ch/

@@ -4,8 +4,8 @@ latitude: 46.17731
 longitude: 7.57442
 postcode: "3961"
 city: Griementz
-street: "Rue de la Laiterie"
-housenumber: 17
-phone: "+41 27 475 26 01"
-opening_hours: "Mo-Fr 07:00-12:00,15:00-18:00; Sa-Su 07:00-12:00,14:00-18:30"
-website: "https://www.boulangeriesalamin.ch/"
+street: Rue de la Laiterie
+housenumber: "17"
+phone: +41 27 475 26 01
+opening_hours: Mo-Fr 07:00-12:00,15:00-18:00; Sa-Su 07:00-12:00,14:00-18:30
+website: https://www.boulangeriesalamin.ch/

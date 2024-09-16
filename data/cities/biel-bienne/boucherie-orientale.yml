@@ -1,11 +1,11 @@
 id: 287632805
-type: way
+type: node
 latitude: 47.13447
 longitude: 7.25538
 postcode: "2503"
 city: Biel/Bienne
-street: "Madretschstrasse"
-housenumber: 66
+street: Madretschstrasse
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

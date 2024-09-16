@@ -4,8 +4,9 @@ latitude: 47.45988
 longitude: 7.99849
 postcode: "5063"
 city: Wölflinswil
-street: "Oberdorf"
-housenumber: 8
-phone: "+41 62 871 56 33"
-opening_hours: "Selbstbedienung: täglich geöffnet. In Wölflinswil direkt an der  Hauptstrasse 523"
-website: "http://beerenhof.ch/"
+street: Oberdorf
+housenumber: "8"
+phone: +41 62 871 56 33
+opening_hours: 'Selbstbedienung: täglich geöffnet. In Wölflinswil direkt an der  Hauptstrasse
+    523'
+website: http://beerenhof.ch/

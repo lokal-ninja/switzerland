@@ -4,8 +4,8 @@ latitude: 46.42365
 longitude: 6.23591
 postcode: "1267"
 city: Coinsins
-street: "Rue du Château"
-housenumber: 10
+street: Rue du Château
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Su 07:30-20:00"
-website: "https://jaggiferme.ch"
+opening_hours: Mo-Su 07:30-20:00
+website: https://jaggiferme.ch

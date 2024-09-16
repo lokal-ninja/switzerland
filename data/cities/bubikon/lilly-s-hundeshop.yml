@@ -4,8 +4,8 @@ latitude: 47.26981
 longitude: 8.82078
 postcode: "8608"
 city: Bubikon
-street: "Dorfstrasse"
-housenumber: 18
-phone: "+41 438 180 859"
-opening_hours: "Mo-Fr 10:00-12:00,14:00-17:00; Sa 10:00-17:00; PH off"
-website: "https://www.lilly-s.ch/"
+street: Dorfstrasse
+housenumber: "18"
+phone: +41 438 180 859
+opening_hours: Mo-Fr 10:00-12:00,14:00-17:00; Sa 10:00-17:00; PH off
+website: https://www.lilly-s.ch/

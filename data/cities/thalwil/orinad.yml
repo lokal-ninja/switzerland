@@ -4,8 +4,8 @@ latitude: 47.29434
 longitude: 8.56383
 postcode: "8800"
 city: Thalwil
-street: "Alte Landstrasse"
-housenumber: 130
+street: Alte Landstrasse
+housenumber: "130"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00"
-website: "https://www.orinad.ch/thalwil/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00
+website: https://www.orinad.ch/thalwil/

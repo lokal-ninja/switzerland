@@ -1,11 +1,11 @@
 id: 387136578
-type: way
+type: node
 latitude: 47.32128
 longitude: 9.08778
 postcode: "9620"
 city: Lichtensteig
-street: "Wilerstrasse"
-housenumber: 
+street: Wilerstrasse
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

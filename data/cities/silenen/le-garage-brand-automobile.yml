@@ -1,11 +1,11 @@
 id: 377837674
-type: way
+type: node
 latitude: 46.7983
 longitude: 8.66737
 postcode: "6473"
 city: Silenen
-street: "Gotthardstrasse"
-housenumber: 77
+street: Gotthardstrasse
+housenumber: "77"
 phone: ""
 opening_hours: ""
 website: ""

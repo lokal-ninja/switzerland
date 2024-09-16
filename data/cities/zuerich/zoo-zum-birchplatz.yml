@@ -4,8 +4,8 @@ latitude: 47.40934
 longitude: 8.53795
 postcode: "8050"
 city: Zürich
-street: "Regensbergstrasse"
-housenumber: 181
-phone: "+41 44 311 32 35"
-opening_hours: "Mo-Fr 08:00-12:15, 13:45-18:30; Sa 09:00-16:00"
-website: "https://www.zoobirchplatz.ch/"
+street: Regensbergstrasse
+housenumber: "181"
+phone: +41 44 311 32 35
+opening_hours: Mo-Fr 08:00-12:15, 13:45-18:30; Sa 09:00-16:00
+website: https://www.zoobirchplatz.ch/

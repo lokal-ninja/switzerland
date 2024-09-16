@@ -5,7 +5,7 @@ longitude: 8.82091
 postcode: "8262"
 city: Ramsen
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 06:00-21:00, Sa 07:00-21:00, Su 08:00-21:00"
-website: "https://www.socarenergy.ch/"
+opening_hours: Mo-Fr 06:00-21:00, Sa 07:00-21:00, Su 08:00-21:00
+website: https://www.socarenergy.ch/

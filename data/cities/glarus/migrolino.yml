@@ -4,8 +4,8 @@ latitude: 47.04012
 longitude: 9.07137
 postcode: "8750"
 city: Glarus
-street: "Schweizerhofstrasse"
-housenumber: 2
+street: Schweizerhofstrasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 05:30-21:00, Su 07:00-21:00"
-website: "https://www.migrolino.ch/de/standorte/migrolino-glarus/"
+opening_hours: Mo-Sa 05:30-21:00, Su 07:00-21:00
+website: https://www.migrolino.ch/de/standorte/migrolino-glarus/

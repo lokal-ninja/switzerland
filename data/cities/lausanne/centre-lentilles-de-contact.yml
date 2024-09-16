@@ -4,8 +4,8 @@ latitude: 46.52002
 longitude: 6.63279
 postcode: "1003"
 city: Lausanne
-street: "Place Saint-François"
-housenumber: 4
+street: Place Saint-François
+housenumber: "4"
 phone: "+41213115700"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa by_appointment"
-website: "https://centrelentilles.ch"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa by_appointment
+website: https://centrelentilles.ch

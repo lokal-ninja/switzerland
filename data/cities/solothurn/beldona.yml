@@ -4,8 +4,8 @@ latitude: 47.20674
 longitude: 7.53552
 postcode: "4500"
 city: Solothurn
-street: "Hauptgasse"
-housenumber: 7
+street: Hauptgasse
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:30; Mo 13:30-18:30; Sa 09:00-17:00"
-website: "https://www.beldona.com/"
+opening_hours: Tu-Fr 09:00-18:30; Mo 13:30-18:30; Sa 09:00-17:00
+website: https://www.beldona.com/

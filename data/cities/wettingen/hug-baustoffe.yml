@@ -4,8 +4,8 @@ latitude: 47.45706
 longitude: 8.3326
 postcode: "5430"
 city: Wettingen
-street: "Tägerhardstrasse"
-housenumber: 111
-phone: "056 437 38 38"
-opening_hours: "Mo-Do 06.30-12.00 | 13.00-17.00 Fr 06.30-12.00 | 13.00-16.00"
-website: "https://www.hug-baustoffe.ch"
+street: Tägerhardstrasse
+housenumber: "111"
+phone: 056 437 38 38
+opening_hours: Mo-Do 06.30-12.00 | 13.00-17.00 Fr 06.30-12.00 | 13.00-16.00
+website: https://www.hug-baustoffe.ch

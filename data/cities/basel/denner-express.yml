@@ -4,8 +4,8 @@ latitude: 47.58044
 longitude: 7.59112
 postcode: "4057"
 city: Basel
-street: "Kleinhüningerstrasse"
-housenumber: 193
+street: Kleinhüningerstrasse
+housenumber: "193"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 07:30-18:00"
-website: "https://www.denner.ch/de/filialen/denner-filiale-und-oeffnungszeiten/store/kleinhueningerstrasse-193-4057-basel/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 07:30-18:00
+website: https://www.denner.ch/de/filialen/denner-filiale-und-oeffnungszeiten/store/kleinhueningerstrasse-193-4057-basel/

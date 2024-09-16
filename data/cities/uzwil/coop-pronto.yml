@@ -1,11 +1,11 @@
 id: 43622157
-type: way
+type: node
 latitude: 47.43521
 longitude: 9.13895
 postcode: "9240"
 city: Uzwil
-street: "Wattstrasse"
-housenumber: 3
+street: Wattstrasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00, Su 07:00-21:00"
-website: "https://www.coop-pronto.ch/"
+opening_hours: Mo-Sa 06:00-22:00, Su 07:00-21:00
+website: https://www.coop-pronto.ch/

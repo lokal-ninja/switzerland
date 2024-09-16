@@ -4,8 +4,8 @@ latitude: 47.39109
 longitude: 8.04663
 postcode: "5000"
 city: Aarau
-street: "Bahnhofstrasse"
-housenumber: 23
+street: Bahnhofstrasse
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Th 09:00-20:00; Sa 08:00-18:00; PH off"
-website: "https://www.newyorker.de/ch/"
+opening_hours: Mo-Fr 09:00-19:00; Th 09:00-20:00; Sa 08:00-18:00; PH off
+website: https://www.newyorker.de/ch/

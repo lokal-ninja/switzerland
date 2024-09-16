@@ -5,7 +5,7 @@ longitude: 9.25287
 postcode: "9200"
 city: Gossau
 street: ""
-housenumber: 2
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 05:30-22:00, Sa-Su 06:00-22:00"
-website: "https://www.migrolino.ch/de/standorte/migrolino-gossau/"
+opening_hours: Mo-Fr 05:30-22:00, Sa-Su 06:00-22:00
+website: https://www.migrolino.ch/de/standorte/migrolino-gossau/

@@ -4,8 +4,8 @@ latitude: 46.95859
 longitude: 7.44769
 postcode: "3013"
 city: Bern
-street: "Turnweg"
-housenumber: 20
+street: Turnweg
+housenumber: "20"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:30; Sa 10:00-16:00"
+opening_hours: Tu-Fr 10:00-18:30; Sa 10:00-16:00
 website: ""

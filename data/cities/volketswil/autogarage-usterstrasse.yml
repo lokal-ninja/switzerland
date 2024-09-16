@@ -1,11 +1,11 @@
 id: 243676863
-type: way
+type: node
 latitude: 47.38924
 longitude: 8.67543
 postcode: "8604"
 city: Volketswil
-street: "Usterstrasse"
-housenumber: 10
+street: Usterstrasse
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

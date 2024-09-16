@@ -4,8 +4,8 @@ latitude: 47.42949
 longitude: 8.3914
 postcode: "8955"
 city: Oetwil an der Limmat
-street: "Limmattalstrasse"
-housenumber: 15
+street: Limmattalstrasse
+housenumber: "15"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.migrol.ch/de/"
+opening_hours: 24/7
+website: https://www.migrol.ch/de/

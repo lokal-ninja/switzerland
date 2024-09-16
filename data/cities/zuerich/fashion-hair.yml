@@ -4,8 +4,8 @@ latitude: 47.35815
 longitude: 8.51824
 postcode: "8045"
 city: Zürich
-street: "Giesshübelstrasse"
-housenumber: 65
+street: Giesshübelstrasse
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:00-17:00"
-website: "https://www.fashion-hair.ch/"
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:00-17:00
+website: https://www.fashion-hair.ch/

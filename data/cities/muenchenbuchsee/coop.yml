@@ -4,8 +4,8 @@ latitude: 47.01985
 longitude: 7.44472
 postcode: "3053"
 city: Münchenbuchsee
-street: "Oberdorfstrasse"
-housenumber: 39
-phone: "+41 31 868 06 30"
-opening_hours: "Mo-Th 07:00-19:00; Fr 07:00-20:00; Sa 07:00-17:00"
-website: "https://www.coop.ch/en/locations/coop-supermarkt-muenchenbuchsee/1084_POS"
+street: Oberdorfstrasse
+housenumber: "39"
+phone: +41 31 868 06 30
+opening_hours: Mo-Th 07:00-19:00; Fr 07:00-20:00; Sa 07:00-17:00
+website: https://www.coop.ch/en/locations/coop-supermarkt-muenchenbuchsee/1084_POS

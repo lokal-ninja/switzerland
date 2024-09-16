@@ -4,8 +4,8 @@ latitude: 46.80371
 longitude: 7.15042
 postcode: "1700"
 city: Fribourg
-street: "Rue Louis-d'Affry"
-housenumber: 4
+street: Rue Louis-d'Affry
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-19:00"
-website: "https://www.coop.ch/en/locations/coop-supermarche-fribourg-gare/4876_POS?lat=46.8125412&long=7.1276012"
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-19:00
+website: https://www.coop.ch/en/locations/coop-supermarche-fribourg-gare/4876_POS?lat=46.8125412&long=7.1276012

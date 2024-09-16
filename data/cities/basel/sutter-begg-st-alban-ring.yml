@@ -4,8 +4,8 @@ latitude: 47.54848
 longitude: 7.60968
 postcode: "4052"
 city: Basel
-street: "St. Alban-Ring"
-housenumber: 211
+street: St. Alban-Ring
+housenumber: "211"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; Sa 07:00-13:00"
-website: "https://www.sutterbegg.ch/filialen/sutter-begg-alban"
+opening_hours: Mo-Fr 06:30-18:30; Sa 07:00-13:00
+website: https://www.sutterbegg.ch/filialen/sutter-begg-alban

@@ -4,8 +4,8 @@ latitude: 46.53597
 longitude: 6.57792
 postcode: "1022"
 city: Chavannes-près-Renens
-street: "Avenue de la Gare"
-housenumber: 6
-phone: "+41 21 636 08 50"
-opening_hours: "Mo 13:30-15:00, Tu-Fr 10:00-12:00,13:30-18:30, Sa 10:00-17:00, Mo 10:00-12:00"
-website: "https://www.coin-op.ch/"
+street: Avenue de la Gare
+housenumber: "6"
+phone: +41 21 636 08 50
+opening_hours: Mo 13:30-15:00, Tu-Fr 10:00-12:00,13:30-18:30, Sa 10:00-17:00, Mo 10:00-12:00
+website: https://www.coin-op.ch/

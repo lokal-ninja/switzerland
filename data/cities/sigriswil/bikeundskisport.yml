@@ -4,8 +4,8 @@ latitude: 46.71545
 longitude: 7.71714
 postcode: "3655"
 city: Sigriswil
-street: "Endorfstrasse"
-housenumber: 5
+street: Endorfstrasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo off; Tu-Fr 09:00-12:00,13:30-18:30; Sa 09:00-16:00"
-website: "https://www.staufferrad.ch/"
+opening_hours: Mo off; Tu-Fr 09:00-12:00,13:30-18:30; Sa 09:00-16:00
+website: https://www.staufferrad.ch/

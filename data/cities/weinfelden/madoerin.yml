@@ -4,8 +4,8 @@ latitude: 47.56777
 longitude: 9.11
 postcode: "8570"
 city: Weinfelden
-street: "Thomas-Bornhauser-Strasse"
-housenumber: 3
-phone: "+41 71 622 35 70"
-opening_hours: "Mo-Fr 08:00-18:30, Sa 08:00-16:00"
-website: "http://www.madörin.ch"
+street: Thomas-Bornhauser-Strasse
+housenumber: "3"
+phone: +41 71 622 35 70
+opening_hours: Mo-Fr 08:00-18:30, Sa 08:00-16:00
+website: http://www.madörin.ch

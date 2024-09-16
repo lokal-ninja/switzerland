@@ -1,11 +1,11 @@
 id: 97285694
-type: way
+type: node
 latitude: 47.19198
 longitude: 9.02007
 postcode: "8717"
 city: Benken SG
-street: "Bildsteinstrasse"
-housenumber: 5.1
+street: Bildsteinstrasse
+housenumber: "5.1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.27266
 longitude: 8.34132
 postcode: "5630"
 city: Muri
-street: "Seetalstrasse"
-housenumber: 1
+street: Seetalstrasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.gidor.ch/filiale/muri/"
+website: https://www.gidor.ch/filiale/muri/

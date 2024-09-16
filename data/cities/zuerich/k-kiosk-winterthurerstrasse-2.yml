@@ -4,8 +4,8 @@ latitude: 47.404
 longitude: 8.57288
 postcode: "8051"
 city: Zürich
-street: "Winterthurerstrasse"
-housenumber: 524
+street: Winterthurerstrasse
+housenumber: "524"
 phone: ""
 opening_hours: ""
-website: "https://www.kkiosk.ch/de/"
+website: https://www.kkiosk.ch/de/

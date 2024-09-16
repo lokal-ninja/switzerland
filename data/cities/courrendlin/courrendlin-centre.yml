@@ -1,11 +1,11 @@
 id: 832921455
-type: way
+type: node
 latitude: 47.34383
 longitude: 7.36933
 postcode: "2830"
 city: Courrendlin
-street: "Route de Delémont"
-housenumber: 40
+street: Route de Delémont
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

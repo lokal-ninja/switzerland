@@ -4,8 +4,8 @@ latitude: 47.38773
 longitude: 8.52659
 postcode: "8005"
 city: Zürich
-street: "Limmatstrasse"
-housenumber: 231
+street: Limmatstrasse
+housenumber: "231"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-20:00"
-website: "https://www.st-jakob.ch/de/kontakt/markthalle-im-viadukt.html"
+opening_hours: Mo-Fr 07:00-20:00; Sa 08:00-20:00
+website: https://www.st-jakob.ch/de/kontakt/markthalle-im-viadukt.html

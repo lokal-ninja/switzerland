@@ -4,8 +4,8 @@ latitude: 47.55533
 longitude: 7.62032
 postcode: "4127"
 city: Birsfelden
-street: "Bürklinstrasse"
-housenumber: 21
+street: Bürklinstrasse
+housenumber: "21"
 phone: ""
-opening_hours: "Tu,Th 08:00-12:00; Sa 08:00-14:00"
-website: "https://fabis-veloegge.ch"
+opening_hours: Tu,Th 08:00-12:00; Sa 08:00-14:00
+website: https://fabis-veloegge.ch

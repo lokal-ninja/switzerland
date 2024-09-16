@@ -4,8 +4,8 @@ latitude: 47.49811
 longitude: 8.7247
 postcode: "8400"
 city: Winterthur
-street: "Archplatz"
-housenumber: 2
+street: Archplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.hairstylist-pierre.ch/de/coiffeur-winterthur-archhoefe"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.hairstylist-pierre.ch/de/coiffeur-winterthur-archhoefe

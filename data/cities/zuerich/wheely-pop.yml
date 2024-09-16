@@ -4,8 +4,9 @@ latitude: 47.38113
 longitude: 8.53335
 postcode: "8005"
 city: Zürich
-street: "Josefstrasse"
-housenumber: 27
-phone: "+41 44 599 90 93"
-opening_hours: "Jan-Mar: We-Fr 11:00-18:00; Jan-Mar: Sa 11:00-17:00; Apr-Dec: Tu-Fr 10:00-18:30; Apr-Dec: Sa 10:00-17:00"
-website: "https://www.wheelypop.ch/"
+street: Josefstrasse
+housenumber: "27"
+phone: +41 44 599 90 93
+opening_hours: 'Jan-Mar: We-Fr 11:00-18:00; Jan-Mar: Sa 11:00-17:00; Apr-Dec: Tu-Fr
+    10:00-18:30; Apr-Dec: Sa 10:00-17:00'
+website: https://www.wheelypop.ch/

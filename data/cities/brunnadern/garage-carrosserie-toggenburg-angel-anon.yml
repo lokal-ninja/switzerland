@@ -1,11 +1,11 @@
 id: 177911878
-type: way
+type: node
 latitude: 47.3262
 longitude: 9.15369
 postcode: "9125"
 city: Brunnadern
-street: "Furtstrasse"
-housenumber: 90
+street: Furtstrasse
+housenumber: "90"
 phone: ""
 opening_hours: ""
 website: ""

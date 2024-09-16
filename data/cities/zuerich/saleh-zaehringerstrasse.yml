@@ -4,8 +4,8 @@ latitude: 47.37633
 longitude: 8.54442
 postcode: "8001"
 city: Zürich
-street: "Zähringerstrasse"
-housenumber: 47
+street: Zähringerstrasse
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:30-17:00"
-website: "https://coiffeur-saleh.ch/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 08:30-17:00
+website: https://coiffeur-saleh.ch/

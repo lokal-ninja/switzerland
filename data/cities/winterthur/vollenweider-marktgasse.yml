@@ -4,8 +4,8 @@ latitude: 47.49967
 longitude: 8.72973
 postcode: "8400"
 city: Winterthur
-street: "Marktgasse"
-housenumber: 17
+street: Marktgasse
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-17:00"
-website: "https://www.vollenweiderchocolatier.ch/"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-17:00
+website: https://www.vollenweiderchocolatier.ch/

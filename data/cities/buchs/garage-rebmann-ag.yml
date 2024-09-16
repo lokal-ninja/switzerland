@@ -1,11 +1,11 @@
 id: 619530738
-type: way
+type: node
 latitude: 47.39256
 longitude: 8.06588
 postcode: "5033"
 city: Buchs
-street: "Edisonstrasse"
-housenumber: 1
-phone: "+4162 835 60 60"
-opening_hours: "Mo-Fr 07:00-11:45,13:30-18:00; Sa 09:00-15:00"
-website: "https://www.rebmann-ag.ch/"
+street: Edisonstrasse
+housenumber: "1"
+phone: +4162 835 60 60
+opening_hours: Mo-Fr 07:00-11:45,13:30-18:00; Sa 09:00-15:00
+website: https://www.rebmann-ag.ch/

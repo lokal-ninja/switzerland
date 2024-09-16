@@ -4,8 +4,8 @@ latitude: 46.52302
 longitude: 6.63159
 postcode: "1003"
 city: Lausanne
-street: "Rue William-Haldimand"
-housenumber: 2
-phone: "+41 21 312 77 20"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00"
+street: Rue William-Haldimand
+housenumber: "2"
+phone: +41 21 312 77 20
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-18:00
 website: ""

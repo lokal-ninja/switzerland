@@ -4,8 +4,8 @@ latitude: 47.39727
 longitude: 8.59631
 postcode: "8051"
 city: Zürich
-street: "Dübendorfstrasse"
-housenumber: 475
+street: Dübendorfstrasse
+housenumber: "475"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.coop-pronto.ch/"
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.coop-pronto.ch/

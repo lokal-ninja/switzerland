@@ -4,8 +4,8 @@ latitude: 47.35148
 longitude: 8.6244
 postcode: "8125"
 city: Zollikerberg
-street: "Binzstrasse"
-housenumber: 200
+street: Binzstrasse
+housenumber: "200"
 phone: ""
-opening_hours: "Mo-Su 08:00-19:00"
-website: "https://webershof.ch/hofladen/"
+opening_hours: Mo-Su 08:00-19:00
+website: https://webershof.ch/hofladen/

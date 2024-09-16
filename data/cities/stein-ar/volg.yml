@@ -1,11 +1,11 @@
 id: 194337005
-type: way
+type: node
 latitude: 47.37166
 longitude: 9.34359
 postcode: "9063"
 city: Stein AR
-street: "Schachen"
-housenumber: 45
+street: Schachen
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Sa 06:30-19:30"
+opening_hours: Mo-Sa 06:30-19:30
 website: ""

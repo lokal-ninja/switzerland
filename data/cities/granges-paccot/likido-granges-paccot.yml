@@ -4,8 +4,8 @@ latitude: 46.82089
 longitude: 7.15314
 postcode: "1763"
 city: Granges-Paccot
-street: "Route d'Agy"
-housenumber: 1
-phone: "+41 26 413 25 88"
-opening_hours: "Mo,Tu,We,Fr 09:00-19:00; Th 09:00-21:00; Sa 09:00-16:00"
-website: "https://boutiques-zigzag.ch"
+street: Route d'Agy
+housenumber: "1"
+phone: +41 26 413 25 88
+opening_hours: Mo,Tu,We,Fr 09:00-19:00; Th 09:00-21:00; Sa 09:00-16:00
+website: https://boutiques-zigzag.ch

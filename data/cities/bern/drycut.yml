@@ -4,8 +4,8 @@ latitude: 46.94438
 longitude: 7.37429
 postcode: "3027"
 city: Bern
-street: "Riedbachstrasse"
-housenumber: 100
+street: Riedbachstrasse
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://www.drycut.ch/"
+website: https://www.drycut.ch/

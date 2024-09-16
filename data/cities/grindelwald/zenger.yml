@@ -1,11 +1,11 @@
 id: 320493137
-type: way
+type: node
 latitude: 46.62432
 longitude: 8.0311
 postcode: "3818"
 city: Grindelwald
-street: "Dorfstrasse"
-housenumber: 62
+street: Dorfstrasse
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

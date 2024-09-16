@@ -1,11 +1,11 @@
 id: 275786167
-type: way
+type: node
 latitude: 47.30007
 longitude: 8.86558
 postcode: "8342"
 city: Wernetshausen
-street: "Sennhüttenstrasse"
-housenumber: 13
+street: Sennhüttenstrasse
+housenumber: "13"
 phone: "+41438431220"
 opening_hours: ""
-website: "https://www.sennerei-bachtel.ch"
+website: https://www.sennerei-bachtel.ch

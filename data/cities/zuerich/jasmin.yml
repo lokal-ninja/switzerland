@@ -4,8 +4,8 @@ latitude: 47.41433
 longitude: 8.54053
 postcode: "8050"
 city: Zürich
-street: "Max-Bill-Platz"
-housenumber: 15
+street: Max-Bill-Platz
+housenumber: "15"
 phone: ""
-opening_hours: "Tu-Fr 13:00-19:00; Sa 10:00-17:00"
-website: "https://www.jasminmode.ch/"
+opening_hours: Tu-Fr 13:00-19:00; Sa 10:00-17:00
+website: https://www.jasminmode.ch/

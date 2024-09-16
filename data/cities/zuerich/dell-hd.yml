@@ -4,8 +4,8 @@ latitude: 47.38822
 longitude: 8.48402
 postcode: "8048"
 city: Zürich
-street: "Badenerstrasse"
-housenumber: 697
-phone: "+41 44 558 88 99"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.coiffeur-lilla.ch/"
+street: Badenerstrasse
+housenumber: "697"
+phone: +41 44 558 88 99
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.coiffeur-lilla.ch/

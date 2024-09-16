@@ -1,11 +1,11 @@
 id: 251163164
-type: way
+type: node
 latitude: 47.33826
 longitude: 8.81156
 postcode: "8623"
 city: Wetzikon
-street: "Pfäffikerstrasse"
-housenumber: 76
+street: Pfäffikerstrasse
+housenumber: "76"
 phone: ""
 opening_hours: ""
 website: ""

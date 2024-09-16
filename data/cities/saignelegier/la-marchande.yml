@@ -4,8 +4,8 @@ latitude: 47.2564
 longitude: 6.99786
 postcode: "2350"
 city: Saignelégier
-street: "Rue des Rangiers"
-housenumber: 5
-phone: "+41 32 951 40 48"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:30; Sa 09:00-12:00,14:00-16:00"
-website: "https://lamarchande.wixsite.com/lamarchande"
+street: Rue des Rangiers
+housenumber: "5"
+phone: +41 32 951 40 48
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:30; Sa 09:00-12:00,14:00-16:00
+website: https://lamarchande.wixsite.com/lamarchande

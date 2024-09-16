@@ -4,8 +4,8 @@ latitude: 47.39555
 longitude: 8.60611
 postcode: "8600"
 city: Dübendorf
-street: "Zürichstrasse"
-housenumber: 89
+street: Zürichstrasse
+housenumber: "89"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.migrolino.ch/de/standorte/shell-dubendorf-sonnental/"
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.migrolino.ch/de/standorte/shell-dubendorf-sonnental/

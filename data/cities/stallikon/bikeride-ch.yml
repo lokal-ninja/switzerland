@@ -4,8 +4,8 @@ latitude: 47.35122
 longitude: 8.47738
 postcode: "8143"
 city: Stallikon
-street: "Diebis"
-housenumber: 45
-phone: "+41 43 344 04 08"
-opening_hours: "Mo 18:00-20:00; Tu-Fr 13:30-18:00"
-website: "https://www.bikeride.ch/"
+street: Diebis
+housenumber: "45"
+phone: +41 43 344 04 08
+opening_hours: Mo 18:00-20:00; Tu-Fr 13:30-18:00
+website: https://www.bikeride.ch/

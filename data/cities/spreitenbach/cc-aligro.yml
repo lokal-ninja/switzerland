@@ -1,11 +1,11 @@
 id: 111700584
-type: way
+type: node
 latitude: 47.42579
 longitude: 8.36611
 postcode: "8957"
 city: Spreitenbach
-street: "Industriestrasse"
-housenumber: 167
+street: Industriestrasse
+housenumber: "167"
 phone: ""
 opening_hours: ""
 website: ""

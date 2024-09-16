@@ -1,11 +1,11 @@
 id: 79939589
-type: way
+type: node
 latitude: 46.77724
 longitude: 6.63594
 postcode: "1400"
 city: Yverdon-les-Bains
-street: "Rue des Moulins"
-housenumber: 27
+street: Rue des Moulins
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:30"
-website: "https://www.ecomarketyverdon.ch/"
+opening_hours: Mo-Sa 08:00-18:30
+website: https://www.ecomarketyverdon.ch/

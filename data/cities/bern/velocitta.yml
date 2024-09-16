@@ -4,8 +4,8 @@ latitude: 46.96137
 longitude: 7.44869
 postcode: "3014"
 city: Bern
-street: "Wylerfeldstrasse"
-housenumber: 7
-phone: "+41 31 331 94 24"
-opening_hours: "Mo off; Tu-Fr 08:00-12:30, 14:00-18:30; Sa 08:00-14:00; Su off"
-website: "https://www.velocitta.ch/"
+street: Wylerfeldstrasse
+housenumber: "7"
+phone: +41 31 331 94 24
+opening_hours: Mo off; Tu-Fr 08:00-12:30, 14:00-18:30; Sa 08:00-14:00; Su off
+website: https://www.velocitta.ch/

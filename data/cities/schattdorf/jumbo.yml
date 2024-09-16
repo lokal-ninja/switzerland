@@ -4,8 +4,8 @@ latitude: 46.85522
 longitude: 8.64588
 postcode: "6467"
 city: Schattdorf
-street: "Militärstrasse"
-housenumber: 9
+street: Militärstrasse
+housenumber: "9"
 phone: "+41418743010"
-opening_hours: "Mo-Th 08:30-18:30; Fr 08:30-20:00; Sa 08:00-17:00"
-website: "https://www.jumbo.ch/de/filialen/jumbo-schattdorf"
+opening_hours: Mo-Th 08:30-18:30; Fr 08:30-20:00; Sa 08:00-17:00
+website: https://www.jumbo.ch/de/filialen/jumbo-schattdorf

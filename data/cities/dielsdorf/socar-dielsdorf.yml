@@ -1,11 +1,11 @@
 id: 238473989
-type: way
+type: node
 latitude: 47.47575
 longitude: 8.45458
 postcode: "8157"
 city: Dielsdorf
-street: "Wehntalerstrasse"
-housenumber: 82
+street: Wehntalerstrasse
+housenumber: "82"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.socarenergy.ch/"
+opening_hours: 24/7
+website: https://www.socarenergy.ch/

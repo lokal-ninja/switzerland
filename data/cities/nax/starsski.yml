@@ -1,11 +1,11 @@
 id: 224649200
-type: way
+type: node
 latitude: 46.22521
 longitude: 7.46193
 postcode: "1973"
 city: Nax
-street: "Mayens des Baucs"
-housenumber: 1507
+street: Mayens des Baucs
+housenumber: "1507"
 phone: "+41272033124"
 opening_hours: ""
-website: "http://www.ess-nax.ch/"
+website: http://www.ess-nax.ch/

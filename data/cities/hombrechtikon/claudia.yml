@@ -4,8 +4,8 @@ latitude: 47.25011
 longitude: 8.779
 postcode: "8634"
 city: Hombrechtikon
-street: "Grossacherstrasse"
-housenumber: 3
-phone: "+41 78 805 05 49"
-opening_hours: "nach Vereinbarung"
+street: Grossacherstrasse
+housenumber: "3"
+phone: +41 78 805 05 49
+opening_hours: '"nach Vereinbarung"'
 website: ""

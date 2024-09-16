@@ -4,8 +4,8 @@ latitude: 47.13355
 longitude: 9.09473
 postcode: "8872"
 city: Weesen
-street: "Hauptstrasse "
-housenumber: 6
-phone: "+41 55 280 17 55 "
+street: 'Hauptstrasse '
+housenumber: "6"
+phone: '+41 55 280 17 55 '
 opening_hours: ""
-website: "https://www.frisch-fisch.ch/"
+website: https://www.frisch-fisch.ch/

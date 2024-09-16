@@ -1,11 +1,11 @@
 id: 158769323
-type: way
+type: node
 latitude: 46.82199
 longitude: 7.34796
 postcode: "3150"
 city: Schwarzenburg
-street: "Ringgenmatt"
-housenumber: 6
-phone: "+41 58 476 97 40"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:00-17:00; Su off"
-website: "https://www.landischwarzwasser.ch/"
+street: Ringgenmatt
+housenumber: "6"
+phone: +41 58 476 97 40
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:00-17:00; Su off
+website: https://www.landischwarzwasser.ch/

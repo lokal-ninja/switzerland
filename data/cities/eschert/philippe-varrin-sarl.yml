@@ -1,11 +1,11 @@
 id: 208839233
-type: way
+type: node
 latitude: 47.27916
 longitude: 7.39405
 postcode: "2743"
 city: Eschert
-street: "Route Principale"
-housenumber: 9
+street: Route Principale
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

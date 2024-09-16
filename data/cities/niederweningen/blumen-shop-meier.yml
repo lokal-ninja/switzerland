@@ -4,8 +4,8 @@ latitude: 47.50738
 longitude: 8.38093
 postcode: "8166"
 city: Niederweningen
-street: "Alte Poststrasse"
-housenumber: 4
+street: Alte Poststrasse
+housenumber: "4"
 phone: "+41448857666"
-opening_hours: "Tu,Th,Fr 09:00-12:00,14:00-18:30; We 09:00-12:00; Sa 09:00-16:00"
-website: "https://blumen-shop-meier.ch/"
+opening_hours: Tu,Th,Fr 09:00-12:00,14:00-18:30; We 09:00-12:00; Sa 09:00-16:00
+website: https://blumen-shop-meier.ch/

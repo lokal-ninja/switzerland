@@ -4,8 +4,8 @@ latitude: 46.74199
 longitude: 7.5961
 postcode: "3608"
 city: Thun
-street: "Im Dorf"
-housenumber: 8
+street: Im Dorf
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 06:15-12:30,14:00-18:30;Sa 06:30-15:00;Tu 06:15-12:30"
-website: "https://www.goebel-beck.ch/"
+opening_hours: Mo-Fr 06:15-12:30,14:00-18:30;Sa 06:30-15:00;Tu 06:15-12:30
+website: https://www.goebel-beck.ch/

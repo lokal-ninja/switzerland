@@ -4,8 +4,8 @@ latitude: 47.48185
 longitude: 7.54173
 postcode: "4107"
 city: Ettingen
-street: "Kirchrain"
-housenumber: 1
-phone: "+41 61 721 15 18"
-opening_hours: "Weinkeller: Sa. von 9-11.30 Uhr. Wylädeli im Rebstock."
-website: "http://www.urbanthuering.ch/"
+street: Kirchrain
+housenumber: "1"
+phone: +41 61 721 15 18
+opening_hours: 'Weinkeller: Sa. von 9-11.30 Uhr. Wylädeli im Rebstock.'
+website: http://www.urbanthuering.ch/

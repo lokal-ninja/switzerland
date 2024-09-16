@@ -4,8 +4,8 @@ latitude: 47.42302
 longitude: 8.49949
 postcode: "8046"
 city: Zürich
-street: "Wehntalerstrasse"
-housenumber: 634
-phone: "+41 44 203 04 68"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
-website: "https://dannailsbeauty.ch/"
+street: Wehntalerstrasse
+housenumber: "634"
+phone: +41 44 203 04 68
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
+website: https://dannailsbeauty.ch/

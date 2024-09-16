@@ -1,11 +1,11 @@
 id: 379582639
-type: way
+type: node
 latitude: 46.94766
 longitude: 7.44062
 postcode: "3011"
 city: Bern
-street: "Christoffel-Unterführung"
-housenumber: 
+street: Christoffel-Unterführung
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-21:00"
-website: "https://www.pressbooks.ch/"
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-21:00
+website: https://www.pressbooks.ch/

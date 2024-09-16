@@ -1,11 +1,11 @@
 id: 969300494
-type: way
+type: node
 latitude: 46.87511
 longitude: 8.65269
 postcode: "6460"
 city: Altdorf UR
-street: "Klausenstrasse"
-housenumber: 5
+street: Klausenstrasse
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

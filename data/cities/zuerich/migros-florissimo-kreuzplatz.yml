@@ -4,8 +4,8 @@ latitude: 47.3647
 longitude: 8.5539
 postcode: "8008"
 city: Zürich
-street: "Kreuzplatz"
-housenumber: 20
+street: Kreuzplatz
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://filialen.migros.ch/de/florissimo-zuerich-kreuzplatz"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://filialen.migros.ch/de/florissimo-zuerich-kreuzplatz

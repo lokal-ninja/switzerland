@@ -1,11 +1,11 @@
 id: 262610141
-type: way
+type: node
 latitude: 46.99009
 longitude: 9.63781
 postcode: "7212"
 city: Seewis Dorf
-street: "Von Salis-Strasse"
-housenumber: 33
+street: Von Salis-Strasse
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

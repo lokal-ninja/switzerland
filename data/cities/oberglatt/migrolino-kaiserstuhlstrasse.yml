@@ -4,8 +4,8 @@ latitude: 47.4764
 longitude: 8.5051
 postcode: "8154"
 city: Oberglatt
-street: "Kaiserstuhlstrasse"
-housenumber: 51
+street: Kaiserstuhlstrasse
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.migrolino.ch/de/standorte/socar-oberglatt/"
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.migrolino.ch/de/standorte/socar-oberglatt/

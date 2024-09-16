@@ -1,11 +1,11 @@
 id: 379342429
-type: way
+type: node
 latitude: 47.0504
 longitude: 8.30931
 postcode: "6002"
 city: Luzern
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 06:45-21:00; Sa 06:00-19:30; Su 06:30-19:00"
-website: "https://www.confiserie.ch/de/bahnhof-ug"
+opening_hours: Mo-Fr 06:45-21:00; Sa 06:00-19:30; Su 06:30-19:00
+website: https://www.confiserie.ch/de/bahnhof-ug

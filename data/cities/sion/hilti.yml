@@ -4,8 +4,8 @@ latitude: 46.22302
 longitude: 7.36937
 postcode: "1950"
 city: Sion
-street: "Route de Riddes"
-housenumber: 73
+street: Route de Riddes
+housenumber: "73"
 phone: "+41844848485"
-opening_hours: "Mo-Fr 07:00-12:00 13:00-17:00"
-website: "https://www.hilti.ch/"
+opening_hours: Mo-Fr 07:00-12:00 13:00-17:00
+website: https://www.hilti.ch/

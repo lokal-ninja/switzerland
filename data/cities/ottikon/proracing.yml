@@ -1,11 +1,11 @@
 id: 161288727
-type: way
+type: node
 latitude: 47.29384
 longitude: 8.77741
 postcode: "8626"
 city: Ottikon
-street: "Grüningerstrasse"
-housenumber: 154
+street: Grüningerstrasse
+housenumber: "154"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.01845
 longitude: 7.50358
 postcode: "3322"
 city: Urtenen-Schönbühl
-street: "Hindelbankstrasse"
-housenumber: 12
+street: Hindelbankstrasse
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-14:00; Su 08:00-12:00"
-website: "https://www.dorfbaeckerei.ch/filiale_urtenenschoenbuehl.html"
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-14:00; Su 08:00-12:00
+website: https://www.dorfbaeckerei.ch/filiale_urtenenschoenbuehl.html

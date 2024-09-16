@@ -4,8 +4,8 @@ latitude: 46.99796
 longitude: 7.46032
 postcode: "3052"
 city: Zollikofen
-street: "Bernstrasse"
-housenumber: 160
+street: Bernstrasse
+housenumber: "160"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-17:00; Su,PH off"
-website: "https://www.aldi-suisse.ch/de/infos-und-services/infos/filialsuche-und-oeffnungszeiten/"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-17:00; Su,PH off
+website: https://www.aldi-suisse.ch/de/infos-und-services/infos/filialsuche-und-oeffnungszeiten/

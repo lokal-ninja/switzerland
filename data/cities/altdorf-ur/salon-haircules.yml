@@ -4,8 +4,9 @@ latitude: 46.87428
 longitude: 8.63714
 postcode: "6460"
 city: Altdorf UR
-street: "Gurtenmundstrasse"
-housenumber: 1
-phone: "+41 79 336 62 20"
-opening_hours: "Tu,We,Fr 08:00-12:00,13:30-18:30; Th 07:00-16:00; Sa 08:00-14:00; PH off"
-website: "https://salonhairculesaltd.wixsite.com/salonhaircules"
+street: Gurtenmundstrasse
+housenumber: "1"
+phone: +41 79 336 62 20
+opening_hours: Tu,We,Fr 08:00-12:00,13:30-18:30; Th 07:00-16:00; Sa 08:00-14:00; PH
+    off
+website: https://salonhairculesaltd.wixsite.com/salonhaircules

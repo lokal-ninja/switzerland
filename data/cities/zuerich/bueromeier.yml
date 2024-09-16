@@ -4,8 +4,8 @@ latitude: 47.3742
 longitude: 8.53543
 postcode: "8001"
 city: Zürich
-street: "Löwenstrasse"
-housenumber: 19
+street: Löwenstrasse
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30, Sa 09:30-17:00; PH off"
-website: "http://bueromeier.ch/"
+opening_hours: Mo-Fr 09:00-18:30, Sa 09:30-17:00; PH off
+website: http://bueromeier.ch/

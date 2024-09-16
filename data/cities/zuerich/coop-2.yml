@@ -5,7 +5,7 @@ longitude: 8.53837
 postcode: "8001"
 city: Zürich
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-22:00"
-website: "https://www.coop.ch/"
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-22:00
+website: https://www.coop.ch/

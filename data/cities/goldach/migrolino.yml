@@ -4,8 +4,8 @@ latitude: 47.47867
 longitude: 9.47549
 postcode: "9403"
 city: Goldach
-street: "St. Gallerstrasse"
-housenumber: 34
+street: St. Gallerstrasse
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00, Su 07:00-21:00"
-website: "https://www.migrolino.ch/de/standorte/migrol-service-goldach/"
+opening_hours: Mo-Sa 06:00-22:00, Su 07:00-21:00
+website: https://www.migrolino.ch/de/standorte/migrol-service-goldach/

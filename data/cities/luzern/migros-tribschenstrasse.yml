@@ -4,8 +4,8 @@ latitude: 47.04234
 longitude: 8.31682
 postcode: "6005"
 city: Luzern
-street: "Tribschenstrasse"
-housenumber: 66
+street: Tribschenstrasse
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Th 07:00-19:00; Sa 07:00-17:00; PH off; Fr 07:00-20:00"
-website: "https://filialen.migros.ch/de/migros-supermarkt-luzern-tribschenstrasse"
+opening_hours: Mo-Th 07:00-19:00; Sa 07:00-17:00; PH off; Fr 07:00-20:00
+website: https://filialen.migros.ch/de/migros-supermarkt-luzern-tribschenstrasse

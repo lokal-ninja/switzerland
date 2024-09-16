@@ -4,8 +4,8 @@ latitude: 47.37175
 longitude: 8.5253
 postcode: "8004"
 city: Zürich
-street: "Birmensdorferstrasse"
-housenumber: 50
+street: Birmensdorferstrasse
+housenumber: "50"
 phone: ""
 opening_hours: ""
-website: "https://caritas-secondhand.ch/"
+website: https://caritas-secondhand.ch/

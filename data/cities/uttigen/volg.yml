@@ -1,11 +1,11 @@
 id: 91280951
-type: way
+type: node
 latitude: 46.7941
 longitude: 7.57606
 postcode: "3628"
 city: Uttigen
 street: ""
-housenumber: 7
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 06:00-20:00; Sa 07:00-17:00"
+opening_hours: Mo-Fr 06:00-20:00; Sa 07:00-17:00
 website: ""

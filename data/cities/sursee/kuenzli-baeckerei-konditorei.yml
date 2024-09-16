@@ -4,8 +4,8 @@ latitude: 47.17202
 longitude: 8.11042
 postcode: "6210"
 city: Sursee
-street: "Oberstadt"
-housenumber: 12
+street: Oberstadt
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 06:30-12:30,13:30-18:30; Sa 06:30-16:00"
-website: "https://kuenzlibeck.ch/"
+opening_hours: Mo-Fr 06:30-12:30,13:30-18:30; Sa 06:30-16:00
+website: https://kuenzlibeck.ch/

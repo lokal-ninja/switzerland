@@ -4,8 +4,8 @@ latitude: 47.15865
 longitude: 8.79471
 postcode: "8847"
 city: Egg
-street: "Brandegg"
-housenumber: 5
+street: Brandegg
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.biohof-brandegg.ch/"
+website: https://www.biohof-brandegg.ch/

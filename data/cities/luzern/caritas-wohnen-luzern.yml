@@ -4,8 +4,8 @@ latitude: 47.04262
 longitude: 8.30629
 postcode: "6003"
 city: Luzern
-street: "Bleicherstrasse"
-housenumber: 10
-phone: "+41 41 368 51 50"
+street: Bleicherstrasse
+housenumber: "10"
+phone: +41 41 368 51 50
 opening_hours: ""
-website: "https://www.caritas-luzern.ch/kontakt/standorte/caritas-wohnen-luzern"
+website: https://www.caritas-luzern.ch/kontakt/standorte/caritas-wohnen-luzern

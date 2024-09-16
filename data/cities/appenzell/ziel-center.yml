@@ -1,11 +1,11 @@
 id: 241949417
-type: way
+type: node
 latitude: 47.33427
 longitude: 9.40739
 postcode: "9050"
 city: Appenzell
-street: "Zielstrasse"
-housenumber: 38
+street: Zielstrasse
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

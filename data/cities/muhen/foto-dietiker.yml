@@ -1,11 +1,11 @@
 id: 258673859
-type: way
+type: node
 latitude: 47.33388
 longitude: 8.05532
 postcode: "5037"
 city: Muhen
-street: "Hauptstrasse"
-housenumber: 55
-phone: "+41 62 723 15 85"
+street: Hauptstrasse
+housenumber: "55"
+phone: +41 62 723 15 85
 opening_hours: ""
-website: "http://www.foto-dietiker.ch/"
+website: http://www.foto-dietiker.ch/

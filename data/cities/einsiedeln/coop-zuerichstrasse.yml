@@ -1,11 +1,11 @@
 id: 258502276
-type: way
+type: node
 latitude: 47.13228
 longitude: 8.74478
 postcode: "8840"
 city: Einsiedeln
-street: "Zürichstrasse"
-housenumber: 44
-phone: "+41 55 254 01 00"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.coop.ch/"
+street: Zürichstrasse
+housenumber: "44"
+phone: +41 55 254 01 00
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.coop.ch/

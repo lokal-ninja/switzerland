@@ -4,8 +4,8 @@ latitude: 47.69756
 longitude: 8.63381
 postcode: "8200"
 city: Schaffhausen
-street: "Vorstadt"
-housenumber: 4
+street: Vorstadt
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-14:00"
-website: "https://www.hotelplan.ch/hotelplan-schaffhausen"
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-14:00
+website: https://www.hotelplan.ch/hotelplan-schaffhausen

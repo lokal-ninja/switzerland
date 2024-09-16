@@ -4,8 +4,8 @@ latitude: 47.41046
 longitude: 8.53354
 postcode: ""
 city: Zürich
-street: "Regensbergstrasse"
-housenumber: 216
-phone: "+41 44 557 44 51"
-opening_hours: "Mo-Fr 10:00-17:30; Sa 10:00-16:00"
-website: "https://www.chind-und-chegel.ch/"
+street: Regensbergstrasse
+housenumber: "216"
+phone: +41 44 557 44 51
+opening_hours: Mo-Fr 10:00-17:30; Sa 10:00-16:00
+website: https://www.chind-und-chegel.ch/

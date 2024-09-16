@@ -4,8 +4,8 @@ latitude: 46.55159
 longitude: 6.57038
 postcode: "1023"
 city: Crissier
-street: "Rue de Morges"
-housenumber: 2
+street: Rue de Morges
+housenumber: "2"
 phone: "+41219603000"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.militarymegastore.ch"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.militarymegastore.ch

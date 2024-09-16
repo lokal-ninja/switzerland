@@ -4,8 +4,8 @@ latitude: 46.88146
 longitude: 8.64464
 postcode: "6460"
 city: Altdorf UR
-street: "Schützengasse"
-housenumber: 5
+street: Schützengasse
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Fr 08:30-12:00,13:30-18:30; Sa 08:30-16:00; PH off"
-website: "https://mcoptic.ch/"
+opening_hours: Tu-Fr 08:30-12:00,13:30-18:30; Sa 08:30-16:00; PH off
+website: https://mcoptic.ch/

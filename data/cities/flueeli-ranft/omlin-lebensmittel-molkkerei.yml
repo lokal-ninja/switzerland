@@ -1,11 +1,11 @@
 id: 292627775
-type: way
+type: node
 latitude: 46.87151
 longitude: 8.2688
 postcode: "6073"
 city: Flüeli-Ranft
-street: "Bitzigasse"
-housenumber: 4
+street: Bitzigasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

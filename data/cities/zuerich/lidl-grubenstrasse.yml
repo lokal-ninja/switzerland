@@ -4,8 +4,8 @@ latitude: 47.36177
 longitude: 8.51493
 postcode: "8045"
 city: Zürich
-street: "Grubenstrasse"
-housenumber: 28
+street: Grubenstrasse
+housenumber: "28"
 phone: ""
-opening_hours: "Mo, Th, Sa 07:30-21:00; Tu, We, Fr 08:00-21:00"
-website: "https://www.lidl.ch/"
+opening_hours: Mo, Th, Sa 07:30-21:00; Tu, We, Fr 08:00-21:00
+website: https://www.lidl.ch/

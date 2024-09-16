@@ -4,8 +4,8 @@ latitude: 46.21304
 longitude: 7.25817
 postcode: "1957"
 city: Ardon
-street: "Route du Simplon"
-housenumber: 24
-phone: "+41 27 306 56 00"
-opening_hours: "Mo-Sa 06:00-14:00,16:00-18:00; Su 06:00-12:30,15:00-18:00"
-website: "https://lesroues.ch/"
+street: Route du Simplon
+housenumber: "24"
+phone: +41 27 306 56 00
+opening_hours: Mo-Sa 06:00-14:00,16:00-18:00; Su 06:00-12:30,15:00-18:00
+website: https://lesroues.ch/

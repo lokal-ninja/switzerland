@@ -4,8 +4,8 @@ latitude: 47.37023
 longitude: 8.53729
 postcode: "8001"
 city: Zürich
-street: "Bärengasse"
-housenumber: 16
+street: Bärengasse
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://www.kkiosk.ch/"
+website: https://www.kkiosk.ch/

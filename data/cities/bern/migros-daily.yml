@@ -4,8 +4,8 @@ latitude: 46.94791
 longitude: 7.43667
 postcode: "3000"
 city: Bern
-street: "Schanzenstrasse"
-housenumber: 5
+street: Schanzenstrasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 06:00-21:30; Sa 06:00-20:00"
-website: "https://filialen.migros.ch/de/migros-daily-bern-welle-7-2"
+opening_hours: Mo-Fr 06:00-21:30; Sa 06:00-20:00
+website: https://filialen.migros.ch/de/migros-daily-bern-welle-7-2

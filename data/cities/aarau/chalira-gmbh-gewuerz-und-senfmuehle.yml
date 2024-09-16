@@ -4,8 +4,8 @@ latitude: 47.39457
 longitude: 8.04548
 postcode: "5000"
 city: Aarau
-street: "Hammer 2"
-housenumber: 28
+street: Hammer 2
+housenumber: "28"
 phone: ""
 opening_hours: ""
-website: "https://www.chalira.ch/"
+website: https://www.chalira.ch/

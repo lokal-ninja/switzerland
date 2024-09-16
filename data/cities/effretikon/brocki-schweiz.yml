@@ -1,11 +1,11 @@
 id: 193001735
-type: way
+type: node
 latitude: 47.42554
 longitude: 8.68795
 postcode: "8307"
 city: Effretikon
-street: "Brandrietstrasse"
-housenumber: 19
+street: Brandrietstrasse
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

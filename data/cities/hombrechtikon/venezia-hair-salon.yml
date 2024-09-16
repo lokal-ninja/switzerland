@@ -4,8 +4,9 @@ latitude: 47.25253
 longitude: 8.76584
 postcode: "8634"
 city: Hombrechtikon
-street: "Grüningerstrasse"
-housenumber: 14
-phone: "+41 55 244 55 39"
-opening_hours: "Mo 08:30-11:30; Tu,Th-Fr 08:30-11:30,13:30-18:00; We 14:00-18:00; Sa 08:30-12:00"
-website: "https://www.coiffeurvenezia.ch/"
+street: Grüningerstrasse
+housenumber: "14"
+phone: +41 55 244 55 39
+opening_hours: Mo 08:30-11:30; Tu,Th-Fr 08:30-11:30,13:30-18:00; We 14:00-18:00; Sa
+    08:30-12:00
+website: https://www.coiffeurvenezia.ch/

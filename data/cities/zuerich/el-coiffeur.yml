@@ -4,8 +4,8 @@ latitude: 47.37378
 longitude: 8.52612
 postcode: "8004"
 city: Zürich
-street: "Badenerstrasse"
-housenumber: 85
-phone: "+41 44 241 58 88"
+street: Badenerstrasse
+housenumber: "85"
+phone: +41 44 241 58 88
 opening_hours: ""
-website: "https://www.elcoiffeur.ch/"
+website: https://www.elcoiffeur.ch/

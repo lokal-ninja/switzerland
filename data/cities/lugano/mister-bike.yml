@@ -4,8 +4,8 @@ latitude: 46.01189
 longitude: 8.95526
 postcode: ""
 city: Lugano
-street: "Piazza Molino Nuovo"
-housenumber: 6
-phone: "+41 91 225 44 46"
-opening_hours: "Mo off; Tu-Fr 09:00-12:00,13:30-18:30; Sa 09:00-12:00,13:00-17:00"
-website: "https://www.misterbike.ch/"
+street: Piazza Molino Nuovo
+housenumber: "6"
+phone: +41 91 225 44 46
+opening_hours: Mo off; Tu-Fr 09:00-12:00,13:30-18:30; Sa 09:00-12:00,13:00-17:00
+website: https://www.misterbike.ch/

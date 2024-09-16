@@ -5,7 +5,7 @@ longitude: 8.55991
 postcode: "6314"
 city: Neuägeri
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://www.migrol.ch/de/"
+opening_hours: 24/7
+website: https://www.migrol.ch/de/

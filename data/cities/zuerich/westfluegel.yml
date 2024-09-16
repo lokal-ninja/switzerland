@@ -4,8 +4,8 @@ latitude: 47.38736
 longitude: 8.52528
 postcode: "8005"
 city: Zürich
-street: "Viaduktstrasse"
-housenumber: 
+street: Viaduktstrasse
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 12:30-18:30; Tu off; Sa 11:00-17:00"
-website: "http://www.westfluegel.ch/"
+opening_hours: Mo-Fr 12:30-18:30; Tu off; Sa 11:00-17:00
+website: http://www.westfluegel.ch/

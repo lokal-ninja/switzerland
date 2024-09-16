@@ -4,8 +4,8 @@ latitude: 46.5221
 longitude: 6.62621
 postcode: "1003"
 city: Lausanne
-street: "Rue de Genève"
-housenumber: 33
+street: Rue de Genève
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1120973886
-type: way
+type: node
 latitude: 47.12002
 longitude: 9.31605
 postcode: "8880"
 city: Walenstadt
-street: "Sarganserstrasse"
-housenumber: 15
-phone: "+41 58 999 14 70"
-opening_hours: "Mo-Fr 07:30-19:00, Sa 07:30-17:00"
-website: "https://www.denner.ch/de/filialen/denner-filiale-und-oeffnungszeiten/store/sarganserstrasse-15-8880-walenstadt/"
+street: Sarganserstrasse
+housenumber: "15"
+phone: +41 58 999 14 70
+opening_hours: Mo-Fr 07:30-19:00, Sa 07:30-17:00
+website: https://www.denner.ch/de/filialen/denner-filiale-und-oeffnungszeiten/store/sarganserstrasse-15-8880-walenstadt/

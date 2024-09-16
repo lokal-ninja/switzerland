@@ -4,8 +4,8 @@ latitude: 47.44447
 longitude: 8.13698
 postcode: "5107"
 city: Schinznach-Dorf
-street: "Talbachweg"
-housenumber: 2
-phone: "+41 56 443 36 56"
-opening_hours: "Fr: 16:00-18:30 || nach Telefonischer Vereinbarung"
-website: "https://www.ck-weine.ch/"
+street: Talbachweg
+housenumber: "2"
+phone: +41 56 443 36 56
+opening_hours: 'Fr: 16:00-18:30 || "nach Telefonischer Vereinbarung"'
+website: https://www.ck-weine.ch/

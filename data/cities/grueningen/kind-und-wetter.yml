@@ -4,8 +4,9 @@ latitude: 47.27528
 longitude: 8.75696
 postcode: "8627"
 city: Grüningen
-street: "Hombrechtikerstrasse"
-housenumber: 5
+street: Hombrechtikerstrasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo 09:00-11:30; Tu off; We-Fr 09:00-11:30,13:30-17:00; Sa 09:00-13:00; Su,PH off"
-website: "http://www.kindundwetter.ch/"
+opening_hours: Mo 09:00-11:30; Tu off; We-Fr 09:00-11:30,13:30-17:00; Sa 09:00-13:00;
+    Su,PH off
+website: http://www.kindundwetter.ch/

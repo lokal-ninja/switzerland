@@ -1,11 +1,11 @@
 id: 165779325
-type: way
+type: node
 latitude: 46.90093
 longitude: 7.22966
 postcode: "3178"
 city: Bösingen
-street: "Industriestrasse"
-housenumber: 38
+street: Industriestrasse
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.39074
 longitude: 9.56786
 postcode: "9437"
 city: Marbach
-street: "Brunnenackerstrasse"
-housenumber: 4
-phone: "+41 71 777 18 54"
-opening_hours: "Mo-Sa 08:00-12:00; Mo-Fr 13:30-18:00"
-website: "https://www.benzgaertnerei.ch/"
+street: Brunnenackerstrasse
+housenumber: "4"
+phone: +41 71 777 18 54
+opening_hours: Mo-Sa 08:00-12:00; Mo-Fr 13:30-18:00
+website: https://www.benzgaertnerei.ch/

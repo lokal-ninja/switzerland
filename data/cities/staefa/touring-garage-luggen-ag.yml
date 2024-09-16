@@ -1,11 +1,11 @@
 id: 91821462
-type: way
+type: node
 latitude: 47.23846
 longitude: 8.74891
 postcode: "8712"
 city: Stäfa
-street: "Laubisrütistrasse"
-housenumber: 68
+street: Laubisrütistrasse
+housenumber: "68"
 phone: ""
 opening_hours: ""
-website: "https://www.touringgarage-luggen.ch/"
+website: https://www.touringgarage-luggen.ch/

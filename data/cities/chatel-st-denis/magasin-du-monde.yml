@@ -4,8 +4,8 @@ latitude: 46.52633
 longitude: 6.90062
 postcode: "1618"
 city: Châtel-St-Denis
-street: "Route de Vevey"
-housenumber: 27
-phone: "+41 79 576 05 65"
-opening_hours: "Tu 09:00-12:00,14:00-18:00; We-Fr 14:00-18:00; Sa 09:00-12:00"
-website: "https://www.mdm.ch/magasins/chatel-st-denis"
+street: Route de Vevey
+housenumber: "27"
+phone: +41 79 576 05 65
+opening_hours: Tu 09:00-12:00,14:00-18:00; We-Fr 14:00-18:00; Sa 09:00-12:00
+website: https://www.mdm.ch/magasins/chatel-st-denis

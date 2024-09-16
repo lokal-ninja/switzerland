@@ -4,8 +4,8 @@ latitude: 47.23505
 longitude: 8.19333
 postcode: "5737"
 city: Menziken
-street: "Hauptstrasse"
-housenumber: 93
+street: Hauptstrasse
+housenumber: "93"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; PH,Su 07:30-20:00"
-website: "https://www.migrol.ch/de/"
+opening_hours: Mo-Sa 06:00-22:00; PH,Su 07:30-20:00
+website: https://www.migrol.ch/de/

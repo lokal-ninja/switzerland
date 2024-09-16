@@ -4,8 +4,8 @@ latitude: 47.05804
 longitude: 8.06988
 postcode: "6110"
 city: Wolhusen
-street: "Im Schmitteli"
-housenumber: 1
-phone: "+41 41 490 03 90"
-opening_hours: "Tu-Th 09:00-12:00, 13:15-18:30; Fr 09:00-12:00, 13:15-20:00; Sa 08:00-16:00"
-website: "https://www.danischnider.ch/"
+street: Im Schmitteli
+housenumber: "1"
+phone: +41 41 490 03 90
+opening_hours: Tu-Th 09:00-12:00, 13:15-18:30; Fr 09:00-12:00, 13:15-20:00; Sa 08:00-16:00
+website: https://www.danischnider.ch/

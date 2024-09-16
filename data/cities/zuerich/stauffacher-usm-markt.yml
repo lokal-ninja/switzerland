@@ -4,8 +4,8 @@ latitude: 47.38578
 longitude: 8.52152
 postcode: "8005"
 city: Zürich
-street: "Viaduktstrasse"
-housenumber: 77
+street: Viaduktstrasse
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Fr 12:00-19:00; Sa 10:00-17:00"
-website: "https://usm-markt.ch"
+opening_hours: Mo-Fr 12:00-19:00; Sa 10:00-17:00
+website: https://usm-markt.ch

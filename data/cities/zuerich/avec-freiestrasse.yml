@@ -4,8 +4,8 @@ latitude: 47.37336
 longitude: 8.55216
 postcode: "8032"
 city: Zürich
-street: "Freiestrasse"
-housenumber: 14
+street: Freiestrasse
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 06:00-20:00; Su 08:00-20:00 nur mit App zugänglich"
-website: "https://avec.ch/de/"
+opening_hours: Mo-Sa 06:00-20:00; Su 08:00-20:00 "nur mit App zugänglich"
+website: https://avec.ch/de/

@@ -4,8 +4,8 @@ latitude: 47.54334
 longitude: 7.59342
 postcode: "4053"
 city: Basel
-street: "Güterstrasse"
-housenumber: 199
+street: Güterstrasse
+housenumber: "199"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://biolaadegundeli.ch/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://biolaadegundeli.ch/

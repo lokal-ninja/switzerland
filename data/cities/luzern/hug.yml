@@ -1,11 +1,11 @@
 id: 379376087
-type: way
+type: node
 latitude: 47.04984
 longitude: 8.31108
 postcode: "6002"
 city: Luzern
-street: "Robert-Zünd-Strasse"
-housenumber: 2
+street: Robert-Zünd-Strasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 05:30-21:00; Sa-Su 06:30-20:00"
-website: "https://www.baeckerei-hug.ch/filialen/standorte/luzern-bahnhof/"
+opening_hours: Mo-Fr 05:30-21:00; Sa-Su 06:30-20:00
+website: https://www.baeckerei-hug.ch/filialen/standorte/luzern-bahnhof/

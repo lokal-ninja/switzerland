@@ -4,8 +4,8 @@ latitude: 47.37044
 longitude: 8.52201
 postcode: "8003"
 city: Zürich
-street: "Birmensdorferstrasse"
-housenumber: 107
+street: Birmensdorferstrasse
+housenumber: "107"
 phone: ""
-opening_hours: "Mo-Fr 10:00-17:30, Sa 09:00-12:00; PH off"
-website: "https://www.paradise-nails.ch/"
+opening_hours: Mo-Fr 10:00-17:30, Sa 09:00-12:00; PH off
+website: https://www.paradise-nails.ch/

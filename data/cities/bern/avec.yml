@@ -4,8 +4,8 @@ latitude: 46.93754
 longitude: 7.39525
 postcode: "3018"
 city: Bern
-street: "Bümplizstrasse"
-housenumber: 202
+street: Bümplizstrasse
+housenumber: "202"
 phone: ""
-opening_hours: "they don't know when they will reopen"
+opening_hours: '"they don''t know when they will reopen"'
 website: ""

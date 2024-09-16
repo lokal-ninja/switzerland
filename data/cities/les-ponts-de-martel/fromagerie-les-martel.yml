@@ -1,11 +1,11 @@
 id: 44386797
-type: way
+type: node
 latitude: 47.00123
 longitude: 6.73733
 postcode: "2316"
 city: Les Ponts-de-Martel
-street: "Rue Major-Benoît"
-housenumber: 25
+street: Rue Major-Benoît
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 07:00-12:00, 17:00-19:00; Su 08:00-11:00, 17:00-19:00"
+opening_hours: Mo-Sa 07:00-12:00, 17:00-19:00; Su 08:00-11:00, 17:00-19:00
 website: ""

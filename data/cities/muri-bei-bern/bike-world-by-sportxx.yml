@@ -4,8 +4,8 @@ latitude: 46.92616
 longitude: 7.50391
 postcode: "3073"
 city: Muri bei Bern
-street: "Feldstrasse"
-housenumber: 30
+street: Feldstrasse
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Th 10:00-19:00, Fr 10:00-20:00, Sa 09:00-17:00"
-website: "https://www.bikeworld.ch/"
+opening_hours: Mo-Th 10:00-19:00, Fr 10:00-20:00, Sa 09:00-17:00
+website: https://www.bikeworld.ch/

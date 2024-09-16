@@ -4,8 +4,8 @@ latitude: 47.43402
 longitude: 7.8489
 postcode: "4443"
 city: Wittinsburg
-street: "Oberdorfstrasse"
-housenumber: 15
-phone: "+41 62 299 20 30"
-opening_hours: "24/7; Selbstbedienung"
+street: Oberdorfstrasse
+housenumber: "15"
+phone: +41 62 299 20 30
+opening_hours: 24/7; "Selbstbedienung"
 website: ""

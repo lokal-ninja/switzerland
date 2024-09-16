@@ -4,8 +4,8 @@ latitude: 46.87325
 longitude: 7.55996
 postcode: "3110"
 city: Münsingen
-street: "Bahnhofplatz"
-housenumber: 5
+street: Bahnhofplatz
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Th 08:00-20:00, Fr 08:00-21:00, Sa 07:30-17:00; PH off"
-website: "https://www.melectronics.ch/"
+opening_hours: Mo-Th 08:00-20:00, Fr 08:00-21:00, Sa 07:30-17:00; PH off
+website: https://www.melectronics.ch/

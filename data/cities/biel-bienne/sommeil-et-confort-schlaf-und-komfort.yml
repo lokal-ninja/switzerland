@@ -4,8 +4,9 @@ latitude: 47.13916
 longitude: 7.24447
 postcode: "2502"
 city: Biel/Bienne
-street: "Rue Centrale / Zentralstrasse"
-housenumber: 11
-phone: "+41 32 536 47 27"
-opening_hours: "Tu 10:00-12:00,14:00-18:30; We 14:00-18:30; Th 10:00-12:00,14:00-18:30; Fr 10:00-12:00,14:00-18:30; Sa 10:00-16:00; Su-Mo off"
-website: "https://sommeiletconfort.ch"
+street: Rue Centrale / Zentralstrasse
+housenumber: "11"
+phone: +41 32 536 47 27
+opening_hours: Tu 10:00-12:00,14:00-18:30; We 14:00-18:30; Th 10:00-12:00,14:00-18:30;
+    Fr 10:00-12:00,14:00-18:30; Sa 10:00-16:00; Su-Mo off
+website: https://sommeiletconfort.ch

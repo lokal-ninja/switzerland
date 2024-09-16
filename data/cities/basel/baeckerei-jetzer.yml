@@ -4,8 +4,8 @@ latitude: 47.55436
 longitude: 7.6101
 postcode: "4052"
 city: Basel
-street: "Zürcherstrasse"
-housenumber: 73
+street: Zürcherstrasse
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa,Su 07:00-17:00"
-website: "https://baeckerei-basel.ch/"
+opening_hours: Mo-Fr 07:00-19:00; Sa,Su 07:00-17:00
+website: https://baeckerei-basel.ch/

@@ -4,8 +4,8 @@ latitude: 47.41768
 longitude: 9.25608
 postcode: "9200"
 city: Gossau
-street: "St. Gallerstrasse"
-housenumber: 115
+street: St. Gallerstrasse
+housenumber: "115"
 phone: ""
-opening_hours: "Mo-Th 08:00-19:00, Fr 08:00-20:00, Sa 08:00-17:00; PH off"
-website: "https://www.melectronics.ch/"
+opening_hours: Mo-Th 08:00-19:00, Fr 08:00-20:00, Sa 08:00-17:00; PH off
+website: https://www.melectronics.ch/

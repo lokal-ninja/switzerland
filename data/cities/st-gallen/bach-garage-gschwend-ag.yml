@@ -1,11 +1,11 @@
 id: 308127210
-type: way
+type: node
 latitude: 47.41446
 longitude: 9.3914
 postcode: "9011"
 city: St. Gallen
-street: "St.Georgen-Strasse"
-housenumber: 162
+street: St.Georgen-Strasse
+housenumber: "162"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00"
+opening_hours: Mo-Fr 07:30-18:00
 website: ""

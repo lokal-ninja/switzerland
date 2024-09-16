@@ -4,8 +4,8 @@ latitude: 47.56466
 longitude: 7.60287
 postcode: "4058"
 city: Basel
-street: "Rosentalstrasse"
-housenumber: 17
+street: Rosentalstrasse
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:30-17:00; Su off"
-website: "https://www.serenitybeautyhair.ch/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:30-17:00; Su off
+website: https://www.serenitybeautyhair.ch/

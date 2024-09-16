@@ -4,8 +4,8 @@ latitude: 47.45838
 longitude: 8.04923
 postcode: "5026"
 city: Densbüren
-street: "Hauptstrasse"
-housenumber: 1
+street: Hauptstrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,13:15-17:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-12:00,13:15-17:00; Sa 09:00-16:00
 website: ""

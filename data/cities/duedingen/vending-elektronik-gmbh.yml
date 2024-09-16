@@ -4,8 +4,8 @@ latitude: 46.8573
 longitude: 7.18534
 postcode: "3186"
 city: Düdingen
-street: "Bonnstrasse"
-housenumber: 18
-phone: "+41 26 492 04 20"
-opening_hours: "Mo-Fr 07:30-12:00,13:30-17:30; Sa-Su off"
-website: "https://www.vending-elektronik.ch/"
+street: Bonnstrasse
+housenumber: "18"
+phone: +41 26 492 04 20
+opening_hours: Mo-Fr 07:30-12:00,13:30-17:30; Sa-Su off
+website: https://www.vending-elektronik.ch/

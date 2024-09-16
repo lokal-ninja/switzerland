@@ -4,8 +4,8 @@ latitude: 47.50826
 longitude: 8.01893
 postcode: "5070"
 city: Frick
-street: "Hauptstrasse"
-housenumber: 41
-phone: "+41 871 33 33"
-opening_hours: "Mo-Fr 07:45-19:00; Sa 07:45-17:00"
-website: "https://www.apotheke-frick.ch/"
+street: Hauptstrasse
+housenumber: "41"
+phone: +41 871 33 33
+opening_hours: Mo-Fr 07:45-19:00; Sa 07:45-17:00
+website: https://www.apotheke-frick.ch/

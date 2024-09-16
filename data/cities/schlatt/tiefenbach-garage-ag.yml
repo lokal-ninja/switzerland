@@ -1,11 +1,11 @@
 id: 285984071
-type: way
+type: node
 latitude: 47.66551
 longitude: 8.70046
 postcode: "8252"
 city: Schlatt
-street: "Frauenfelderstrasse"
-housenumber: 39
+street: Frauenfelderstrasse
+housenumber: "39"
 phone: ""
 opening_hours: ""
-website: "https://www.tiefenbach.ch/"
+website: https://www.tiefenbach.ch/

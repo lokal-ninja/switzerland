@@ -5,7 +5,7 @@ longitude: 8.34801
 postcode: "5436"
 city: Würenlos
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://www.migrolino.ch/de/standorte/shell-wurenlos-wald/"
+opening_hours: 24/7
+website: https://www.migrolino.ch/de/standorte/shell-wurenlos-wald/

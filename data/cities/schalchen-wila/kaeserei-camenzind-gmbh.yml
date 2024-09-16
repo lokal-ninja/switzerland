@@ -1,11 +1,11 @@
 id: 251080379
-type: way
+type: node
 latitude: 47.40633
 longitude: 8.82594
 postcode: "8492"
 city: Schalchen-Wila
-street: "Lammetstrasse"
-housenumber: 4
+street: Lammetstrasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

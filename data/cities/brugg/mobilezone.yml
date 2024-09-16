@@ -4,8 +4,8 @@ latitude: 47.48272
 longitude: 8.20839
 postcode: "5200"
 city: Brugg
-street: "Neumarktplatz"
-housenumber: 5
+street: Neumarktplatz
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Th 09:00-18:30; Fr 09:00-20:00; Sa 09:00-17:00"
-website: "https://www.mobilezone.ch/"
+opening_hours: Mo-Th 09:00-18:30; Fr 09:00-20:00; Sa 09:00-17:00
+website: https://www.mobilezone.ch/

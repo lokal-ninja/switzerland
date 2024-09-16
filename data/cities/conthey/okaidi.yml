@@ -4,8 +4,8 @@ latitude: 46.22331
 longitude: 7.3009
 postcode: "1964"
 city: Conthey
-street: "Route des Rottes"
-housenumber: 15
-phone: "+41 27 346 01 96"
-opening_hours: "Mo-Th 08:30-18:30; Fr 08:30-19:00; Sa 08:30-17:00"
-website: "https://fr.okaidi.ch/"
+street: Route des Rottes
+housenumber: "15"
+phone: +41 27 346 01 96
+opening_hours: Mo-Th 08:30-18:30; Fr 08:30-19:00; Sa 08:30-17:00
+website: https://fr.okaidi.ch/

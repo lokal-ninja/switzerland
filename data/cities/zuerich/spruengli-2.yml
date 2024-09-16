@@ -5,7 +5,7 @@ longitude: 8.54004
 postcode: "8001"
 city: Zürich
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 06:45-21:00; Sa-Su 06:45-20:00; PH open"
-website: "https://www.spruengli.ch/de/standorte/hauptbahnhof-zuerich.html"
+opening_hours: Mo-Fr 06:45-21:00; Sa-Su 06:45-20:00; PH open
+website: https://www.spruengli.ch/de/standorte/hauptbahnhof-zuerich.html

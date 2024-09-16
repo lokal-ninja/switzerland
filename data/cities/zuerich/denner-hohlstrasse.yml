@@ -4,8 +4,8 @@ latitude: 47.39198
 longitude: 8.48489
 postcode: "8048"
 city: Zürich
-street: "Hohlstrasse"
-housenumber: 610
+street: Hohlstrasse
+housenumber: "610"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-18:00"
-website: "https://www.denner.ch/"
+opening_hours: Mo-Fr 07:00-20:00; Sa 08:00-18:00
+website: https://www.denner.ch/

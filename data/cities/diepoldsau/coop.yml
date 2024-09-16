@@ -4,8 +4,8 @@ latitude: 47.38945
 longitude: 9.64918
 postcode: "9444"
 city: Diepoldsau
-street: "Tramstrasse"
-housenumber: 33
+street: Tramstrasse
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Th 07:00-19:00; Fr 07:00-20:00; Sa 07:00-17:00"
-website: "https://www.coop.ch/"
+opening_hours: Mo-Th 07:00-19:00; Fr 07:00-20:00; Sa 07:00-17:00
+website: https://www.coop.ch/

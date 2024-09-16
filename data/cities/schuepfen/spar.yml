@@ -1,11 +1,11 @@
 id: 625544370
-type: way
+type: node
 latitude: 47.04321
 longitude: 7.38024
 postcode: "3054"
 city: Schüpfen
-street: "Lyssstrasse"
-housenumber: 5
+street: Lyssstrasse
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

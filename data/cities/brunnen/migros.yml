@@ -4,8 +4,8 @@ latitude: 46.99987
 longitude: 8.60923
 postcode: "6440"
 city: Brunnen
-street: "Bahnhofplatz"
-housenumber: 19
+street: Bahnhofplatz
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-17:00"
-website: "https://filialen.migros.ch/de/migros-supermarkt-brunnen-bahnhofsmaercht"
+opening_hours: Mo-Fr 08:00-19:00, Sa 08:00-17:00
+website: https://filialen.migros.ch/de/migros-supermarkt-brunnen-bahnhofsmaercht

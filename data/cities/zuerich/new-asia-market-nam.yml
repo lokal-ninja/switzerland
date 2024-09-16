@@ -4,8 +4,8 @@ latitude: 47.37553
 longitude: 8.52105
 postcode: "8004"
 city: Zürich
-street: "Feldstrasse"
-housenumber: 24
-phone: "+41 44 241 80 00"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "http://www.newasiamarket.ch"
+street: Feldstrasse
+housenumber: "24"
+phone: +41 44 241 80 00
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
+website: http://www.newasiamarket.ch

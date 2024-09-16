@@ -4,8 +4,8 @@ latitude: 47.57232
 longitude: 7.57634
 postcode: "4056"
 city: Basel
-street: "Elsässerstrasse"
-housenumber: 125
+street: Elsässerstrasse
+housenumber: "125"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-17:30"
-website: "https://www.sport-tiedje.ch/sport-tiedje-in-basel"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-17:30
+website: https://www.sport-tiedje.ch/sport-tiedje-in-basel

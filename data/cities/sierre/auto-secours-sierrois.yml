@@ -1,11 +1,11 @@
 id: 321356854
-type: way
+type: node
 latitude: 46.29265
 longitude: 7.55265
 postcode: "3960"
 city: Sierre
-street: "Rue de l'Ile Falcon"
-housenumber: 1
+street: Rue de l'Ile Falcon
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

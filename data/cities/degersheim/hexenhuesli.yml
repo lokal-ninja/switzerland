@@ -1,11 +1,11 @@
 id: 312717983
-type: way
+type: node
 latitude: 47.37262
 longitude: 9.19966
 postcode: "9113"
 city: Degersheim
-street: "Bahnhofstrasse"
-housenumber: 
+street: Bahnhofstrasse
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

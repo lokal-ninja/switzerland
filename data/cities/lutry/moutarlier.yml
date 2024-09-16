@@ -4,8 +4,9 @@ latitude: 46.50285
 longitude: 6.68382
 postcode: "1095"
 city: Lutry
-street: "Grand'Rue"
-housenumber: 1
+street: Grand'Rue
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-We 07:00-13:00,14:30-18:30;Th 07:00-13:00;Fr 07:00-13:00,14:30-18:30;Sa 07:30-17:00;Su 07:30-13:00"
+opening_hours: Mo-We 07:00-13:00,14:30-18:30;Th 07:00-13:00;Fr 07:00-13:00,14:30-18:30;Sa
+    07:30-17:00;Su 07:30-13:00
 website: ""

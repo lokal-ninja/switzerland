@@ -4,8 +4,8 @@ latitude: 47.37013
 longitude: 8.52008
 postcode: "8003"
 city: Zürich
-street: "Birmensdorferstrasse"
-housenumber: 140
+street: Birmensdorferstrasse
+housenumber: "140"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-zuerich-schmiede-wiedikon"
+opening_hours: Mo-Sa 07:30-21:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-zuerich-schmiede-wiedikon

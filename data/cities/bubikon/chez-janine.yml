@@ -1,11 +1,12 @@
 id: 226338784
-type: way
+type: node
 latitude: 47.26802
-longitude: 8.81922
+longitude: 8.81921
 postcode: "8608"
 city: Bubikon
-street: "Wolfhauserstrasse"
-housenumber: 1
-phone: "+41 55 253 60 00"
-opening_hours: "Mo,We-Fr 09:00-12:00,13:30-18:00; Tu 09:00-12:00,13:30-21:00; Sa 08:30-16:00; PH off"
-website: "https://www.chezjanine.ch/"
+street: Wolfhauserstrasse
+housenumber: "1"
+phone: +41 55 253 60 00
+opening_hours: Mo,We-Fr 09:00-12:00,13:30-18:00; Tu 09:00-12:00,13:30-21:00; Sa 08:30-16:00;
+    PH off
+website: https://www.chezjanine.ch/

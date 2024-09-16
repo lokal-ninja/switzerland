@@ -4,8 +4,8 @@ latitude: 47.35074
 longitude: 8.343
 postcode: "5620"
 city: Bremgarten
-street: "Marktgasse"
-housenumber: 33
+street: Marktgasse
+housenumber: "33"
 phone: ""
-opening_hours: "Tu-Fr 07:00-12:00,13:30-18:30;Sa 07:00-15:00;PH closed"
+opening_hours: Tu-Fr 07:00-12:00,13:30-18:30;Sa 07:00-15:00;PH closed
 website: ""

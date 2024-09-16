@@ -1,11 +1,11 @@
 id: 254865005
-type: way
+type: node
 latitude: 47.41782
 longitude: 9.2559
 postcode: "9200"
 city: Gossau
-street: "St. Gallerstrasse"
-housenumber: 115
+street: St. Gallerstrasse
+housenumber: "115"
 phone: ""
-opening_hours: "Mo-Th 08:00-19:00, Fr 08:00-20:00, Sa 08:00-17:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-gossau"
+opening_hours: Mo-Th 08:00-19:00, Fr 08:00-20:00, Sa 08:00-17:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-gossau

@@ -1,11 +1,11 @@
 id: 229654624
-type: way
+type: node
 latitude: 46.24656
 longitude: 6.96699
 postcode: "1870"
 city: Monthey
-street: "Route des Ilettes"
-housenumber: 1
+street: Route des Ilettes
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Su 05:30-22:00"
+opening_hours: Mo-Su 05:30-22:00
 website: ""

@@ -5,7 +5,7 @@ longitude: 8.5392
 postcode: "8001"
 city: Zürich
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 06:30-20:00; Su 08:00-20:00"
-website: "https://www.walterbuchmann.ch/shopville"
+opening_hours: Mo-Sa 06:30-20:00; Su 08:00-20:00
+website: https://www.walterbuchmann.ch/shopville

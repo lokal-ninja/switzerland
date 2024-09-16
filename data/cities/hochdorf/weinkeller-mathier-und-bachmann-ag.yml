@@ -1,11 +1,11 @@
 id: 222911470
-type: way
+type: node
 latitude: 47.16877
 longitude: 8.30161
 postcode: "6280"
 city: Hochdorf
-street: "Hohenrainstrasse"
-housenumber: 57
+street: Hohenrainstrasse
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

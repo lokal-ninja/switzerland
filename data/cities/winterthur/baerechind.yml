@@ -4,8 +4,8 @@ latitude: 47.49931
 longitude: 8.72877
 postcode: "8400"
 city: Winterthur
-street: "Kirchplatz"
-housenumber: 6
+street: Kirchplatz
+housenumber: "6"
 phone: ""
-opening_hours: "Mo 09:30-14:00; Tu-Fr 09:30-18:00; Sa 09:30-16:00; Su off"
-website: "https://www.baerechind.ch/"
+opening_hours: Mo 09:30-14:00; Tu-Fr 09:30-18:00; Sa 09:30-16:00; Su off
+website: https://www.baerechind.ch/

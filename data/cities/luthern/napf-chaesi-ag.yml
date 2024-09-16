@@ -1,11 +1,11 @@
 id: 333988590
-type: way
+type: node
 latitude: 47.06085
 longitude: 7.91621
 postcode: "6156"
 city: Luthern
-street: "Unterdorf"
-housenumber: 13
+street: Unterdorf
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://napf-chaesi.ch/"
+website: https://napf-chaesi.ch/

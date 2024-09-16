@@ -1,11 +1,11 @@
 id: 195807147
-type: way
+type: node
 latitude: 47.43628
 longitude: 9.13214
 postcode: "9240"
 city: Uzwil
-street: "Bahnhofstrasse"
-housenumber: 74
-phone: "+41 77 456 76 57"
-opening_hours: "Sa 09:00-18:00; Mo-Fr 09:00-20:00"
+street: Bahnhofstrasse
+housenumber: "74"
+phone: +41 77 456 76 57
+opening_hours: Sa 09:00-18:00; Mo-Fr 09:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 221472591
-type: way
+type: node
 latitude: 46.4564
 longitude: 7.44351
 postcode: "3775"
 city: Lenk im Simmental
-street: "Oberriedstrasse"
-housenumber: 9
+street: Oberriedstrasse
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

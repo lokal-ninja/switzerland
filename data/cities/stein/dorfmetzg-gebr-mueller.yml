@@ -1,11 +1,11 @@
 id: 90446571
-type: way
+type: node
 latitude: 47.54246
 longitude: 7.95193
 postcode: "4332"
 city: Stein
-street: "Zürcherstrasse"
-housenumber: 31
+street: Zürcherstrasse
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

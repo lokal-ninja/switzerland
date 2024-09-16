@@ -4,8 +4,8 @@ latitude: 46.20119
 longitude: 6.13617
 postcode: "1205"
 city: Genève
-street: "Boulevard de Saint-Georges"
-housenumber: 52
-phone: "+41 22 329 52 52"
-opening_hours: "Tu-Fr 12:00-19:00; Sa 11:30-18:00"
-website: "https://www.hallures.com/"
+street: Boulevard de Saint-Georges
+housenumber: "52"
+phone: +41 22 329 52 52
+opening_hours: Tu-Fr 12:00-19:00; Sa 11:30-18:00
+website: https://www.hallures.com/

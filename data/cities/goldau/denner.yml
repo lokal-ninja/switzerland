@@ -1,11 +1,11 @@
 id: 204259966
-type: way
+type: node
 latitude: 47.05043
 longitude: 8.54852
 postcode: "6410"
 city: Goldau
-street: "Parkstrasse"
-housenumber: 11
+street: Parkstrasse
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00;Sa 08:00-17:00"
+opening_hours: Mo-Fr 08:00-19:00;Sa 08:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 377508452
-type: way
+type: node
 latitude: 47.29578
 longitude: 9.09272
 postcode: "9630"
 city: Wattwil
-street: "Rietwisstrasse"
-housenumber: 11
+street: Rietwisstrasse
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 309692460
-type: way
+type: node
 latitude: 45.87403
 longitude: 8.94569
 postcode: "6864"
 city: Arzo
-street: "Via Andrea Salvatore Aglio"
-housenumber: 28
+street: Via Andrea Salvatore Aglio
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00"
+opening_hours: Mo-Sa 08:00-19:00
 website: ""

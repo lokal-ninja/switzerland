@@ -4,8 +4,8 @@ latitude: 47.39328
 longitude: 8.04481
 postcode: "5000"
 city: Aarau
-street: "Laurenzentorgasse"
-housenumber: 7
-phone: "+41 62 823 70 40"
-opening_hours: "Tu-Fr 10:00-18:30; Sa 10:00-16:00"
-website: "https://passionduvin.ch/"
+street: Laurenzentorgasse
+housenumber: "7"
+phone: +41 62 823 70 40
+opening_hours: Tu-Fr 10:00-18:30; Sa 10:00-16:00
+website: https://passionduvin.ch/

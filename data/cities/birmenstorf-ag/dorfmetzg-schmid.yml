@@ -1,11 +1,12 @@
 id: 75599698
-type: way
+type: node
 latitude: 47.46169
 longitude: 8.24627
 postcode: "5413"
 city: Birmenstorf AG
-street: "Strählgass"
-housenumber: 8
+street: Strählgass
+housenumber: "8"
 phone: ""
-opening_hours: "Tu,Th 08:00-12:00,15:00-18:30; Fr 08:00-12:00,14:00-18:30; Sa 08:00-14:00; Mo,We off"
+opening_hours: Tu,Th 08:00-12:00,15:00-18:30; Fr 08:00-12:00,14:00-18:30; Sa 08:00-14:00;
+    Mo,We off
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.95834
 longitude: 7.49436
 postcode: "3072"
 city: Ostermundigen
-street: "Wegmühlegässli"
-housenumber: 6
-phone: "+41 31 301 13 11"
-opening_hours: "Tu-Fr 10:00-12:30,13:30-18:30; Sa 09:00-16:00; Mo,Su,PH closed"
-website: "https://bikebox.ch/"
+street: Wegmühlegässli
+housenumber: "6"
+phone: +41 31 301 13 11
+opening_hours: Tu-Fr 10:00-12:30,13:30-18:30; Sa 09:00-16:00; Mo,Su,PH closed
+website: https://bikebox.ch/

@@ -4,8 +4,8 @@ latitude: 47.41469
 longitude: 8.58957
 postcode: "8304"
 city: Wallisellen
-street: "Bahnhofstrasse"
-housenumber: 12
-phone: "+41 44 830 34 43"
-opening_hours: "Mo 14:00-18:30; Tu-Fr 09:00-12:00,14:00-18:30; Sa 08:00-14:00"
-website: "https://hafnersrad.ch/"
+street: Bahnhofstrasse
+housenumber: "12"
+phone: +41 44 830 34 43
+opening_hours: Mo 14:00-18:30; Tu-Fr 09:00-12:00,14:00-18:30; Sa 08:00-14:00
+website: https://hafnersrad.ch/

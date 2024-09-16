@@ -1,11 +1,11 @@
 id: 918014136
-type: way
+type: node
 latitude: 47.70731
 longitude: 8.63767
 postcode: "8200"
 city: Schaffhausen
-street: "Hochstrasse"
-housenumber: 122
-phone: "+41 52 625 46 86"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-22:00"
+street: Hochstrasse
+housenumber: "122"
+phone: +41 52 625 46 86
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-22:00
 website: ""

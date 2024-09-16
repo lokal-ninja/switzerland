@@ -4,8 +4,8 @@ latitude: 47.47373
 longitude: 8.30841
 postcode: "5400"
 city: Baden
-street: "Theaterplatz"
-housenumber: 3
-phone: "+41 56 210 95 10"
-opening_hours: "Tu-Fr 10:00-18:30; Sa 09:00-16:00; Su,Mo off"
-website: "http://yanacocha.ch/"
+street: Theaterplatz
+housenumber: "3"
+phone: +41 56 210 95 10
+opening_hours: Tu-Fr 10:00-18:30; Sa 09:00-16:00; Su,Mo off
+website: http://yanacocha.ch/

@@ -1,11 +1,11 @@
 id: 258957122
-type: way
+type: node
 latitude: 46.77913
 longitude: 7.63401
 postcode: "3612"
 city: Steffisburg
-street: "Oberdorfstrasse"
-housenumber: 7
+street: Oberdorfstrasse
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30;Sa 08:00-16:00;Su off"
-website: "https://flowersandfun.ch/"
+opening_hours: Mo-Fr 08:00-18:30;Sa 08:00-16:00;Su off
+website: https://flowersandfun.ch/

@@ -4,8 +4,8 @@ latitude: 47.01987
 longitude: 8.30116
 postcode: "6010"
 city: Kriens
-street: "Dattenmattstrasse"
-housenumber: 15
-phone: "+41 41 340 89 44"
-opening_hours: "Mo-Fr 07:00-17:30"
+street: Dattenmattstrasse
+housenumber: "15"
+phone: +41 41 340 89 44
+opening_hours: Mo-Fr 07:00-17:30
 website: ""

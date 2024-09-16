@@ -4,8 +4,8 @@ latitude: 47.38565
 longitude: 8.85902
 postcode: "8493"
 city: Saland
-street: "Juckerenstrasse"
-housenumber: 8
+street: Juckerenstrasse
+housenumber: "8"
 phone: ""
-opening_hours: "Tu-Fr 13:30-18:30; Sa 10:00-16:00"
-website: "http://www.brocki-saland.ch/"
+opening_hours: Tu-Fr 13:30-18:30; Sa 10:00-16:00
+website: http://www.brocki-saland.ch/

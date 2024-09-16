@@ -4,8 +4,8 @@ latitude: 47.42405
 longitude: 8.50229
 postcode: "8046"
 city: Zürich
-street: "Weidmannstrasse"
-housenumber: 6
-phone: "+41 79 756 35 94"
-opening_hours: "Tu 09:00-13:00; We 18:00-21:00; Th 09:00-13:00,18:00-21:00; Sa 09:00-17:00"
-website: "https://www.massagecerullo.ch"
+street: Weidmannstrasse
+housenumber: "6"
+phone: +41 79 756 35 94
+opening_hours: Tu 09:00-13:00; We 18:00-21:00; Th 09:00-13:00,18:00-21:00; Sa 09:00-17:00
+website: https://www.massagecerullo.ch

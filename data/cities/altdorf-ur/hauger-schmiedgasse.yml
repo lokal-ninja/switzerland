@@ -4,8 +4,8 @@ latitude: 46.88083
 longitude: 8.64349
 postcode: "6460"
 city: Altdorf UR
-street: "Schmiedgasse"
-housenumber: 16
+street: Schmiedgasse
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 7:30-18:00; Sa 07:30-16:00"
-website: "https://www.hauger.ch/"
+opening_hours: Mo-Fr 7:30-18:00; Sa 07:30-16:00
+website: https://www.hauger.ch/

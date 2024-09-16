@@ -4,8 +4,8 @@ latitude: 47.37074
 longitude: 8.52289
 postcode: "8003"
 city: Zürich
-street: "Birmensdorferstrasse"
-housenumber: 95
+street: Birmensdorferstrasse
+housenumber: "95"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-16:00"
-website: "http://www.amazonia-cosmetic.ch/"
+opening_hours: Mo-Fr 09:30-18:30; Sa 10:00-16:00
+website: http://www.amazonia-cosmetic.ch/

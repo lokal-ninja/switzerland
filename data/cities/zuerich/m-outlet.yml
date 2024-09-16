@@ -4,8 +4,8 @@ latitude: 47.39009
 longitude: 8.50871
 postcode: "8005"
 city: Zürich
-street: "Pfingstweidstrasse"
-housenumber: 101
+street: Pfingstweidstrasse
+housenumber: "101"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00, Sa 08:00-16:00; PH off"
-website: "https://filialen.migros.ch/de/m-outlet-zuerich-herdern"
+opening_hours: Mo-Fr 06:30-18:00, Sa 08:00-16:00; PH off
+website: https://filialen.migros.ch/de/m-outlet-zuerich-herdern

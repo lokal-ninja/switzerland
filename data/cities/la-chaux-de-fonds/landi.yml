@@ -1,11 +1,11 @@
 id: 122183708
-type: way
+type: node
 latitude: 47.07611
 longitude: 6.7806
 postcode: "2322"
 city: La Chaux-de-Fonds
-street: "Le Crêt-du-Locle"
-housenumber: 28
+street: Le Crêt-du-Locle
+housenumber: "28"
 phone: "+41584342800"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.landi.ch/places/fr/landi-le-cr%C3%AAt-du-locle"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.landi.ch/places/fr/landi-le-cr%C3%AAt-du-locle

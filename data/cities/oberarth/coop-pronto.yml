@@ -1,11 +1,11 @@
 id: 144397668
-type: way
+type: node
 latitude: 47.05699
 longitude: 8.53366
 postcode: "6414"
 city: Oberarth
-street: "Gotthardstrasse"
-housenumber: 23
+street: Gotthardstrasse
+housenumber: "23"
 phone: ""
-opening_hours: "06:00-22:00"
+opening_hours: 06:00-22:00
 website: ""

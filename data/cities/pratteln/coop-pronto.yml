@@ -4,8 +4,8 @@ latitude: 47.52506
 longitude: 7.68377
 postcode: "4133"
 city: Pratteln
-street: "Hardstrasse"
-housenumber: 49
+street: Hardstrasse
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Fr 05:00-23:00; PH,Sa-Su 06:00-23:00"
-website: "https://www.coop-pronto.ch/de/"
+opening_hours: Mo-Fr 05:00-23:00; PH,Sa-Su 06:00-23:00
+website: https://www.coop-pronto.ch/de/

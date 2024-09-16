@@ -4,8 +4,8 @@ latitude: 47.37472
 longitude: 8.51968
 postcode: "8003"
 city: Zürich
-street: "Badenerstrasse"
-housenumber: 177
+street: Badenerstrasse
+housenumber: "177"
 phone: ""
-opening_hours: "Mo-Fr 12:00-18:30, Sa 12:00-17:00; PH off"
-website: "https://www.blex.ch/"
+opening_hours: Mo-Fr 12:00-18:30, Sa 12:00-17:00; PH off
+website: https://www.blex.ch/

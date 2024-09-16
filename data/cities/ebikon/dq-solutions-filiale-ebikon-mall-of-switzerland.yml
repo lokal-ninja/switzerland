@@ -4,8 +4,8 @@ latitude: 47.09376
 longitude: 8.35805
 postcode: "6030"
 city: Ebikon
-street: "Ebisquare-Strasse"
-housenumber: 1
+street: Ebisquare-Strasse
+housenumber: "1"
 phone: "+41412485075"
-opening_hours: "Mo-Fr 09:00-19:00; Fr 09:00-21:00; Sa 08:00-17:00"
+opening_hours: Mo-Fr 09:00-19:00; Fr 09:00-21:00; Sa 08:00-17:00
 website: ""

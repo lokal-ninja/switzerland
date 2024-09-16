@@ -4,8 +4,9 @@ latitude: 47.05387
 longitude: 7.62806
 postcode: "3400"
 city: Burgdorf
-street: "Heimiswilstrasse"
+street: Heimiswilstrasse
 housenumber: 2a
 phone: ""
-opening_hours: "Mo-Th 07:30-12:00,13:00-17:30; Fr 07:30-12:00,13:00-17:00; Sa 08:00-12:00; PH off"
-website: "https://blatter-burgdorf.ch/"
+opening_hours: Mo-Th 07:30-12:00,13:00-17:30; Fr 07:30-12:00,13:00-17:00; Sa 08:00-12:00;
+    PH off
+website: https://blatter-burgdorf.ch/

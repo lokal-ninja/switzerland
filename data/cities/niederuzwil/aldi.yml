@@ -1,11 +1,11 @@
 id: 35570326
-type: way
+type: node
 latitude: 47.4444
 longitude: 9.14699
 postcode: "9244"
 city: Niederuzwil
-street: "Grossacker"
-housenumber: 2
+street: Grossacker
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

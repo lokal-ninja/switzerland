@@ -4,8 +4,8 @@ latitude: 47.37597
 longitude: 8.53873
 postcode: "8001"
 city: Zürich
-street: "Lintheschergasse"
-housenumber: 10
+street: Lintheschergasse
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.marc-o-polo.com/de-ch/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.marc-o-polo.com/de-ch/

@@ -4,8 +4,8 @@ latitude: 46.90281
 longitude: 8.6255
 postcode: "6454"
 city: Flüelen
-street: "Dorfstrasse"
-housenumber: 3
+street: Dorfstrasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00, Sa 06:30-16:00"
-website: "https://www.hauger.ch"
+opening_hours: Mo-Fr 06:30-18:00, Sa 06:30-16:00
+website: https://www.hauger.ch

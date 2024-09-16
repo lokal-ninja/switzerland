@@ -4,8 +4,9 @@ latitude: 47.12638
 longitude: 6.92695
 postcode: "2616"
 city: Renan
-street: "Grand rue"
-housenumber: 22
+street: Grand rue
+housenumber: "22"
 phone: ""
-opening_hours: "Mo 08:30-12:00; Tu 08:30-12:00; Th 08:30-12:00,15:00-18:30; Fr 08:30-12:00,15:00-18:30; Sa 09:00-13:00"
-website: "http://lemoulinvert.wix.com/info"
+opening_hours: Mo 08:30-12:00; Tu 08:30-12:00; Th 08:30-12:00,15:00-18:30; Fr 08:30-12:00,15:00-18:30;
+    Sa 09:00-13:00
+website: http://lemoulinvert.wix.com/info

@@ -1,11 +1,11 @@
 id: 177887656
-type: way
+type: node
 latitude: 47.30518
 longitude: 9.19525
 postcode: "9633"
 city: Bächli (Hemberg)
-street: "Urnäscherstrasse"
-housenumber: 1
+street: Urnäscherstrasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

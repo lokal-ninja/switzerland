@@ -4,8 +4,8 @@ latitude: 46.55416
 longitude: 6.63481
 postcode: "1052"
 city: Le Mont-sur-Lausanne
-street: "Route de Lausanne"
-housenumber: 33
-phone: "+41 21 651 01 40"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00"
-website: "https://www.coop.ch/fr/magasins/coop-supermarche-le-mont-sur-lausanne/1770_POS"
+street: Route de Lausanne
+housenumber: "33"
+phone: +41 21 651 01 40
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00
+website: https://www.coop.ch/fr/magasins/coop-supermarche-le-mont-sur-lausanne/1770_POS

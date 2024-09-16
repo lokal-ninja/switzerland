@@ -4,8 +4,10 @@ latitude: 46.72564
 longitude: 9.55784
 postcode: "7078"
 city: Lenzerheide/Lai
-street: "Voa Principala"
-housenumber: 36
+street: Voa Principala
+housenumber: "36"
 phone: ""
-opening_hours: "Apr-Sep:Mo-Fr 09:00-12:00,14:00-18:15;Apr-Sep:Sa 09:00-12:00,14:00-16:30; Apr-Sep:Su off;Oct-Mar:Mo-Fr 09:00-12:00,14:00-18:15;Oct-Mar: Sa 09:00-12:00,14:00-18:00;Oct-Mar:Su 09:00-12:00,15:00-17:00"
-website: "https://schuhesportparpan.ch/"
+opening_hours: 'Apr-Sep:Mo-Fr 09:00-12:00,14:00-18:15;Apr-Sep:Sa 09:00-12:00,14:00-16:30;
+    Apr-Sep:Su off;Oct-Mar:Mo-Fr 09:00-12:00,14:00-18:15;Oct-Mar: Sa 09:00-12:00,14:00-18:00;Oct-Mar:Su
+    09:00-12:00,15:00-17:00'
+website: https://schuhesportparpan.ch/

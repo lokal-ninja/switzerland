@@ -4,8 +4,8 @@ latitude: 47.28866
 longitude: 8.60788
 postcode: "8704"
 city: Herrliberg
-street: "Grütstrasse"
-housenumber: 56
-phone: "+41 44 922 12 88"
-opening_hours: "Tu-Fr 07:00-13:00,15:30-18:30; Sa 08:00-15:00"
+street: Grütstrasse
+housenumber: "56"
+phone: +41 44 922 12 88
+opening_hours: Tu-Fr 07:00-13:00,15:30-18:30; Sa 08:00-15:00
 website: ""

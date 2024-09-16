@@ -1,11 +1,11 @@
 id: 215808409
-type: way
+type: node
 latitude: 46.45751
 longitude: 7.44382
 postcode: "3775"
 city: Lenk im Simmental
-street: "Bühlbergstrasse"
-housenumber: 5
+street: Bühlbergstrasse
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

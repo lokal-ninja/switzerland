@@ -4,8 +4,8 @@ latitude: 47.38779
 longitude: 8.17965
 postcode: "5600"
 city: Lenzburg
-street: "Kirchgasse"
-housenumber: 27
-phone: "+41 62 218 47 46"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 08:30-17:00; Su off"
-website: "https://icono-coiffeur.ch/"
+street: Kirchgasse
+housenumber: "27"
+phone: +41 62 218 47 46
+opening_hours: Mo-Fr 09:00-18:30; Sa 08:30-17:00; Su off
+website: https://icono-coiffeur.ch/

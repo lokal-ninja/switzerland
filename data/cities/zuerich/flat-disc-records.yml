@@ -4,8 +4,8 @@ latitude: 47.37807
 longitude: 8.52065
 postcode: "8004"
 city: Zürich
-street: "Stauffacherstrasse"
-housenumber: 173
+street: Stauffacherstrasse
+housenumber: "173"
 phone: ""
-opening_hours: "Tu-Th 13:00-19:00; Fr 12:00-19:00; Sa 11:00-17:00"
+opening_hours: Tu-Th 13:00-19:00; Fr 12:00-19:00; Sa 11:00-17:00
 website: ""

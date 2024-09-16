@@ -1,11 +1,11 @@
 id: 224209286
-type: way
+type: node
 latitude: 46.54916
 longitude: 6.55266
 postcode: "1030"
 city: Bussigny
-street: "Rue de la Gare"
-housenumber: 15
+street: Rue de la Gare
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,12 @@
 id: 323022313
-type: way
+type: node
 latitude: 47.35448
 longitude: 8.05736
 postcode: "5036"
 city: Oberentfelden
-street: "Ausserfeldstrasse"
-housenumber: 20
-phone: "+41 62 7378585"
-opening_hours: "Tu-Fr 08:00-12:00,13:30-18:30; Sa 08:00-16:00; Mar-Oct Th 08:00-12:00,13:30-20:00; Su,Mo,PH off"
-website: "https://www.moto-mader.ch"
+street: Ausserfeldstrasse
+housenumber: "20"
+phone: +41 62 7378585
+opening_hours: Tu-Fr 08:00-12:00,13:30-18:30; Sa 08:00-16:00; Mar-Oct Th 08:00-12:00,13:30-20:00;
+    Su,Mo,PH off
+website: https://www.moto-mader.ch

@@ -1,11 +1,11 @@
 id: 294027679
-type: way
+type: node
 latitude: 46.82872
 longitude: 9.2884
 postcode: "7018"
 city: Flims Waldhaus
-street: "Il Stuz"
-housenumber: 1
-phone: "+41 81 911 11 71"
+street: Il Stuz
+housenumber: "1"
+phone: +41 81 911 11 71
 opening_hours: ""
 website: ""

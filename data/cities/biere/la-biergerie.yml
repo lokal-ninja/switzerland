@@ -5,7 +5,7 @@ longitude: 6.34677
 postcode: "1145"
 city: Bière
 street: ""
-housenumber: 2
-phone: "+41 21 809 44 08"
-opening_hours: "Mo 09:00-11:00; Th 08:00-18:30"
+housenumber: "2"
+phone: +41 21 809 44 08
+opening_hours: Mo 09:00-11:00; Th 08:00-18:30
 website: ""

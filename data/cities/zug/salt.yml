@@ -4,8 +4,8 @@ latitude: 47.17027
 longitude: 8.5157
 postcode: "6300"
 city: Zug
-street: "Bahnhofstrasse"
-housenumber: 27
+street: Bahnhofstrasse
+housenumber: "27"
 phone: ""
 opening_hours: ""
-website: "https://www.salt.ch/"
+website: https://www.salt.ch/

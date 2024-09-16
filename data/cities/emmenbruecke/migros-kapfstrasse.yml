@@ -4,8 +4,8 @@ latitude: 47.08982
 longitude: 8.27389
 postcode: "6020"
 city: Emmenbrücke
-street: "Kapfstrasse"
-housenumber: 3
+street: Kapfstrasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Th 08:00-19:00, Fr 08:00-20:00, Sa 08:00-17:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-emmen-kapf"
+opening_hours: Mo-Th 08:00-19:00, Fr 08:00-20:00, Sa 08:00-17:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-emmen-kapf

@@ -4,8 +4,8 @@ latitude: 47.13826
 longitude: 7.24547
 postcode: "2502"
 city: Biel / Bienne
-street: "Rue Centrale / Zentralstrasse"
-housenumber: 27
-phone: "+41 32 323 83 33"
-opening_hours: "Mo-We,Fr 09:00-18:30; Th 08:00-20:00; Sa 09:00-17:00"
-website: "https://www.fussundschuh.com"
+street: Rue Centrale / Zentralstrasse
+housenumber: "27"
+phone: +41 32 323 83 33
+opening_hours: Mo-We,Fr 09:00-18:30; Th 08:00-20:00; Sa 09:00-17:00
+website: https://www.fussundschuh.com

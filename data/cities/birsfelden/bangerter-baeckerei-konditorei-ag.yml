@@ -4,8 +4,8 @@ latitude: 47.55337
 longitude: 7.6212
 postcode: "4127"
 city: Birsfelden
-street: "Hauptstrasse"
-housenumber: 54
+street: Hauptstrasse
+housenumber: "54"
 phone: "+41613115055"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-16:00; Su 08:00-16:00"
-website: "https://www.bangibeck.ch/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-16:00; Su 08:00-16:00
+website: https://www.bangibeck.ch/

@@ -4,8 +4,8 @@ latitude: 47.37791
 longitude: 8.51027
 postcode: "8003"
 city: Zürich
-street: "Hardaustrasse"
-housenumber: 5
-phone: "+41 43 818 66 88"
-opening_hours: "Mo-Fr 06:00-21:00; Sa 07:00-18:00; Su 08:00-13:00"
-website: "https://baeckerei-kuhn.ch/"
+street: Hardaustrasse
+housenumber: "5"
+phone: +41 43 818 66 88
+opening_hours: Mo-Fr 06:00-21:00; Sa 07:00-18:00; Su 08:00-13:00
+website: https://baeckerei-kuhn.ch/

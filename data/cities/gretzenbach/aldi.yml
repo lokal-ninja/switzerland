@@ -1,11 +1,11 @@
 id: 57903587
-type: way
+type: node
 latitude: 47.35904
 longitude: 7.98933
 postcode: "5014"
 city: Gretzenbach
-street: "Im Grund"
-housenumber: 18
+street: Im Grund
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:30; Th 07:30-20:00; Sa 07:30-17:00; PH off"
-website: "https://www.aldi-suisse.ch/"
+opening_hours: Mo-Fr 07:30-18:30; Th 07:30-20:00; Sa 07:30-17:00; PH off
+website: https://www.aldi-suisse.ch/

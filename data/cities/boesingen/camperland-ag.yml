@@ -1,11 +1,12 @@
 id: 409947390
-type: way
+type: node
 latitude: 46.89984
 longitude: 7.22152
 postcode: "3178"
 city: Bösingen
-street: "Industriestrasse"
-housenumber: 190
-phone: "+41 31 7480448"
-opening_hours: "Mar-Oct Mo 13:30-18:00; Tu-Fr 08:00-12:00,13:30-18:00; Sa 09:00-14:00; Nov-Feb Mo off"
-website: "https://www.camperland.ch/"
+street: Industriestrasse
+housenumber: "190"
+phone: +41 31 7480448
+opening_hours: Mar-Oct Mo 13:30-18:00; Tu-Fr 08:00-12:00,13:30-18:00; Sa 09:00-14:00;
+    Nov-Feb Mo off
+website: https://www.camperland.ch/

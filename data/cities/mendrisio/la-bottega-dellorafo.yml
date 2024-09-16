@@ -4,8 +4,8 @@ latitude: 45.87151
 longitude: 8.98787
 postcode: "6850"
 city: Mendrisio
-street: "Via Nobili Bosia"
-housenumber: 3
+street: Via Nobili Bosia
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,13:30-17:00"
-website: "http://orafo.ch"
+opening_hours: Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,13:30-17:00
+website: http://orafo.ch

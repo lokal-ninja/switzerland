@@ -5,7 +5,7 @@ longitude: 8.76217
 postcode: "8625"
 city: Gossau
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://www.aussichtshof.ch"
+opening_hours: 24/7
+website: https://www.aussichtshof.ch

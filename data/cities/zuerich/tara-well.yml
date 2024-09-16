@@ -4,8 +4,8 @@ latitude: 47.37072
 longitude: 8.51409
 postcode: "8003"
 city: Zürich
-street: "Saumstrasse"
-housenumber: 6
+street: Saumstrasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa-Su off"
-website: "https://www.tarawell.ch/"
+opening_hours: Mo-Fr 09:00-18:30; Sa-Su off
+website: https://www.tarawell.ch/

@@ -4,8 +4,8 @@ latitude: 47.05208
 longitude: 8.30419
 postcode: "6004"
 city: Luzern
-street: "Rössligasse"
-housenumber: 17
+street: Rössligasse
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://www.confiserie.ch/de/rossligasse"
+website: https://www.confiserie.ch/de/rossligasse

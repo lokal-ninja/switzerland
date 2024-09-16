@@ -4,8 +4,8 @@ latitude: 47.37641
 longitude: 8.52634
 postcode: "8004"
 city: Zürich
-street: "Molkenstrasse"
-housenumber: 15
-phone: "+41 44 281 92 92"
-opening_hours: "Mo-Fr 07:00-18:30, Sa 08:00-16:00, Su 08:00-14:00"
-website: "https://johnbaker.ch/helvetiapl/"
+street: Molkenstrasse
+housenumber: "15"
+phone: +41 44 281 92 92
+opening_hours: Mo-Fr 07:00-18:30, Sa 08:00-16:00, Su 08:00-14:00
+website: https://johnbaker.ch/helvetiapl/

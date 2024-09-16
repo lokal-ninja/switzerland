@@ -4,8 +4,8 @@ latitude: 47.37773
 longitude: 8.53472
 postcode: "8004"
 city: Zürich
-street: "Europaallee"
-housenumber: 5
+street: Europaallee
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 06:30-21:00; Sa 07:30-21:00"
+opening_hours: Mo-Fr 06:30-21:00; Sa 07:30-21:00
 website: ""

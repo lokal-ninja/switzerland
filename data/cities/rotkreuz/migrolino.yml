@@ -4,8 +4,8 @@ latitude: 47.14774
 longitude: 8.43464
 postcode: "6343"
 city: Rotkreuz
-street: "Blegistrasse"
-housenumber: 4
+street: Blegistrasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 06:00-20:00, Su 08:00-20:00"
-website: "https://www.migrolino.ch/de/standorte/shell-rotkreuz/"
+opening_hours: Mo-Sa 06:00-20:00, Su 08:00-20:00
+website: https://www.migrolino.ch/de/standorte/shell-rotkreuz/

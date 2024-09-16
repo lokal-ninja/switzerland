@@ -4,8 +4,8 @@ latitude: 47.29405
 longitude: 8.22826
 postcode: "5616"
 city: Meisterschwanden
-street: "Seefeldstrasse"
-housenumber: 10
-phone: "+41 56 667 18 28"
-opening_hours: "Fr-Su 14:00-17:00"
-website: "http://www.delmesefischer.ch/"
+street: Seefeldstrasse
+housenumber: "10"
+phone: +41 56 667 18 28
+opening_hours: Fr-Su 14:00-17:00
+website: http://www.delmesefischer.ch/

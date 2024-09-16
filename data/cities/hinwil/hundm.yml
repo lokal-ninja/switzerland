@@ -4,8 +4,8 @@ latitude: 47.30633
 longitude: 8.8181
 postcode: "8340"
 city: Hinwil
-street: "Wässeristrasse"
-housenumber: 38
+street: Wässeristrasse
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; PH off"
-website: "https://www2.hm.com/de_ch/"
+opening_hours: Mo-Sa 09:00-20:00; PH off
+website: https://www2.hm.com/de_ch/

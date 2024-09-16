@@ -1,11 +1,11 @@
 id: 237492258
-type: way
+type: node
 latitude: 46.77971
 longitude: 7.15176
 postcode: "1723"
 city: Marly
-street: "Route de Fribourg"
-housenumber: 11
+street: Route de Fribourg
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

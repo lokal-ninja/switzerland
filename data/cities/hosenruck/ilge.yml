@@ -1,11 +1,11 @@
 id: 1266719035
-type: way
+type: node
 latitude: 47.49052
 longitude: 9.12264
 postcode: "9515"
 city: Hosenruck
-street: "Hauptstrasse"
-housenumber: 15
-phone: "+41 71 944 1185"
-opening_hours: "Mo-Su 07:00-20:00"
+street: Hauptstrasse
+housenumber: "15"
+phone: +41 71 944 1185
+opening_hours: Mo-Su 07:00-20:00
 website: ""

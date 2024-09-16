@@ -4,8 +4,8 @@ latitude: 46.82275
 longitude: 6.50231
 postcode: "1450"
 city: Sainte-Croix
-street: "Rue Centrale"
-housenumber: 16
-phone: "+41 24 454 22 30"
-opening_hours: "Tu-Fr 06:30-18:30; Sa,Su 06:30-17:00"
-website: "https://vuissoz.com/"
+street: Rue Centrale
+housenumber: "16"
+phone: +41 24 454 22 30
+opening_hours: Tu-Fr 06:30-18:30; Sa,Su 06:30-17:00
+website: https://vuissoz.com/

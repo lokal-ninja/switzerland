@@ -1,11 +1,11 @@
 id: 165255654
-type: way
+type: node
 latitude: 47.55263
 longitude: 8.79399
 postcode: "8545"
 city: Rickenbach
-street: "Grüterstrasse"
-housenumber: 4
+street: Grüterstrasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:00-12:15,14:30-18:30; Sa 07:00-13:00"
-website: "https://www.landiweinland.ch/volg-laeden/volg-rickenbach"
+opening_hours: Mo-Fr 07:00-12:15,14:30-18:30; Sa 07:00-13:00
+website: https://www.landiweinland.ch/volg-laeden/volg-rickenbach

@@ -4,8 +4,8 @@ latitude: 47.39336
 longitude: 8.53049
 postcode: "8037"
 city: Zürich
-street: "Rotbuchstrasse"
-housenumber: 68
+street: Rotbuchstrasse
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa-Su off"
-website: "http://www.pieshop.ch/"
+opening_hours: Mo-Fr 08:00-17:00; Sa-Su off
+website: http://www.pieshop.ch/

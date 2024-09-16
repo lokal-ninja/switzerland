@@ -1,11 +1,11 @@
 id: 96782776
-type: way
+type: node
 latitude: 47.03699
 longitude: 8.32899
 postcode: "6005"
 city: Luzern
-street: "Langensandstrasse"
-housenumber: 23
+street: Langensandstrasse
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-We 09:00-18:30, Th-Fr 09:00-20:00; Sa 08:00-16:00; Su 07:30-12:00"
-website: "https://www.schoenbuehl-center.ch/index.htm"
+opening_hours: Mo-We 09:00-18:30, Th-Fr 09:00-20:00; Sa 08:00-16:00; Su 07:30-12:00
+website: https://www.schoenbuehl-center.ch/index.htm

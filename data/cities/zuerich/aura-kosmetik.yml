@@ -4,8 +4,8 @@ latitude: 47.40923
 longitude: 8.54563
 postcode: "8050"
 city: Zürich
-street: "Welchogasse"
-housenumber: 5
+street: Welchogasse
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://aura-kosmetik.ch"
+website: https://aura-kosmetik.ch

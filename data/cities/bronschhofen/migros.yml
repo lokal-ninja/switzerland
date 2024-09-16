@@ -4,8 +4,8 @@ latitude: 47.4806
 longitude: 9.03246
 postcode: "9552"
 city: Bronschhofen
-street: "AMP-Strasse"
-housenumber: 2
+street: AMP-Strasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-17:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-bronschhofen"
+opening_hours: Mo-Fr 08:00-19:00, Sa 08:00-17:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-bronschhofen

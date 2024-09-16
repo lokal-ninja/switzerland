@@ -4,8 +4,8 @@ latitude: 47.54556
 longitude: 7.52564
 postcode: "4123"
 city: Allschwil
-street: "Leimgrubenweg"
-housenumber: 15
-phone: "+41 61 482 00 07"
-opening_hours: "Fr 14:00-18:00; Sa 09:00-11:30"
+street: Leimgrubenweg
+housenumber: "15"
+phone: +41 61 482 00 07
+opening_hours: Fr 14:00-18:00; Sa 09:00-11:30
 website: ""

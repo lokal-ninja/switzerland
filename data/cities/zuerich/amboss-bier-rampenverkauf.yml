@@ -4,8 +4,8 @@ latitude: 47.38723
 longitude: 8.51843
 postcode: "8005"
 city: Zürich
-street: "Pfingstweidstrasse"
-housenumber: 3
+street: Pfingstweidstrasse
+housenumber: "3"
 phone: ""
-opening_hours: "Fr 12:00-17:00; Sa 10:00-16:00"
-website: "https://www.amboss.ch/rampenverkauf"
+opening_hours: Fr 12:00-17:00; Sa 10:00-16:00
+website: https://www.amboss.ch/rampenverkauf

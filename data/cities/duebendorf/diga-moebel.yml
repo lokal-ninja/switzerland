@@ -1,11 +1,11 @@
 id: 53024235
-type: way
+type: node
 latitude: 47.40109
 longitude: 8.60423
 postcode: "8600"
 city: Dübendorf
-street: "Neugutstrasse"
-housenumber: 81
-phone: "+41 44 802 10 10"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:00-17:00"
-website: "https://www.diga.ch/Filiale_diga_Duebendorf.htm"
+street: Neugutstrasse
+housenumber: "81"
+phone: +41 44 802 10 10
+opening_hours: Mo-Fr 10:00-18:30; Sa 09:00-17:00
+website: https://www.diga.ch/Filiale_diga_Duebendorf.htm

@@ -1,11 +1,11 @@
 id: 226338835
-type: way
+type: node
 latitude: 47.26815
 longitude: 8.85232
 postcode: "8632"
 city: Tann
-street: "Abernstrasse"
-housenumber: 9
+street: Abernstrasse
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.coop.ch/de/standorte/coop-supermarkt-coop-tann-duernten/5793_POS"
+website: https://www.coop.ch/de/standorte/coop-supermarkt-coop-tann-duernten/5793_POS

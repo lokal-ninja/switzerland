@@ -1,11 +1,11 @@
 id: 141224506
-type: way
+type: node
 latitude: 47.44593
 longitude: 8.46291
 postcode: "8105"
 city: Regensdorf
-street: "Pumpwerkstrasse"
-housenumber: 50
+street: Pumpwerkstrasse
+housenumber: "50"
 phone: ""
 opening_hours: ""
-website: "https://www.schubiger.ch/"
+website: https://www.schubiger.ch/

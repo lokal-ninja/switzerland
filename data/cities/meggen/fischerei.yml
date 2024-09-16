@@ -1,11 +1,11 @@
 id: 107411919
-type: way
+type: node
 latitude: 47.04321
 longitude: 8.37714
 postcode: "6045"
 city: Meggen
-street: "Seestrasse"
-housenumber: 20
+street: Seestrasse
+housenumber: "20"
 phone: ""
-opening_hours: "Th-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-13:30"
+opening_hours: Th-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-13:30
 website: ""

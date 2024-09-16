@@ -4,8 +4,8 @@ latitude: 47.39163
 longitude: 9.56866
 postcode: "9437"
 city: Marbach
-street: "Staatsstrasse"
-housenumber: 21
+street: Staatsstrasse
+housenumber: "21"
 phone: "+41717771220"
-opening_hours: "Mo-Fr 08:30-12:00,13:30-18:00; Sa 08:30-12:00; PH,Su off"
-website: "https://www.mostereikobelt.ch/"
+opening_hours: Mo-Fr 08:30-12:00,13:30-18:00; Sa 08:30-12:00; PH,Su off
+website: https://www.mostereikobelt.ch/

@@ -1,11 +1,11 @@
 id: 342437527
-type: way
+type: node
 latitude: 46.78241
 longitude: 7.09368
 postcode: "1753"
 city: Matran
-street: "Impasse de la sablière"
-housenumber: 4
+street: Impasse de la sablière
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-16:00"
-website: "https://www.bauhaus.ch"
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-16:00
+website: https://www.bauhaus.ch

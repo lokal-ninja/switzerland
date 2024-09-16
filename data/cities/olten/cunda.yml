@@ -4,8 +4,8 @@ latitude: 47.34621
 longitude: 7.90964
 postcode: "4600"
 city: Olten
-street: "Louis-Giroud-Strasse"
-housenumber: 26
+street: Louis-Giroud-Strasse
+housenumber: "26"
 phone: ""
 opening_hours: ""
-website: "https://www.c-and-a.com/ch/"
+website: https://www.c-and-a.com/ch/

@@ -4,8 +4,8 @@ latitude: 47.04984
 longitude: 8.30891
 postcode: "6000"
 city: Luzern
-street: "Pilatusstrasse"
-housenumber: 1
+street: Pilatusstrasse
+housenumber: "1"
 phone: ""
-opening_hours: "vorübergehend geschlossen"
-website: "https://www.ltur.com/ch/"
+opening_hours: '"vorübergehend geschlossen"'
+website: https://www.ltur.com/ch/

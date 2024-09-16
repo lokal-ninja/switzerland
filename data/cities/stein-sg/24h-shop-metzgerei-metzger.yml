@@ -4,8 +4,8 @@ latitude: 47.19841
 longitude: 9.22695
 postcode: "9655"
 city: Stein SG
-street: "Hauptstrasse"
-housenumber: 
+street: Hauptstrasse
+housenumber: ""
 phone: "+41719941816"
-opening_hours: "24/7"
-website: "https://www.metzger-metzger.ch/"
+opening_hours: 24/7
+website: https://www.metzger-metzger.ch/

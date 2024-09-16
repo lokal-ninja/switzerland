@@ -1,11 +1,11 @@
 id: 590782160
-type: way
+type: node
 latitude: 47.16386
 longitude: 8.27797
 postcode: "6280"
 city: Hochdorf
-street: "Huwil"
-housenumber: 2
+street: Huwil
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

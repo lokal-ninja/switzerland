@@ -1,11 +1,11 @@
 id: 89098006
-type: way
+type: node
 latitude: 47.41245
 longitude: 9.24971
 postcode: "9200"
 city: Gossau
-street: "Stadtbühlstrasse"
-housenumber: 12
+street: Stadtbühlstrasse
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00
 website: ""

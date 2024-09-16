@@ -4,8 +4,8 @@ latitude: 47.3683
 longitude: 8.53955
 postcode: "8001"
 city: Zürich
-street: "Bahnhofstrasse"
-housenumber: 9
+street: Bahnhofstrasse
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:30; Sa 08:00-17:00"
-website: "https://johnbaker.ch/bahnhofst/"
+opening_hours: Mo-Fr 07:00-18:30; Sa 08:00-17:00
+website: https://johnbaker.ch/bahnhofst/

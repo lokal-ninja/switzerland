@@ -4,8 +4,8 @@ latitude: 47.49816
 longitude: 8.72729
 postcode: "8400"
 city: Winterthur
-street: "Steinberggasse"
-housenumber: 61
-phone: "+41 52 212 20 40"
-opening_hours: "Tu-Fr 09:00-12:30,14:00-18:30; Sa 10:00-16:00; PH off"
-website: "https://www.teehaus.ch/"
+street: Steinberggasse
+housenumber: "61"
+phone: +41 52 212 20 40
+opening_hours: Tu-Fr 09:00-12:30,14:00-18:30; Sa 10:00-16:00; PH off
+website: https://www.teehaus.ch/

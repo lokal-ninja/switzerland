@@ -4,8 +4,8 @@ latitude: 47.41877
 longitude: 8.80092
 postcode: "8322"
 city: Madetswil
-street: "Ludetswilerstrasse"
-housenumber: 6
-phone: "+41 44 954 06 36"
-opening_hours: "Mo-Fr 07:00-12:00, Mo-Fr 14:00-18:00"
-website: "https://www.metzgerei-aeschlimann.ch/"
+street: Ludetswilerstrasse
+housenumber: "6"
+phone: +41 44 954 06 36
+opening_hours: Mo-Fr 07:00-12:00, Mo-Fr 14:00-18:00
+website: https://www.metzgerei-aeschlimann.ch/

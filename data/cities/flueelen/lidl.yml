@@ -1,11 +1,11 @@
 id: 256616814
-type: way
+type: node
 latitude: 46.89508
 longitude: 8.6232
 postcode: "6454"
 city: Flüelen
-street: "Bahnhofstrasse"
-housenumber: 45
+street: Bahnhofstrasse
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Th 07:30-18:30; Fr 07:30-20:00; Sa 07:30-17:00"
+opening_hours: Mo-Th 07:30-18:30; Fr 07:30-20:00; Sa 07:30-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.36126
 longitude: 8.54787
 postcode: "8008"
 city: Zürich
-street: "Bellerivestrasse"
-housenumber: 2
+street: Bellerivestrasse
+housenumber: "2"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.migrol.ch/de/"
+opening_hours: 24/7
+website: https://www.migrol.ch/de/

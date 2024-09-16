@@ -4,8 +4,8 @@ latitude: 47.17196
 longitude: 8.51511
 postcode: "6300"
 city: Zug
-street: "Bundesplatz"
-housenumber: 14
+street: Bundesplatz
+housenumber: "14"
 phone: "+41417254080"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
 website: ""

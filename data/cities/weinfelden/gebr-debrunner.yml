@@ -1,11 +1,11 @@
 id: 579789022
-type: way
+type: node
 latitude: 47.56788
 longitude: 9.09596
 postcode: "8570"
 city: Weinfelden
-street: "Weststrasse"
-housenumber: 17
+street: Weststrasse
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.93703
 longitude: 7.43913
 postcode: "3007"
 city: Bern
-street: "Wabernstrasse"
-housenumber: 60
-phone: "+41 31 3712173"
-opening_hours: "Mo-Tu, Th-Fr 07:00-12:00, 13:30-18:00; We 07:00-12:00; Sa 07:00-12:00"
-website: "https://www.mader-textilreinigung.ch/"
+street: Wabernstrasse
+housenumber: "60"
+phone: +41 31 3712173
+opening_hours: Mo-Tu, Th-Fr 07:00-12:00, 13:30-18:00; We 07:00-12:00; Sa 07:00-12:00
+website: https://www.mader-textilreinigung.ch/

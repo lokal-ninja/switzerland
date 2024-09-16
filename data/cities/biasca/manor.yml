@@ -1,11 +1,11 @@
 id: 317171735
-type: way
+type: node
 latitude: 46.35593
 longitude: 8.96998
 postcode: "6710"
 city: Biasca
-street: "Via Losanna"
-housenumber: 2
+street: Via Losanna
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

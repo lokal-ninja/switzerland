@@ -1,11 +1,11 @@
 id: 38144530
-type: way
+type: node
 latitude: 47.42998
 longitude: 8.76475
 postcode: "8484"
 city: Weisslingen
-street: "Dorfstrasse"
-housenumber: 9
-phone: "+41 52 384 12 94"
-opening_hours: "Mo-Fr 06:45-18:30, Sa 07:00-16:00"
-website: "https://www.wisligzaeller.ch/wisliger-maert/"
+street: Dorfstrasse
+housenumber: "9"
+phone: +41 52 384 12 94
+opening_hours: Mo-Fr 06:45-18:30, Sa 07:00-16:00
+website: https://www.wisligzaeller.ch/wisliger-maert/

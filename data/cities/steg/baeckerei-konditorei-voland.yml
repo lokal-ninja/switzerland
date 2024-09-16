@@ -1,11 +1,11 @@
 id: 260609018
-type: way
+type: node
 latitude: 47.34928
 longitude: 8.93424
 postcode: "8496"
 city: Steg
-street: "Tösstalstrasse"
-housenumber: 83
-phone: "+41 55 265 11 20"
-opening_hours: "Mo-Fr 06:00-18:30; Sa,Su,PH 07:00-17:00"
-website: "https://www.baumerfladen.ch/"
+street: Tösstalstrasse
+housenumber: "83"
+phone: +41 55 265 11 20
+opening_hours: Mo-Fr 06:00-18:30; Sa,Su,PH 07:00-17:00
+website: https://www.baumerfladen.ch/

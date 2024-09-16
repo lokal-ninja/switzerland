@@ -4,8 +4,8 @@ latitude: 47.37488
 longitude: 8.5386
 postcode: "8001"
 city: Zürich
-street: "Bahnhofstrasse"
-housenumber: 75
+street: Bahnhofstrasse
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
-website: "https://www.massimodutti.com/ch/"
+opening_hours: Mo-Sa 10:00-20:00; PH off
+website: https://www.massimodutti.com/ch/

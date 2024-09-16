@@ -1,11 +1,11 @@
 id: 445464956
-type: way
+type: node
 latitude: 47.41675
 longitude: 9.06502
 postcode: "9602"
 city: Bazenheid
-street: "Wilerstrasse"
-housenumber: 50
+street: Wilerstrasse
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

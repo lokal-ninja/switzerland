@@ -4,8 +4,8 @@ latitude: 47.04046
 longitude: 6.88039
 postcode: "2043"
 city: Boudevilliers
-street: "Route de la Jonchère"
-housenumber: 40
-phone: "+41 32 886 91 53"
-opening_hours: "We,Th,Fr 13:30-17:30; Sa 09:00-16:00"
-website: "https://csp.ch/neuchatel/boutiques/"
+street: Route de la Jonchère
+housenumber: "40"
+phone: +41 32 886 91 53
+opening_hours: We,Th,Fr 13:30-17:30; Sa 09:00-16:00
+website: https://csp.ch/neuchatel/boutiques/

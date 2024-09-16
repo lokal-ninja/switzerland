@@ -4,8 +4,8 @@ latitude: 47.3857
 longitude: 7.43353
 postcode: "4253"
 city: Liesberg
-street: "Spitzenbühl"
-housenumber: 
-phone: "+41 32 422 01 29"
-opening_hours: "nach Vereinbarung; Wochenmarkt Laufen: Fr. 8-12 Uhr"
-website: "https://www.spitzenbuehl.ch/"
+street: Spitzenbühl
+housenumber: ""
+phone: +41 32 422 01 29
+opening_hours: '"nach Vereinbarung; Wochenmarkt Laufen: Fr. 8-12 Uhr"'
+website: https://www.spitzenbuehl.ch/

@@ -4,8 +4,8 @@ latitude: 47.39299
 longitude: 8.53886
 postcode: "8057"
 city: Zürich
-street: "Schaffhauserstrasse"
-housenumber: 79
-phone: "+41 44 383 20 20"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 08:00-18:00"
-website: "https://whiteberrysmile.ch/"
+street: Schaffhauserstrasse
+housenumber: "79"
+phone: +41 44 383 20 20
+opening_hours: Mo-Fr 10:00-19:00; Sa 08:00-18:00
+website: https://whiteberrysmile.ch/

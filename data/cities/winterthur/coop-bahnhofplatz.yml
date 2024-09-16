@@ -1,11 +1,11 @@
 id: 22422728
-type: way
+type: node
 latitude: 47.49892
 longitude: 8.72289
 postcode: "8400"
 city: Winterthur
-street: "Bahnhofplatz"
-housenumber: 3
+street: Bahnhofplatz
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
-website: "https://www.coop.ch/de/unternehmen/standorte-und-oeffnungszeiten/detail.html/2609/coop-city-city-winterthur.html"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
+website: https://www.coop.ch/de/unternehmen/standorte-und-oeffnungszeiten/detail.html/2609/coop-city-city-winterthur.html

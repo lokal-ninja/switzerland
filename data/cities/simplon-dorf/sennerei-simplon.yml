@@ -5,7 +5,7 @@ longitude: 8.05535
 postcode: "3907"
 city: Simplon Dorf
 street: ""
-housenumber: 5
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Su 08:00-12:00,16:00-18:00"
-website: "https://www.sennerei-simplon.ch"
+opening_hours: Mo-Su 08:00-12:00,16:00-18:00
+website: https://www.sennerei-simplon.ch

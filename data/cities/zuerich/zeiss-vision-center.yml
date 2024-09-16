@@ -4,8 +4,8 @@ latitude: 47.37365
 longitude: 8.53639
 postcode: "8001"
 city: Zürich
-street: "Steinmühleplatz"
-housenumber: 1
+street: Steinmühleplatz
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.zeissvisioncenter.com/de_ch/zuerich-city.html"
+website: https://www.zeissvisioncenter.com/de_ch/zuerich-city.html

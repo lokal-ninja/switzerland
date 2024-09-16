@@ -4,8 +4,8 @@ latitude: 46.1975
 longitude: 6.14345
 postcode: "1205"
 city: Genève
-street: "Boulevard des Philosophes"
-housenumber: 2
-phone: "+41 800 700 700"
+street: Boulevard des Philosophes
+housenumber: "2"
+phone: +41 800 700 700
 opening_hours: ""
-website: "https://www.salt.ch/"
+website: https://www.salt.ch/

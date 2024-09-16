@@ -1,11 +1,11 @@
 id: 544056661
-type: way
+type: node
 latitude: 46.11034
 longitude: 7.92862
 postcode: "3906"
 city: Saas-Fee
-street: "Bielmattstrasse"
-housenumber: 38
+street: Bielmattstrasse
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

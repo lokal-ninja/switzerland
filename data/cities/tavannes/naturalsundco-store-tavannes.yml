@@ -4,8 +4,8 @@ latitude: 47.22265
 longitude: 7.2037
 postcode: "2710"
 city: Tavannes
-street: "Rue H.-F. Sandoz"
-housenumber: 84
-phone: "+41 32 485 72 72"
-opening_hours: "Mo-Fr 09:00-12 - 13:30-18:00; Sa 09:00-12:00"
-website: "https://naturalsandco.ch/"
+street: Rue H.-F. Sandoz
+housenumber: "84"
+phone: +41 32 485 72 72
+opening_hours: Mo-Fr 09:00-12 - 13:30-18:00; Sa 09:00-12:00
+website: https://naturalsandco.ch/

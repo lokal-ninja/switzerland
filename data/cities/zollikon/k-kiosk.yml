@@ -4,8 +4,8 @@ latitude: 47.33787
 longitude: 8.57586
 postcode: "8702"
 city: Zollikon
-street: "Rotfluhstrasse"
-housenumber: 100
+street: Rotfluhstrasse
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.kkiosk.ch/de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.kkiosk.ch/de/

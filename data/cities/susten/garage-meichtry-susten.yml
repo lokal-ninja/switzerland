@@ -1,11 +1,11 @@
 id: 249083674
-type: way
+type: node
 latitude: 46.31065
 longitude: 7.64399
 postcode: "3952"
 city: Susten
-street: "Kantonsstrasse"
-housenumber: 14
+street: Kantonsstrasse
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

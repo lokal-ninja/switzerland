@@ -1,11 +1,11 @@
 id: 86335404
-type: way
+type: node
 latitude: 47.04879
 longitude: 8.30871
 postcode: "6003"
 city: Luzern
-street: "Morgartenstrasse"
-housenumber: 11
+street: Morgartenstrasse
+housenumber: "11"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:00,13:45-17:00; Sa 10:00-14:00; Su,Mo off"
-website: "https://www.unternaehrer-mode.ch"
+opening_hours: Tu-Fr 09:00-12:00,13:45-17:00; Sa 10:00-14:00; Su,Mo off
+website: https://www.unternaehrer-mode.ch

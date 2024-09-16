@@ -4,8 +4,8 @@ latitude: 46.79954
 longitude: 6.74533
 postcode: "1462"
 city: Yvonand
-street: "Grand'Rue"
-housenumber: 15
+street: Grand'Rue
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:30; Sa 07:30-17:00; Su 07:30-12:15"
-website: "https://www.kkiosk.ch"
+opening_hours: Mo-Fr 07:30-18:30; Sa 07:30-17:00; Su 07:30-12:15
+website: https://www.kkiosk.ch

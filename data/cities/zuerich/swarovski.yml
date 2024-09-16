@@ -4,8 +4,8 @@ latitude: 47.3749
 longitude: 8.53906
 postcode: "8001"
 city: Zürich
-street: "Bahnhofstrasse"
-housenumber: 78
+street: Bahnhofstrasse
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.swarovski.com/en-CH/store/0001827110/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.swarovski.com/en-CH/store/0001827110/

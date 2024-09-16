@@ -4,8 +4,8 @@ latitude: 46.30159
 longitude: 7.70276
 postcode: "3946"
 city: Turtmann
-street: "Kantonsstrasse"
-housenumber: 12
-phone: "+41 27 932 33 03"
-opening_hours: "Mo-Fr 14:00-18:30; Sa 09:00-12:00"
-website: "https://www.diroso.ch/"
+street: Kantonsstrasse
+housenumber: "12"
+phone: +41 27 932 33 03
+opening_hours: Mo-Fr 14:00-18:30; Sa 09:00-12:00
+website: https://www.diroso.ch/

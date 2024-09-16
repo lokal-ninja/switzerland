@@ -1,11 +1,11 @@
 id: 173468028
-type: way
+type: node
 latitude: 45.97575
 longitude: 8.87269
 postcode: "6987"
 city: Caslano
-street: "Via Colombera"
-housenumber: 24
+street: Via Colombera
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

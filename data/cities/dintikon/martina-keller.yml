@@ -4,8 +4,8 @@ latitude: 47.36417
 longitude: 8.22634
 postcode: "5606"
 city: Dintikon
-street: "Hintermattenstrasse"
-housenumber: 23
-phone: "+41 56 631 05 74;+41 79 476 33 61"
-opening_hours: "Tu 09:00-12:00,13:30-22:00; We-Sa 17:30-22:00"
-website: "https://martina-keller-villiger.ch/"
+street: Hintermattenstrasse
+housenumber: "23"
+phone: +41 56 631 05 74;+41 79 476 33 61
+opening_hours: Tu 09:00-12:00,13:30-22:00; We-Sa 17:30-22:00
+website: https://martina-keller-villiger.ch/

@@ -4,8 +4,9 @@ latitude: 47.43
 longitude: 7.77721
 postcode: "4434"
 city: Hölstein
-street: "Leuenbergstrasse"
-housenumber: 23
-phone: "+41 61 951 17 52"
-opening_hours: "Verkauf ab Hof auf Bestellung: 061 951 17 52. Marktstand an Matthäusmarkt in Basel am 1. und 3. Samstag von 8-13 Uhr jeden Monats."
+street: Leuenbergstrasse
+housenumber: "23"
+phone: +41 61 951 17 52
+opening_hours: 'Verkauf ab Hof auf Bestellung: 061 951 17 52. Marktstand an Matthäusmarkt
+    in Basel am 1. und 3. Samstag von 8-13 Uhr jeden Monats.'
 website: ""

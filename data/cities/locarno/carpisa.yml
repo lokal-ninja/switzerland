@@ -4,8 +4,8 @@ latitude: 46.16981
 longitude: 8.79718
 postcode: "6600"
 city: Locarno
-street: "Largo Francesco Zorzi"
-housenumber: 12
+street: Largo Francesco Zorzi
+housenumber: "12"
 phone: "+41918354757"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00; Su off"
-website: "https://www.carpisa.it"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-18:00; Su off
+website: https://www.carpisa.it

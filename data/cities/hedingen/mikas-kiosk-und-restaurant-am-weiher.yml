@@ -1,11 +1,11 @@
 id: 119018059
-type: way
+type: node
 latitude: 47.29559
 longitude: 8.45567
 postcode: "8908"
 city: Hedingen
-street: "Allmendstrasse"
-housenumber: 2
+street: Allmendstrasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.mikas-hedinger-weiher.ch/"
+website: https://www.mikas-hedinger-weiher.ch/

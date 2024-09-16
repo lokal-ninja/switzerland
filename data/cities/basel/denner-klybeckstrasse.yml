@@ -4,8 +4,8 @@ latitude: 47.56667
 longitude: 7.59062
 postcode: "4057"
 city: Basel
-street: "Klybeckstrasse"
-housenumber: 45
-phone: "+41 61 691 64 11"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 07:30-18:00"
+street: Klybeckstrasse
+housenumber: "45"
+phone: +41 61 691 64 11
+opening_hours: Mo-Fr 08:00-19:00; Sa 07:30-18:00
 website: ""

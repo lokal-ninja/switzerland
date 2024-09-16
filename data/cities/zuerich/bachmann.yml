@@ -4,8 +4,8 @@ latitude: 47.37654
 longitude: 8.53945
 postcode: "8001"
 city: Zürich
-street: "Bahnhofstrasse"
-housenumber: 89
+street: Bahnhofstrasse
+housenumber: "89"
 phone: ""
-opening_hours: "Mo-Fr 06:45-20:00; Sa 07:00-20:00; Su 10:00-18:00; PH closed"
-website: "https://www.confiserie.ch/de/zuerich-bahnhofstrasse"
+opening_hours: Mo-Fr 06:45-20:00; Sa 07:00-20:00; Su 10:00-18:00; PH closed
+website: https://www.confiserie.ch/de/zuerich-bahnhofstrasse

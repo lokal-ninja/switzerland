@@ -1,11 +1,11 @@
 id: 114253979
-type: way
+type: node
 latitude: 47.50502
 longitude: 8.34356
 postcode: "5420"
 city: Ehrendingen
-street: "Telligraben"
-housenumber: 8
-phone: "+41 56 222 75 62"
+street: Telligraben
+housenumber: "8"
+phone: +41 56 222 75 62
 opening_hours: ""
-website: "https://www.garagetiefenwaag.ch"
+website: https://www.garagetiefenwaag.ch

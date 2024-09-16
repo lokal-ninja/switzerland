@@ -4,8 +4,8 @@ latitude: 46.46689
 longitude: 6.84404
 postcode: "1800"
 city: Vevey
-street: "Avenue de Corsier"
-housenumber: 7
-phone: "+41 21 921 07 64"
-opening_hours: "Mo-Fr 08:00-18:30"
-website: "https://www.esi-entreprises.ch/magasin-agriette/"
+street: Avenue de Corsier
+housenumber: "7"
+phone: +41 21 921 07 64
+opening_hours: Mo-Fr 08:00-18:30
+website: https://www.esi-entreprises.ch/magasin-agriette/

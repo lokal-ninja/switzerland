@@ -4,8 +4,8 @@ latitude: 46.52438
 longitude: 6.63353
 postcode: ""
 city: Lausanne
-street: "Place de la Riponne"
-housenumber: 10
-phone: "+41 79 932 57 25"
+street: Place de la Riponne
+housenumber: "10"
+phone: +41 79 932 57 25
 opening_hours: ""
-website: "https://coupe-circuit.ch/"
+website: https://coupe-circuit.ch/

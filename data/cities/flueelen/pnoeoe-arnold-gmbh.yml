@@ -1,11 +1,11 @@
 id: 365264471
-type: way
+type: node
 latitude: 46.91024
 longitude: 8.62262
 postcode: "6454"
 city: Flüelen
-street: "Axenstrasse"
-housenumber: 61
+street: Axenstrasse
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

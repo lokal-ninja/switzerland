@@ -4,8 +4,8 @@ latitude: 46.63251
 longitude: 8.59191
 postcode: "6490"
 city: Andermatt
-street: "Gotthardstrasse"
-housenumber: 110
-phone: "+41 41 888 70 66"
-opening_hours: "Mo-Th 08:00-12:00,14:00-17:00; Fr-Su 08:00-13:00,14:00-17:00"
-website: "https://imholzsport-andermatt.ch/"
+street: Gotthardstrasse
+housenumber: "110"
+phone: +41 41 888 70 66
+opening_hours: Mo-Th 08:00-12:00,14:00-17:00; Fr-Su 08:00-13:00,14:00-17:00
+website: https://imholzsport-andermatt.ch/

@@ -4,8 +4,8 @@ latitude: 47.34483
 longitude: 8.2445
 postcode: "5612"
 city: Villmergen
-street: "Oberdorfstrasse"
-housenumber: 8
-phone: "+41 56 622 54 40"
-opening_hours: "Mo-Fr 08:00-11:45,13:30-18:30; Th 08:00-11:45,13:30-19:00; Sa 08:00-11:45"
+street: Oberdorfstrasse
+housenumber: "8"
+phone: +41 56 622 54 40
+opening_hours: Mo-Fr 08:00-11:45,13:30-18:30; Th 08:00-11:45,13:30-19:00; Sa 08:00-11:45
 website: ""

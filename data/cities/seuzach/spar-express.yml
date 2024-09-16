@@ -1,11 +1,11 @@
 id: 37334119
-type: way
+type: node
 latitude: 47.52664
 longitude: 8.7335
 postcode: "8472"
 city: Seuzach
-street: "Sportplatzstrasse"
-housenumber: 64
-phone: "+41 52 235 31 60"
-opening_hours: "Mo-Fr 05:30-21:00; Sa,Su 06:30-22:00"
-website: "https://www.spar.ch/spar-maerkte/spar-express-forrenberg-nord/"
+street: Sportplatzstrasse
+housenumber: "64"
+phone: +41 52 235 31 60
+opening_hours: Mo-Fr 05:30-21:00; Sa,Su 06:30-22:00
+website: https://www.spar.ch/spar-maerkte/spar-express-forrenberg-nord/

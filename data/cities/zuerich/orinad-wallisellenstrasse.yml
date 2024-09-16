@@ -4,8 +4,8 @@ latitude: 47.4101
 longitude: 8.54681
 postcode: "8050"
 city: Zürich
-street: "Wallisellenstrasse"
-housenumber: 4
+street: Wallisellenstrasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00"
-website: "https://www.orinad.ch/stadt-zuerich/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00
+website: https://www.orinad.ch/stadt-zuerich/

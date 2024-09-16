@@ -1,11 +1,11 @@
 id: 882485463
-type: way
+type: node
 latitude: 47.26341
 longitude: 8.17672
 postcode: "5734"
 city: Reinach AG
-street: "Aarauerstrasse"
-housenumber: 52
+street: Aarauerstrasse
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

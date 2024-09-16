@@ -4,8 +4,8 @@ latitude: 46.21409
 longitude: 7.25812
 postcode: "1957"
 city: Ardon
-street: "Route du Simplon"
-housenumber: 12
-phone: "+4127 346 35 36"
-opening_hours: "Tu-Fr 08:00-12:00,14:00-18:30; Sa 08:00-12:00,13:30-17:00"
+street: Route du Simplon
+housenumber: "12"
+phone: +4127 346 35 36
+opening_hours: Tu-Fr 08:00-12:00,14:00-18:30; Sa 08:00-12:00,13:30-17:00
 website: ""

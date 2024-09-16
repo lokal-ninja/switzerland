@@ -1,11 +1,11 @@
 id: 329778234
-type: way
+type: node
 latitude: 46.88984
 longitude: 9.846
 postcode: "7249"
 city: Serneus
-street: "Badstrasse"
-housenumber: 1
-phone: "+41 81 422 53 77"
+street: Badstrasse
+housenumber: "1"
+phone: +41 81 422 53 77
 opening_hours: ""
 website: ""

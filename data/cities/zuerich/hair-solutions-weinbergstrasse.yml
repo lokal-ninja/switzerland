@@ -4,8 +4,8 @@ latitude: 47.38448
 longitude: 8.54281
 postcode: "8006"
 city: Zürich
-street: "Weinbergstrasse"
-housenumber: 91
+street: Weinbergstrasse
+housenumber: "91"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:00-16:00"
-website: "https://hair-solutions.ch/"
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:00-16:00
+website: https://hair-solutions.ch/

@@ -4,8 +4,8 @@ latitude: 47.34978
 longitude: 8.27548
 postcode: "5610"
 city: Wohlen
-street: "Zentralstrasse"
-housenumber: 32
+street: Zentralstrasse
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "https://www.sunrise.ch/"
+website: https://www.sunrise.ch/

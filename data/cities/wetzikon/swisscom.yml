@@ -4,8 +4,8 @@ latitude: 47.32652
 longitude: 8.79979
 postcode: "8620"
 city: Wetzikon
-street: "Bahnhofstrasse"
-housenumber: 154
+street: Bahnhofstrasse
+housenumber: "154"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.swisscom.ch/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.swisscom.ch/

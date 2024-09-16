@@ -1,11 +1,11 @@
 id: 308138347
-type: way
+type: node
 latitude: 47.04845
 longitude: 8.61596
 postcode: "6422"
 city: Steinen
-street: "Schwyzerstrasse"
-housenumber: 16
+street: Schwyzerstrasse
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

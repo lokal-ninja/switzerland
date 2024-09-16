@@ -4,8 +4,8 @@ latitude: 47.37556
 longitude: 8.51801
 postcode: "8004"
 city: Zürich
-street: "Badenerstrasse"
-housenumber: 230
+street: Badenerstrasse
+housenumber: "230"
 phone: ""
 opening_hours: ""
-website: "https://www.reseda.ch/"
+website: https://www.reseda.ch/

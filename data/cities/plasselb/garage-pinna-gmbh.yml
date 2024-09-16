@@ -1,11 +1,11 @@
 id: 207146211
-type: way
+type: node
 latitude: 46.73629
 longitude: 7.25428
 postcode: "1737"
 city: Plasselb
-street: "Dorfstrasse"
-housenumber: 35
+street: Dorfstrasse
+housenumber: "35"
 phone: ""
 opening_hours: ""
-website: "http://www.garagepinna-gmbh.ch"
+website: http://www.garagepinna-gmbh.ch

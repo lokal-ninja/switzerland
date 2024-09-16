@@ -1,11 +1,11 @@
 id: 134521060
-type: way
+type: node
 latitude: 47.33438
 longitude: 8.79894
 postcode: "8620"
 city: Wetzikon
-street: "Industriestrasse"
-housenumber: 11
+street: Industriestrasse
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00"
+opening_hours: Mo-Fr 07:00-18:00
 website: ""

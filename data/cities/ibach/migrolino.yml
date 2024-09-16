@@ -1,11 +1,11 @@
 id: 425045922
-type: way
+type: node
 latitude: 47.01479
 longitude: 8.64536
 postcode: "6438"
 city: Ibach
-street: "Mythencenterstrasse"
-housenumber: 5
+street: Mythencenterstrasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.migrolino.ch/de/standorte/migrol-service-ibach/"
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.migrolino.ch/de/standorte/migrol-service-ibach/

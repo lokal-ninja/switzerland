@@ -1,11 +1,11 @@
 id: 219200669
-type: way
+type: node
 latitude: 47.13673
 longitude: 8.7427
 postcode: "8840"
 city: Einsiedeln
-street: "Kobiboden"
-housenumber: 59
-phone: "+41 55 422 38 04"
+street: Kobiboden
+housenumber: "59"
+phone: +41 55 422 38 04
 opening_hours: ""
-website: "http://www.reparatur-dienst.ch"
+website: http://www.reparatur-dienst.ch

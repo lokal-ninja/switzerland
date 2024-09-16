@@ -4,8 +4,8 @@ latitude: 47.49934
 longitude: 8.7293
 postcode: "8400"
 city: Winterthur
-street: "Obere Kirchgasse"
-housenumber: 3
+street: Obere Kirchgasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 12:00-18:30; Sa 09:00-17:00"
-website: "https://www.teamshop.ch/"
+opening_hours: Mo-Fr 12:00-18:30; Sa 09:00-17:00
+website: https://www.teamshop.ch/

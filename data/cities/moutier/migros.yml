@@ -4,8 +4,8 @@ latitude: 47.27681
 longitude: 7.37012
 postcode: "2740"
 city: Moutier
-street: "Rue de l'Écluse"
-housenumber: 1
-phone: "+41 58 575 80 80"
-opening_hours: "Mo-Th 08:00-19:00, Fr 08:00-20:00, Sa 08:00-17:00; PH off"
-website: "https://filialen.migros.ch/fr/supermarche-migros-moutier"
+street: Rue de l'Écluse
+housenumber: "1"
+phone: +41 58 575 80 80
+opening_hours: Mo-Th 08:00-19:00, Fr 08:00-20:00, Sa 08:00-17:00; PH off
+website: https://filialen.migros.ch/fr/supermarche-migros-moutier

@@ -4,8 +4,8 @@ latitude: 47.5497
 longitude: 7.62569
 postcode: "4127"
 city: Birsfelden
-street: "Rheinfelderstrasse"
-housenumber: 10
+street: Rheinfelderstrasse
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 06:00-23:00, Su 07:00-23:00"
-website: "https://www.migrolino.ch/de/standorte/migrol-birsfelden/"
+opening_hours: Mo-Sa 06:00-23:00, Su 07:00-23:00
+website: https://www.migrolino.ch/de/standorte/migrol-birsfelden/

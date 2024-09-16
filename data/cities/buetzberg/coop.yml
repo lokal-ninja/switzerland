@@ -1,11 +1,11 @@
 id: 201476231
-type: way
+type: node
 latitude: 47.21391
 longitude: 7.74393
 postcode: "4922"
 city: Bützberg
-street: "Bernstrasse"
-housenumber: 39
+street: Bernstrasse
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 07:30-17:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 07:30-17:00
 website: ""

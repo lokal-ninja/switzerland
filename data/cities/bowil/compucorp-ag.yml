@@ -4,8 +4,8 @@ latitude: 46.90238
 longitude: 7.69697
 postcode: "3533"
 city: Bowil
-street: "Kemisstrasse"
-housenumber: 20
+street: Kemisstrasse
+housenumber: "20"
 phone: "+41317112525"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://new.compucorp.ch/"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://new.compucorp.ch/

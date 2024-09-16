@@ -4,8 +4,8 @@ latitude: 46.52299
 longitude: 6.63812
 postcode: "1005"
 city: Lausanne
-street: "avenue César-Roux"
-housenumber: 26
-phone: "+41 21 311 73 22"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00"
-website: "https://www.la-guilde.ch/"
+street: avenue César-Roux
+housenumber: "26"
+phone: +41 21 311 73 22
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-18:00
+website: https://www.la-guilde.ch/

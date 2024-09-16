@@ -4,8 +4,8 @@ latitude: 46.9993
 longitude: 8.60864
 postcode: "6440"
 city: Brunnen
-street: "Luzernerstrasse"
-housenumber: 1
+street: Luzernerstrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-17:00"
-website: "https://www.ottos.ch/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-17:00
+website: https://www.ottos.ch/

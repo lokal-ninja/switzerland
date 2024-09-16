@@ -1,11 +1,11 @@
 id: 413324812
-type: way
+type: node
 latitude: 47.18204
 longitude: 7.85174
 postcode: "4917"
 city: Melchnau
-street: "Neustrasse"
-housenumber: 2
+street: Neustrasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

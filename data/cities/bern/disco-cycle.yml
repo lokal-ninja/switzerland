@@ -4,8 +4,8 @@ latitude: 46.94689
 longitude: 7.4194
 postcode: "3008"
 city: Bern
-street: "Weyermannsstrasse"
-housenumber: 34
-phone: "+41 77 503 99 34"
-opening_hours: "Tu-Fr 09:00-13:00,16:00-18:30; Sa 10:00-16:00"
-website: "https://www.discocycle.ch/"
+street: Weyermannsstrasse
+housenumber: "34"
+phone: +41 77 503 99 34
+opening_hours: Tu-Fr 09:00-13:00,16:00-18:30; Sa 10:00-16:00
+website: https://www.discocycle.ch/

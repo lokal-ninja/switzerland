@@ -4,8 +4,8 @@ latitude: 46.52571
 longitude: 6.60302
 postcode: "1008"
 city: Prilly
-street: "Avenue du Chablais"
-housenumber: 23
-phone: "+41 21 624 01 26"
-opening_hours: "Tu 12:00-19:00; We-Sa 09:00-19:00; Su 09:00-15:00"
-website: "https://www.patisserie-osio.com/"
+street: Avenue du Chablais
+housenumber: "23"
+phone: +41 21 624 01 26
+opening_hours: Tu 12:00-19:00; We-Sa 09:00-19:00; Su 09:00-15:00
+website: https://www.patisserie-osio.com/

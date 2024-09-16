@@ -1,11 +1,11 @@
 id: 353534000
-type: way
+type: node
 latitude: 46.41078
 longitude: 8.15169
 postcode: "3997"
 city: Bellwald
-street: "Furkastrasse"
-housenumber: 4
+street: Furkastrasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

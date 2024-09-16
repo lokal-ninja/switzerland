@@ -1,11 +1,11 @@
 id: 194641493
-type: way
+type: node
 latitude: 46.81569
 longitude: 7.21763
 postcode: "1712"
 city: Tafers
-street: "Thunstrasse"
-housenumber: 2
+street: Thunstrasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

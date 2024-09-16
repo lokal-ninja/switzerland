@@ -1,11 +1,11 @@
 id: 300853541
-type: way
+type: node
 latitude: 45.87276
 longitude: 8.98132
 postcode: "6850"
 city: Mendrisio
-street: "Via Moree"
-housenumber: 6
+street: Via Moree
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "http://www.garagebonfanti.ch"
+website: http://www.garagebonfanti.ch

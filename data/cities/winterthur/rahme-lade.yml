@@ -4,8 +4,8 @@ latitude: 47.49993
 longitude: 8.72738
 postcode: "8400"
 city: Winterthur
-street: "Stadthausstrasse"
-housenumber: 111
+street: Stadthausstrasse
+housenumber: "111"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:30; Sa 10:00-17:00"
-website: "http://www.rahme-lade.ch/"
+opening_hours: Tu-Fr 09:00-18:30; Sa 10:00-17:00
+website: http://www.rahme-lade.ch/

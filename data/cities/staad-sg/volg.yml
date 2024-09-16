@@ -1,11 +1,11 @@
 id: 532214501
-type: way
+type: node
 latitude: 47.48018
 longitude: 9.53188
 postcode: "9422"
 city: Staad SG
-street: "Hauptstrasse"
-housenumber: 32
+street: Hauptstrasse
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 06:00-21:00"
+opening_hours: Mo-Sa 06:00-21:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.24539
 longitude: 8.6044
 postcode: "8810"
 city: Horgen
-street: "Waldeggstrasse"
-housenumber: 17
-phone: "+41 44 725 10 01"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "http://www.computerpunkt.ch"
+street: Waldeggstrasse
+housenumber: "17"
+phone: +41 44 725 10 01
+opening_hours: Mo-Fr 09:00-18:00
+website: http://www.computerpunkt.ch

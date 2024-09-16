@@ -4,8 +4,8 @@ latitude: 47.39148
 longitude: 8.05879
 postcode: "5000"
 city: Aarau
-street: "Buchserstrasse"
-housenumber: 3
+street: Buchserstrasse
+housenumber: "3"
 phone: "+41623900101"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-16:00"
-website: "https://www.veloservice-aarau.ch/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-16:00
+website: https://www.veloservice-aarau.ch/

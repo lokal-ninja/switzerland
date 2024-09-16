@@ -1,11 +1,11 @@
 id: 110286735
-type: way
+type: node
 latitude: 46.54876
 longitude: 6.67054
 postcode: "1066"
 city: Epalinges
-street: "Place Croix-Blanche"
-housenumber: 15
+street: Place Croix-Blanche
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

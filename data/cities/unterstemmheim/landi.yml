@@ -1,11 +1,11 @@
 id: 295565874
-type: way
+type: node
 latitude: 47.63079
 longitude: 8.78653
 postcode: "8476"
 city: Unterstemmheim
-street: "Amtacker"
-housenumber: 2
+street: Amtacker
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 13:30-18:30; Sa 08:00-16:00"
+opening_hours: Mo-Fr 08:00-12:00, 13:30-18:30; Sa 08:00-16:00
 website: ""

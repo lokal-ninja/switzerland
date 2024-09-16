@@ -4,8 +4,8 @@ latitude: 47.3502
 longitude: 8.52761
 postcode: "8038"
 city: Zürich
-street: "Thujastrasse"
-housenumber: 4
+street: Thujastrasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:00; Sa 09:00-14:00; PH,Su off"
-website: "https://www.kalchbuehl.ch/"
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:00; Sa 09:00-14:00; PH,Su off
+website: https://www.kalchbuehl.ch/

@@ -4,8 +4,8 @@ latitude: 46.02156
 longitude: 7.74855
 postcode: "3920"
 city: Zermatt
-street: "Hofmattstrasse"
-housenumber: 14
+street: Hofmattstrasse
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.olmo.ch/"
+website: https://www.olmo.ch/

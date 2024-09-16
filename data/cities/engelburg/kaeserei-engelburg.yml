@@ -1,11 +1,11 @@
 id: 92081739
-type: way
+type: node
 latitude: 47.44415
 longitude: 9.34127
 postcode: "9032"
 city: Engelburg
-street: "St. Gallerstrasse"
-housenumber: 3
-phone: "+41 71 278 60 31"
+street: St. Gallerstrasse
+housenumber: "3"
+phone: +41 71 278 60 31
 opening_hours: ""
-website: "https://kaeserei-engelburg.ch/"
+website: https://kaeserei-engelburg.ch/

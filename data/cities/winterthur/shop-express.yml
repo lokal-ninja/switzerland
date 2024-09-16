@@ -1,11 +1,11 @@
 id: 983829825
-type: way
+type: node
 latitude: 47.49819
 longitude: 8.75445
 postcode: "8404"
 city: Winterthur
-street: "St. Gallerstrasse"
-housenumber: 166
+street: St. Gallerstrasse
+housenumber: "166"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

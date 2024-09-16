@@ -4,8 +4,8 @@ latitude: 47.36196
 longitude: 8.71833
 postcode: "8610"
 city: Uster-Winikon
-street: "Gschwaderstrasse"
-housenumber: 75
-phone: "+41 44 941 17 37"
-opening_hours: "Mo-Fr 07:00-12:00,13:15-17:30; Sa 08:00-16:00"
-website: "https://www.kunzbaumschulen.ch"
+street: Gschwaderstrasse
+housenumber: "75"
+phone: +41 44 941 17 37
+opening_hours: Mo-Fr 07:00-12:00,13:15-17:30; Sa 08:00-16:00
+website: https://www.kunzbaumschulen.ch

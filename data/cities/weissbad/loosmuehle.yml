@@ -1,11 +1,11 @@
 id: 211159854
-type: way
+type: node
 latitude: 47.30767
 longitude: 9.43576
 postcode: "9057"
 city: Weissbad
-street: "Dorf"
-housenumber: 32
+street: Dorf
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

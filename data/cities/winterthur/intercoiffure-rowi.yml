@@ -4,8 +4,8 @@ latitude: 47.5013
 longitude: 8.72066
 postcode: "8400"
 city: Winterthur
-street: "Wartstrasse"
-housenumber: 29
+street: Wartstrasse
+housenumber: "29"
 phone: ""
-opening_hours: "Tu,We 08:00-18:00; Th,Fr 08:00-20:00; Sa 08:00-15:00"
+opening_hours: Tu,We 08:00-18:00; Th,Fr 08:00-20:00; Sa 08:00-15:00
 website: ""

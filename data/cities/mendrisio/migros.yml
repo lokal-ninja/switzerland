@@ -4,8 +4,8 @@ latitude: 45.87024
 longitude: 8.98603
 postcode: "6850"
 city: Mendrisio
-street: "Via Luigi Lavizzari"
-housenumber: 2
+street: Via Luigi Lavizzari
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-We,Fr 07:30-19:00; Th 07:30-20:00; Sa 07:30-18:30"
-website: "https://www.migros.ch/"
+opening_hours: Mo-We,Fr 07:30-19:00; Th 07:30-20:00; Sa 07:30-18:30
+website: https://www.migros.ch/

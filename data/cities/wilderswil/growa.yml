@@ -1,11 +1,11 @@
 id: 228370474
-type: way
+type: node
 latitude: 46.66696
 longitude: 7.8723
 postcode: "3812"
 city: Wilderswil
-street: "Mittelweg"
-housenumber: 1
+street: Mittelweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

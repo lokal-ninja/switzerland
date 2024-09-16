@@ -4,8 +4,8 @@ latitude: 47.36858
 longitude: 8.53705
 postcode: "8002"
 city: Zürich
-street: "Bleicherweg"
-housenumber: 10
-phone: "+41 44 201 06 66"
-opening_hours: "Mo-Fr 06:30-15:00; Sa 07:30-15:00"
-website: "https://jung.ag/"
+street: Bleicherweg
+housenumber: "10"
+phone: +41 44 201 06 66
+opening_hours: Mo-Fr 06:30-15:00; Sa 07:30-15:00
+website: https://jung.ag/

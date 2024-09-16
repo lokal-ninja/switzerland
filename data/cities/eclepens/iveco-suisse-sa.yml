@@ -1,11 +1,11 @@
 id: 1307434577
-type: way
+type: node
 latitude: 46.6553
 longitude: 6.55502
 postcode: "1312"
 city: Eclépens
-street: "Zone Industrielle Les Portettes"
-housenumber: 3
+street: Zone Industrielle Les Portettes
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 06:45-17:45; SA 07:00-12:00"
+opening_hours: Mo-Fr 06:45-17:45; SA 07:00-12:00
 website: ""

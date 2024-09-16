@@ -4,8 +4,8 @@ latitude: 47.4997
 longitude: 8.73018
 postcode: "8400"
 city: Winterthur
-street: "Marktgasse"
-housenumber: 7
+street: Marktgasse
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00, Su 07:00-22:00"
-website: "https://www.migrolino.ch/de/standorte/"
+opening_hours: Mo-Sa 06:00-22:00, Su 07:00-22:00
+website: https://www.migrolino.ch/de/standorte/

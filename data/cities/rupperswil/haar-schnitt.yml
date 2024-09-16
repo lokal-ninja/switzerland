@@ -1,11 +1,11 @@
 id: 160041448
-type: way
+type: node
 latitude: 47.40223
 longitude: 8.12758
 postcode: "5102"
 city: Rupperswil
-street: "Dorfstrasse"
-housenumber: 8
+street: Dorfstrasse
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

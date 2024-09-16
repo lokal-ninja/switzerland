@@ -4,8 +4,8 @@ latitude: 47.55176
 longitude: 7.54027
 postcode: "4123"
 city: Allschwil
-street: "Binningerstrasse"
-housenumber: 7
-phone: "+41 61 481 22 62"
-opening_hours: "Mo-We,Th-Fr 08:00-12:00,14:00-18:00, Sa 09:00-12:00"
+street: Binningerstrasse
+housenumber: "7"
+phone: +41 61 481 22 62
+opening_hours: Mo-We,Th-Fr 08:00-12:00,14:00-18:00, Sa 09:00-12:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.47239
 longitude: 7.75991
 postcode: "4415"
 city: Lausen
-street: "Wolfgasse"
-housenumber: 2
-phone: "+41 61 921 02 00"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-16:00"
-website: "https://www.ergolzdrogerie.ch/"
+street: Wolfgasse
+housenumber: "2"
+phone: +41 61 921 02 00
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-16:00
+website: https://www.ergolzdrogerie.ch/

@@ -1,11 +1,11 @@
 id: 282045614
-type: way
+type: node
 latitude: 46.99546
 longitude: 7.15033
 postcode: "3225"
 city: Müntschemier
-street: "Kerzersstrasse"
-housenumber: 29
-phone: "+41 32 313 52 52"
+street: Kerzersstrasse
+housenumber: "29"
+phone: +41 32 313 52 52
 opening_hours: ""
-website: "https://ford.gebr-witschi.ch/"
+website: https://ford.gebr-witschi.ch/

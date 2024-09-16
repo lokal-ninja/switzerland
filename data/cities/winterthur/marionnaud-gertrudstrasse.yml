@@ -4,8 +4,8 @@ latitude: 47.49942
 longitude: 8.72149
 postcode: "8400"
 city: Winterthur
-street: "Gertrudstrasse"
-housenumber: 1
+street: Gertrudstrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00; PH off"
-website: "https://www.marionnaud.ch/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00; PH off
+website: https://www.marionnaud.ch/

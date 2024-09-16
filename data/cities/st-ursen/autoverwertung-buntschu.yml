@@ -1,11 +1,11 @@
 id: 132923113
-type: way
+type: node
 latitude: 46.79276
 longitude: 7.21677
 postcode: "1717"
 city: St. Ursen
-street: "Engertswil"
-housenumber: 4
+street: Engertswil
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

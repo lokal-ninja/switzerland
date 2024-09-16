@@ -4,8 +4,8 @@ latitude: 46.55753
 longitude: 6.57679
 postcode: "1023"
 city: Crissier
-street: "Rue d'Yverdon"
-housenumber: 19
+street: Rue d'Yverdon
+housenumber: "19"
 phone: ""
-opening_hours: "Tu,Th 15:00-18:30; Fr 08:30-12:00,13:30-18:30; Sa 08:30-12:00"
-website: "https://www.mblondel.ch/marche-a-ferme/"
+opening_hours: Tu,Th 15:00-18:30; Fr 08:30-12:00,13:30-18:30; Sa 08:30-12:00
+website: https://www.mblondel.ch/marche-a-ferme/

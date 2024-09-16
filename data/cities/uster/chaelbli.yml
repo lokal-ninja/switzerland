@@ -1,11 +1,12 @@
 id: 223950375
-type: way
+type: node
 latitude: 47.34544
 longitude: 8.69799
 postcode: "8610"
 city: Uster
-street: "Seestrasse"
-housenumber: 98
-phone: "+41 43 277 06 66"
-opening_hours: "Tu-Fr 09:00-12:00,13:30-18:30; Th 09:00-12:00,13:30-20:00; Feb-Oct Sa 09:00-17:00; Nov-Jan Sa 09:00-13:00"
-website: "https://www.chaelbli.ch/"
+street: Seestrasse
+housenumber: "98"
+phone: +41 43 277 06 66
+opening_hours: Tu-Fr 09:00-12:00,13:30-18:30; Th 09:00-12:00,13:30-20:00; Feb-Oct
+    Sa 09:00-17:00; Nov-Jan Sa 09:00-13:00
+website: https://www.chaelbli.ch/

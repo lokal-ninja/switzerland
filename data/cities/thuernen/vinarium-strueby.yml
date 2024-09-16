@@ -4,8 +4,8 @@ latitude: 47.45601
 longitude: 7.82875
 postcode: "4441"
 city: Thürnen
-street: "Hauptstrasse"
-housenumber: 40
-phone: "+41 61 971 11 05"
-opening_hours: "We 14:00-18:30; Fr 08:00-12:00 14:00-18:30; Sa 09:00-15:00"
-website: "https://www.struebyag.ch/"
+street: Hauptstrasse
+housenumber: "40"
+phone: +41 61 971 11 05
+opening_hours: We 14:00-18:30; Fr 08:00-12:00 14:00-18:30; Sa 09:00-15:00
+website: https://www.struebyag.ch/

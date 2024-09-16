@@ -1,11 +1,11 @@
 id: 263864976
-type: way
+type: node
 latitude: 47.32107
 longitude: 7.97431
 postcode: "5745"
 city: Safenwil
-street: "Sumpfstrasse"
-housenumber: 14
-phone: "+41 62 842 78 00"
+street: Sumpfstrasse
+housenumber: "14"
+phone: +41 62 842 78 00
 opening_hours: ""
-website: "https://www.motorradzentrum.ch/"
+website: https://www.motorradzentrum.ch/

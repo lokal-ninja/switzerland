@@ -4,8 +4,8 @@ latitude: 47.36922
 longitude: 8.50293
 postcode: "8055"
 city: Zürich
-street: "Birmensdorferstrasse"
-housenumber: 406
+street: Birmensdorferstrasse
+housenumber: "406"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
-website: "https://www.denner.ch/"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
+website: https://www.denner.ch/

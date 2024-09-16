@@ -1,11 +1,11 @@
 id: 202428648
-type: way
+type: node
 latitude: 47.57338
 longitude: 9.28232
 postcode: "8580"
 city: Sommeri
-street: "Hauptstrasse"
-housenumber: 82
+street: Hauptstrasse
+housenumber: "82"
 phone: ""
 opening_hours: ""
-website: "https://www.ammannfrischabhof.ch/"
+website: https://www.ammannfrischabhof.ch/

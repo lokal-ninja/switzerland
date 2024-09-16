@@ -4,8 +4,8 @@ latitude: 47.06022
 longitude: 7.62522
 postcode: "3400"
 city: Burgdorf
-street: "Poststrasse"
-housenumber: 4
-phone: "+4134 422 85 22"
-opening_hours: "Mo-Th 07:30-11:55,13:15-17:30; Fr 07:30-11:55,13:15-17:00; Sa 08:00-11:30"
-website: "https://www.bahnhof-garage.com/"
+street: Poststrasse
+housenumber: "4"
+phone: +4134 422 85 22
+opening_hours: Mo-Th 07:30-11:55,13:15-17:30; Fr 07:30-11:55,13:15-17:00; Sa 08:00-11:30
+website: https://www.bahnhof-garage.com/

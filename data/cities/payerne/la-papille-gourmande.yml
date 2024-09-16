@@ -4,8 +4,8 @@ latitude: 46.82164
 longitude: 6.93908
 postcode: "1530"
 city: Payerne
-street: "Grand'Rue"
-housenumber: 16
-phone: "+41 26 660 26 82"
-opening_hours: "Tu 08:30-12:00,14:00-18:30; Sa 08:30-12:00,14:00-16:00"
-website: "https://lapapillegourmande.ch"
+street: Grand'Rue
+housenumber: "16"
+phone: +41 26 660 26 82
+opening_hours: Tu 08:30-12:00,14:00-18:30; Sa 08:30-12:00,14:00-16:00
+website: https://lapapillegourmande.ch

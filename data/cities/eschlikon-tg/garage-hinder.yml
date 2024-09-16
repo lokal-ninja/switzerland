@@ -1,11 +1,11 @@
 id: 431812382
-type: way
+type: node
 latitude: 47.46236
 longitude: 8.96059
 postcode: "8360"
 city: Eschlikon TG
-street: "Bahnhofstrasse"
-housenumber: 8
+street: Bahnhofstrasse
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

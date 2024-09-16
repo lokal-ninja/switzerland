@@ -1,11 +1,11 @@
 id: 371646468
-type: way
+type: node
 latitude: 45.9172
 longitude: 8.9855
 postcode: "6818"
 city: Melano
-street: "Via Cantonale"
-housenumber: 3
+street: Via Cantonale
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

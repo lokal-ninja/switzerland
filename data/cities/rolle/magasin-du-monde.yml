@@ -4,8 +4,8 @@ latitude: 46.46082
 longitude: 6.34166
 postcode: "1180"
 city: Rolle
-street: "Grand-Rue"
-housenumber: 2
-phone: "+41 21 825 10 42"
-opening_hours: "Mo-We 15:00-18:00; Th-Fr 09:00-12:00,15:00-18:00; Sa 10:00-13:00,14:00-17:00"
-website: "https://www.mdm.ch/magasins/rolle"
+street: Grand-Rue
+housenumber: "2"
+phone: +41 21 825 10 42
+opening_hours: Mo-We 15:00-18:00; Th-Fr 09:00-12:00,15:00-18:00; Sa 10:00-13:00,14:00-17:00
+website: https://www.mdm.ch/magasins/rolle

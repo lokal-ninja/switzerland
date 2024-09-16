@@ -1,11 +1,11 @@
 id: 279367876
-type: way
+type: node
 latitude: 46.97012
 longitude: 6.86968
 postcode: "2013"
 city: Colombier
-street: "Allée du Port"
-housenumber: 3
+street: Allée du Port
+housenumber: "3"
 phone: ""
-opening_hours: "10:00-19:00"
+opening_hours: 10:00-19:00
 website: ""

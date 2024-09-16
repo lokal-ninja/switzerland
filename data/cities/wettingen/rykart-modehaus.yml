@@ -4,8 +4,9 @@ latitude: 47.46765
 longitude: 8.32293
 postcode: "5430"
 city: Wettingen
-street: "Landstrasse"
-housenumber: 57
+street: Landstrasse
+housenumber: "57"
 phone: ""
-opening_hours: "Mo 13:30-18:30;Tu-Th 08:30-12:00,13:30-18:30;Fr 08:30-12:00,13:30-19:00;Sa 08:30-17:00;PH closed"
+opening_hours: Mo 13:30-18:30;Tu-Th 08:30-12:00,13:30-18:30;Fr 08:30-12:00,13:30-19:00;Sa
+    08:30-17:00;PH closed
 website: ""

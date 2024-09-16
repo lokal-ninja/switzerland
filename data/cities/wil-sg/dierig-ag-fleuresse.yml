@@ -1,11 +1,11 @@
 id: 194759441
-type: way
+type: node
 latitude: 47.4636
 longitude: 9.03906
 postcode: "9500"
 city: Wil SG
-street: "Gallusstrasse"
-housenumber: 17
-phone: "+41 71 913 38 50"
-opening_hours: "We,Fr 14:00-17:00"
-website: "https://www.dierig.ch/"
+street: Gallusstrasse
+housenumber: "17"
+phone: +41 71 913 38 50
+opening_hours: We,Fr 14:00-17:00
+website: https://www.dierig.ch/

@@ -4,8 +4,8 @@ latitude: 47.55704
 longitude: 7.5881
 postcode: "4001"
 city: Basel
-street: "Gerbergasse"
-housenumber: 20
-phone: "+41 61 2649264"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00;Sa 10:00-14:00"
-website: "https://www.tui.ch/de/reisebuero/basel/tui-basel-gerbergasse/"
+street: Gerbergasse
+housenumber: "20"
+phone: +41 61 2649264
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00;Sa 10:00-14:00
+website: https://www.tui.ch/de/reisebuero/basel/tui-basel-gerbergasse/

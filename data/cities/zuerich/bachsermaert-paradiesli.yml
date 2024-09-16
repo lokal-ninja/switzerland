@@ -4,8 +4,8 @@ latitude: 47.36337
 longitude: 8.54973
 postcode: "8008"
 city: Zürich
-street: "Seefeldstrasse"
-housenumber: 29
+street: Seefeldstrasse
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-16:00"
-website: "https://www.bachsermaert.ch/"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-16:00
+website: https://www.bachsermaert.ch/

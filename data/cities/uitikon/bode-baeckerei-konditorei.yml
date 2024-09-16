@@ -4,8 +4,8 @@ latitude: 47.37048
 longitude: 8.45483
 postcode: "8142"
 city: Uitikon
-street: "Zürcherstrasse"
-housenumber: 46
-phone: "+41 44 491 60 58"
-opening_hours: "Mo-Fr 05:30-18:30; Sa 05:30-13:00"
-website: "https://www.bode-baeckerei.ch/"
+street: Zürcherstrasse
+housenumber: "46"
+phone: +41 44 491 60 58
+opening_hours: Mo-Fr 05:30-18:30; Sa 05:30-13:00
+website: https://www.bode-baeckerei.ch/

@@ -4,8 +4,8 @@ latitude: 46.0257
 longitude: 7.74965
 postcode: "3920"
 city: Zermatt
-street: "Spissstrasse"
-housenumber: 1
+street: Spissstrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.denner.ch/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.denner.ch/

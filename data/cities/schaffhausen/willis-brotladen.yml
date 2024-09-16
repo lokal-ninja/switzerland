@@ -4,8 +4,8 @@ latitude: 47.69757
 longitude: 8.64373
 postcode: "8200"
 city: Schaffhausen
-street: "Kamorstrasse"
-housenumber: 15
-phone: "+41 52 624 71 10"
-opening_hours: "Tu-Th 06:30-12:15; Fr 06:30-12:15,15:00-18:30; Sa 07:00-12:15"
+street: Kamorstrasse
+housenumber: "15"
+phone: +41 52 624 71 10
+opening_hours: Tu-Th 06:30-12:15; Fr 06:30-12:15,15:00-18:30; Sa 07:00-12:15
 website: ""

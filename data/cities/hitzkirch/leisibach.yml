@@ -1,11 +1,11 @@
 id: 167320156
-type: way
+type: node
 latitude: 47.21925
 longitude: 8.25671
 postcode: "6285"
 city: Hitzkirch
-street: "Seetalstrasse"
-housenumber: 4
+street: Seetalstrasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

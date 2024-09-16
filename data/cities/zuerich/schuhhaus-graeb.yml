@@ -4,8 +4,8 @@ latitude: 47.36954
 longitude: 8.54444
 postcode: "8001"
 city: Zürich
-street: "Oberdorfstrasse"
-housenumber: 27
+street: Oberdorfstrasse
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-17:00; PH off"
-website: "https://www.schuhhaus-graeb.ch/"
+opening_hours: Mo-Fr 09:00-18:30, Sa 09:00-17:00; PH off
+website: https://www.schuhhaus-graeb.ch/

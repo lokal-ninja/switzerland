@@ -1,5 +1,5 @@
 id: 1157456517
-type: way
+type: node
 latitude: 46.66108
 longitude: 7.55476
 postcode: "3762"
@@ -7,5 +7,5 @@ city: Erlenbach im Simmental
 street: ""
 housenumber: 302c
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00 Sa 07:00-17:00"
+opening_hours: Mo-Fr 07:00-19:00 Sa 07:00-17:00
 website: ""

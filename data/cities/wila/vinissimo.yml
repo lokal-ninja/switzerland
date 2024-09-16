@@ -1,11 +1,11 @@
 id: 249459021
-type: way
+type: node
 latitude: 47.41751
 longitude: 8.84389
 postcode: "8492"
 city: Wila
-street: "Eggelerstrasse"
-housenumber: 8
+street: Eggelerstrasse
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

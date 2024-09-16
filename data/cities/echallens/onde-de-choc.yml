@@ -4,8 +4,8 @@ latitude: 46.64096
 longitude: 6.63258
 postcode: "1040"
 city: Echallens
-street: "Rue Saint-Denis"
-housenumber: 14
-phone: "+41 21 558 34 00"
-opening_hours: "Tu-Fr 08:30-12:30,13:30-18:00; Sa 08:30-12:30,13:30-17:00"
-website: "https://www.onde-de-choc.ch/"
+street: Rue Saint-Denis
+housenumber: "14"
+phone: +41 21 558 34 00
+opening_hours: Tu-Fr 08:30-12:30,13:30-18:00; Sa 08:30-12:30,13:30-17:00
+website: https://www.onde-de-choc.ch/

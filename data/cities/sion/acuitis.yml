@@ -4,8 +4,8 @@ latitude: 46.23267
 longitude: 7.35899
 postcode: "1950"
 city: Sion
-street: "Rue de Lausanne"
-housenumber: 12
-phone: "+41 27 321 32 04"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-17:00"
-website: "https://ch.acuitis.com/"
+street: Rue de Lausanne
+housenumber: "12"
+phone: +41 27 321 32 04
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-17:00
+website: https://ch.acuitis.com/

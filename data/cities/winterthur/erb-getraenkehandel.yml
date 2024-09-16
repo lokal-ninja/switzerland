@@ -4,8 +4,8 @@ latitude: 47.48591
 longitude: 8.76339
 postcode: "8405"
 city: Winterthur
-street: "Hinterdorfstrasse"
-housenumber: 48
+street: Hinterdorfstrasse
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00,13:15-18:30; Sa 07:30-12:00,13:30-16:00"
-website: "https://erb-getraenke.ch/"
+opening_hours: Mo-Fr 07:30-12:00,13:15-18:30; Sa 07:30-12:00,13:30-16:00
+website: https://erb-getraenke.ch/

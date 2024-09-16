@@ -4,8 +4,8 @@ latitude: 47.46199
 longitude: 8.21124
 postcode: "5212"
 city: Hausen AG
-street: "Holzgasse"
-housenumber: 1
-phone: "+41 56 441 15 83"
-opening_hours: "05:00-12:00,13:00-17:00; Su off"
-website: "https://www.luethimetzgerei.ch"
+street: Holzgasse
+housenumber: "1"
+phone: +41 56 441 15 83
+opening_hours: 05:00-12:00,13:00-17:00; Su off
+website: https://www.luethimetzgerei.ch

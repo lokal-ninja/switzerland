@@ -1,11 +1,11 @@
 id: 232407787
-type: way
+type: node
 latitude: 46.75921
 longitude: 9.55893
 postcode: "7076"
 city: Parpan
-street: "Hauptstrasse"
-housenumber: 24
+street: Hauptstrasse
+housenumber: "24"
 phone: ""
-opening_hours: "Tu-Fr 08:30-12:00,14:30-18:00; Sa 08:30-12:00,13:30-16:00"
+opening_hours: Tu-Fr 08:30-12:00,14:30-18:00; Sa 08:30-12:00,13:30-16:00
 website: ""

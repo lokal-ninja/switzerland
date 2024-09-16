@@ -4,8 +4,8 @@ latitude: 47.3774
 longitude: 8.51193
 postcode: "8003"
 city: Zürich
-street: "Badenerstrasse"
-housenumber: 329
-phone: "+41 44 213 12 40"
-opening_hours: "Mo-Fr 08:00-18:30, Sa 09:00-16:00; PH off"
-website: "https://www.amag.ch/de/garagenuebersicht/garage-badenerstrasse.html"
+street: Badenerstrasse
+housenumber: "329"
+phone: +41 44 213 12 40
+opening_hours: Mo-Fr 08:00-18:30, Sa 09:00-16:00; PH off
+website: https://www.amag.ch/de/garagenuebersicht/garage-badenerstrasse.html

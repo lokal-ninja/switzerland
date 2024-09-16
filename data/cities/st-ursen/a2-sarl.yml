@@ -1,11 +1,11 @@
 id: 214611908
-type: way
+type: node
 latitude: 46.79809
 longitude: 7.18459
 postcode: "1717"
 city: St. Ursen
-street: "Römerswil"
-housenumber: 11
+street: Römerswil
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

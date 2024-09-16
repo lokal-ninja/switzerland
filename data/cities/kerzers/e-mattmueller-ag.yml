@@ -1,11 +1,11 @@
 id: 282275574
-type: way
+type: node
 latitude: 46.9702
 longitude: 7.19215
 postcode: "3210"
 city: Kerzers
-street: "Murtenstrasse"
-housenumber: 33
+street: Murtenstrasse
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

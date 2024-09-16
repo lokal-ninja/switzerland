@@ -4,8 +4,8 @@ latitude: 47.44141
 longitude: 8.66943
 postcode: "8315"
 city: Lindau
-street: "Legiweg"
-housenumber: 2
-phone: "+41 79 330 70 32"
-opening_hours: "Tu-Fr 08:00-19:00; Sa 08:00-17:00"
-website: "https://stierenacher.ch;https://brennnessel-lindau.ch/"
+street: Legiweg
+housenumber: "2"
+phone: +41 79 330 70 32
+opening_hours: Tu-Fr 08:00-19:00; Sa 08:00-17:00
+website: https://stierenacher.ch;https://brennnessel-lindau.ch/

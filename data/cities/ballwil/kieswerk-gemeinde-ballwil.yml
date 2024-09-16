@@ -1,11 +1,11 @@
 id: 221393715
-type: way
+type: node
 latitude: 47.14783
 longitude: 8.31937
 postcode: "6275"
 city: Ballwil
-street: "Kieswerkstrasse"
-housenumber: 1
-phone: "+41 41 448 10 29"
+street: Kieswerkstrasse
+housenumber: "1"
+phone: +41 41 448 10 29
 opening_hours: ""
-website: "https://www.ballwil.ch/organisationkieswerk"
+website: https://www.ballwil.ch/organisationkieswerk

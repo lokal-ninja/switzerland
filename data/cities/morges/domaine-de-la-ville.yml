@@ -4,8 +4,8 @@ latitude: 46.51879
 longitude: 6.48652
 postcode: "1110"
 city: Morges
-street: "Chemin de la Morgette"
-housenumber: 2
+street: Chemin de la Morgette
+housenumber: "2"
 phone: "+41218021776"
-opening_hours: "We,Fr 16:00-19:00, Sa[1] 10:00-13:00"
-website: "http://domainedelaville.ch/"
+opening_hours: We,Fr 16:00-19:00, Sa[1] 10:00-13:00
+website: http://domainedelaville.ch/

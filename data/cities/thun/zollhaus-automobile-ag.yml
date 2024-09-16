@@ -1,11 +1,11 @@
 id: 57401133
-type: way
+type: node
 latitude: 46.76198
 longitude: 7.59509
 postcode: "3603"
 city: Thun
-street: "Allmendstrasse"
-housenumber: 189
+street: Allmendstrasse
+housenumber: "189"
 phone: ""
 opening_hours: ""
 website: ""

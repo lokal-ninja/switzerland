@@ -4,8 +4,8 @@ latitude: 47.4138
 longitude: 8.71708
 postcode: "8308"
 city: Illnau
-street: "Gstückstrasse"
-housenumber: 1
+street: Gstückstrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo 13:30-17:00; Tu 08:30-17:00; Sa 11:00-15:00; PH off"
-website: "https://soulmassage.ch/"
+opening_hours: Mo 13:30-17:00; Tu 08:30-17:00; Sa 11:00-15:00; PH off
+website: https://soulmassage.ch/

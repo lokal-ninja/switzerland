@@ -1,11 +1,11 @@
 id: 197198301
-type: way
+type: node
 latitude: 46.54993
 longitude: 6.57528
 postcode: ""
 city: Crissier
-street: "Route de la Carrière"
-housenumber: 14
+street: Route de la Carrière
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

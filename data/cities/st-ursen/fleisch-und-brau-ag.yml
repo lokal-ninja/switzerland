@@ -1,11 +1,11 @@
 id: 131519090
-type: way
+type: node
 latitude: 46.79041
 longitude: 7.21752
 postcode: "1717"
 city: St. Ursen
-street: "Dorf"
-housenumber: 2
+street: Dorf
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.fleischundbrau.ch/"
+website: https://www.fleischundbrau.ch/

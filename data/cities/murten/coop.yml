@@ -1,11 +1,11 @@
 id: 746570038
-type: way
+type: node
 latitude: 46.93773
 longitude: 7.14327
 postcode: "3280"
 city: Murten
-street: "Löwenberg"
-housenumber: 54
-phone: "+41 26 350 28 00"
-opening_hours: "Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa 08:00-16:00"
-website: "https://www.coopcenter.ch/de/coop-loewenberg.html"
+street: Löwenberg
+housenumber: "54"
+phone: +41 26 350 28 00
+opening_hours: Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa 08:00-16:00
+website: https://www.coopcenter.ch/de/coop-loewenberg.html

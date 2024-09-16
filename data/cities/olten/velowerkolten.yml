@@ -4,8 +4,9 @@ latitude: 47.35153
 longitude: 7.90338
 postcode: "4600"
 city: Olten
-street: "Römerstrasse"
-housenumber: 18
-phone: "+41 62 212 00 02"
-opening_hours: "Tu,Fr 9:00-12:00, 13:30-18:30; We 9:00-12:00; Th 09:00-12:00, 13:30-20.00; Sa 10:00 - 14:00"
-website: "https://www.velowerkolten.ch/"
+street: Römerstrasse
+housenumber: "18"
+phone: +41 62 212 00 02
+opening_hours: Tu,Fr 9:00-12:00, 13:30-18:30; We 9:00-12:00; Th 09:00-12:00, 13:30-20.00;
+    Sa 10:00 - 14:00
+website: https://www.velowerkolten.ch/

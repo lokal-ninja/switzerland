@@ -4,8 +4,9 @@ latitude: 47.46513
 longitude: 8.75956
 postcode: "8482"
 city: Sennhof
-street: "Oberzelgweg"
-housenumber: 2
-phone: "+41 52 232 37 27"
-opening_hours: "Mo-We,Fr 06:30-12:30, 15:00-19:00; Th 06:30-12:30, 15:00-18:00; Sa 08:00-16:00; Su 09:00-11:00"
-website: "https://dorflade-sennhof.ch/"
+street: Oberzelgweg
+housenumber: "2"
+phone: +41 52 232 37 27
+opening_hours: Mo-We,Fr 06:30-12:30, 15:00-19:00; Th 06:30-12:30, 15:00-18:00; Sa
+    08:00-16:00; Su 09:00-11:00
+website: https://dorflade-sennhof.ch/

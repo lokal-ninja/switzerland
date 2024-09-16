@@ -4,8 +4,8 @@ latitude: 47.38238
 longitude: 8.54491
 postcode: "8006"
 city: Zürich
-street: "Sonneggstrasse"
-housenumber: 74
-phone: "+41 43 255 00 90"
-opening_hours: "Tu-Fr 11:00-14:00, 15:00-19:00; Sa 09:00-16:00"
-website: "https://metropolitan-bike.ch"
+street: Sonneggstrasse
+housenumber: "74"
+phone: +41 43 255 00 90
+opening_hours: Tu-Fr 11:00-14:00, 15:00-19:00; Sa 09:00-16:00
+website: https://metropolitan-bike.ch

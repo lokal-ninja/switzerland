@@ -1,11 +1,11 @@
 id: 195116371
-type: way
+type: node
 latitude: 47.14958
 longitude: 9.144
 postcode: "8873"
 city: Amden
-street: "Dorfstrasse"
-housenumber: 35
+street: Dorfstrasse
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00,13:30-18:00; Sa 07:00-16:00; Su 08:00-11:30"
-website: "https://www.molki-amden.ch/"
+opening_hours: Mo-Fr 08:00-17:00,13:30-18:00; Sa 07:00-16:00; Su 08:00-11:30
+website: https://www.molki-amden.ch/

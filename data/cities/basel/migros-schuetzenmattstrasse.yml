@@ -4,8 +4,8 @@ latitude: 47.55603
 longitude: 7.58131
 postcode: "4051"
 city: Basel
-street: "Schützenmattstrasse"
-housenumber: 27
+street: Schützenmattstrasse
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00, Sa 07:30-18:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-basel-schuetzenmatt"
+opening_hours: Mo-Fr 08:00-19:00, Sa 07:30-18:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-basel-schuetzenmatt

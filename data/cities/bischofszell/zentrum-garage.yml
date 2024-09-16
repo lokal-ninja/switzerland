@@ -1,11 +1,11 @@
 id: 217545889
-type: way
+type: node
 latitude: 47.49217
 longitude: 9.24427
 postcode: "9220"
 city: Bischofszell
-street: "Steigstrasse"
-housenumber: 8
-phone: "+41 71 422 2323"
-opening_hours: "Mo-Fr 07:30-12:00,13:30-18:00; Sa 07:30-12:00"
-website: "https://zentrum-bischofszell.opel.ch/"
+street: Steigstrasse
+housenumber: "8"
+phone: +41 71 422 2323
+opening_hours: Mo-Fr 07:30-12:00,13:30-18:00; Sa 07:30-12:00
+website: https://zentrum-bischofszell.opel.ch/

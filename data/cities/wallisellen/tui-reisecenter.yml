@@ -5,7 +5,7 @@ longitude: 8.5963
 postcode: "8301"
 city: Wallisellen
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "http://www.tuiglattzentrum.ch/"
+opening_hours: Mo-Sa 09:00-20:00
+website: http://www.tuiglattzentrum.ch/

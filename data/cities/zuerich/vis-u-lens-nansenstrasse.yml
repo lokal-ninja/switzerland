@@ -4,8 +4,8 @@ latitude: 47.41045
 longitude: 8.54397
 postcode: "8050"
 city: Zürich
-street: "Nansenstrasse"
-housenumber: 21
+street: Nansenstrasse
+housenumber: "21"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.visulens.ch/"
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.visulens.ch/

@@ -1,11 +1,11 @@
 id: 291473170
-type: way
+type: node
 latitude: 47.69128
 longitude: 8.64705
 postcode: "8245"
 city: Feuerthalen
-street: "Diessenhoferstrasse"
-housenumber: 29
+street: Diessenhoferstrasse
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

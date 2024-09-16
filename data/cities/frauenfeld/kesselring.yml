@@ -4,8 +4,8 @@ latitude: 47.55602
 longitude: 8.89404
 postcode: "8500"
 city: Frauenfeld
-street: "Bahnhofstrasse"
-housenumber: 56
+street: Bahnhofstrasse
+housenumber: "56"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:00,13:30-18:30;Sa 09:00-16:00;PH closed"
-website: "https://kesselring.ch"
+opening_hours: Tu-Fr 09:00-12:00,13:30-18:30;Sa 09:00-16:00;PH closed
+website: https://kesselring.ch

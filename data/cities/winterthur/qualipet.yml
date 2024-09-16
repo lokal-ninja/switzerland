@@ -4,8 +4,8 @@ latitude: 47.49853
 longitude: 8.7615
 postcode: "8404"
 city: Winterthur
-street: "Industriestrasse"
-housenumber: 43
+street: Industriestrasse
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.qualipet.ch/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.qualipet.ch/

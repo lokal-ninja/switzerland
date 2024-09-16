@@ -4,8 +4,8 @@ latitude: 47.40311
 longitude: 8.49779
 postcode: "8049"
 city: Zürich
-street: "Regensdorferstrasse"
-housenumber: 15
+street: Regensdorferstrasse
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-16:00; Su 08:00-12:00"
-website: "https://www.flughafebeck.ch/standorte/zuerich-hoengg-im-dorf/"
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-16:00; Su 08:00-12:00
+website: https://www.flughafebeck.ch/standorte/zuerich-hoengg-im-dorf/

@@ -4,8 +4,8 @@ latitude: 46.94849
 longitude: 7.45547
 postcode: ""
 city: Bern
-street: "Gerechtigkeitsgasse"
-housenumber: 5
+street: Gerechtigkeitsgasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 10:00-21:00; Sa 10:00-18:00"
-website: "https://mandala-spa.ch/"
+opening_hours: Mo-Fr 10:00-21:00; Sa 10:00-18:00
+website: https://mandala-spa.ch/

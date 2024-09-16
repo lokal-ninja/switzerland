@@ -4,8 +4,8 @@ latitude: 47.37438
 longitude: 8.54359
 postcode: "8001"
 city: Zürich
-street: "Mühlegasse"
-housenumber: 5
+street: Mühlegasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo 10:00-19:00, Tu-Fr 09:00-19:00, Sa 09:00-17:00; PH off"
-website: "https://www.perfecthair.ch/"
+opening_hours: Mo 10:00-19:00, Tu-Fr 09:00-19:00, Sa 09:00-17:00; PH off
+website: https://www.perfecthair.ch/

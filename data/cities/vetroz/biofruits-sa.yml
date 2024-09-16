@@ -4,8 +4,8 @@ latitude: 46.20398
 longitude: 7.28476
 postcode: "1963"
 city: Vétroz
-street: "Route du Rhône"
-housenumber: 12
+street: Route du Rhône
+housenumber: "12"
 phone: "+41273453940"
-opening_hours: "Mo-Fr 08:30-12:00,13:30-18:30; Sa 08:30-12:00,13:30-17:00"
-website: "https://www.biofruits.ch/"
+opening_hours: Mo-Fr 08:30-12:00,13:30-18:30; Sa 08:30-12:00,13:30-17:00
+website: https://www.biofruits.ch/

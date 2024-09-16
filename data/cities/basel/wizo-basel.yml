@@ -4,8 +4,8 @@ latitude: 47.54238
 longitude: 7.59552
 postcode: "4053"
 city: Basel
-street: "Güterstrasse"
-housenumber: 218
+street: Güterstrasse
+housenumber: "218"
 phone: ""
-opening_hours: "Mo-Do 10:00-13:00, 14:00-18:30; Fr 10:00-13:00, 14:00-16:00"
-website: "http://www.wizo.ch/index.php/de/sektionen/basel"
+opening_hours: Mo-Do 10:00-13:00, 14:00-18:30; Fr 10:00-13:00, 14:00-16:00
+website: http://www.wizo.ch/index.php/de/sektionen/basel

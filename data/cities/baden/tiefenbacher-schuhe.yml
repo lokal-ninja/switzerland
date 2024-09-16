@@ -4,8 +4,8 @@ latitude: 47.47487
 longitude: 8.30841
 postcode: "5400"
 city: Baden
-street: "Badstrasse"
-housenumber: 24
+street: Badstrasse
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:00-17:00"
-website: "https://www.tiefenbacher.ch/"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:00-17:00
+website: https://www.tiefenbacher.ch/

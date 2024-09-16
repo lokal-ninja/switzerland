@@ -4,8 +4,8 @@ latitude: 47.25715
 longitude: 8.80152
 postcode: "8633"
 city: Wolfhausen
-street: "Schulstrasse"
-housenumber: 3
-phone: "+41 44 558 88 64"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-18:00"
+street: Schulstrasse
+housenumber: "3"
+phone: +41 44 558 88 64
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

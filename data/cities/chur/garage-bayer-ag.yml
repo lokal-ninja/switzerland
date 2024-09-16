@@ -1,11 +1,11 @@
 id: 390611458
-type: way
+type: node
 latitude: 46.84605
 longitude: 9.50705
 postcode: "7000"
 city: Chur
-street: "Emserstrasse"
-housenumber: 2
+street: Emserstrasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

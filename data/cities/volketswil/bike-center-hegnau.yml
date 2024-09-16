@@ -4,8 +4,8 @@ latitude: 47.38841
 longitude: 8.67763
 postcode: "8604"
 city: Volketswil
-street: "Lindenstrasse"
-housenumber: 6
-phone: "+41 44 946 18 08"
-opening_hours: "Mo off; Tu-Fr 08:30-12:00,13:30-18:30; Sa 09:00-16:00"
-website: "https://www.bike-center-hegnau.ch/"
+street: Lindenstrasse
+housenumber: "6"
+phone: +41 44 946 18 08
+opening_hours: Mo off; Tu-Fr 08:30-12:00,13:30-18:30; Sa 09:00-16:00
+website: https://www.bike-center-hegnau.ch/

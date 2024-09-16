@@ -1,11 +1,11 @@
 id: 288396475
-type: way
+type: node
 latitude: 46.42144
 longitude: 6.27114
 postcode: "1196"
 city: Gland
-street: "Chemin du Vernay"
-housenumber: 10
+street: Chemin du Vernay
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

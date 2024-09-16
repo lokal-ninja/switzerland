@@ -4,8 +4,9 @@ latitude: 47.02945
 longitude: 7.74707
 postcode: "3454"
 city: Sumiswald
-street: "Spitalstrasse"
-housenumber: 19
-phone: "+41 34 431 22 76"
-opening_hours: "Mo 08:00-12:00,14:00-18:30; Tu 08:00-12:00,14:00-18:30; Th 08:00-12:00,14:00-18:30; Fr 08:00-12:00,14:00-18:30; Sa 08:00-12:00,13:00-16:00; PH off"
-website: "https://www.sumiswalder-kaese.ch/"
+street: Spitalstrasse
+housenumber: "19"
+phone: +41 34 431 22 76
+opening_hours: Mo 08:00-12:00,14:00-18:30; Tu 08:00-12:00,14:00-18:30; Th 08:00-12:00,14:00-18:30;
+    Fr 08:00-12:00,14:00-18:30; Sa 08:00-12:00,13:00-16:00; PH off
+website: https://www.sumiswalder-kaese.ch/

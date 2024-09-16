@@ -4,8 +4,8 @@ latitude: 46.52398
 longitude: 6.62343
 postcode: "1004"
 city: Lausanne
-street: "Place Chauderon"
-housenumber: 36
-phone: "+41 78 851 11 86"
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:30-22:00; Su 08:00-22:00"
-website: "https://www.burekhasi.ch/"
+street: Place Chauderon
+housenumber: "36"
+phone: +41 78 851 11 86
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:30-22:00; Su 08:00-22:00
+website: https://www.burekhasi.ch/

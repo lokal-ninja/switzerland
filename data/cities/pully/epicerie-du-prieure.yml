@@ -4,8 +4,8 @@ latitude: 46.50996
 longitude: 6.66129
 postcode: "1009"
 city: Pully
-street: "Grand'Rue"
-housenumber: 9
-phone: "+41 21 711 04 84"
-opening_hours: "Mo-Fr 08:30-13:30,14:00-18:30; Sa 08:30-14:00"
-website: "https://epicerieslocales.ch/epicerie-du-prieure/"
+street: Grand'Rue
+housenumber: "9"
+phone: +41 21 711 04 84
+opening_hours: Mo-Fr 08:30-13:30,14:00-18:30; Sa 08:30-14:00
+website: https://epicerieslocales.ch/epicerie-du-prieure/

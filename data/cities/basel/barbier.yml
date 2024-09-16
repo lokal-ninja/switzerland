@@ -4,8 +4,8 @@ latitude: 47.55634
 longitude: 7.58458
 postcode: "4051"
 city: Basel
-street: "Leonhardsgraben"
-housenumber: 24
-phone: "+41 61 261 61 62"
-opening_hours: "Tu-Fr 08:30-18:30; Sa 09:00-15:00; PH closed"
-website: "https://www.bar-bier.ch/"
+street: Leonhardsgraben
+housenumber: "24"
+phone: +41 61 261 61 62
+opening_hours: Tu-Fr 08:30-18:30; Sa 09:00-15:00; PH closed
+website: https://www.bar-bier.ch/

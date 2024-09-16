@@ -4,8 +4,8 @@ latitude: 46.16987
 longitude: 8.79775
 postcode: "6600"
 city: Locarno
-street: "Largo Franco Zorzi"
-housenumber: 8
+street: Largo Franco Zorzi
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:00-17:00"
-website: "https://www.mobilezone.ch/"
+opening_hours: Mo-Fr 10:00-18:30; Sa 09:00-17:00
+website: https://www.mobilezone.ch/

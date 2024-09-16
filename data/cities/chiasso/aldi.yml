@@ -1,11 +1,11 @@
 id: 228292718
-type: way
+type: node
 latitude: 45.83585
 longitude: 9.03459
 postcode: "6830"
 city: Chiasso
-street: "Viale Alessandro Volta"
-housenumber: 22
-phone: "+41 91 690 18 17"
-opening_hours: "Mo-We, Fr 07:30-19:00; Th 07:30-21:00; Sa 07:30-18:30"
+street: Viale Alessandro Volta
+housenumber: "22"
+phone: +41 91 690 18 17
+opening_hours: Mo-We, Fr 07:30-19:00; Th 07:30-21:00; Sa 07:30-18:30
 website: ""

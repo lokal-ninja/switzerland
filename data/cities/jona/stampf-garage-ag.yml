@@ -1,11 +1,11 @@
 id: 244100696
-type: way
+type: node
 latitude: 47.22882
 longitude: 8.84687
 postcode: "8645"
 city: Jona
-street: "Feldlistrasse"
-housenumber: 13
-phone: "055 212 67 33"
-opening_hours: "Mo-Fr 07:30-12:00,13:15-17:30"
+street: Feldlistrasse
+housenumber: "13"
+phone: 055 212 67 33
+opening_hours: Mo-Fr 07:30-12:00,13:15-17:30
 website: ""

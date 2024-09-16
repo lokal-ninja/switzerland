@@ -4,8 +4,8 @@ latitude: 47.50008
 longitude: 8.72878
 postcode: "8400"
 city: Winterthur
-street: "Stadthausstrasse"
-housenumber: 79
+street: Stadthausstrasse
+housenumber: "79"
 phone: ""
-opening_hours: "Tu-Fr 09:30-18:30; Sa 09:00-17:00"
-website: "http://winterthur.vomfass.ch/"
+opening_hours: Tu-Fr 09:30-18:30; Sa 09:00-17:00
+website: http://winterthur.vomfass.ch/

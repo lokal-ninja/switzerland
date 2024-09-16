@@ -1,11 +1,11 @@
 id: 190734838
-type: way
+type: node
 latitude: 47.37233
 longitude: 8.04731
 postcode: "5035"
 city: Unterentfelden
-street: "Quellmattstrasse"
-housenumber: 2
-phone: "+41 58 200 71 30"
+street: Quellmattstrasse
+housenumber: "2"
+phone: +41 58 200 71 30
 opening_hours: ""
 website: ""

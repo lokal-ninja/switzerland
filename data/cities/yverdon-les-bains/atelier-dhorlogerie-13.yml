@@ -4,8 +4,8 @@ latitude: 46.77872
 longitude: 6.63979
 postcode: "1400"
 city: Yverdon-les-Bains
-street: "Rue du Milieu"
-housenumber: 13
+street: Rue du Milieu
+housenumber: "13"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:00, 13:30-18:00; Sa 09:00-12:00, 13:30-16:00"
-website: "https://www.atelier-h13.ch/"
+opening_hours: Tu-Fr 09:00-12:00, 13:30-18:00; Sa 09:00-12:00, 13:30-16:00
+website: https://www.atelier-h13.ch/

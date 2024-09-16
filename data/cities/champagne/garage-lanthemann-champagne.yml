@@ -4,8 +4,8 @@ latitude: 46.82743
 longitude: 6.66327
 postcode: "1424"
 city: Champagne
-street: "Chemin de Praz"
-housenumber: 10
-phone: "+41 24 485 44 44"
-opening_hours: "Mo-Th 07:30-12:00, 13:30-18:30; Fr 07:30-12:00, 13:30-17:30; Sa 09:00-12:00"
+street: Chemin de Praz
+housenumber: "10"
+phone: +41 24 485 44 44
+opening_hours: Mo-Th 07:30-12:00, 13:30-18:30; Fr 07:30-12:00, 13:30-17:30; Sa 09:00-12:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.47962
 longitude: 7.8063
 postcode: "4450"
 city: Sissach
-street: "Alpbad"
-housenumber: 26
-phone: "+41 61 971 28 05"
-opening_hours: "Mo-Sa 08:00-17:00 || nach Vereinbarung"
-website: "https://www.biohof-alpbad.ch/"
+street: Alpbad
+housenumber: "26"
+phone: +41 61 971 28 05
+opening_hours: Mo-Sa 08:00-17:00 || "nach Vereinbarung"
+website: https://www.biohof-alpbad.ch/

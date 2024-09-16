@@ -1,11 +1,11 @@
 id: 579957281
-type: way
+type: node
 latitude: 46.53427
 longitude: 6.60683
 postcode: "1008"
 city: Prilly
-street: "Route de Cossonay"
-housenumber: 28
+street: Route de Cossonay
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Th 09:00-19:00; Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.prillycentre.ch/"
+opening_hours: Mo-Th 09:00-19:00; Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.prillycentre.ch/

@@ -5,7 +5,7 @@ longitude: 8.53589
 postcode: "8001"
 city: Zürich
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 06:30-22:00; Sa,Su 08:00-22:00"
-website: "https://www.alnatura.ch/de/filialfinder.html#alnatura-bio-super-markt-alnatura-bio-super-markt-zuerich-hb-sihlquai"
+opening_hours: Mo-Fr 06:30-22:00; Sa,Su 08:00-22:00
+website: https://www.alnatura.ch/de/filialfinder.html#alnatura-bio-super-markt-alnatura-bio-super-markt-zuerich-hb-sihlquai

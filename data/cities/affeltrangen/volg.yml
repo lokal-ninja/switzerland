@@ -1,11 +1,11 @@
 id: 194197060
-type: way
+type: node
 latitude: 47.52714
 longitude: 9.03187
 postcode: "9556"
 city: Affeltrangen
-street: "Märwilerstrasse"
-housenumber: 3
+street: Märwilerstrasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 06:00-20:00; PH off"
+opening_hours: Mo-Sa 06:00-20:00; PH off
 website: ""

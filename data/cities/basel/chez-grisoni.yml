@@ -4,8 +4,8 @@ latitude: 47.55199
 longitude: 7.59052
 postcode: "4051"
 city: Basel
-street: "Klosterberg"
-housenumber: 15
-phone: "+41 61 228 70 27"
-opening_hours: "We-Th 14:00-22:00; Fr 14:00-23:00; Sa 12:00-23:00"
-website: "https://www.chezgrisoni.ch/weinbar-basel"
+street: Klosterberg
+housenumber: "15"
+phone: +41 61 228 70 27
+opening_hours: We-Th 14:00-22:00; Fr 14:00-23:00; Sa 12:00-23:00
+website: https://www.chezgrisoni.ch/weinbar-basel

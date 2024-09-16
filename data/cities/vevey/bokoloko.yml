@@ -4,8 +4,8 @@ latitude: 46.45808
 longitude: 6.85006
 postcode: "1800"
 city: Vevey
-street: "Rue d'Italie"
-housenumber: 29
-phone: "+41 21 525 31 41"
-opening_hours: "Mo 14:00-18:30; Th-Fr 09:00-12:30,14:00-18:30; Sa 09:00-17:00"
-website: "https://www.bokoloko.ch/"
+street: Rue d'Italie
+housenumber: "29"
+phone: +41 21 525 31 41
+opening_hours: Mo 14:00-18:30; Th-Fr 09:00-12:30,14:00-18:30; Sa 09:00-17:00
+website: https://www.bokoloko.ch/

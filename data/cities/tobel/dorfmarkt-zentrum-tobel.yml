@@ -1,11 +1,11 @@
 id: 197666682
-type: way
+type: node
 latitude: 47.51673
 longitude: 9.03297
 postcode: "9555"
 city: Tobel
-street: "Hauptstrasse"
-housenumber: 24
-phone: "+41 71 917 20 00"
-opening_hours: "Mo-Fr 06:15-18:30;Sa 06:15-16:00;Su 08:00-11:00"
-website: "https://www.dorfmarkt-zentrum.ch/"
+street: Hauptstrasse
+housenumber: "24"
+phone: +41 71 917 20 00
+opening_hours: Mo-Fr 06:15-18:30;Sa 06:15-16:00;Su 08:00-11:00
+website: https://www.dorfmarkt-zentrum.ch/

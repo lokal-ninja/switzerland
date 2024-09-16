@@ -4,8 +4,8 @@ latitude: 47.22616
 longitude: 8.8182
 postcode: "8640"
 city: Rapperswil-Jona
-street: "Merkurstrasse"
-housenumber: 11
-phone: "+41 55 214 33 00"
-opening_hours: "Mo 13:00-18:30; Tu-Fr 09:30-18:30; Sa 09:00-16:00"
-website: "https://www.vomfass.ch/rapperswil"
+street: Merkurstrasse
+housenumber: "11"
+phone: +41 55 214 33 00
+opening_hours: Mo 13:00-18:30; Tu-Fr 09:30-18:30; Sa 09:00-16:00
+website: https://www.vomfass.ch/rapperswil

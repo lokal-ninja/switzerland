@@ -1,11 +1,11 @@
 id: 280890305
-type: way
+type: node
 latitude: 46.42224
 longitude: 6.26079
 postcode: "1196"
 city: Gland
-street: "Rue de l'Etraz"
-housenumber: 2
+street: Rue de l'Etraz
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

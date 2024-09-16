@@ -4,8 +4,8 @@ latitude: 47.44182
 longitude: 8.29235
 postcode: "5442"
 city: Fislisbach
-street: "Badenerstrasse"
-housenumber: 45
-phone: "+41 56 470 24 01"
-opening_hours: "Tu-Fr 10:00-12:00,13:30-18:30; Sa 08:00-15:00; Su,Mo off"
-website: "https://velo-franz.ch/"
+street: Badenerstrasse
+housenumber: "45"
+phone: +41 56 470 24 01
+opening_hours: Tu-Fr 10:00-12:00,13:30-18:30; Sa 08:00-15:00; Su,Mo off
+website: https://velo-franz.ch/

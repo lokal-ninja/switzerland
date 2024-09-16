@@ -4,8 +4,9 @@ latitude: 47.0528
 longitude: 7.51065
 postcode: "3303"
 city: Jegenstorf
-street: "Solothurnstrasse"
-housenumber: 27
-phone: "+41 31 761 25 50"
-opening_hours: "Mo off; Tu 13:30-18:00; We-Fr 09:00-12:00,13:30-18:00; Sa 09:00-14:00; Su off"
+street: Solothurnstrasse
+housenumber: "27"
+phone: +41 31 761 25 50
+opening_hours: Mo off; Tu 13:30-18:00; We-Fr 09:00-12:00,13:30-18:00; Sa 09:00-14:00;
+    Su off
 website: ""

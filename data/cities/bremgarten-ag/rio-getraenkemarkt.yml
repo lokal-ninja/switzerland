@@ -1,11 +1,11 @@
 id: 476098887
-type: way
+type: node
 latitude: 47.35182
 longitude: 8.346
 postcode: "5620"
 city: Bremgarten AG
-street: "Zürcherstrasse"
-housenumber: 15
+street: Zürcherstrasse
+housenumber: "15"
 phone: "+41566336332"
-opening_hours: "Mo-Fr 09:00-12:30,13:30-18:30; Sa 08:00-17:00"
-website: "http://www.rio-getraenke.ch/"
+opening_hours: Mo-Fr 09:00-12:30,13:30-18:30; Sa 08:00-17:00
+website: http://www.rio-getraenke.ch/

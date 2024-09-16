@@ -4,8 +4,8 @@ latitude: 47.49881
 longitude: 8.72796
 postcode: "8400"
 city: Winterthur
-street: "Garnmarkt"
-housenumber: 1
+street: Garnmarkt
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 09:30-18:30; Sa 09:30-17:00; PH off"
-website: "https://www.ademas.ch/"
+opening_hours: Tu-Fr 09:30-18:30; Sa 09:30-17:00; PH off
+website: https://www.ademas.ch/

@@ -4,8 +4,8 @@ latitude: 47.36968
 longitude: 8.52319
 postcode: "8003"
 city: Zürich
-street: "Weststrasse"
-housenumber: 41
-phone: "+41 44 450 26 82"
-opening_hours: "Mo 17:30-20:00; Th-Fr 17:30-20:00"
-website: "https://www.paraworld.ch/"
+street: Weststrasse
+housenumber: "41"
+phone: +41 44 450 26 82
+opening_hours: Mo 17:30-20:00; Th-Fr 17:30-20:00
+website: https://www.paraworld.ch/

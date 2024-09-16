@@ -1,11 +1,11 @@
 id: 31566382
-type: way
+type: node
 latitude: 47.36177
 longitude: 8.5136
 postcode: "8045"
 city: Zürich
-street: "Grubenstrasse"
-housenumber: 32
+street: Grubenstrasse
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00,13:00-17:00"
-website: "https://www.garagewiedikonag.ch/"
+opening_hours: Mo-Fr 07:30-12:00,13:00-17:00
+website: https://www.garagewiedikonag.ch/

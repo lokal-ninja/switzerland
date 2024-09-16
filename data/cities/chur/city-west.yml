@@ -1,11 +1,11 @@
 id: 366130471
-type: way
+type: node
 latitude: 46.84645
 longitude: 9.50732
 postcode: "7000"
 city: Chur
-street: "Comercialstrasse"
-housenumber: 34
+street: Comercialstrasse
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

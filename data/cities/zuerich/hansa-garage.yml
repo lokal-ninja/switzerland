@@ -4,8 +4,8 @@ latitude: 47.41251
 longitude: 8.55715
 postcode: ""
 city: Zürich
-street: "Siewerdtstrasse"
-housenumber: 99
+street: Siewerdtstrasse
+housenumber: "99"
 phone: ""
-opening_hours: "Mo-Th 07:30-12:00, 13:00-17:15; Fr 07:30-12:00, 13:00-16:00"
-website: "https://www.hansagarage.com/"
+opening_hours: Mo-Th 07:30-12:00, 13:00-17:15; Fr 07:30-12:00, 13:00-16:00
+website: https://www.hansagarage.com/

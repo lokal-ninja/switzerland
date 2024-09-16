@@ -1,11 +1,11 @@
 id: 99780470
-type: way
+type: node
 latitude: 46.5631
 longitude: 6.6053
 postcode: "1032"
 city: Romanel-sur-Lausanne
-street: "Chemin du Village"
-housenumber: 12
-phone: "+41 79 684 28 50"
-opening_hours: "Fr 13:30-18:30"
-website: "https://facebook.com/lafermeBaudet/"
+street: Chemin du Village
+housenumber: "12"
+phone: +41 79 684 28 50
+opening_hours: Fr 13:30-18:30
+website: https://facebook.com/lafermeBaudet/

@@ -4,8 +4,8 @@ latitude: 46.26561
 longitude: 6.95601
 postcode: "1868"
 city: Collombey
-street: "Zone Artisanale Entre deux Fossaux"
-housenumber: 4
+street: Zone Artisanale Entre deux Fossaux
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Th 09:00-18:30; Fr 09:00-20:00; Sa 08:00-17:00"
-website: "https://www.decathlon.ch/"
+opening_hours: Mo-Th 09:00-18:30; Fr 09:00-20:00; Sa 08:00-17:00
+website: https://www.decathlon.ch/

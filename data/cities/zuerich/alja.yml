@@ -4,8 +4,8 @@ latitude: 47.41049
 longitude: 8.5433
 postcode: "8050"
 city: Zürich
-street: "Hofwiesenstrasse"
-housenumber: 350
+street: Hofwiesenstrasse
+housenumber: "350"
 phone: ""
 opening_hours: ""
-website: "https://alja.ch/"
+website: https://alja.ch/

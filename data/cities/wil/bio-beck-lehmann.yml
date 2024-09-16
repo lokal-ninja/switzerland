@@ -4,8 +4,8 @@ latitude: 47.46775
 longitude: 9.03928
 postcode: "9500"
 city: Wil
-street: "Zürcherstrasse"
-housenumber: 30
-phone: "+41 79 748 08 34"
-opening_hours: "Mo-Fr 7:30-17:30; Sa 8:00-13:00"
-website: "https://lehmann-holzofenbeck.ch/"
+street: Zürcherstrasse
+housenumber: "30"
+phone: +41 79 748 08 34
+opening_hours: Mo-Fr 7:30-17:30; Sa 8:00-13:00
+website: https://lehmann-holzofenbeck.ch/

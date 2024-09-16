@@ -4,8 +4,8 @@ latitude: 46.20687
 longitude: 6.13917
 postcode: "1201"
 city: Geneve
-street: "Rue Albert-Richard"
-housenumber: 2
+street: Rue Albert-Richard
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://leadmusic.com/"
+website: https://leadmusic.com/

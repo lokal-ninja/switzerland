@@ -4,8 +4,8 @@ latitude: 47.43888
 longitude: 9.24412
 postcode: "9200"
 city: Gossau SG
-street: "Erlenmühle"
-housenumber: 561
-phone: "+41 79 463 36 41"
-opening_hours: "09:00-11:15; Fr 14:00-16:00Tu"
+street: Erlenmühle
+housenumber: "561"
+phone: +41 79 463 36 41
+opening_hours: 09:00-11:15; Fr 14:00-16:00Tu
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.31766
 longitude: 7.97433
 postcode: "5745"
 city: Safenwil
-street: "Striegelstrasse"
-housenumber: 8
-phone: "+41 62 797 28 78"
-opening_hours: "Mo-Fr 08:30-18:30, Sa 08:30-16:00"
-website: "faerbiladen.ch"
+street: Striegelstrasse
+housenumber: "8"
+phone: +41 62 797 28 78
+opening_hours: Mo-Fr 08:30-18:30, Sa 08:30-16:00
+website: faerbiladen.ch

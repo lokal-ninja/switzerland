@@ -1,11 +1,11 @@
 id: 242660875
-type: way
+type: node
 latitude: 47.33071
 longitude: 9.40633
 postcode: "9050"
 city: Appenzell
-street: "Kaustrasse"
-housenumber: 2
-phone: "+41 71 787 18 42"
+street: Kaustrasse
+housenumber: "2"
+phone: +41 71 787 18 42
 opening_hours: ""
-website: "http://www.hampi-faessler.ch/index.html"
+website: http://www.hampi-faessler.ch/index.html

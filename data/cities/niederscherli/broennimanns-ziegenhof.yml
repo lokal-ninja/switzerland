@@ -1,11 +1,11 @@
 id: 173489914
-type: way
+type: node
 latitude: 46.87832
 longitude: 7.42936
 postcode: "3145"
 city: Niederscherli
-street: "Wuhrweg"
-housenumber: 24
-phone: "+41 31 842 07 83"
-opening_hours: "Mo-Fr 09:00-11:30, 13:00-18:30; Sa 09:00-17:00 || Su 10:00-17:00 individuell"
-website: "https://www.broennimanns-ziegenhof.ch/"
+street: Wuhrweg
+housenumber: "24"
+phone: +41 31 842 07 83
+opening_hours: Mo-Fr 09:00-11:30, 13:00-18:30; Sa 09:00-17:00 || Su 10:00-17:00 "individuell"
+website: https://www.broennimanns-ziegenhof.ch/

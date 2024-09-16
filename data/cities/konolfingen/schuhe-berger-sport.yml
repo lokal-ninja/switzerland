@@ -1,11 +1,11 @@
 id: 205313422
-type: way
+type: node
 latitude: 46.87946
 longitude: 7.61349
 postcode: "3510"
 city: Konolfingen
-street: "Haldenweg"
-housenumber: 1
+street: Haldenweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-16:00"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-16:00
 website: ""

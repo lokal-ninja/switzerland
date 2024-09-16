@@ -4,8 +4,8 @@ latitude: 47.63394
 longitude: 9.18601
 postcode: "8280"
 city: Kreuzlingen
-street: "Langhaldenstrasse"
-housenumber: 45
-phone: "+41 71 6886393"
-opening_hours: "Mo,Tu 09:00-12:00; We-Fr 09:00-12:00,13:30-18:30; Sa 09:00-14:00"
-website: "https://www.schrofen.ch/"
+street: Langhaldenstrasse
+housenumber: "45"
+phone: +41 71 6886393
+opening_hours: Mo,Tu 09:00-12:00; We-Fr 09:00-12:00,13:30-18:30; Sa 09:00-14:00
+website: https://www.schrofen.ch/

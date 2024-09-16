@@ -4,8 +4,8 @@ latitude: 46.94944
 longitude: 7.41235
 postcode: "3008"
 city: Bern
-street: "Murtenstrasse"
-housenumber: 121
+street: Murtenstrasse
+housenumber: "121"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00
 website: ""

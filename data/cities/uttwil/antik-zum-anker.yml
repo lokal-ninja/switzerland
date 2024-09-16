@@ -1,11 +1,11 @@
 id: 289364612
-type: way
+type: node
 latitude: 47.58193
 longitude: 9.34364
 postcode: "8592"
 city: Uttwil
-street: "Romanshornerstrasse"
-housenumber: 14
+street: Romanshornerstrasse
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "http://www.antik-line.ch/"
+website: http://www.antik-line.ch/

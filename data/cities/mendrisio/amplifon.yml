@@ -4,8 +4,8 @@ latitude: 45.86989
 longitude: 8.98823
 postcode: "6850"
 city: Mendrisio
-street: "Corso Bello"
-housenumber: 13
+street: Corso Bello
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00,13:00-17:30"
-website: "https://www.amplifon.ch/"
+opening_hours: Mo-Fr 08:30-12:00,13:00-17:30
+website: https://www.amplifon.ch/

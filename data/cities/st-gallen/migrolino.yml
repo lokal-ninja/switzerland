@@ -4,8 +4,8 @@ latitude: 47.42575
 longitude: 9.37448
 postcode: "9000"
 city: St. Gallen
-street: "Oberer Graben"
-housenumber: 3
+street: Oberer Graben
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00"
-website: "https://www.migrolino.ch/de/standorte/migrolino-fresh-st-gallen-union/"
+opening_hours: Mo-Sa 06:00-22:00
+website: https://www.migrolino.ch/de/standorte/migrolino-fresh-st-gallen-union/

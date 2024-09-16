@@ -4,8 +4,8 @@ latitude: 47.55241
 longitude: 8.05428
 postcode: "5080"
 city: Laufenburg
-street: "Kaisterstrasse"
-housenumber: 18
+street: Kaisterstrasse
+housenumber: "18"
 phone: ""
-opening_hours: "PH,Mo-Su 07:00-21:00"
+opening_hours: PH,Mo-Su 07:00-21:00
 website: ""

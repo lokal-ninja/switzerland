@@ -4,8 +4,8 @@ latitude: 47.54918
 longitude: 7.62642
 postcode: "4127"
 city: Birsfelden
-street: "Rheinfelderstrasse"
-housenumber: 22
-phone: "+41 61 313 16 16"
-opening_hours: "Tu-Fr 08:00-18:30; Sa 08:00-15:30"
+street: Rheinfelderstrasse
+housenumber: "22"
+phone: +41 61 313 16 16
+opening_hours: Tu-Fr 08:00-18:30; Sa 08:00-15:30
 website: ""

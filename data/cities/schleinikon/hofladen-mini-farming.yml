@@ -4,8 +4,8 @@ latitude: 47.49632
 longitude: 8.38886
 postcode: "8165"
 city: Schleinikon
-street: "Talweg"
-housenumber: 9
+street: Talweg
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00, So 09:00-21:00"
-website: "https://www.mini-farming.ch/"
+opening_hours: Mo-Sa 07:00-21:00, So 09:00-21:00
+website: https://www.mini-farming.ch/

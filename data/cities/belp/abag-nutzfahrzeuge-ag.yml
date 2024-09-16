@@ -4,8 +4,9 @@ latitude: 46.90585
 longitude: 7.49301
 postcode: "3123"
 city: Belp
-street: "Hühnerhubelstrasse"
-housenumber: 87
+street: Hühnerhubelstrasse
+housenumber: "87"
 phone: ""
-opening_hours: "Mo-Th 07:15-10:00, 13:15-17:15; Fr 07:15-12:00, 13:15-16:45; Su Auf Voranmeldung"
-website: "https://www.abag.ch/"
+opening_hours: Mo-Th 07:15-10:00, 13:15-17:15; Fr 07:15-12:00, 13:15-16:45; Su "Auf
+    Voranmeldung"
+website: https://www.abag.ch/

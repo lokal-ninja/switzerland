@@ -4,8 +4,8 @@ latitude: 47.00145
 longitude: 7.27359
 postcode: "3036"
 city: Detligen
-street: "Sahlimatte"
-housenumber: 200
-phone: "+41 31 825 62 45"
-opening_hours: "Mo-Th 07:30-11:45,13:30-18:00;Fr 07:30-11:45,13:30-17:00"
-website: "https://www.bill.ch/"
+street: Sahlimatte
+housenumber: "200"
+phone: +41 31 825 62 45
+opening_hours: Mo-Th 07:30-11:45,13:30-18:00;Fr 07:30-11:45,13:30-17:00
+website: https://www.bill.ch/

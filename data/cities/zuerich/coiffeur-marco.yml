@@ -4,8 +4,8 @@ latitude: 47.37254
 longitude: 8.52609
 postcode: "8004"
 city: Zürich
-street: "Grüngasse"
-housenumber: 7
+street: Grüngasse
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Fr 08:30-19:00; Sa 08:30-17:00"
+opening_hours: Tu-Fr 08:30-19:00; Sa 08:30-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.12293
 longitude: 7.99487
 postcode: "6130"
 city: Willisau
-street: "Kreuzstrasse"
-housenumber: 6
-phone: "+41 971 02 50"
-opening_hours: "Mo-Th 07:30-19:00; Fr 07:30-20:00; Sa 07:30-17:00; PH off"
+street: Kreuzstrasse
+housenumber: "6"
+phone: +41 971 02 50
+opening_hours: Mo-Th 07:30-19:00; Fr 07:30-20:00; Sa 07:30-17:00; PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.42001
 longitude: 8.39478
 postcode: "8953"
 city: Dietikon
-street: "Riedstrasse"
-housenumber: 10
-phone: "+41 44 745 77 99"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "https://www.dq-solutions.ch/de/standorte/-addresses/dq-solutions-store-dietikon"
+street: Riedstrasse
+housenumber: "10"
+phone: +41 44 745 77 99
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
+website: https://www.dq-solutions.ch/de/standorte/-addresses/dq-solutions-store-dietikon

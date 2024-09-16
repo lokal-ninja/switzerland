@@ -1,11 +1,11 @@
 id: 71178392
-type: way
+type: node
 latitude: 47.49814
 longitude: 8.72263
 postcode: "8400"
 city: Winterthur
-street: "Untere Vogelsangstrasse"
-housenumber: 4
+street: Untere Vogelsangstrasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "http://www.terra-brocki.ch/"
+website: http://www.terra-brocki.ch/

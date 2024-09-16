@@ -1,11 +1,11 @@
 id: 25018443
-type: way
+type: node
 latitude: 47.34975
 longitude: 8.7148
 postcode: "8610"
 city: Uster
-street: "Zürichstrasse"
-housenumber: 14
+street: Zürichstrasse
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://illuster.ch/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://illuster.ch/

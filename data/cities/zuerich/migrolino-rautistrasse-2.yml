@@ -4,8 +4,8 @@ latitude: 47.38032
 longitude: 8.49409
 postcode: "8047"
 city: Zürich
-street: "Rautistrasse"
-housenumber: 12
+street: Rautistrasse
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Su 05:30-23:00"
-website: "https://www.migrolino.ch/de/standorte/shell-zuerich-rautistrasse/"
+opening_hours: Mo-Su 05:30-23:00
+website: https://www.migrolino.ch/de/standorte/shell-zuerich-rautistrasse/

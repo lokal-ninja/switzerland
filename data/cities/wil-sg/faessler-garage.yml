@@ -1,11 +1,11 @@
 id: 731882417
-type: way
+type: node
 latitude: 47.45251
 longitude: 9.05296
 postcode: "9500"
 city: Wil SG
-street: "Flawilerstrasse"
-housenumber: 23
+street: Flawilerstrasse
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "https://www.faessler-garage.ch/"
+website: https://www.faessler-garage.ch/

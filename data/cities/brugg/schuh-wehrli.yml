@@ -4,8 +4,8 @@ latitude: 47.48253
 longitude: 8.2082
 postcode: "5200"
 city: Brugg
-street: "Neumarktplatz"
-housenumber: 12
+street: Neumarktplatz
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://brugg.schuhwehrli.ch/"
+website: https://brugg.schuhwehrli.ch/

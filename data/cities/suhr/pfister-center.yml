@@ -1,11 +1,11 @@
 id: 83018148
-type: way
+type: node
 latitude: 47.37382
 longitude: 8.08422
 postcode: "5034"
 city: Suhr
-street: "Bernstrasse Ost"
-housenumber: 49
+street: Bernstrasse Ost
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH,Su off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH,Su off
 website: ""

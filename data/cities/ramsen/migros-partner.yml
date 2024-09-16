@@ -1,11 +1,11 @@
 id: 275190416
-type: way
+type: node
 latitude: 47.70698
 longitude: 8.82082
 postcode: "8262"
 city: Ramsen
-street: "Petersburg"
-housenumber: 416
+street: Petersburg
+housenumber: "416"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00, PH 09:00-19:00, Su 09:00-19:00"
-website: "https://filialen.migros.ch/de/migros-partner-ramsen"
+opening_hours: Mo-Sa 08:00-19:00, PH 09:00-19:00, Su 09:00-19:00
+website: https://filialen.migros.ch/de/migros-partner-ramsen

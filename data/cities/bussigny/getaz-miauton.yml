@@ -1,11 +1,11 @@
 id: 170788679
-type: way
+type: node
 latitude: 46.54515
 longitude: 6.56139
 postcode: "1030"
 city: Bussigny
-street: "Chemin de Bas-de-Plan"
-housenumber: 1
-phone: "+41 21 702 04 15"
+street: Chemin de Bas-de-Plan
+housenumber: "1"
+phone: +41 21 702 04 15
 opening_hours: ""
-website: "https://www.getaz-miauton.ch/"
+website: https://www.getaz-miauton.ch/

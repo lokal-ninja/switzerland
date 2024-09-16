@@ -4,8 +4,8 @@ latitude: 46.01006
 longitude: 8.95992
 postcode: "6962"
 city: Lugano
-street: "Via Pietro Capelli"
-housenumber: 2
-phone: "+41 919701630"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:30"
-website: "https://purest.com/"
+street: Via Pietro Capelli
+housenumber: "2"
+phone: +41 919701630
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:30
+website: https://purest.com/

@@ -4,8 +4,8 @@ latitude: 47.35024
 longitude: 7.89937
 postcode: "4600"
 city: Olten
-street: "Ringstrasse"
-housenumber: 45
-phone: "+4162 212 09 56"
+street: Ringstrasse
+housenumber: "45"
+phone: +4162 212 09 56
 opening_hours: ""
-website: "https://hammerbrocki.ch"
+website: https://hammerbrocki.ch

@@ -4,8 +4,8 @@ latitude: 47.37245
 longitude: 8.52623
 postcode: "8004"
 city: Zürich
-street: "Grüngasse"
-housenumber: 5
-phone: "+41 44 242 93 25"
+street: Grüngasse
+housenumber: "5"
+phone: +41 44 242 93 25
 opening_hours: ""
-website: "https://www.hundesalon-dolly.ch/"
+website: https://www.hundesalon-dolly.ch/

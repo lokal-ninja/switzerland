@@ -4,8 +4,8 @@ latitude: 47.55783
 longitude: 7.56506
 postcode: "4055"
 city: Basel
-street: "Näfelserstrasse"
-housenumber: 36
+street: Näfelserstrasse
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 07:30-16:00"
-website: "https://www.gidor.ch/filiale/basel-naefelserstrasse/"
+opening_hours: Mo-Fr 08:00-18:30; Sa 07:30-16:00
+website: https://www.gidor.ch/filiale/basel-naefelserstrasse/

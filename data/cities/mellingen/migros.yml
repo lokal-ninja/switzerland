@@ -4,8 +4,8 @@ latitude: 47.41326
 longitude: 8.26686
 postcode: "5507"
 city: Mellingen
-street: "Lenzburgerstrasse"
-housenumber: 50
+street: Lenzburgerstrasse
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-18:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-mellingen"
+opening_hours: Mo-Fr 08:00-20:00, Sa 08:00-18:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-mellingen

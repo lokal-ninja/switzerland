@@ -4,8 +4,8 @@ latitude: 47.69664
 longitude: 8.63255
 postcode: "8200"
 city: Schaffhausen
-street: "Oberstadt"
-housenumber: 16
+street: Oberstadt
+housenumber: "16"
 phone: "+41526245424"
-opening_hours: "Mo-We, Fr 09:00-18:30; Th 09:00-20:00; Sa 09:00-17:00"
-website: "https://www.cutandcolor.ch/de/coiffeur-schaffhausen"
+opening_hours: Mo-We, Fr 09:00-18:30; Th 09:00-20:00; Sa 09:00-17:00
+website: https://www.cutandcolor.ch/de/coiffeur-schaffhausen

@@ -4,8 +4,8 @@ latitude: 47.36876
 longitude: 8.54539
 postcode: "8001"
 city: Zürich
-street: "Oberdorfstrasse"
-housenumber: 11
+street: Oberdorfstrasse
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Th 09:00-19:00; Fr 09:00-20:00; Sa 09:00-17:00"
-website: "https://www.cutandcolor.ch/de/coiffeur-zuerich-oberdorfstrasse"
+opening_hours: Mo-Th 09:00-19:00; Fr 09:00-20:00; Sa 09:00-17:00
+website: https://www.cutandcolor.ch/de/coiffeur-zuerich-oberdorfstrasse

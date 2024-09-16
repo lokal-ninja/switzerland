@@ -4,8 +4,8 @@ latitude: 46.97631
 longitude: 6.87814
 postcode: "2012"
 city: Auvernier
-street: "Grand'Rue"
-housenumber: 46
-phone: "+41 32 731 47 13"
-opening_hours: "Mo off; Tu-Fr 07:30-12:15, 15:30-18:30; Sa 08:00-16:00; Su off"
-website: "https://www.artisan-auvernier.ch/"
+street: Grand'Rue
+housenumber: "46"
+phone: +41 32 731 47 13
+opening_hours: Mo off; Tu-Fr 07:30-12:15, 15:30-18:30; Sa 08:00-16:00; Su off
+website: https://www.artisan-auvernier.ch/

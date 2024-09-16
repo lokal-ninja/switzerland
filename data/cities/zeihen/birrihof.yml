@@ -4,8 +4,8 @@ latitude: 47.47702
 longitude: 8.08428
 postcode: "5079"
 city: Zeihen
-street: "Postgasse"
-housenumber: 4
-phone: "+41 62 876 19 56"
-opening_hours: "Bestellungen telefonisch"
-website: "http://www.hofbrunch.birri-zeihen.ch/index.php"
+street: Postgasse
+housenumber: "4"
+phone: +41 62 876 19 56
+opening_hours: Bestellungen telefonisch
+website: http://www.hofbrunch.birri-zeihen.ch/index.php

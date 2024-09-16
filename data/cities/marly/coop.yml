@@ -1,11 +1,11 @@
 id: 26595732
-type: way
+type: node
 latitude: 46.77983
 longitude: 7.15019
 postcode: "1723"
 city: Marly
-street: "Route de Fribourg"
-housenumber: 15
+street: Route de Fribourg
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Th 07:30-19:00; Fr 07:30-20:00; Sa 07:30-16:00; Su off"
-website: "https://www.coop.ch/de/standorte/coop-supermarche-marly/1433_POS"
+opening_hours: Mo-Th 07:30-19:00; Fr 07:30-20:00; Sa 07:30-16:00; Su off
+website: https://www.coop.ch/de/standorte/coop-supermarche-marly/1433_POS

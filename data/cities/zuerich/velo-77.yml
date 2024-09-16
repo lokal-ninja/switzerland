@@ -4,8 +4,8 @@ latitude: 47.36675
 longitude: 8.52014
 postcode: "8003"
 city: Zürich
-street: "Steinstrasse"
-housenumber: 50
-phone: "+41 77 407 61 95"
-opening_hours: "Mo,Su off; Tu-Fr 13:00-18:00; Sa 11:00-16:00"
-website: "https://velo77.ch/"
+street: Steinstrasse
+housenumber: "50"
+phone: +41 77 407 61 95
+opening_hours: Mo,Su off; Tu-Fr 13:00-18:00; Sa 11:00-16:00
+website: https://velo77.ch/

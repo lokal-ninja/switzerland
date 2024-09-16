@@ -1,11 +1,12 @@
 id: 189764241
-type: way
+type: node
 latitude: 46.18353
 longitude: 6.12069
 postcode: ""
 city: Grand-Lancy (GE)
-street: "Route du Grand-Lancy"
-housenumber: 70
-phone: "+41 22 793 44 44"
-opening_hours: "Mo 09:00-18:00; Tu-We 08:00-19:00; Th 09:00-20:00; Fr 08:00-19:00; Sa 09:00-16:00"
-website: "https://www.stylentete.ch/"
+street: Route du Grand-Lancy
+housenumber: "70"
+phone: +41 22 793 44 44
+opening_hours: Mo 09:00-18:00; Tu-We 08:00-19:00; Th 09:00-20:00; Fr 08:00-19:00;
+    Sa 09:00-16:00
+website: https://www.stylentete.ch/

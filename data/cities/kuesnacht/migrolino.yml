@@ -4,8 +4,8 @@ latitude: 47.31685
 longitude: 8.58003
 postcode: "8700"
 city: Küsnacht
-street: "Seestrasse"
-housenumber: 139
+street: Seestrasse
+housenumber: "139"
 phone: ""
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.migrolino.ch/de/standorte/socar-kusnacht-berg-2/"
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.migrolino.ch/de/standorte/socar-kusnacht-berg-2/

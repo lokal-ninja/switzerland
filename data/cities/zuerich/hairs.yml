@@ -4,8 +4,8 @@ latitude: 47.33832
 longitude: 8.53238
 postcode: "8038"
 city: Zürich
-street: "Kalchbühlstrasse"
-housenumber: 75
-phone: "+41 44 480 16 06"
-opening_hours: "Termin nach Vereinbarung 044 480 16 60"
-website: "https://www.hairs.ch/"
+street: Kalchbühlstrasse
+housenumber: "75"
+phone: +41 44 480 16 06
+opening_hours: '"Termin nach Vereinbarung 044 480 16 60"'
+website: https://www.hairs.ch/

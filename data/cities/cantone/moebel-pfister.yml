@@ -1,11 +1,11 @@
 id: 263493709
-type: way
+type: node
 latitude: 46.15171
 longitude: 8.93611
 postcode: "6594"
 city: Cantone
-street: "Via Cantonale"
-housenumber: 
+street: Via Cantonale
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

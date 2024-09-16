@@ -1,11 +1,11 @@
 id: 110538259
-type: way
+type: node
 latitude: 46.82312
 longitude: 8.65013
 postcode: "6472"
 city: Erstfeld
-street: "Gotthardstrasse"
-housenumber: 107
+street: Gotthardstrasse
+housenumber: "107"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:00, 13:30-18:00; Sa 09:00-15:00"
+opening_hours: Tu-Fr 09:00-12:00, 13:30-18:00; Sa 09:00-15:00
 website: ""

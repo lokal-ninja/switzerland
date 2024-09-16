@@ -4,8 +4,8 @@ latitude: 47.37502
 longitude: 8.54341
 postcode: "8001"
 city: Zürich
-street: "Limmatquai"
-housenumber: 106
-phone: "+41 44 260 83 00"
+street: Limmatquai
+housenumber: "106"
+phone: +41 44 260 83 00
 opening_hours: ""
-website: "https://zuerich.huesler-nest.ch/"
+website: https://zuerich.huesler-nest.ch/

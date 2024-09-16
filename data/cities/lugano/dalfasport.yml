@@ -4,8 +4,8 @@ latitude: 46.04416
 longitude: 8.98143
 postcode: "6965"
 city: Lugano
-street: "Via Centro Scolastico"
-housenumber: 5
+street: Via Centro Scolastico
+housenumber: "5"
 phone: "+41794011175"
 opening_hours: ""
-website: "https://www.dalfasport.ch/"
+website: https://www.dalfasport.ch/

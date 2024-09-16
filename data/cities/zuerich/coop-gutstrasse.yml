@@ -4,8 +4,8 @@ latitude: 47.37375
 longitude: 8.50234
 postcode: "8047"
 city: Zürich
-street: "Gutstrasse"
-housenumber: 159
+street: Gutstrasse
+housenumber: "159"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
-website: "https://www.coop.ch/"
+opening_hours: Mo-Sa 07:30-20:00
+website: https://www.coop.ch/

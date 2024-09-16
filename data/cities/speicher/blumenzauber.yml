@@ -1,11 +1,11 @@
 id: 204991167
-type: way
+type: node
 latitude: 47.40703
 longitude: 9.45136
 postcode: "9042"
 city: Speicher
-street: "Unter Bendlehn"
-housenumber: 1
+street: Unter Bendlehn
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.06976
 longitude: 7.59816
 postcode: "3421"
 city: Lyssach
-street: "Schachenstrasse"
-housenumber: 60
-phone: "+41 34 408 14 14"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:00"
-website: "https://www.raschgarage.ch/"
+street: Schachenstrasse
+housenumber: "60"
+phone: +41 34 408 14 14
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:00
+website: https://www.raschgarage.ch/

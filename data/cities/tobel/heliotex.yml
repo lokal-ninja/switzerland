@@ -1,11 +1,11 @@
 id: 197666669
-type: way
+type: node
 latitude: 47.51202
 longitude: 9.03079
 postcode: "9555"
 city: Tobel
-street: "Obstgartenstrasse"
-housenumber: 2
+street: Obstgartenstrasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.heliotex.ch/"
+website: https://www.heliotex.ch/

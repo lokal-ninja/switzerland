@@ -4,8 +4,8 @@ latitude: 47.4916
 longitude: 7.71686
 postcode: "4410"
 city: Liestal
-street: "Schauenburgerstrasse"
-housenumber: 88
-phone: "+41 61 599 22 62"
-opening_hours: "Mo-Su 07:00-20:00"
+street: Schauenburgerstrasse
+housenumber: "88"
+phone: +41 61 599 22 62
+opening_hours: Mo-Su 07:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.32225
 longitude: 8.79708
 postcode: "8620"
 city: Wetzikon
-street: "Bahnhofstrasse"
-housenumber: 73
-phone: "+41 79 522 85 78"
-opening_hours: "Mo 14:00-18:30;Tu-Fr 10:00-18:30;Sa 09:00-14:00"
-website: "https://www.milisflowers.ch/"
+street: Bahnhofstrasse
+housenumber: "73"
+phone: +41 79 522 85 78
+opening_hours: Mo 14:00-18:30;Tu-Fr 10:00-18:30;Sa 09:00-14:00
+website: https://www.milisflowers.ch/

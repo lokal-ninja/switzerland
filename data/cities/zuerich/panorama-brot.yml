@@ -4,8 +4,8 @@ latitude: 47.40948
 longitude: 8.54387
 postcode: "8050"
 city: Zürich
-street: "Gubelhangstrasse"
-housenumber: 24
+street: Gubelhangstrasse
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-15:00"
-website: "https://www.panorama-brot.ch/"
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-15:00
+website: https://www.panorama-brot.ch/

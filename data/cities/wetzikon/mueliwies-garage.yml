@@ -1,11 +1,11 @@
 id: 134519914
-type: way
+type: node
 latitude: 47.33156
 longitude: 8.79776
 postcode: "8620"
 city: Wetzikon
-street: "Motorenstrasse"
-housenumber: 61
+street: Motorenstrasse
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

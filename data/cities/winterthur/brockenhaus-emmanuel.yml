@@ -4,8 +4,8 @@ latitude: 47.49621
 longitude: 8.7552
 postcode: "8404"
 city: Winterthur
-street: "Industriestrasse"
-housenumber: 24
-phone: "+41 52 222 94 11"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://www.brocki-emmanuel.ch/"
+street: Industriestrasse
+housenumber: "24"
+phone: +41 52 222 94 11
+opening_hours: Mo-Sa 09:00-18:00
+website: https://www.brocki-emmanuel.ch/

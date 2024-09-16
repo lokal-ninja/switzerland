@@ -4,8 +4,8 @@ latitude: 47.69436
 longitude: 8.60574
 postcode: "8222"
 city: Schaffhausen
-street: "Schaffhauserstrasse"
-housenumber: 247
+street: Schaffhauserstrasse
+housenumber: "247"
 phone: "0041798178627"
 opening_hours: ""
-website: "https://www.carmaxx.ch/"
+website: https://www.carmaxx.ch/

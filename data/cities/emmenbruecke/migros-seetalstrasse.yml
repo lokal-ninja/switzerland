@@ -4,8 +4,8 @@ latitude: 47.07371
 longitude: 8.29224
 postcode: "6020"
 city: Emmenbrücke
-street: "Seetalstrasse"
-housenumber: 50
+street: Seetalstrasse
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Th 09:00-19:00, Fr 09:00-21:00, Sa 08:00-17:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-emmen-wohncenter"
+opening_hours: Mo-Th 09:00-19:00, Fr 09:00-21:00, Sa 08:00-17:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-emmen-wohncenter

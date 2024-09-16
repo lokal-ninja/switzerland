@@ -4,8 +4,8 @@ latitude: 46.51363
 longitude: 6.84855
 postcode: "1616"
 city: Attalens
-street: "Rue de Corcelles"
-housenumber: 6
-phone: "+41 76 295 19 93"
-opening_hours: "Tu 09:00-11:00,13:30-16:30; Fr 13:30-16:30"
-website: "https://www.mlanature.ch"
+street: Rue de Corcelles
+housenumber: "6"
+phone: +41 76 295 19 93
+opening_hours: Tu 09:00-11:00,13:30-16:30; Fr 13:30-16:30
+website: https://www.mlanature.ch

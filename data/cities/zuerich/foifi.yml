@@ -4,8 +4,8 @@ latitude: 47.37291
 longitude: 8.52474
 postcode: "8004"
 city: Zürich
-street: "Gartenhofstrasse"
-housenumber: 27
+street: Gartenhofstrasse
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00, 15:00-19:00; Sa 11:00-18:00"
-website: "https://foifi.ch/"
+opening_hours: Mo-Fr 09:00-13:00, 15:00-19:00; Sa 11:00-18:00
+website: https://foifi.ch/

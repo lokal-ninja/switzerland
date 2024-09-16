@@ -1,11 +1,11 @@
 id: 386205306
-type: way
+type: node
 latitude: 47.35835
 longitude: 8.27236
 postcode: "5610"
 city: Wohlen AG
-street: "Lägernstrasse"
-housenumber: 5
+street: Lägernstrasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00; PH off"
-website: "https://www.aldi-suisse.ch/"
+opening_hours: Mo-Sa 07:30-20:00; PH off
+website: https://www.aldi-suisse.ch/

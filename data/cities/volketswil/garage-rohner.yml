@@ -1,11 +1,11 @@
 id: 90143350
-type: way
+type: node
 latitude: 47.38673
 longitude: 8.67063
 postcode: "8604"
 city: Volketswil
-street: "Gupfenstrasse"
-housenumber: 2
+street: Gupfenstrasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

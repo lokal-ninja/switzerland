@@ -4,8 +4,8 @@ latitude: 47.54422
 longitude: 7.58744
 postcode: "4053"
 city: Basel
-street: "Dornacherstrasse"
-housenumber: 71
+street: Dornacherstrasse
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-13:00"
-website: "https://www.5asec.ch/"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-13:00
+website: https://www.5asec.ch/

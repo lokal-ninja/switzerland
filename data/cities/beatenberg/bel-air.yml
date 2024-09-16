@@ -4,8 +4,8 @@ latitude: 46.6984
 longitude: 7.79479
 postcode: "3803"
 city: Beatenberg
-street: "Spirenwaldstrasse"
-housenumber: 286
-phone: "+41 33 841 11 25"
-opening_hours: "Mo, Tu, Fr 07:00-18:00; We 07:00-12:00; Sa, Su 07:00-17:00"
-website: "https://www.bel-air.ch/"
+street: Spirenwaldstrasse
+housenumber: "286"
+phone: +41 33 841 11 25
+opening_hours: Mo, Tu, Fr 07:00-18:00; We 07:00-12:00; Sa, Su 07:00-17:00
+website: https://www.bel-air.ch/

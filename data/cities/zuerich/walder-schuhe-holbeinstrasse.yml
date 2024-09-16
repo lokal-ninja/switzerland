@@ -4,8 +4,8 @@ latitude: 47.36385
 longitude: 8.54932
 postcode: "8008"
 city: Zürich
-street: "Holbeinstrasse"
-housenumber: 20
+street: Holbeinstrasse
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-17:00"
-website: "https://www.walder.ch/"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-17:00
+website: https://www.walder.ch/

@@ -4,8 +4,8 @@ latitude: 47.08959
 longitude: 9.34336
 postcode: "8890"
 city: Flums
-street: "Eisenherrenstrasse"
-housenumber: 14
-phone: "+441 81 733 40 40"
-opening_hours: "Th-Mo 05:00-18:30"
-website: "https://www.cafebucher.ch/"
+street: Eisenherrenstrasse
+housenumber: "14"
+phone: +441 81 733 40 40
+opening_hours: Th-Mo 05:00-18:30
+website: https://www.cafebucher.ch/

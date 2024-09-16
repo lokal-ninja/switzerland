@@ -1,11 +1,11 @@
 id: 109143703
-type: way
+type: node
 latitude: 47.26681
 longitude: 8.42471
 postcode: "8912"
 city: Obfelden
-street: "Ottenbacherstrasse"
-housenumber: 23
+street: Ottenbacherstrasse
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

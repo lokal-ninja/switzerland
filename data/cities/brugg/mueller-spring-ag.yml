@@ -4,8 +4,8 @@ latitude: 47.48364
 longitude: 8.20754
 postcode: "5200"
 city: Brugg
-street: "Hauptstrasse"
-housenumber: 8
-phone: "+41 56 442 20 40"
-opening_hours: "Mo 13:30-18:30; Tu-Th 08:30-18:30; Fr 08:30-20:00; Sa 08:30-17:00"
-website: "https://www.mueller-spring.ch/"
+street: Hauptstrasse
+housenumber: "8"
+phone: +41 56 442 20 40
+opening_hours: Mo 13:30-18:30; Tu-Th 08:30-18:30; Fr 08:30-20:00; Sa 08:30-17:00
+website: https://www.mueller-spring.ch/

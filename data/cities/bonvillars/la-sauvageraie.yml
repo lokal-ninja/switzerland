@@ -4,8 +4,8 @@ latitude: 46.83999
 longitude: 6.66933
 postcode: "1427"
 city: Bonvillars
-street: "Rue des Juifs"
-housenumber: 10
+street: Rue des Juifs
+housenumber: "10"
 phone: ""
-opening_hours: "Sur rendez-vous"
-website: "https://www.sauvageraie.ch"
+opening_hours: '"Sur rendez-vous"'
+website: https://www.sauvageraie.ch

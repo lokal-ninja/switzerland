@@ -1,11 +1,11 @@
 id: 47047452
-type: way
+type: node
 latitude: 46.31944
 longitude: 6.9611
 postcode: "1860"
 city: Aigle
-street: "Chemin des Lieugex"
-housenumber: 4
+street: Chemin des Lieugex
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.89335
 longitude: 7.49817
 postcode: "3123"
 city: Belp
-street: "Dorfstrasse"
-housenumber: 8
+street: Dorfstrasse
+housenumber: "8"
 phone: ""
-opening_hours: "Mo off; Tu-Fr 08:00-18:30; Sa 08:00-14:00; Su off"
-website: "http://www.coiffurechrista.ch"
+opening_hours: Mo off; Tu-Fr 08:00-18:30; Sa 08:00-14:00; Su off
+website: http://www.coiffurechrista.ch

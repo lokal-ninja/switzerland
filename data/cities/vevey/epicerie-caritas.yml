@@ -4,8 +4,8 @@ latitude: 46.46574
 longitude: 6.84178
 postcode: "1800"
 city: Vevey
-street: "Avenue Reller"
-housenumber: 4
-phone: "+41 21 921 78 10"
-opening_hours: "Mo-Fr 10:00-12:00, 13:30-18:00; Sa 10:00-16:00"
-website: "https://www.caritas.ch/fr/epiceries-caritas/"
+street: Avenue Reller
+housenumber: "4"
+phone: +41 21 921 78 10
+opening_hours: Mo-Fr 10:00-12:00, 13:30-18:00; Sa 10:00-16:00
+website: https://www.caritas.ch/fr/epiceries-caritas/

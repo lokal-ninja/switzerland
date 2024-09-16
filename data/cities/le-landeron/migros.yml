@@ -1,11 +1,11 @@
 id: 49040845
-type: way
+type: node
 latitude: 47.05627
 longitude: 7.06047
 postcode: "2525"
 city: Le Landeron
-street: "Route de Neuchâtel"
-housenumber: 46
+street: Route de Neuchâtel
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

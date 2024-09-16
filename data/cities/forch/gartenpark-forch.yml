@@ -1,11 +1,11 @@
 id: 33003692
-type: way
+type: node
 latitude: 47.31274
 longitude: 8.63918
 postcode: "8127"
 city: Forch
-street: "Hohrütistrasse"
-housenumber: 4
-phone: "+41 44 991 86 50"
+street: Hohrütistrasse
+housenumber: "4"
+phone: +41 44 991 86 50
 opening_hours: ""
-website: "http://www.gartenpark-forch.ch/"
+website: http://www.gartenpark-forch.ch/

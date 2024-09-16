@@ -5,7 +5,7 @@ longitude: 8.82067
 postcode: "8262"
 city: Ramsen
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00, Sa-Su 08:00-19:00"
-website: "https://www.migrol.ch/de/"
+opening_hours: Mo-Fr 07:30-19:00, Sa-Su 08:00-19:00
+website: https://www.migrol.ch/de/

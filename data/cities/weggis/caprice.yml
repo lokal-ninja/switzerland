@@ -1,11 +1,11 @@
 id: 282655737
-type: way
+type: node
 latitude: 47.03191
 longitude: 8.43248
 postcode: "6353"
 city: Weggis
-street: "Seestrasse"
-housenumber: 15
+street: Seestrasse
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

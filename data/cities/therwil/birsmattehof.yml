@@ -4,8 +4,11 @@ latitude: 47.50427
 longitude: 7.5408
 postcode: "4106"
 city: Therwil
-street: "Birsmatthof"
-housenumber: 1
-phone: "+41 61 721 77 09"
-opening_hours: "Tu,Th 15:30-17:30,   Arlesheim Dorfplatz: Fr: 8.45-11.15 Uhr Muttenz Hauptstrasse vor der Metzgerei Jenzer:  Sa: 8-12 Uhr Basel Matthäusplatz: Sa: 8-13 Uhr. Basel Steinentorberg 20 (Markthalle) Sa: 10-15 Uhr. Liestal Rathausstrasse: Sa: 8-13 Uhr."
-website: "https://www.birsmattehof.ch/"
+street: Birsmatthof
+housenumber: "1"
+phone: +41 61 721 77 09
+opening_hours: 'Tu,Th 15:30-17:30,   Arlesheim Dorfplatz: Fr: 8.45-11.15 Uhr Muttenz
+    Hauptstrasse vor der Metzgerei Jenzer:  Sa: 8-12 Uhr Basel Matthäusplatz: Sa:
+    8-13 Uhr. Basel Steinentorberg 20 (Markthalle) Sa: 10-15 Uhr. Liestal Rathausstrasse:
+    Sa: 8-13 Uhr.'
+website: https://www.birsmattehof.ch/

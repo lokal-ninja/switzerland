@@ -1,11 +1,11 @@
 id: 307429903
-type: way
+type: node
 latitude: 47.48096
 longitude: 7.74102
 postcode: "4410"
 city: Liestal
-street: "Kasernenstrasse"
-housenumber: 51
+street: Kasernenstrasse
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

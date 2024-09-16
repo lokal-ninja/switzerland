@@ -4,8 +4,8 @@ latitude: 47.10483
 longitude: 6.83018
 postcode: "2300"
 city: La Chaux-de-Fonds
-street: "Rue du Stand"
-housenumber: 10
-phone: "+41 32 968 00 65"
-opening_hours: "Mo 14:00-18:00; Tu-Fr 09:00-12:00,13:45-18:30; Sa 09:00-17:00"
+street: Rue du Stand
+housenumber: "10"
+phone: +41 32 968 00 65
+opening_hours: Mo 14:00-18:00; Tu-Fr 09:00-12:00,13:45-18:30; Sa 09:00-17:00
 website: ""

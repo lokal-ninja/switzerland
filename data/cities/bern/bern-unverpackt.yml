@@ -4,8 +4,8 @@ latitude: 46.93937
 longitude: 7.43276
 postcode: "3007"
 city: Bern
-street: "Seftigenstrasse"
-housenumber: 11
+street: Seftigenstrasse
+housenumber: "11"
 phone: ""
-opening_hours: "We,Th 17:00-20:00; Fr 10:00-14:00; Sa 11:00-15:00"
-website: "https://bern-unverpackt.ch/"
+opening_hours: We,Th 17:00-20:00; Fr 10:00-14:00; Sa 11:00-15:00
+website: https://bern-unverpackt.ch/

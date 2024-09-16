@@ -4,8 +4,8 @@ latitude: 46.53389
 longitude: 6.56384
 postcode: "1024"
 city: Ecublens (VD)
-street: "Chemin du Croset"
-housenumber: 9
-phone: "+41 58 999 17 30"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
-website: "https://www.denner.ch/"
+street: Chemin du Croset
+housenumber: "9"
+phone: +41 58 999 17 30
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
+website: https://www.denner.ch/

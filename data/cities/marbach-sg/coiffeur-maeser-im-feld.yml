@@ -4,8 +4,8 @@ latitude: 47.39107
 longitude: 9.56936
 postcode: "9437"
 city: Marbach SG
-street: "Feldstrasse"
-housenumber: 3
-phone: "+41 71 777 30 06"
-opening_hours: "Mo-Fr 08:00-12:00; Mo-Th 13:00-18:30; Fr 13:00-19:00; Sa 08:00-14:00"
-website: "https://www.maeserimfeld.ch"
+street: Feldstrasse
+housenumber: "3"
+phone: +41 71 777 30 06
+opening_hours: Mo-Fr 08:00-12:00; Mo-Th 13:00-18:30; Fr 13:00-19:00; Sa 08:00-14:00
+website: https://www.maeserimfeld.ch

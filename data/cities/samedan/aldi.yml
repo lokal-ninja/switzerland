@@ -1,11 +1,11 @@
 id: 210263182
-type: way
+type: node
 latitude: 46.52937
 longitude: 9.87437
 postcode: "7503"
 city: Samedan
-street: "Cho d'Punt"
-housenumber: 43
+street: Cho d'Punt
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
+opening_hours: Mo-Sa 07:30-20:00
 website: ""

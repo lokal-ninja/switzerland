@@ -1,11 +1,11 @@
 id: 59263460
-type: way
+type: node
 latitude: 47.52847
 longitude: 8.70996
 postcode: "8472"
 city: Seuzach
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://www.migrol.ch/de/"
+opening_hours: 24/7
+website: https://www.migrol.ch/de/

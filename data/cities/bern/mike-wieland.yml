@@ -4,8 +4,8 @@ latitude: 46.9431
 longitude: 7.43613
 postcode: "3011"
 city: Bern
-street: "Monbijoustrasse"
-housenumber: 39
+street: Monbijoustrasse
+housenumber: "39"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:15,14:30-18:30; Sa 09:00-12:00"
-website: "https://www.mikewieland.ch/"
+opening_hours: Tu-Fr 09:00-12:15,14:30-18:30; Sa 09:00-12:00
+website: https://www.mikewieland.ch/

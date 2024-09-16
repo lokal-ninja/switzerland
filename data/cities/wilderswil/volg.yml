@@ -1,11 +1,11 @@
 id: 188462964
-type: way
+type: node
 latitude: 46.66533
 longitude: 7.86843
 postcode: "3812"
 city: Wilderswil
-street: "Aegertzaunstrasse"
-housenumber: 1
+street: Aegertzaunstrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Sa-Su 08:00-20:00"
+opening_hours: Sa-Su 08:00-20:00
 website: ""

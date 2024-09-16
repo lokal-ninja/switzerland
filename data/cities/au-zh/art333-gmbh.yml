@@ -1,11 +1,11 @@
 id: 31827477
-type: way
+type: node
 latitude: 47.24783
 longitude: 8.63707
 postcode: "8804"
 city: Au ZH
-street: "Seestrasse"
-housenumber: 333
-phone: "+41 44 773 33 35"
-opening_hours: "Th-Fr 14:00-18:00; Sa 11:00-16:00"
-website: "https://art333.ch/"
+street: Seestrasse
+housenumber: "333"
+phone: +41 44 773 33 35
+opening_hours: Th-Fr 14:00-18:00; Sa 11:00-16:00
+website: https://art333.ch/

@@ -4,8 +4,8 @@ latitude: 47.39338
 longitude: 8.52441
 postcode: "8037"
 city: Zürich
-street: "Rosengartenstrasse"
-housenumber: 3
-phone: "+41 76 366 54 54"
-opening_hours: "Mo-Fr 11:00-18:30; Sa 12:00-16:00"
-website: "https://www.vaporspirit.ch"
+street: Rosengartenstrasse
+housenumber: "3"
+phone: +41 76 366 54 54
+opening_hours: Mo-Fr 11:00-18:30; Sa 12:00-16:00
+website: https://www.vaporspirit.ch

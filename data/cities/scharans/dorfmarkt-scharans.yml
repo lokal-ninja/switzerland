@@ -1,11 +1,11 @@
 id: 245304700
-type: way
+type: node
 latitude: 46.71723
 longitude: 9.45997
 postcode: "7412"
 city: Scharans
-street: "Dorfplatz"
-housenumber: 
+street: Dorfplatz
+housenumber: ""
 phone: ""
-opening_hours: "Mo-We,Fr 08:00-12:00,15:00-18:30; Th,Sa 08:00-12:00"
-website: "https://dorfmarktscharans.ch/"
+opening_hours: Mo-We,Fr 08:00-12:00,15:00-18:30; Th,Sa 08:00-12:00
+website: https://dorfmarktscharans.ch/

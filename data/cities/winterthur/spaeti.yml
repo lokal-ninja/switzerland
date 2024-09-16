@@ -4,8 +4,8 @@ latitude: 47.49823
 longitude: 8.72628
 postcode: "8400"
 city: Winterthur
-street: "Neumarkt"
-housenumber: 1
+street: Neumarkt
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 09:30-12:00,13:00-18:30; Sa 09:30-17:00"
-website: "https://www.spaetiwohnkultur.ch/"
+opening_hours: Tu-Fr 09:30-12:00,13:00-18:30; Sa 09:30-17:00
+website: https://www.spaetiwohnkultur.ch/

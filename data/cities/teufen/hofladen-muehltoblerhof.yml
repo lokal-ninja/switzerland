@@ -1,11 +1,11 @@
 id: 195084829
-type: way
+type: node
 latitude: 47.3888
 longitude: 9.3527
 postcode: "9052"
 city: Teufen
-street: "Steinerstrasse"
-housenumber: 
+street: Steinerstrasse
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 08:00-20:00"
+opening_hours: Mo-Su 08:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.29446
 longitude: 7.53707
 postcode: "3960"
 city: Sierre
-street: "Rue de Borzuat"
-housenumber: 2
-phone: "+41 27 456 96 10"
-opening_hours: "Mo 13:30-18:00; Tu-Fr 08:30-12:00,13:30-18:00; Sa 08:30-12:00,13:30-17:00"
+street: Rue de Borzuat
+housenumber: "2"
+phone: +41 27 456 96 10
+opening_hours: Mo 13:30-18:00; Tu-Fr 08:30-12:00,13:30-18:00; Sa 08:30-12:00,13:30-17:00
 website: ""

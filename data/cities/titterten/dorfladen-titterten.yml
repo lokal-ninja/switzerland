@@ -1,11 +1,12 @@
 id: 515820983
-type: way
+type: node
 latitude: 47.40074
 longitude: 7.71663
 postcode: "4425"
 city: Titterten
-street: "Hauptstrasse"
-housenumber: 58
-phone: "+41 61 9411515"
-opening_hours: "Mo,Sa 07:30-12:15; Tu-Fr 07:30-12:15,17:00-18:45; We 07:30-12:15,15:00-17:00; PH off"
-website: "https://www.titterten.ch/de/gewerbe/unternehmen/Dorfladen-Titterten.php"
+street: Hauptstrasse
+housenumber: "58"
+phone: +41 61 9411515
+opening_hours: Mo,Sa 07:30-12:15; Tu-Fr 07:30-12:15,17:00-18:45; We 07:30-12:15,15:00-17:00;
+    PH off
+website: https://www.titterten.ch/de/gewerbe/unternehmen/Dorfladen-Titterten.php

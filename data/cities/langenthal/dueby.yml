@@ -4,8 +4,9 @@ latitude: 47.2113
 longitude: 7.78882
 postcode: "4900"
 city: Langenthal
-street: "Marktgasse"
-housenumber: 23
+street: Marktgasse
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Th 07:30-12:00,13:30-18:30; Fr 07:30-12:00,13:30-20:00; Sa 07:30-16:00; Su,PH off"
+opening_hours: Mo-Th 07:30-12:00,13:30-18:30; Fr 07:30-12:00,13:30-20:00; Sa 07:30-16:00;
+    Su,PH off
 website: ""

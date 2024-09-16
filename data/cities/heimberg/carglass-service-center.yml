@@ -1,11 +1,11 @@
 id: 1262334457
-type: way
+type: node
 latitude: 46.77948
 longitude: 7.61079
 postcode: "3627"
 city: Heimberg
 street: ""
-housenumber: 61
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

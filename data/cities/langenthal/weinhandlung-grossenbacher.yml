@@ -4,8 +4,9 @@ latitude: 47.21605
 longitude: 7.7846
 postcode: "4900"
 city: Langenthal
-street: "Jurastrasse"
-housenumber: 26
-phone: "+41 62 562 84 57"
-opening_hours: "Mo off; Tu-Fr 10:00-12:00,13:30-18:30; Sa  10:00-16:00; Su off; PH off"
-website: "https://www.grossenbacher-weine.ch/"
+street: Jurastrasse
+housenumber: "26"
+phone: +41 62 562 84 57
+opening_hours: Mo off; Tu-Fr 10:00-12:00,13:30-18:30; Sa  10:00-16:00; Su off; PH
+    off
+website: https://www.grossenbacher-weine.ch/

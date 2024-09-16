@@ -4,8 +4,8 @@ latitude: 47.48264
 longitude: 7.73511
 postcode: "4410"
 city: Liestal
-street: "Wasserturmplatz"
-housenumber: 4
+street: Wasserturmplatz
+housenumber: "4"
 phone: "+41619217138"
-opening_hours: "Tu-Sa 09:30-18:30"
-website: "https://radixweb.ch/shop-liestal"
+opening_hours: Tu-Sa 09:30-18:30
+website: https://radixweb.ch/shop-liestal

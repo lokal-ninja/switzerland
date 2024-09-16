@@ -4,8 +4,8 @@ latitude: 47.48262
 longitude: 7.73605
 postcode: "4410"
 city: Liestal
-street: "Kasernenstrasse"
-housenumber: 8
+street: Kasernenstrasse
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-18:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-liestal"
+opening_hours: Mo-Fr 08:00-19:00, Sa 08:00-18:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-liestal

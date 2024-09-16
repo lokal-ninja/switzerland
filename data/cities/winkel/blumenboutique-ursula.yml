@@ -4,8 +4,8 @@ latitude: 47.49358
 longitude: 8.55578
 postcode: "8185"
 city: Winkel
-street: "Brütterstrasse"
-housenumber: 1
+street: Brütterstrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Tu,Th,Fr 08:30-12:00, 14:00-18:30; We 08:30-12:00; Sa 08:30-15:00"
-website: "https://www.bluemeursula.ch/"
+opening_hours: Tu,Th,Fr 08:30-12:00, 14:00-18:30; We 08:30-12:00; Sa 08:30-15:00
+website: https://www.bluemeursula.ch/

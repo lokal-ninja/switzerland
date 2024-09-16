@@ -4,8 +4,8 @@ latitude: 47.50795
 longitude: 8.01947
 postcode: "5070"
 city: Frick
-street: "Hauptstrasse"
-housenumber: 44
-phone: "+41 62 871 39 37"
-opening_hours: "MO-FR 08:00-20:00; SA 07:30-18:00"
+street: Hauptstrasse
+housenumber: "44"
+phone: +41 62 871 39 37
+opening_hours: MO-FR 08:00-20:00; SA 07:30-18:00
 website: ""

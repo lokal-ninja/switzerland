@@ -1,11 +1,11 @@
 id: 117012220
-type: way
+type: node
 latitude: 46.80777
 longitude: 9.83831
 postcode: "7260"
 city: Davos Dorf
-street: "Promenade"
-housenumber: 148
-phone: "+41 81 410 11 22"
-opening_hours: "Mo-Su 06:00-19:00"
-website: "https://www.weber-davos.ch/ueber-uns/oeffnungszeiten/"
+street: Promenade
+housenumber: "148"
+phone: +41 81 410 11 22
+opening_hours: Mo-Su 06:00-19:00
+website: https://www.weber-davos.ch/ueber-uns/oeffnungszeiten/

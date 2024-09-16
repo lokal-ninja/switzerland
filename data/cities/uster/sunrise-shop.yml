@@ -4,8 +4,8 @@ latitude: 47.35042
 longitude: 8.71678
 postcode: "8610"
 city: Uster
-street: "Gerichtsstrasse"
-housenumber: 4
+street: Gerichtsstrasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.sunrise.ch/"
+website: https://www.sunrise.ch/

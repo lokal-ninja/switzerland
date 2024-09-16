@@ -1,11 +1,11 @@
 id: 147993744
-type: way
+type: node
 latitude: 47.26818
 longitude: 8.63872
 postcode: "8706"
 city: Meilen
-street: "Seestrasse"
-housenumber: 570
+street: Seestrasse
+housenumber: "570"
 phone: ""
 opening_hours: ""
 website: ""

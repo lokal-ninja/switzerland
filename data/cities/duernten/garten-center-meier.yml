@@ -1,11 +1,11 @@
 id: 249165801
-type: way
+type: node
 latitude: 47.27529
 longitude: 8.8264
 postcode: "8635"
 city: Dürnten
-street: "Kreuzstrasse"
-housenumber: 2
-phone: "+41 55 251 71 71"
-opening_hours: "Tu-Fr 08:30-18:30; Sa 08:00-17:00"
-website: "https://www.gartencenter-meier.ch/"
+street: Kreuzstrasse
+housenumber: "2"
+phone: +41 55 251 71 71
+opening_hours: Tu-Fr 08:30-18:30; Sa 08:00-17:00
+website: https://www.gartencenter-meier.ch/

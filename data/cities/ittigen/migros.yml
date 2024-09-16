@@ -4,8 +4,8 @@ latitude: 46.97426
 longitude: 7.48513
 postcode: "3063"
 city: Ittigen
-street: "Talweg"
-housenumber: 6
-phone: "+41 58 567 82 00"
-opening_hours: "Mo-Th 08:00-19:00, Fr 08:00-20:00, Sa 07:30-17:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-ittigen"
+street: Talweg
+housenumber: "6"
+phone: +41 58 567 82 00
+opening_hours: Mo-Th 08:00-19:00, Fr 08:00-20:00, Sa 07:30-17:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-ittigen

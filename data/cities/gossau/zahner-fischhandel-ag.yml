@@ -4,8 +4,9 @@ latitude: 47.30572
 longitude: 8.75875
 postcode: "8625"
 city: Gossau
-street: "Laufenbachstrasse"
-housenumber: 10
-phone: "+41 55 280 17 55"
-opening_hours: "Mo off; Tu 08:00-12:15; We off; Th off; Fr off; Sa off; Su off; PH off"
-website: "https://www.frisch-fisch.ch/"
+street: Laufenbachstrasse
+housenumber: "10"
+phone: +41 55 280 17 55
+opening_hours: Mo off; Tu 08:00-12:15; We off; Th off; Fr off; Sa off; Su off; PH
+    off
+website: https://www.frisch-fisch.ch/

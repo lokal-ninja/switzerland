@@ -1,11 +1,11 @@
 id: 160524714
-type: way
+type: node
 latitude: 47.38625
 longitude: 8.12375
 postcode: "5502"
 city: Hunzenschwil
-street: "Strangengasse"
-housenumber: 2
+street: Strangengasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 06:00-21:00; Su off"
+opening_hours: Mo-Sa 06:00-21:00; Su off
 website: ""

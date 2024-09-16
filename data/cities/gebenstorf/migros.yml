@@ -4,8 +4,8 @@ latitude: 47.48999
 longitude: 8.24443
 postcode: "5412"
 city: Gebenstorf
-street: "Wambisterstrasse"
-housenumber: 2
+street: Wambisterstrasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-18:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-gebenstorf"
+opening_hours: Mo-Fr 08:00-20:00, Sa 08:00-18:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-gebenstorf

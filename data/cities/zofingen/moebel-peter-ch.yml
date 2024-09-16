@@ -1,11 +1,11 @@
 id: 2436453483
 type: node
-latitude: 47.29405
-longitude: 7.93
+latitude: 47.29414
+longitude: 7.92894
 postcode: "4800"
 city: Zofingen
-street: "Areal Bleiche"
-housenumber: 24
-phone: "+41 62 544 46 48"
-opening_hours: "Termin nach Vereinbarung"
-website: "https://www.moebel-peter.ch/"
+street: Areal Bleiche
+housenumber: "3"
+phone: +41 62 544 46 48
+opening_hours: '"Termin nach Vereinbarung"'
+website: https://www.moebel-peter.ch/

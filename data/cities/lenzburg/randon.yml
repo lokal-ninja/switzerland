@@ -1,11 +1,11 @@
 id: 172538271
-type: way
+type: node
 latitude: 47.39144
 longitude: 8.1679
 postcode: "5600"
 city: Lenzburg
-street: "Industriestrasse"
-housenumber: 9
+street: Industriestrasse
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

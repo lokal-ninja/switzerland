@@ -1,11 +1,11 @@
 id: 196491585
-type: way
+type: node
 latitude: 47.30509
 longitude: 9.08041
 postcode: "9630"
 city: Wattwil
-street: "Wenkenrütistrasse"
-housenumber: 12
+street: Wenkenrütistrasse
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.auto-bollhalder.com/"
+website: https://www.auto-bollhalder.com/

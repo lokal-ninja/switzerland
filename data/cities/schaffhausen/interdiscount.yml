@@ -4,8 +4,8 @@ latitude: 47.69855
 longitude: 8.63436
 postcode: "8200"
 city: Schaffhausen
-street: "Vorstadt"
-housenumber: 33
+street: Vorstadt
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-We 09:00-19:00; Th, Sa 09:00-18:00"
-website: "https://www.interdiscount.ch/"
+opening_hours: Mo-We 09:00-19:00; Th, Sa 09:00-18:00
+website: https://www.interdiscount.ch/

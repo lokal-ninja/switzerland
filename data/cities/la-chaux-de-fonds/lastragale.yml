@@ -4,8 +4,8 @@ latitude: 47.1036
 longitude: 6.83098
 postcode: "2300"
 city: La Chaux-de-Fonds
-street: "Rue Neuve"
-housenumber: 8
-phone: "+41 32 968 33 30"
-opening_hours: "Mo 13:30-18:30;Tu-Fr 10:00-12:00,13:30-18:30; Sa 10:00-17:00"
+street: Rue Neuve
+housenumber: "8"
+phone: +41 32 968 33 30
+opening_hours: Mo 13:30-18:30;Tu-Fr 10:00-12:00,13:30-18:30; Sa 10:00-17:00
 website: ""

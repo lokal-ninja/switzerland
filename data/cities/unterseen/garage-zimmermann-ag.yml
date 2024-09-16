@@ -1,11 +1,11 @@
 id: 188616870
-type: way
+type: node
 latitude: 46.68054
 longitude: 7.82719
 postcode: "3800"
 city: Unterseen
-street: "Seestrasse"
-housenumber: 109
+street: Seestrasse
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.37779
 longitude: 8.53321
 postcode: "8004"
 city: Zürich
-street: "Lagerstrasse"
+street: Lagerstrasse
 housenumber: 18a
 phone: ""
-opening_hours: "Mo 11:00-19:00; Tu-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.lacucina.ch/"
+opening_hours: Mo 11:00-19:00; Tu-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.lacucina.ch/

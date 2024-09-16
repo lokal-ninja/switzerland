@@ -4,8 +4,8 @@ latitude: 47.37726
 longitude: 8.53831
 postcode: "8001"
 city: Zürich
-street: "Löwenstrasse"
-housenumber: 69
+street: Löwenstrasse
+housenumber: "69"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-18:00; PH off"
-website: "https://www.salt.ch/"
+opening_hours: Mo-Fr 09:00-20:00, Sa 09:00-18:00; PH off
+website: https://www.salt.ch/

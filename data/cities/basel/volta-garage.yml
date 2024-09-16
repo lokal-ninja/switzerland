@@ -4,8 +4,8 @@ latitude: 47.57076
 longitude: 7.57615
 postcode: "4056"
 city: Basel
-street: "Voltastrasse"
-housenumber: 89
+street: Voltastrasse
+housenumber: "89"
 phone: ""
 opening_hours: ""
-website: "https://volta-garage.ch/"
+website: https://volta-garage.ch/

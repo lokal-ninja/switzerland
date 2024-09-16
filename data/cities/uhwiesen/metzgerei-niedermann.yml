@@ -1,11 +1,11 @@
 id: 448746514
-type: way
+type: node
 latitude: 47.66726
 longitude: 8.63947
 postcode: "8248"
 city: Uhwiesen
-street: "Wassergasse"
-housenumber: 6
+street: Wassergasse
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.metzgerei-niedermann.ch/"
+website: https://www.metzgerei-niedermann.ch/

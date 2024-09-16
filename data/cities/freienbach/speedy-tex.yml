@@ -1,11 +1,11 @@
 id: 296882830
-type: way
+type: node
 latitude: 47.20398
 longitude: 8.76334
 postcode: "8807"
 city: Freienbach
-street: "Kantonsstrasse"
-housenumber: 148
+street: Kantonsstrasse
+housenumber: "148"
 phone: ""
-opening_hours: "Mo-Su 08:00-11:30, Mo-Fr 13:30-17:30"
+opening_hours: Mo-Su 08:00-11:30, Mo-Fr 13:30-17:30
 website: ""

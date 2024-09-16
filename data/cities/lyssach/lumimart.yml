@@ -4,8 +4,8 @@ latitude: 47.07193
 longitude: 7.56797
 postcode: "3421"
 city: Lyssach
-street: "Bernstrasse"
-housenumber: 9
+street: Bernstrasse
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.lumimart.ch/de/"
+website: https://www.lumimart.ch/de/

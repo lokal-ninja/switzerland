@@ -1,11 +1,11 @@
 id: 392792620
-type: way
+type: node
 latitude: 47.40447
 longitude: 9.30454
 postcode: "9015"
 city: St. Gallen
-street: "Ikarusstrasse"
-housenumber: 2
+street: Ikarusstrasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

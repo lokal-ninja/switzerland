@@ -1,11 +1,11 @@
 id: 261913091
-type: way
+type: node
 latitude: 47.25986
 longitude: 8.82378
 postcode: "8608"
 city: Bubikon
-street: "Rütistrasse"
-housenumber: 70
+street: Rütistrasse
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

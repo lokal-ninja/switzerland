@@ -1,11 +1,11 @@
 id: 237327854
-type: way
+type: node
 latitude: 46.81694
 longitude: 7.1386
 postcode: "1763"
 city: Granges-Paccot
-street: "Route du Coteau"
-housenumber: 4
-phone: "+41 26 466 31 18"
-opening_hours: "Mo 13:30-18:30; Tu-Fr 08:00-12:00,13:30-18:30; Sa 08:00-12:00"
-website: "https://www.motos-gaz.ch/fr/index.html"
+street: Route du Coteau
+housenumber: "4"
+phone: +41 26 466 31 18
+opening_hours: Mo 13:30-18:30; Tu-Fr 08:00-12:00,13:30-18:30; Sa 08:00-12:00
+website: https://www.motos-gaz.ch/fr/index.html

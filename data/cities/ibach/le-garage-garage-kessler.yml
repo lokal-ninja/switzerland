@@ -1,11 +1,11 @@
 id: 639812073
-type: way
+type: node
 latitude: 47.01102
 longitude: 8.64064
 postcode: "6438"
 city: Ibach
-street: "Gotthardstrasse"
-housenumber: 29
+street: Gotthardstrasse
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 162140805
-type: way
+type: node
 latitude: 47.41292
 longitude: 9.43899
 postcode: "9042"
 city: Speicher
-street: "Hauptstrasse"
-housenumber: 54
+street: Hauptstrasse
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

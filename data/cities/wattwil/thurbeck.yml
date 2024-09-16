@@ -1,11 +1,11 @@
 id: 385533783
-type: way
+type: node
 latitude: 47.30165
 longitude: 9.09057
 postcode: "9630"
 city: Wattwil
-street: "Ebnaterstrasse"
-housenumber: 19
+street: Ebnaterstrasse
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

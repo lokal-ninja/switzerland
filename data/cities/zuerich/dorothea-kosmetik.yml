@@ -4,8 +4,8 @@ latitude: 47.37337
 longitude: 8.54021
 postcode: "8001"
 city: Zürich
-street: "Fortunagasse"
-housenumber: 24
+street: Fortunagasse
+housenumber: "24"
 phone: ""
-opening_hours: "Th 10:00-20:00; Fr 10:00-20:00; Sa 10:00-16:30; PH off"
-website: "https://dorotheakosmetik.ch"
+opening_hours: Th 10:00-20:00; Fr 10:00-20:00; Sa 10:00-16:30; PH off
+website: https://dorotheakosmetik.ch

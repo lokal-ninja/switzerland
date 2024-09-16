@@ -4,8 +4,8 @@ latitude: 47.05461
 longitude: 8.38977
 postcode: "6045"
 city: Meggen
-street: "Gotthardstrasse"
-housenumber: 45
+street: Gotthardstrasse
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00, Su 07:00-22:00"
-website: "https://www.migrolino.ch/de/standorte/migrol-service-meggen/"
+opening_hours: Mo-Sa 06:00-22:00, Su 07:00-22:00
+website: https://www.migrolino.ch/de/standorte/migrol-service-meggen/

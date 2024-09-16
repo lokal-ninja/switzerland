@@ -4,8 +4,8 @@ latitude: 46.64095
 longitude: 6.63276
 postcode: "1040"
 city: Echallens
-street: "Rue Saint-Denis"
-housenumber: 16
-phone: "+41 21 881 50 69"
-opening_hours: "Lu 14:00-18:30; Ma-Ve 09:00-1200, 14:00-18:30; Sa 09:00-12:30, 13:30-16:30"
-website: "https://www.boutiquedetour.ch/"
+street: Rue Saint-Denis
+housenumber: "16"
+phone: +41 21 881 50 69
+opening_hours: Lu 14:00-18:30; Ma-Ve 09:00-1200, 14:00-18:30; Sa 09:00-12:30, 13:30-16:30
+website: https://www.boutiquedetour.ch/

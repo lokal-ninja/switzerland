@@ -4,8 +4,8 @@ latitude: 47.4759
 longitude: 8.19591
 postcode: "5200"
 city: Brugg
-street: "Badstrasse"
-housenumber: 31
-phone: "+41 56 441 31 52"
-opening_hours: "Mo-Fr 06:30-19:30; Sa 07:00-18:00"
-website: "http://www.sonneland.ch/"
+street: Badstrasse
+housenumber: "31"
+phone: +41 56 441 31 52
+opening_hours: Mo-Fr 06:30-19:30; Sa 07:00-18:00
+website: http://www.sonneland.ch/

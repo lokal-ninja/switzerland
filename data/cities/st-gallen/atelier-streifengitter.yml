@@ -4,8 +4,8 @@ latitude: 47.42872
 longitude: 9.39568
 postcode: "9000"
 city: St. Gallen
-street: "Flurhofstrasse"
-housenumber: 68
+street: Flurhofstrasse
+housenumber: "68"
 phone: ""
-opening_hours: "on appointment"
+opening_hours: '"on appointment"'
 website: ""

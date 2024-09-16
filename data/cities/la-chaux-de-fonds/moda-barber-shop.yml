@@ -4,8 +4,8 @@ latitude: 47.09964
 longitude: 6.82398
 postcode: "2300"
 city: La Chaux-de-Fonds
-street: "Avenue Léopold-Robert"
-housenumber: 66
-phone: "+41 32 913 09 90"
-opening_hours: "Tu-We 09:00-19:00; Th 09:00-20:00; Fr 09:00-19:00; Sa 08:00-18:00"
+street: Avenue Léopold-Robert
+housenumber: "66"
+phone: +41 32 913 09 90
+opening_hours: Tu-We 09:00-19:00; Th 09:00-20:00; Fr 09:00-19:00; Sa 08:00-18:00
 website: ""

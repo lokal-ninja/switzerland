@@ -4,8 +4,8 @@ latitude: 47.37411
 longitude: 8.53197
 postcode: "8004"
 city: Zürich
-street: "Kasernenstrasse"
-housenumber: 15
-phone: "+41 44 300 20 00"
-opening_hours: "Mo-Su 11:00-20:00"
-website: "https://delarabie.ch/"
+street: Kasernenstrasse
+housenumber: "15"
+phone: +41 44 300 20 00
+opening_hours: Mo-Su 11:00-20:00
+website: https://delarabie.ch/

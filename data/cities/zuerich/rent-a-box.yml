@@ -4,8 +4,8 @@ latitude: 47.37215
 longitude: 8.53923
 postcode: "8001"
 city: Zürich
-street: "Augustinergasse"
-housenumber: 15
+street: Augustinergasse
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://rent-a-box.ch/zuerich"
+website: https://rent-a-box.ch/zuerich

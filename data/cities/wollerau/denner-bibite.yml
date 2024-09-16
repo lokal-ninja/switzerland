@@ -4,8 +4,8 @@ latitude: 47.19199
 longitude: 8.72156
 postcode: "8832"
 city: Wollerau
-street: "Roosstrasse"
-housenumber: 23
+street: Roosstrasse
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
-website: "https://www.denner.ch/"
+opening_hours: Mo-Sa 07:30-20:00
+website: https://www.denner.ch/

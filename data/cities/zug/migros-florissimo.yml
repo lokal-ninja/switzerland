@@ -4,8 +4,8 @@ latitude: 47.17306
 longitude: 8.51815
 postcode: "6300"
 city: Zug
-street: "Baarerstrasse"
-housenumber: 22
+street: Baarerstrasse
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Th 08:00-21:00; Sa 08:00-17:00; PH off"
-website: "https://filialen.migros.ch/de/florissimo-zug-metalli"
+opening_hours: Mo-Fr 08:00-19:00; Th 08:00-21:00; Sa 08:00-17:00; PH off
+website: https://filialen.migros.ch/de/florissimo-zug-metalli

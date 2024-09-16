@@ -1,11 +1,11 @@
 id: 240296624
-type: way
+type: node
 latitude: 47.3823
 longitude: 9.07068
 postcode: "9601"
 city: Lütisburg Station
 street: ""
-housenumber: 8
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.metzgerei-toggenburg.ch/"
+website: https://www.metzgerei-toggenburg.ch/

@@ -1,11 +1,11 @@
 id: 788028093
-type: way
+type: node
 latitude: 47.44921
 longitude: 9.63773
 postcode: "9430"
 city: St. Margrethen SG
-street: "Hauptstrasse"
-housenumber: 138
-phone: "+41 71 744 45 40"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:30; Sa 08:00-16:00; PH off"
-website: "https://www.schuetzengarten.ch/de/ueber-uns/verkaufsstellen/getraenke-service-st.-margrethen"
+street: Hauptstrasse
+housenumber: "138"
+phone: +41 71 744 45 40
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:30; Sa 08:00-16:00; PH off
+website: https://www.schuetzengarten.ch/de/ueber-uns/verkaufsstellen/getraenke-service-st.-margrethen

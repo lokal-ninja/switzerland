@@ -1,11 +1,11 @@
 id: 200987667
-type: way
+type: node
 latitude: 47.33516
 longitude: 8.86945
 postcode: "8344"
 city: Bäretswil
-street: "Zelgstrasse"
-housenumber: 9
-phone: "+41 76 490 17 85"
+street: Zelgstrasse
+housenumber: "9"
+phone: +41 76 490 17 85
 opening_hours: ""
 website: ""

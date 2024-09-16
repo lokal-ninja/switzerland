@@ -4,8 +4,8 @@ latitude: 47.49973
 longitude: 8.72889
 postcode: "8400"
 city: Winterthur
-street: "Marktgasse"
-housenumber: 42
+street: Marktgasse
+housenumber: "42"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:30,13:30-18:00; Sa 09:30-16:00"
+opening_hours: Tu-Fr 09:00-12:30,13:30-18:00; Sa 09:30-16:00
 website: ""

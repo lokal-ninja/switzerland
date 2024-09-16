@@ -4,8 +4,8 @@ latitude: 47.43663
 longitude: 8.47371
 postcode: "8105"
 city: Regensdorf
-street: "Althardstrasse"
-housenumber: 10
+street: Althardstrasse
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-17:00"
-website: "http://www.sportfabrik.ch"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-17:00
+website: http://www.sportfabrik.ch

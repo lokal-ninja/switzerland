@@ -1,11 +1,11 @@
 id: 123628232
-type: way
+type: node
 latitude: 47.52579
 longitude: 8.21641
 postcode: "5234"
 city: Villigen
-street: "Kumetstrasse"
-housenumber: 15
-phone: "+41 56 284 17 67"
-opening_hours: "Sa 08:00-12:00; Mo-Fr nach Vereinbarung"
-website: "http://www.schoedlerwein.ch"
+street: Kumetstrasse
+housenumber: "15"
+phone: +41 56 284 17 67
+opening_hours: Sa 08:00-12:00; Mo-Fr "nach Vereinbarung"
+website: http://www.schoedlerwein.ch

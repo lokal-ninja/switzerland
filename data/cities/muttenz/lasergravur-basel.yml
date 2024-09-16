@@ -4,8 +4,8 @@ latitude: 47.52698
 longitude: 7.637
 postcode: "4132"
 city: Muttenz
-street: "Baselstrasse"
-housenumber: 74
-phone: "+41 76 433 11 67"
-opening_hours: "24/7"
+street: Baselstrasse
+housenumber: "74"
+phone: +41 76 433 11 67
+opening_hours: 24/7
 website: ""

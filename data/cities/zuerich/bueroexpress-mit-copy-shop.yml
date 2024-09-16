@@ -4,8 +4,8 @@ latitude: 47.36475
 longitude: 8.53124
 postcode: "8002"
 city: Zürich
-street: "Tessinerplatz"
-housenumber: 10
-phone: "+41 43 888 01 10"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-18:00; Su 10:00-16:00"
-website: "https://www.buero-express.ch/"
+street: Tessinerplatz
+housenumber: "10"
+phone: +41 43 888 01 10
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-18:00; Su 10:00-16:00
+website: https://www.buero-express.ch/

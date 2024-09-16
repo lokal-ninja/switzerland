@@ -4,8 +4,8 @@ latitude: 46.78744
 longitude: 7.07661
 postcode: "1754"
 city: Avry-sur-Matran
-street: "Route de Matran"
-housenumber: 5
+street: Route de Matran
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-We 08:00-19:00; Th 08:00-21:00; Fr 08:00-19:00; Sa 08:00-16:00"
-website: "https://www.aldi-suisse.ch/"
+opening_hours: Mo-We 08:00-19:00; Th 08:00-21:00; Fr 08:00-19:00; Sa 08:00-16:00
+website: https://www.aldi-suisse.ch/

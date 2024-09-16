@@ -4,8 +4,8 @@ latitude: 47.4099
 longitude: 8.5464
 postcode: "8050"
 city: Zürich
-street: "Schaffhauserstrasse"
-housenumber: 354
-phone: "+41 44 313 96 33"
-opening_hours: "Mo-Fr 10:30-20:00,Sa 09:30-18:00;PH off"
-website: "https://www.wax-in-the-city.com/waxing-zuerich-oerlikon"
+street: Schaffhauserstrasse
+housenumber: "354"
+phone: +41 44 313 96 33
+opening_hours: Mo-Fr 10:30-20:00,Sa 09:30-18:00;PH off
+website: https://www.wax-in-the-city.com/waxing-zuerich-oerlikon

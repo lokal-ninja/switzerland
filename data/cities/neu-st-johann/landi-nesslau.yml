@@ -1,11 +1,11 @@
 id: 835289054
-type: way
+type: node
 latitude: 47.23306
 longitude: 9.1905
 postcode: "9652"
 city: Neu St. Johann
-street: "Toggenburgerstrasse"
-housenumber: 40
+street: Toggenburgerstrasse
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 202691296
-type: way
+type: node
 latitude: 47.21761
 longitude: 7.75627
 postcode: "4922"
 city: Bützberg
-street: "Zürichstrasse"
-housenumber: 37
+street: Zürichstrasse
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

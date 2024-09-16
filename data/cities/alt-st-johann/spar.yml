@@ -1,11 +1,11 @@
 id: 222237439
-type: way
+type: node
 latitude: 47.19352
 longitude: 9.28386
 postcode: "9656"
 city: Alt St. Johann
-street: "Dorfstrasse"
-housenumber: 4
+street: Dorfstrasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:15,14:00-18:30; Sa 07:30-17:00"
-website: "https://www.spar.ch/"
+opening_hours: Mo-Fr 07:30-12:15,14:00-18:30; Sa 07:30-17:00
+website: https://www.spar.ch/

@@ -4,8 +4,8 @@ latitude: 47.36508
 longitude: 8.55472
 postcode: "8032"
 city: Zürich
-street: "Kreuzplatz"
-housenumber: 5
+street: Kreuzplatz
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-17:00"
-website: "https://www.tchibo.ch/"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-17:00
+website: https://www.tchibo.ch/

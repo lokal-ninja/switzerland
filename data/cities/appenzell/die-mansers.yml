@@ -1,11 +1,11 @@
 id: 242689998
-type: way
+type: node
 latitude: 47.32921
 longitude: 9.40841
 postcode: "9050"
 city: Appenzell
-street: "Jakob Signer-Strasse"
-housenumber: 1
-phone: "+41 71 787 39 77"
+street: Jakob Signer-Strasse
+housenumber: "1"
+phone: +41 71 787 39 77
 opening_hours: ""
-website: "https://www.diemansers.ch/home"
+website: https://www.diemansers.ch/home

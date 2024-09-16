@@ -4,8 +4,8 @@ latitude: 47.22645
 longitude: 8.81831
 postcode: "8640"
 city: Rapperswil
-street: "Untere Bahnhofstrasse"
-housenumber: 27
+street: Untere Bahnhofstrasse
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "https://www.sunrise.ch/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
+website: https://www.sunrise.ch/

@@ -4,8 +4,8 @@ latitude: 46.42281
 longitude: 8.15927
 postcode: "3997"
 city: Bellwald
-street: "Steinstrasse"
-housenumber: 275
+street: Steinstrasse
+housenumber: "275"
 phone: ""
-opening_hours: "auf Anfrage, info@rodeobike.ch"
-website: "https://rodeobike.ch/"
+opening_hours: '"auf Anfrage, info@rodeobike.ch"'
+website: https://rodeobike.ch/

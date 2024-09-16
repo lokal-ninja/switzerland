@@ -1,11 +1,11 @@
 id: 181597640
-type: way
+type: node
 latitude: 46.84465
 longitude: 7.19074
 postcode: "3186"
 city: Düdingen
-street: "Duensstrasse"
-housenumber: 8
+street: Duensstrasse
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.annacoudray.ch/"
+website: https://www.annacoudray.ch/

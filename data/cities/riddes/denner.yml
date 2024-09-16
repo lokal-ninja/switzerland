@@ -4,8 +4,9 @@ latitude: 46.17247
 longitude: 7.22209
 postcode: "1908"
 city: Riddes
-street: "Rue du Village"
-housenumber: 16
+street: Rue du Village
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Th 07:30-12:15,13:30-18:30; Fr 07:30-12:15,13:30-19:00; Sa 07:30-17:00; Su 07:30-12:15,13:30-18:30"
+opening_hours: Mo-Th 07:30-12:15,13:30-18:30; Fr 07:30-12:15,13:30-19:00; Sa 07:30-17:00;
+    Su 07:30-12:15,13:30-18:30
 website: ""

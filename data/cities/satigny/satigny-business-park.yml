@@ -1,11 +1,11 @@
 id: 87206043
-type: way
+type: node
 latitude: 46.22315
 longitude: 6.0514
 postcode: "1242"
 city: Satigny
-street: "Rue du Pré-de-la-Fontaine"
-housenumber: 10
+street: Rue du Pré-de-la-Fontaine
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

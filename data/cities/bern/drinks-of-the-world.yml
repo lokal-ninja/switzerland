@@ -1,11 +1,11 @@
 id: 379904545
-type: way
+type: node
 latitude: 46.9491
 longitude: 7.44014
 postcode: "3011"
 city: Bern
-street: "Bahnhofplatz"
-housenumber: 11
+street: Bahnhofplatz
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Su 09:00-22:00"
-website: "https://beerworld.ch/store-bern"
+opening_hours: Mo-Su 09:00-22:00
+website: https://beerworld.ch/store-bern

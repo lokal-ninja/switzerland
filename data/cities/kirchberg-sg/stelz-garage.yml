@@ -1,11 +1,11 @@
 id: 444457712
-type: way
+type: node
 latitude: 47.41674
 longitude: 9.04684
 postcode: "9533"
 city: Kirchberg SG
-street: "Wolfikon"
-housenumber: 66
+street: Wolfikon
+housenumber: "66"
 phone: ""
 opening_hours: ""
-website: "https://www.stelz-garage.ch/"
+website: https://www.stelz-garage.ch/

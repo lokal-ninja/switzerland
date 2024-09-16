@@ -4,8 +4,8 @@ latitude: 47.02043
 longitude: 7.447
 postcode: "3053"
 city: Münchenbuchsee
-street: "Oberdorfstrasse"
-housenumber: 25
+street: Oberdorfstrasse
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-18:30; Sa 08:00-16:00; Su off"
-website: "https://www.drogerie-studer.ch/de/filialen/muenchenbuchsee.html"
+opening_hours: Mo-Fr 08:00-12:00, 14:00-18:30; Sa 08:00-16:00; Su off
+website: https://www.drogerie-studer.ch/de/filialen/muenchenbuchsee.html

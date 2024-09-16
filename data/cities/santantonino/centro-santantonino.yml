@@ -1,11 +1,11 @@
 id: 310429096
-type: way
+type: node
 latitude: 46.15413
 longitude: 8.96169
 postcode: "6592"
 city: Sant'Antonino
-street: "Via Serrai"
-housenumber: 5
+street: Via Serrai
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

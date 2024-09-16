@@ -4,8 +4,8 @@ latitude: 46.23187
 longitude: 7.36171
 postcode: "1950"
 city: Sion
-street: "Place du Midi"
-housenumber: 33
-phone: "+41 27 327 27 21"
-opening_hours: "05:45-19:00; Jan-Feb Sa,Su 05:45-18:30"
+street: Place du Midi
+housenumber: "33"
+phone: +41 27 327 27 21
+opening_hours: 05:45-19:00; Jan-Feb Sa,Su 05:45-18:30
 website: ""

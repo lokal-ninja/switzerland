@@ -4,8 +4,8 @@ latitude: 47.05016
 longitude: 8.30145
 postcode: "6003"
 city: Luzern
-street: "Hirschengraben"
-housenumber: 41
-phone: "+41 41 552 02 51"
-opening_hours: "Tu-Fr 10:00-12:30+,13:15-18:15, Sa 10:00-16:00"
-website: "https://stromvelo.ch/stores.php?shop=6003"
+street: Hirschengraben
+housenumber: "41"
+phone: +41 41 552 02 51
+opening_hours: Tu-Fr 10:00-12:30+,13:15-18:15, Sa 10:00-16:00
+website: https://stromvelo.ch/stores.php?shop=6003

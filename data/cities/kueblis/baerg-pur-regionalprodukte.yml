@@ -4,8 +4,9 @@ latitude: 46.91455
 longitude: 9.77646
 postcode: "7240"
 city: Küblis
-street: "Dorfstrass"
-housenumber: 10
-phone: "+41 81 332 13 49"
-opening_hours: "Mo,Tu,Th,Fr 08:30-11:30, 15:30-18:00; We 08:30-11:30; Sa 08:00-12:00; Su off"
-website: "https://berg-pur.ch/"
+street: Dorfstrass
+housenumber: "10"
+phone: +41 81 332 13 49
+opening_hours: Mo,Tu,Th,Fr 08:30-11:30, 15:30-18:00; We 08:30-11:30; Sa 08:00-12:00;
+    Su off
+website: https://berg-pur.ch/

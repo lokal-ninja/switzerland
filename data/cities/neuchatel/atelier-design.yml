@@ -4,8 +4,8 @@ latitude: 46.99264
 longitude: 6.93678
 postcode: "2000"
 city: Neuchâtel
-street: "Rue Jacques-Louis-de-Pourtalès"
-housenumber: 10
-phone: "+41 (0) 79 725 82 20"
-opening_hours: "Th 10:00-16:30"
+street: Rue Jacques-Louis-de-Pourtalès
+housenumber: "10"
+phone: +41 (0) 79 725 82 20
+opening_hours: Th 10:00-16:30
 website: ""

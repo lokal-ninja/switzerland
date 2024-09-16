@@ -4,8 +4,8 @@ latitude: 47.43074
 longitude: 8.55951
 postcode: "8152"
 city: Glattbrugg
-street: "Europastrasse"
-housenumber: 3
+street: Europastrasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00"
-website: "https://www.migrolino.ch/de/standorte/migrolino-glattbrugg/"
+opening_hours: Mo-Sa 06:00-22:00
+website: https://www.migrolino.ch/de/standorte/migrolino-glattbrugg/

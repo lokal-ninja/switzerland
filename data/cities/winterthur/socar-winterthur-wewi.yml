@@ -1,11 +1,11 @@
 id: 52324045
-type: way
+type: node
 latitude: 47.51426
 longitude: 8.69392
 postcode: "8408"
 city: Winterthur
-street: "Riedhofstrasse"
-housenumber: 57.1
+street: Riedhofstrasse
+housenumber: "57.1"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.socarenergy.ch/"
+opening_hours: 24/7
+website: https://www.socarenergy.ch/

@@ -4,8 +4,8 @@ latitude: 47.49706
 longitude: 7.56423
 postcode: "4106"
 city: Therwil
-street: "Birkenstrasse"
-housenumber: 2
-phone: "+41 61 721 39 38"
-opening_hours: "Sa 10:00-12:00; sonst jederzeit nach telefonischer Absprache"
-website: "https://www.gschwindweinbau.ch/"
+street: Birkenstrasse
+housenumber: "2"
+phone: +41 61 721 39 38
+opening_hours: Sa 10:00-12:00; "sonst jederzeit nach telefonischer Absprache"
+website: https://www.gschwindweinbau.ch/

@@ -4,8 +4,8 @@ latitude: 46.92534
 longitude: 7.41655
 postcode: "3098"
 city: Köniz
-street: "Könizstrasse"
-housenumber: 300
-phone: "+41 31 971 16 27"
-opening_hours: "Mo-Fr 09:00-12:00,13:30-18:30; Sa 09:00-14:00; PH,Su off"
-website: "https://velogfeller.ch/"
+street: Könizstrasse
+housenumber: "300"
+phone: +41 31 971 16 27
+opening_hours: Mo-Fr 09:00-12:00,13:30-18:30; Sa 09:00-14:00; PH,Su off
+website: https://velogfeller.ch/

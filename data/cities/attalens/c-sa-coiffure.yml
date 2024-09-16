@@ -4,8 +4,8 @@ latitude: 46.51168
 longitude: 6.8492
 postcode: "1616"
 city: Attalens
-street: "Grand-Rue"
-housenumber: 42
-phone: "+41 21 947 39 39"
-opening_hours: "Tu 08:30-18:30; Fr 08:30-18:30; Sa 08:30-16:00"
+street: Grand-Rue
+housenumber: "42"
+phone: +41 21 947 39 39
+opening_hours: Tu 08:30-18:30; Fr 08:30-18:30; Sa 08:30-16:00
 website: ""

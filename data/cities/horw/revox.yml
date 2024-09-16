@@ -1,11 +1,11 @@
 id: 106877145
-type: way
+type: node
 latitude: 47.02127
 longitude: 8.3104
 postcode: "6048"
 city: Horw
-street: "Kantonsstrasse"
-housenumber: 62
+street: Kantonsstrasse
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

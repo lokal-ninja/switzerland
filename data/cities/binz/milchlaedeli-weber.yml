@@ -4,8 +4,8 @@ latitude: 47.3569
 longitude: 8.62794
 postcode: "8122"
 city: Binz
-street: "Zollikonstrasse"
-housenumber: 2
-phone: "+41 44 887 73 76"
-opening_hours: "Tu-Sa 08:45-12:15, 15:00-19:00; Su 15:00-19:00"
-website: "https://www.webercomestibles.ch/"
+street: Zollikonstrasse
+housenumber: "2"
+phone: +41 44 887 73 76
+opening_hours: Tu-Sa 08:45-12:15, 15:00-19:00; Su 15:00-19:00
+website: https://www.webercomestibles.ch/

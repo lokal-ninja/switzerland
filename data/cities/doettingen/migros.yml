@@ -4,8 +4,8 @@ latitude: 47.57413
 longitude: 8.25586
 postcode: "5312"
 city: Döttingen
-street: "Hauptstrasse"
-housenumber: 17
+street: Hauptstrasse
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-18:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-doettingen"
+opening_hours: Mo-Fr 08:00-19:00, Sa 08:00-18:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-doettingen

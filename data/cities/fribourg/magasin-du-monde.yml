@@ -4,8 +4,8 @@ latitude: 46.80604
 longitude: 7.1601
 postcode: "1700"
 city: Fribourg
-street: "Rue de Lausanne / Lausannegasse"
-housenumber: 13
-phone: "+41 26 323 11 03"
-opening_hours: "Mo 13:30-18:30; Tu,Th,Fr 10:00-18:30; We 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.mdm.ch/magasins/magasin_fribourg"
+street: Rue de Lausanne / Lausannegasse
+housenumber: "13"
+phone: +41 26 323 11 03
+opening_hours: Mo 13:30-18:30; Tu,Th,Fr 10:00-18:30; We 09:00-18:30; Sa 09:00-16:00
+website: https://www.mdm.ch/magasins/magasin_fribourg

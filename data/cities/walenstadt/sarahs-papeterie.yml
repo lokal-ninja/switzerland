@@ -4,8 +4,8 @@ latitude: 47.12381
 longitude: 9.31438
 postcode: "8880"
 city: Walenstadt
-street: "Bahnhofstrasse"
-housenumber: 6
-phone: "+41 81 710 20 38"
-opening_hours: "Tu-Fr 08:30-12:00,13:30-18:00; Sa 09:00-12:00"
+street: Bahnhofstrasse
+housenumber: "6"
+phone: +41 81 710 20 38
+opening_hours: Tu-Fr 08:30-12:00,13:30-18:00; Sa 09:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 509889418
-type: way
+type: node
 latitude: 47.40303
 longitude: 9.45504
 postcode: "9043"
 city: Trogen
-street: "Buchenweg"
-housenumber: 3
+street: Buchenweg
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

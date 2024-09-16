@@ -4,8 +4,8 @@ latitude: 47.63948
 longitude: 9.20338
 postcode: "8280"
 city: Kreuzlingen
-street: "Romanshornerstrasse"
-housenumber: 126
+street: Romanshornerstrasse
+housenumber: "126"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00, Su 08:00-20:00"
-website: "https://www.coop-pronto.ch/"
+opening_hours: Mo-Sa 06:00-22:00, Su 08:00-20:00
+website: https://www.coop-pronto.ch/

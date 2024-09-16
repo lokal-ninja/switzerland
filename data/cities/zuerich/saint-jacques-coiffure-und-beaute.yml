@@ -4,8 +4,8 @@ latitude: 47.37382
 longitude: 8.52823
 postcode: "8004"
 city: Zürich
-street: "St. Jakobstrasse"
-housenumber: 8
-phone: "+41 43 541 27 79"
-opening_hours: "Tu,Th 09:00-19:00; We 10:00-20:00; Sa 08:00-15:00"
-website: "https://saint-jacques.ch/"
+street: St. Jakobstrasse
+housenumber: "8"
+phone: +41 43 541 27 79
+opening_hours: Tu,Th 09:00-19:00; We 10:00-20:00; Sa 08:00-15:00
+website: https://saint-jacques.ch/

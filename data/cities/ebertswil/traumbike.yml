@@ -4,8 +4,8 @@ latitude: 47.22651
 longitude: 8.54995
 postcode: "8925"
 city: Ebertswil
-street: "Allmendstrasse"
-housenumber: 1
-phone: "+41 43 530 02 08"
-opening_hours: "Tu-Fr 13:45-18:15; Sa 09:00-15:00"
-website: "https://www.traumbikes.com/"
+street: Allmendstrasse
+housenumber: "1"
+phone: +41 43 530 02 08
+opening_hours: Tu-Fr 13:45-18:15; Sa 09:00-15:00
+website: https://www.traumbikes.com/

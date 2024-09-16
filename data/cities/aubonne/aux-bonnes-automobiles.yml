@@ -1,11 +1,11 @@
 id: 226843635
-type: way
+type: node
 latitude: 46.49247
 longitude: 6.38912
 postcode: ""
 city: Aubonne
-street: "Rue de Trévelin"
-housenumber: 60
+street: Rue de Trévelin
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

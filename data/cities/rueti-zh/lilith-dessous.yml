@@ -4,8 +4,8 @@ latitude: 47.2588
 longitude: 8.84911
 postcode: "8630"
 city: Rüti (ZH)
-street: "Dorfstrasse"
-housenumber: 4
+street: Dorfstrasse
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Fr 09:00-11:45,14:00-18:30; Sa 09:00-13:00"
-website: "https://www.lilith-dessous.ch/"
+opening_hours: Tu-Fr 09:00-11:45,14:00-18:30; Sa 09:00-13:00
+website: https://www.lilith-dessous.ch/

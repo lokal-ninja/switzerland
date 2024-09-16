@@ -4,8 +4,8 @@ latitude: 47.50551
 longitude: 7.51839
 postcode: "4105"
 city: Biel-Benken
-street: "Kirchgasse"
-housenumber: 23
-phone: "+41 61 721 13 18"
-opening_hours: "Mo-Tu,Th-Fr 07:30-12:15,14:00-18:30; We 07:30-12:15; Sa 07:30-14:00"
+street: Kirchgasse
+housenumber: "23"
+phone: +41 61 721 13 18
+opening_hours: Mo-Tu,Th-Fr 07:30-12:15,14:00-18:30; We 07:30-12:15; Sa 07:30-14:00
 website: ""

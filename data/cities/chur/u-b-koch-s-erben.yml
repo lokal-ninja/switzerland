@@ -4,8 +4,8 @@ latitude: 46.84888
 longitude: 9.53148
 postcode: "7000"
 city: Chur
-street: "Kornplatz"
-housenumber: 3
+street: Kornplatz
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.ubkoch.ch/"
+website: https://www.ubkoch.ch/

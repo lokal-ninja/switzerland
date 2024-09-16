@@ -4,8 +4,8 @@ latitude: 47.47586
 longitude: 8.3079
 postcode: "5400"
 city: Baden
-street: "Bahnhofstrasse"
-housenumber: 28
+street: Bahnhofstrasse
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 8:00-18:00; Su off"
-website: "https://www.coop-city.ch/"
+opening_hours: Mo-Fr 08:30-19:00; Sa 8:00-18:00; Su off
+website: https://www.coop-city.ch/

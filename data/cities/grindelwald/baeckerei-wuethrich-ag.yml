@@ -1,11 +1,11 @@
 id: 262676352
-type: way
+type: node
 latitude: 46.62544
 longitude: 8.04677
 postcode: "3818"
 city: Grindelwald
-street: "Ischweg"
-housenumber: 1
+street: Ischweg
+housenumber: "1"
 phone: "+41338548854"
 opening_hours: ""
-website: "https://www.gletscherbeck.ch/"
+website: https://www.gletscherbeck.ch/

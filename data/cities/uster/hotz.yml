@@ -4,8 +4,8 @@ latitude: 47.34875
 longitude: 8.71743
 postcode: "8610"
 city: Uster
-street: "Zürichstrasse"
-housenumber: 6
+street: Zürichstrasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30, Sa 06:30-16:30, Su 08:00-16:30"
-website: "https://www.konditorei-hotz.ch/uster"
+opening_hours: Mo-Fr 06:30-18:30, Sa 06:30-16:30, Su 08:00-16:30
+website: https://www.konditorei-hotz.ch/uster

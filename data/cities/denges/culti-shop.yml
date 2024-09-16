@@ -4,8 +4,8 @@ latitude: 46.52658
 longitude: 6.54144
 postcode: "1026"
 city: Denges
-street: "Route de la Gare"
-housenumber: 9
+street: Route de la Gare
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Su 15:00-18:30;sa 09:00-12:30"
-website: "https://culti-shop.ch"
+opening_hours: Mo-Su 15:00-18:30;sa 09:00-12:30
+website: https://culti-shop.ch

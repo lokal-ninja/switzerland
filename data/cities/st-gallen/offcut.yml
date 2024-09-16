@@ -4,8 +4,8 @@ latitude: 47.41991
 longitude: 9.35407
 postcode: "9000"
 city: St. Gallen
-street: "Ulmenstrasse"
-housenumber: 5
+street: Ulmenstrasse
+housenumber: "5"
 phone: ""
-opening_hours: "We-Fr 12:00-19:00; Sa 10:00-16:00"
-website: "https://www.offcut.ch/sg/"
+opening_hours: We-Fr 12:00-19:00; Sa 10:00-16:00
+website: https://www.offcut.ch/sg/

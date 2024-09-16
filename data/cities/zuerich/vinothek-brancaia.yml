@@ -4,8 +4,8 @@ latitude: 47.34751
 longitude: 8.56468
 postcode: "8008"
 city: Zürich
-street: "Seefeldstrasse"
-housenumber: 299
-phone: "+41 44 422 45 22"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:00-16:00"
-website: "https://vinothek-brancaia.ch/"
+street: Seefeldstrasse
+housenumber: "299"
+phone: +41 44 422 45 22
+opening_hours: Mo-Fr 10:00-18:30; Sa 09:00-16:00
+website: https://vinothek-brancaia.ch/

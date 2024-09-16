@@ -1,11 +1,11 @@
 id: 211092745
-type: way
+type: node
 latitude: 47.49016
 longitude: 8.24681
 postcode: "5412"
 city: Gebenstorf
-street: "Im Halt"
-housenumber: 6
-phone: "+41 56 223 21 25"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.qualipet.ch/"
+street: Im Halt
+housenumber: "6"
+phone: +41 56 223 21 25
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.qualipet.ch/

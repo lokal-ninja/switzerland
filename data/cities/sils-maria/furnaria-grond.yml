@@ -4,8 +4,8 @@ latitude: 46.42976
 longitude: 9.76241
 postcode: "7514"
 city: Sils Maria
-street: "Via da Marias"
-housenumber: 134
-phone: "+41 81 826 63 68"
-opening_hours: "07:00-18:30"
-website: "https://www.grond-engadin.ch"
+street: Via da Marias
+housenumber: "134"
+phone: +41 81 826 63 68
+opening_hours: 07:00-18:30
+website: https://www.grond-engadin.ch

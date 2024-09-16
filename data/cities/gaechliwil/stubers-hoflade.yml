@@ -1,11 +1,11 @@
 id: 155273792
-type: way
+type: node
 latitude: 47.13027
 longitude: 7.44715
 postcode: "4584"
 city: Gächliwil
-street: "Hauptstrasse"
-housenumber: 
+street: Hauptstrasse
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

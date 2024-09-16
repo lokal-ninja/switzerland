@@ -4,8 +4,8 @@ latitude: 47.39344
 longitude: 8.47423
 postcode: "8048"
 city: Zürich
-street: "Badenerstrasse"
-housenumber: 816
-phone: "+41 43 960 32 64"
-opening_hours: "Tu 9:00-12:00 || by appointment"
-website: "https://www.revamp-it.ch"
+street: Badenerstrasse
+housenumber: "816"
+phone: +41 43 960 32 64
+opening_hours: Tu 9:00-12:00 || "by appointment"
+website: https://www.revamp-it.ch

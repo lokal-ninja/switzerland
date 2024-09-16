@@ -4,8 +4,8 @@ latitude: 47.02949
 longitude: 8.62955
 postcode: "6423"
 city: Seewen
-street: "Bahnhofstrasse"
-housenumber: 178
-phone: "+41 41 811 93 39"
-opening_hours: "Tu-Fr 09:00-12:00, 13:30-18:30; Sa 09:00-16:00"
-website: "https://www.velotrend.ch/"
+street: Bahnhofstrasse
+housenumber: "178"
+phone: +41 41 811 93 39
+opening_hours: Tu-Fr 09:00-12:00, 13:30-18:30; Sa 09:00-16:00
+website: https://www.velotrend.ch/

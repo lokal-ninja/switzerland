@@ -1,11 +1,11 @@
 id: 212884229
-type: way
+type: node
 latitude: 47.17984
 longitude: 7.37011
 postcode: "2543"
 city: Lengnau BE
-street: "Jungfraustrasse"
-housenumber: 2
+street: Jungfraustrasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-17:00; PH off"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-17:00; PH off
 website: ""

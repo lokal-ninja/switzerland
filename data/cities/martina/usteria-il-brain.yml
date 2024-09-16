@@ -1,11 +1,11 @@
 id: 207145158
-type: way
+type: node
 latitude: 46.87948
 longitude: 10.45804
 postcode: "7560"
 city: Martina
-street: "Il Bain"
-housenumber: 202
+street: Il Bain
+housenumber: "202"
 phone: ""
 opening_hours: ""
 website: ""

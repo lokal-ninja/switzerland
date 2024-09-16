@@ -4,8 +4,8 @@ latitude: 47.32763
 longitude: 8.80008
 postcode: "8620"
 city: Wetzikon
-street: "Bahnhofstrasse"
-housenumber: 151
+street: Bahnhofstrasse
+housenumber: "151"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-19:00"
-website: "https://www.melectronics.ch/"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-19:00
+website: https://www.melectronics.ch/

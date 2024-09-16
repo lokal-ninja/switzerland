@@ -1,11 +1,11 @@
 id: 160730143
-type: way
+type: node
 latitude: 46.74485
 longitude: 8.05939
 postcode: "3855"
 city: Brienz BE
-street: "Stägmattgasse"
-housenumber: 1
+street: Stägmattgasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

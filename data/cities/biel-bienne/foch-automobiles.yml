@@ -1,11 +1,11 @@
 id: 213587579
-type: way
+type: node
 latitude: 47.15353
 longitude: 7.28499
 postcode: "2504"
 city: Biel/Bienne
-street: "Längfeldweg"
-housenumber: 118
+street: Längfeldweg
+housenumber: "118"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 76279166
-type: way
+type: node
 latitude: 47.12955
 longitude: 9.21542
 postcode: "8878"
 city: Quinten
-street: "Dörfli"
-housenumber: 806
+street: Dörfli
+housenumber: "806"
 phone: ""
 opening_hours: ""
 website: ""

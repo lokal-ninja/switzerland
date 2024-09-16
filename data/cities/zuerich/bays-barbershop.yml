@@ -4,8 +4,8 @@ latitude: 47.38189
 longitude: 8.53218
 postcode: "8005"
 city: Zürich
-street: "Josefstrasse"
-housenumber: 53
+street: Josefstrasse
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:30-18:00"
-website: "https://www.bays-barbershop.ch/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 08:30-18:00
+website: https://www.bays-barbershop.ch/

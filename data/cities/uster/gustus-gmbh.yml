@@ -4,8 +4,8 @@ latitude: 47.34586
 longitude: 8.73933
 postcode: "8610"
 city: Uster
-street: "Aathalstrasse"
-housenumber: 74
-phone: "+41 44 941 50 55"
-opening_hours: "Mo-Th 14:00-17:00"
-website: "https://kaffeezentrale.ch/"
+street: Aathalstrasse
+housenumber: "74"
+phone: +41 44 941 50 55
+opening_hours: Mo-Th 14:00-17:00
+website: https://kaffeezentrale.ch/

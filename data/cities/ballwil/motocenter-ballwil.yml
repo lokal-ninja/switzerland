@@ -1,11 +1,11 @@
 id: 221393816
-type: way
+type: node
 latitude: 47.15517
 longitude: 8.31581
 postcode: "6275"
 city: Ballwil
-street: "Hochdorfstrasse"
-housenumber: 9
+street: Hochdorfstrasse
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

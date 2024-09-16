@@ -4,8 +4,9 @@ latitude: 47.4074
 longitude: 9.29796
 postcode: "9015"
 city: St. Gallen
-street: "Zürcherstrasse"
-housenumber: 499
-phone: "+41 71 310 00 30"
-opening_hours: "Mar-Oct Mo-Fr 08:00-12:00,13:30-18:30; Sa 08:00-16:00; Nov-Feb Mo-Fr 08:00-12:00,13:30-18:00; Su,PH off"
-website: "https://www.moto-center-west.ch/"
+street: Zürcherstrasse
+housenumber: "499"
+phone: +41 71 310 00 30
+opening_hours: Mar-Oct Mo-Fr 08:00-12:00,13:30-18:30; Sa 08:00-16:00; Nov-Feb Mo-Fr
+    08:00-12:00,13:30-18:00; Su,PH off
+website: https://www.moto-center-west.ch/

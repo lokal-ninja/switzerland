@@ -4,8 +4,8 @@ latitude: 46.85476
 longitude: 7.24966
 postcode: "3185"
 city: Schmitten
-street: "Franz Xaver Müllerstrasse"
-housenumber: 11
+street: Franz Xaver Müllerstrasse
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-16:00"
-website: "https://www.coop.ch/de/standorte/coop-supermarkt-schmitten/4478_POS"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-16:00
+website: https://www.coop.ch/de/standorte/coop-supermarkt-schmitten/4478_POS

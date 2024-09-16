@@ -4,8 +4,8 @@ latitude: 47.51655
 longitude: 8.5944
 postcode: "8424"
 city: Embrach
-street: "Industriestrasse"
-housenumber: 4
-phone: "+41 44 865 82 89"
-opening_hours: "Mo-Sa 07:30-20:00; PH off"
-website: "https://www.aldi-suisse.ch/"
+street: Industriestrasse
+housenumber: "4"
+phone: +41 44 865 82 89
+opening_hours: Mo-Sa 07:30-20:00; PH off
+website: https://www.aldi-suisse.ch/

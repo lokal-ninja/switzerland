@@ -4,8 +4,8 @@ latitude: 47.39809
 longitude: 8.53991
 postcode: "8057"
 city: Zürich
-street: "Wehntalerstrasse"
-housenumber: 18
+street: Wehntalerstrasse
+housenumber: "18"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.migrol.ch/de/"
+opening_hours: 24/7
+website: https://www.migrol.ch/de/

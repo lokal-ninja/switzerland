@@ -4,8 +4,8 @@ latitude: 46.50825
 longitude: 6.49724
 postcode: "1110"
 city: Morges
-street: "Grand-Rue"
-housenumber: 90
-phone: "+41 21 801 33 56"
+street: Grand-Rue
+housenumber: "90"
+phone: +41 21 801 33 56
 opening_hours: ""
-website: "https://www.francois-sports.ch/"
+website: https://www.francois-sports.ch/

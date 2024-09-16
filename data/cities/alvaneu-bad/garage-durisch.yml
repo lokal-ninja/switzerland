@@ -1,11 +1,11 @@
 id: 314446185
-type: way
+type: node
 latitude: 46.66805
 longitude: 9.6454
 postcode: "7473"
 city: Alvaneu Bad
-street: "Albulastrasse"
-housenumber: 144
+street: Albulastrasse
+housenumber: "144"
 phone: ""
 opening_hours: ""
 website: ""

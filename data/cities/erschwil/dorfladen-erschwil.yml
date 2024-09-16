@@ -4,8 +4,8 @@ latitude: 47.37327
 longitude: 7.54146
 postcode: "4228"
 city: Erschwil
-street: "Schmelzistrasse"
-housenumber: 38
-phone: "+4161 781 11 24"
-opening_hours: "Mo-Fr 07:00-12:15, Mo-Fr 15:00-18:30, Sa 07:00-14:00"
-website: "http://dorfladen-erschwil.ch"
+street: Schmelzistrasse
+housenumber: "38"
+phone: +4161 781 11 24
+opening_hours: Mo-Fr 07:00-12:15, Mo-Fr 15:00-18:30, Sa 07:00-14:00
+website: http://dorfladen-erschwil.ch

@@ -4,8 +4,8 @@ latitude: 46.23083
 longitude: 7.36704
 postcode: "1950"
 city: Sion
-street: "Avenue de Tourbillon"
-housenumber: 60
-phone: "+41 27 322 04 49"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-15:00"
-website: "https://www.depil-a-sion.com/"
+street: Avenue de Tourbillon
+housenumber: "60"
+phone: +41 27 322 04 49
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-15:00
+website: https://www.depil-a-sion.com/

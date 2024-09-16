@@ -1,11 +1,11 @@
 id: 300384657
-type: way
+type: node
 latitude: 47.44076
 longitude: 9.47573
 postcode: "9034"
 city: Eggersriet
-street: "Heidenerstrasse"
-housenumber: 30
-phone: "+41 71 877 29 15"
+street: Heidenerstrasse
+housenumber: "30"
+phone: +41 71 877 29 15
 opening_hours: ""
 website: ""

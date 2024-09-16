@@ -4,8 +4,8 @@ latitude: 47.38005
 longitude: 8.53527
 postcode: "8005"
 city: Zürich
-street: "Zollstrasse"
-housenumber: 27
-phone: "+41 44 240 00 30"
-opening_hours: "Mo 13:00-19:00; Tu-Fr 10:00-19:00; Sa 09:00-17:00"
-website: "https://www.reseda.ch/"
+street: Zollstrasse
+housenumber: "27"
+phone: +41 44 240 00 30
+opening_hours: Mo 13:00-19:00; Tu-Fr 10:00-19:00; Sa 09:00-17:00
+website: https://www.reseda.ch/

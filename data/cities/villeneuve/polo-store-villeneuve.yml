@@ -4,8 +4,9 @@ latitude: 46.38601
 longitude: 6.93596
 postcode: "1844"
 city: Villeneuve
-street: "Chemin de la Confrérie"
-housenumber: 
-phone: "+41 21 9604711"
-opening_hours: "Mar-Sep Mo-Fr 09:00-19:00; Oct-Feb Mo-Fr 09:30-18:30; Sa 09:00-18:00; Su,PH off"
-website: "https://www.polo-motorrad.ch/cms/stores/villeneuve"
+street: Chemin de la Confrérie
+housenumber: ""
+phone: +41 21 9604711
+opening_hours: Mar-Sep Mo-Fr 09:00-19:00; Oct-Feb Mo-Fr 09:30-18:30; Sa 09:00-18:00;
+    Su,PH off
+website: https://www.polo-motorrad.ch/cms/stores/villeneuve

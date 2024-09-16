@@ -1,11 +1,11 @@
 id: 319790974
-type: way
+type: node
 latitude: 46.59171
 longitude: 6.214
 postcode: "1348"
 city: Le Brassus
-street: "Route du Risoud"
-housenumber: 28
+street: Route du Risoud
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

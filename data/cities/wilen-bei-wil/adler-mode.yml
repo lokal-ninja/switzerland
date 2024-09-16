@@ -1,11 +1,11 @@
 id: 327870042
-type: way
+type: node
 latitude: 47.45425
 longitude: 9.04012
 postcode: "9535"
 city: Wilen bei Wil
-street: "Weidstrasse"
-housenumber: 13
+street: Weidstrasse
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-17:00"
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-17:00
 website: ""

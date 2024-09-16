@@ -4,8 +4,8 @@ latitude: 46.8825
 longitude: 7.41602
 postcode: "3145"
 city: Köniz
-street: "Haltenstrasse"
-housenumber: 328
+street: Haltenstrasse
+housenumber: "328"
 phone: ""
-opening_hours: "Mo-Fr 06:30-12:15, 14:00-18:30; Sa 06:30-16:00; Su off"
-website: "https://www.jaeger-oberscherli.ch/"
+opening_hours: Mo-Fr 06:30-12:15, 14:00-18:30; Sa 06:30-16:00; Su off
+website: https://www.jaeger-oberscherli.ch/

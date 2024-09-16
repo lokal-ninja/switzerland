@@ -1,11 +1,11 @@
 id: 222237485
-type: way
+type: node
 latitude: 47.19669
 longitude: 9.29711
 postcode: "9657"
 city: Unterwasser
 street: ""
-housenumber: 872
+housenumber: "872"
 phone: ""
-opening_hours: "Mo-Sa 08:00-12:00, Mo,Tu,Th,Fr 14:00-18:00, Sa 14:00-16:00"
+opening_hours: Mo-Sa 08:00-12:00, Mo,Tu,Th,Fr 14:00-18:00, Sa 14:00-16:00
 website: ""

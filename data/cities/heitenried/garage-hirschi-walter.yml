@@ -1,11 +1,11 @@
 id: 208396389
-type: way
+type: node
 latitude: 46.82256
 longitude: 7.3021
 postcode: "1714"
 city: Heitenried
-street: "Spisi"
-housenumber: 9
+street: Spisi
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

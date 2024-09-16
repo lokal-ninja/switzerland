@@ -1,11 +1,11 @@
 id: 134053800
-type: way
+type: node
 latitude: 46.16505
 longitude: 6.11109
 postcode: "1228"
 city: Plan-les-Ouates
-street: "Route de Saint-Julien"
-housenumber: 185
-phone: "+41 22 771 02 20"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.migrolino.ch/fr/standorte/migrol-plan-ouates/?_o=ms"
+street: Route de Saint-Julien
+housenumber: "185"
+phone: +41 22 771 02 20
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.migrolino.ch/fr/standorte/migrol-plan-ouates/?_o=ms

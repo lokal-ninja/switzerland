@@ -5,7 +5,7 @@ longitude: 8.54858
 postcode: "8001"
 city: Zürich
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Th 06:00-22:00; Fr-Sa 06:00-23:00; Su 07:30-22:00"
-website: "https://www.kkiosk.ch/"
+opening_hours: Mo-Th 06:00-22:00; Fr-Sa 06:00-23:00; Su 07:30-22:00
+website: https://www.kkiosk.ch/

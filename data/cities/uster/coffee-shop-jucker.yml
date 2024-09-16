@@ -4,8 +4,8 @@ latitude: 47.34397
 longitude: 8.70168
 postcode: "8610"
 city: Uster
-street: "Seefeldstrasse"
-housenumber: 5
-phone: "+41 44 940 32 10"
-opening_hours: "Tu-Fr 08:00-12:00, 13:45-17:30; Sa 09:00-12:00"
-website: "http://www.coffee-shop.ch/"
+street: Seefeldstrasse
+housenumber: "5"
+phone: +41 44 940 32 10
+opening_hours: Tu-Fr 08:00-12:00, 13:45-17:30; Sa 09:00-12:00
+website: http://www.coffee-shop.ch/

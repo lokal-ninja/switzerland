@@ -4,8 +4,8 @@ latitude: 47.36852
 longitude: 8.54678
 postcode: "8001"
 city: Zürich
-street: "Rämistrasse"
-housenumber: 4
+street: Rämistrasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:30; Sa 10:00-16:00"
-website: "https://www.wickshoes.ch/"
+opening_hours: Mo-Fr 11:00-18:30; Sa 10:00-16:00
+website: https://www.wickshoes.ch/

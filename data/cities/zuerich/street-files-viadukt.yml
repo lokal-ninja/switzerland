@@ -4,8 +4,8 @@ latitude: 47.38717
 longitude: 8.52473
 postcode: "8005"
 city: Zürich
-street: "Viaduktstrasse"
-housenumber: 31
-phone: "+41 43 322 03 23"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00"
-website: "https://www.street-files.com/"
+street: Viaduktstrasse
+housenumber: "31"
+phone: +41 43 322 03 23
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-18:00
+website: https://www.street-files.com/

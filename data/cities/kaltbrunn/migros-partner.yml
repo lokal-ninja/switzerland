@@ -4,8 +4,8 @@ latitude: 47.21312
 longitude: 9.02447
 postcode: "8722"
 city: Kaltbrunn
-street: "Uznacherstrasse"
-housenumber: 1
+street: Uznacherstrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00,14:00-18:30; Sa 07:30-16:00; PH off"
-website: "https://filialen.migros.ch/de/migros-partner-kaltbrunn"
+opening_hours: Mo-Fr 07:30-12:00,14:00-18:30; Sa 07:30-16:00; PH off
+website: https://filialen.migros.ch/de/migros-partner-kaltbrunn

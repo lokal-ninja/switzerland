@@ -4,8 +4,8 @@ latitude: 47.39301
 longitude: 8.52887
 postcode: "8037"
 city: Zürich
-street: "Landenbergstrasse"
-housenumber: 26
+street: Landenbergstrasse
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 10:00-15:00"
+opening_hours: Mo-Fr 09:00-17:00; Sa 10:00-15:00
 website: ""

@@ -1,11 +1,12 @@
 id: 521071417
-type: way
+type: node
 latitude: 47.38009
 longitude: 8.62846
 postcode: "8117"
 city: Fällanden
-street: "In der Breiti"
-housenumber: 3
-phone: "+41 44 806 50 45"
-opening_hours: "Jan-Feb: Mo-Sa 10:00-17:00; Mar-Dec: Mo-Fr 09:00-18:30; Mar-Dec: Sa 09:00-17:00"
-website: "https://www.rutishauserag.ch/"
+street: In der Breiti
+housenumber: "3"
+phone: +41 44 806 50 45
+opening_hours: 'Jan-Feb: Mo-Sa 10:00-17:00; Mar-Dec: Mo-Fr 09:00-18:30; Mar-Dec: Sa
+    09:00-17:00'
+website: https://www.rutishauserag.ch/

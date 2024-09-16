@@ -1,11 +1,11 @@
 id: 509660909
-type: way
+type: node
 latitude: 46.31782
 longitude: 6.89639
 postcode: "1895"
 city: Vionnaz
-street: "Route du Léman"
-housenumber: 71
+street: Route du Léman
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.29165
 longitude: 7.52623
 postcode: "3960"
 city: Sierre
-street: "Route de l'Hôpital"
-housenumber: 4
+street: Route de l'Hôpital
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Fr 08:00-12:00,13:30-18:30; Mo 09:30-12:00,13:30-18:30; Sa 08:00-12:00"
+opening_hours: Tu-Fr 08:00-12:00,13:30-18:30; Mo 09:30-12:00,13:30-18:30; Sa 08:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 188245408
-type: way
+type: node
 latitude: 46.81831
 longitude: 7.34487
 postcode: "3150"
 city: Schwarzenburg
-street: "Thunstrasse"
-housenumber: 4
+street: Thunstrasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.puppenmacherei.ch/"
+website: https://www.puppenmacherei.ch/

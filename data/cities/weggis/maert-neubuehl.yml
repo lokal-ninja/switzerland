@@ -1,11 +1,11 @@
 id: 385633966
-type: way
+type: node
 latitude: 47.03386
 longitude: 8.4258
 postcode: "6353"
 city: Weggis
-street: "Luzernerstrasse"
-housenumber: 44
+street: Luzernerstrasse
+housenumber: "44"
 phone: "+41413910606"
 opening_hours: ""
 website: ""

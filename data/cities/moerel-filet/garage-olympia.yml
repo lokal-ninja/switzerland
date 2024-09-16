@@ -1,11 +1,11 @@
 id: 268152118
-type: way
+type: node
 latitude: 46.35455
 longitude: 8.04328
 postcode: "3983"
 city: Mörel-Filet
-street: "Furkastrasse"
-housenumber: 7
+street: Furkastrasse
+housenumber: "7"
 phone: "+41279274171"
 opening_hours: ""
 website: ""

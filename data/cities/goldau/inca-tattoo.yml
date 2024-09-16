@@ -4,8 +4,8 @@ latitude: 47.05064
 longitude: 8.54954
 postcode: "6410"
 city: Goldau
-street: "Mythenstrasse"
-housenumber: 1
-phone: "+41 78 229 38 83"
-opening_hours: "Tu-Fr 10:30-19:00; Sa 09:00-18:00"
-website: "https://incatattoo.ch/"
+street: Mythenstrasse
+housenumber: "1"
+phone: +41 78 229 38 83
+opening_hours: Tu-Fr 10:30-19:00; Sa 09:00-18:00
+website: https://incatattoo.ch/

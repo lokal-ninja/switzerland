@@ -4,8 +4,8 @@ latitude: 47.12784
 longitude: 8.7431
 postcode: "8840"
 city: Einsiedeln
-street: "Grotzenmühlestrasse"
-housenumber: 1
-phone: "+41 41 817 40 09"
-opening_hours: "Mo-Th 08:30-12:00,13:30-16:30; Fr 08:30-12:00,13:30-16:00"
-website: "https://shop.bsz-stiftung.ch/"
+street: Grotzenmühlestrasse
+housenumber: "1"
+phone: +41 41 817 40 09
+opening_hours: Mo-Th 08:30-12:00,13:30-16:30; Fr 08:30-12:00,13:30-16:00
+website: https://shop.bsz-stiftung.ch/

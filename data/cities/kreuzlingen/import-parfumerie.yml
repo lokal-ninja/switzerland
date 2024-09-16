@@ -4,8 +4,8 @@ latitude: 47.65054
 longitude: 9.17333
 postcode: "8280"
 city: Kreuzlingen
-street: "Sonnenstrasse"
-housenumber: 16
+street: Sonnenstrasse
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:00, Sa 08:30-18:00; PH off"
-website: "https://www.impo.ch/"
+opening_hours: Mo-Fr 08:30-20:00, Sa 08:30-18:00; PH off
+website: https://www.impo.ch/

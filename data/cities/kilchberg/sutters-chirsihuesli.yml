@@ -4,8 +4,8 @@ latitude: 47.42564
 longitude: 7.89855
 postcode: "4496"
 city: Kilchberg
-street: "Hauptstrasse"
-housenumber: 16
-phone: "+41 61 981 30 41"
-opening_hours: "nach Vereinbarung"
-website: "http://www.kirschenwein.ch"
+street: Hauptstrasse
+housenumber: "16"
+phone: +41 61 981 30 41
+opening_hours: nach Vereinbarung
+website: http://www.kirschenwein.ch

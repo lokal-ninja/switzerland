@@ -1,11 +1,11 @@
 id: 300689046
-type: way
+type: node
 latitude: 46.62581
 longitude: 10.4459
 postcode: "7537"
 city: Müstair
-street: "Plaza da Posta"
-housenumber: 
+street: Plaza da Posta
+housenumber: ""
 phone: ""
-opening_hours: "Mo 08:00-12:00; Tu-Fr 08:00-12:00,14:00-18:30; Sa 08:00-12:00,14:00-17:00"
+opening_hours: Mo 08:00-12:00; Tu-Fr 08:00-12:00,14:00-18:30; Sa 08:00-12:00,14:00-17:00
 website: ""

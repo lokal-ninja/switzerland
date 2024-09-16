@@ -4,8 +4,8 @@ latitude: 47.36392
 longitude: 9.07349
 postcode: "9606"
 city: Bütschwil
-street: "Landstrasse"
-housenumber: 50
+street: Landstrasse
+housenumber: "50"
 phone: ""
-opening_hours: "Fr 14:00-18:00; Sa 09:00-17:00"
-website: "https://www.altertum.ch/"
+opening_hours: Fr 14:00-18:00; Sa 09:00-17:00
+website: https://www.altertum.ch/

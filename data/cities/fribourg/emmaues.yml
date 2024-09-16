@@ -1,11 +1,11 @@
 id: 235577657
-type: way
+type: node
 latitude: 46.78737
 longitude: 7.15896
 postcode: "1700"
 city: Fribourg
-street: "Route de la Pisciculture"
+street: Route de la Pisciculture
 housenumber: 6e
 phone: ""
-opening_hours: "Mo 14:00-17:30; Tu-Fr 10:00-12:00,14:00-17:30; Sa 09:00-16:00"
-website: "https://www.emmaus-fribourg.ch/"
+opening_hours: Mo 14:00-17:30; Tu-Fr 10:00-12:00,14:00-17:30; Sa 09:00-16:00
+website: https://www.emmaus-fribourg.ch/

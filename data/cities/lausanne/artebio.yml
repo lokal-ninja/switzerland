@@ -4,8 +4,8 @@ latitude: 46.52541
 longitude: 6.63119
 postcode: "1004"
 city: Lausanne
-street: "Avenue de Riant-Mont"
-housenumber: 2
+street: Avenue de Riant-Mont
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-17:00"
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-17:00
 website: ""

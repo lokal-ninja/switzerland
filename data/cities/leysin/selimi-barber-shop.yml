@@ -4,8 +4,8 @@ latitude: 46.34293
 longitude: 7.01347
 postcode: "1854"
 city: Leysin
-street: "Rue Louis Favez"
-housenumber: 8
-phone: "+41 78 658 19 96"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 8:00-17:00; PH off"
+street: Rue Louis Favez
+housenumber: "8"
+phone: +41 78 658 19 96
+opening_hours: Tu-Fr 09:00-19:00; Sa 8:00-17:00; PH off
 website: ""

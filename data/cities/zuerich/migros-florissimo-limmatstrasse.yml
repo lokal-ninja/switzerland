@@ -4,8 +4,8 @@ latitude: 47.38555
 longitude: 8.53152
 postcode: "8005"
 city: Zürich
-street: "Limmatstrasse"
-housenumber: 152
+street: Limmatstrasse
+housenumber: "152"
 phone: "+41585635300"
-opening_hours: "Mo-Sa 07:30-20:00; PH off"
-website: "https://filialen.migros.ch/de/florissimo-zuerich-limmatplatz"
+opening_hours: Mo-Sa 07:30-20:00; PH off
+website: https://filialen.migros.ch/de/florissimo-zuerich-limmatplatz

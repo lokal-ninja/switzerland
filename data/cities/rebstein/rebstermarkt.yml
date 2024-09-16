@@ -1,11 +1,11 @@
 id: 196108808
-type: way
+type: node
 latitude: 47.39688
 longitude: 9.58059
 postcode: "9445"
 city: Rebstein
-street: "Staatsstrasse"
-housenumber: 128
+street: Staatsstrasse
+housenumber: "128"
 phone: ""
-opening_hours: "Mo-Th 07:30-19:00, Fr 07:30-20:00, Sa 07:30-17:00"
+opening_hours: Mo-Th 07:30-19:00, Fr 07:30-20:00, Sa 07:30-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 199343427
-type: way
+type: node
 latitude: 46.89257
 longitude: 7.54167
 postcode: "3113"
 city: Rubigen
-street: "Alte Belpstrasse"
-housenumber: 1
+street: Alte Belpstrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Th 08:00-20:00; Fr 08:00-21:00; Sa 08:00-17:00; PH off"
+opening_hours: Mo-Th 08:00-20:00; Fr 08:00-21:00; Sa 08:00-17:00; PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.49769
 longitude: 8.7208
 postcode: "8400"
 city: Winterthur
-street: "Bahnmeisterweg"
-housenumber: 12
-phone: "+41 840 444 777"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00; Jun-Aug: Th 09:00-20:00; PH off"
-website: "https://www.veloplus.ch/beratung-und-service/laeden/winterthur-5e215a8f79c9150007c13536"
+street: Bahnmeisterweg
+housenumber: "12"
+phone: +41 840 444 777
+opening_hours: 'Mo-Fr 09:00-18:30; Sa 09:00-17:00; Jun-Aug: Th 09:00-20:00; PH off'
+website: https://www.veloplus.ch/beratung-und-service/laeden/winterthur-5e215a8f79c9150007c13536

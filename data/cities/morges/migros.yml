@@ -4,8 +4,8 @@ latitude: 46.50984
 longitude: 6.4945
 postcode: "1110"
 city: Morges
-street: "Rue de la Gare"
-housenumber: 19
-phone: "+41 58 573 57 00"
+street: Rue de la Gare
+housenumber: "19"
+phone: +41 58 573 57 00
 opening_hours: ""
-website: "https://www.migros.ch/"
+website: https://www.migros.ch/

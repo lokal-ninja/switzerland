@@ -1,11 +1,12 @@
 id: 247681133
-type: way
+type: node
 latitude: 47.3309
 longitude: 8.80627
 postcode: "8623"
 city: Wetzikon
-street: "Bahnhofstrasse"
-housenumber: 243
-phone: "+41 44 930 05 84"
-opening_hours: "Mo,Tu 06:30-12:15,14:30-18:30, We 06:30-12:15, Th,Fr 06:30-12:15,14:30-18:30, Sa 06:30-16:00"
+street: Bahnhofstrasse
+housenumber: "243"
+phone: +41 44 930 05 84
+opening_hours: Mo,Tu 06:30-12:15,14:30-18:30, We 06:30-12:15, Th,Fr 06:30-12:15,14:30-18:30,
+    Sa 06:30-16:00
 website: ""

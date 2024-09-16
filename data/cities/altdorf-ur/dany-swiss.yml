@@ -4,8 +4,8 @@ latitude: 46.88
 longitude: 8.64493
 postcode: "6460"
 city: Altdorf UR
-street: "Dätwylerstrasse"
-housenumber: 4
+street: Dätwylerstrasse
+housenumber: "4"
 phone: ""
-opening_hours: "Fr 13:30-18:00; Sa 09:00-13:00"
-website: "https://www.danyswisschocolatier.ch/"
+opening_hours: Fr 13:30-18:00; Sa 09:00-13:00
+website: https://www.danyswisschocolatier.ch/

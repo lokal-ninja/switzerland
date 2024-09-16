@@ -4,8 +4,8 @@ latitude: 47.42419
 longitude: 8.37124
 postcode: "8957"
 city: Spreitenbach
-street: "Pfadackerstrasse"
-housenumber: 6
+street: Pfadackerstrasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00, Sa 09:00-18:00; PH off"
-website: "https://www.livique.ch/de/"
+opening_hours: Mo-Fr 10:00-20:00, Sa 09:00-18:00; PH off
+website: https://www.livique.ch/de/

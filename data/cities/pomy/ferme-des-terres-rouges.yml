@@ -4,8 +4,8 @@ latitude: 46.76826
 longitude: 6.67182
 postcode: "1405"
 city: Pomy
-street: "Chemin des Terres Rouges"
-housenumber: 1
-phone: "+41 78 678 40 35."
-opening_hours: "Tu,Th,Fr 10:00-19:00"
-website: "https://ferme-des-terres-rouges.ch/"
+street: Chemin des Terres Rouges
+housenumber: "1"
+phone: +41 78 678 40 35.
+opening_hours: Tu,Th,Fr 10:00-19:00
+website: https://ferme-des-terres-rouges.ch/

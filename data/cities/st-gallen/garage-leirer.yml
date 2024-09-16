@@ -1,11 +1,11 @@
 id: 224349426
-type: way
+type: node
 latitude: 47.44209
 longitude: 9.41444
 postcode: "9016"
 city: St. Gallen
-street: "Lerchentalstrasse"
-housenumber: 4
+street: Lerchentalstrasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

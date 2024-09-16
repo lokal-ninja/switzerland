@@ -4,8 +4,9 @@ latitude: 47.49383
 longitude: 8.34091
 postcode: "5420"
 city: Ehrendingen
-street: "Dorfstrasse"
-housenumber: 12
-phone: "+41 56 222 25 09"
-opening_hours: "Tu-Th 07:30-12:15,14:00-18:30; Fr 07:30-12:15,13:30-18:30; Sa 07:00-15:00; Su,Mo off"
-website: "https://www.laegeremetzg.ch/"
+street: Dorfstrasse
+housenumber: "12"
+phone: +41 56 222 25 09
+opening_hours: Tu-Th 07:30-12:15,14:00-18:30; Fr 07:30-12:15,13:30-18:30; Sa 07:00-15:00;
+    Su,Mo off
+website: https://www.laegeremetzg.ch/

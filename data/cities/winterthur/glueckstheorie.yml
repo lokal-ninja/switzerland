@@ -4,8 +4,8 @@ latitude: 47.49999
 longitude: 8.73312
 postcode: "8400"
 city: Winterthur
-street: "Obertor"
-housenumber: 3
+street: Obertor
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:30; Sa 10:00-16:00"
-website: "https://www.glueckstheorie.ch/"
+opening_hours: Tu-Fr 10:00-18:30; Sa 10:00-16:00
+website: https://www.glueckstheorie.ch/

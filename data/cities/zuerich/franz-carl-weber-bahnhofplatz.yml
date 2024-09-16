@@ -4,8 +4,8 @@ latitude: 47.37715
 longitude: 8.53869
 postcode: "8001"
 city: Zürich
-street: "Bahnhofplatz"
-housenumber: 9
+street: Bahnhofplatz
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-19:00"
-website: "https://www.fcw.ch/"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:00-19:00
+website: https://www.fcw.ch/

@@ -1,11 +1,11 @@
 id: 208042890
-type: way
+type: node
 latitude: 46.07822
 longitude: 7.13799
 postcode: "1933"
 city: Sembrancher
-street: "Route du Grand-St-Bernard"
-housenumber: 1
+street: Route du Grand-St-Bernard
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

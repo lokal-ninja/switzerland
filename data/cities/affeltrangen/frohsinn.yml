@@ -1,11 +1,11 @@
 id: 194200438
-type: way
+type: node
 latitude: 47.52914
 longitude: 9.02902
 postcode: "9556"
 city: Affeltrangen
-street: "Hauptstrasse"
-housenumber: 19
+street: Hauptstrasse
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

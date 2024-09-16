@@ -1,11 +1,11 @@
 id: 302289270
-type: way
+type: node
 latitude: 47.10687
 longitude: 8.35557
 postcode: "6035"
 city: Perlen
-street: "Dorfstrasse"
-housenumber: 45
+street: Dorfstrasse
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

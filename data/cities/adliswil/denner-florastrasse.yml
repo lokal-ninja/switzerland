@@ -4,8 +4,8 @@ latitude: 47.31232
 longitude: 8.52442
 postcode: "8134"
 city: Adliswil
-street: "Florastrasse"
-housenumber: 10
+street: Florastrasse
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-18:00"
-website: "https://www.denner.ch/de/filialen/denner-filiale-und-oeffnungszeiten/store/ladenzentrum-bahnhof/"
+opening_hours: Mo-Sa 07:00-20:00; Su 08:00-18:00
+website: https://www.denner.ch/de/filialen/denner-filiale-und-oeffnungszeiten/store/ladenzentrum-bahnhof/

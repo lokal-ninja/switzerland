@@ -4,8 +4,8 @@ latitude: 47.47636
 longitude: 8.30891
 postcode: "5400"
 city: Baden
-street: "Bahnhofplatz"
-housenumber: 6
+street: Bahnhofplatz
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.gidor.ch/filiale/baden/"
+website: https://www.gidor.ch/filiale/baden/

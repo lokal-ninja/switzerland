@@ -4,8 +4,8 @@ latitude: 47.3489
 longitude: 8.7205
 postcode: "8610"
 city: Uster
-street: "Freiestrasse"
-housenumber: 10
-phone: "+41 44 940 05 92"
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-15:00; Su 07:30-12:00"
-website: "https://www.alberts-backstube.ch/"
+street: Freiestrasse
+housenumber: "10"
+phone: +41 44 940 05 92
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-15:00; Su 07:30-12:00
+website: https://www.alberts-backstube.ch/

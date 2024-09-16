@@ -1,11 +1,11 @@
 id: 220523588
-type: way
+type: node
 latitude: 47.46611
 longitude: 7.80091
 postcode: "4450"
 city: Sissach
-street: "Hauptstrasse"
-housenumber: 144
-phone: "+41 61 976 98 88"
+street: Hauptstrasse
+housenumber: "144"
+phone: +41 61 976 98 88
 opening_hours: ""
-website: "https://zumbrunn-sissach.ch/"
+website: https://zumbrunn-sissach.ch/

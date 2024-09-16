@@ -1,11 +1,11 @@
 id: 54447663
-type: way
+type: node
 latitude: 47.49814
 longitude: 8.72098
 postcode: "8400"
 city: Winterthur
-street: "Zürcherstrasse"
-housenumber: 1
+street: Zürcherstrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Su-Fr,PH 09:30-00:30, Sa 09:30-02:30"
-website: "https://www.kesselhaus.ch/"
+opening_hours: Su-Fr,PH 09:30-00:30, Sa 09:30-02:30
+website: https://www.kesselhaus.ch/

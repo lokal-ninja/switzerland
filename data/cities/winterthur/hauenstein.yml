@@ -4,8 +4,8 @@ latitude: 47.49617
 longitude: 8.75481
 postcode: "8404"
 city: Winterthur
-street: "Industriestrasse"
-housenumber: 24
+street: Industriestrasse
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.hauenstein-rafz.ch/de/gartencenter/winterthur/oeffungszeiten-standort.php"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.hauenstein-rafz.ch/de/gartencenter/winterthur/oeffungszeiten-standort.php

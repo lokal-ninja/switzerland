@@ -1,11 +1,11 @@
 id: 169965404
-type: way
+type: node
 latitude: 47.40268
 longitude: 8.08326
 postcode: "5032"
 city: Aarau Rohr
-street: "Hauptstrasse"
+street: Hauptstrasse
 housenumber: 37e
-phone: "+4162 824 34 13"
-opening_hours: "Tu-Fr 10:00-18:30; Sa 09:00-14:00"
-website: "https://www.schmid-velosport.ch/"
+phone: +4162 824 34 13
+opening_hours: Tu-Fr 10:00-18:30; Sa 09:00-14:00
+website: https://www.schmid-velosport.ch/

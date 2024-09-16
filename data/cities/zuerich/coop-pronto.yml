@@ -4,8 +4,8 @@ latitude: 47.39098
 longitude: 8.48926
 postcode: "8048"
 city: Zürich
-street: "Hohlstrasse"
-housenumber: 560
+street: Hohlstrasse
+housenumber: "560"
 phone: ""
-opening_hours: "Mo-Th 06:00-22:30; Fr-Su 06:30-23:00"
-website: "https://www.coop-pronto.ch/"
+opening_hours: Mo-Th 06:00-22:30; Fr-Su 06:30-23:00
+website: https://www.coop-pronto.ch/

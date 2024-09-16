@@ -4,8 +4,8 @@ latitude: 47.39916
 longitude: 8.60492
 postcode: "8600"
 city: Dübendorf
-street: "Ringstrasse"
-housenumber: 16
+street: Ringstrasse
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.lumimart.ch/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.lumimart.ch/

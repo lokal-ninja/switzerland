@@ -4,8 +4,8 @@ latitude: 46.9653
 longitude: 8.355
 postcode: "6370"
 city: Stans
-street: "Bitzistrasse"
-housenumber: 2
+street: Bitzistrasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00, Sa 08:00-18:00; PH off"
-website: "https://filialen.migros.ch/de/florissimo-stans-laenderpark"
+opening_hours: Mo-Fr 09:00-20:00, Sa 08:00-18:00; PH off
+website: https://filialen.migros.ch/de/florissimo-stans-laenderpark

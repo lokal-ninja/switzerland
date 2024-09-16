@@ -4,8 +4,8 @@ latitude: 47.37507
 longitude: 8.4846
 postcode: "8047"
 city: Zürich
-street: "Albisriederstrasse"
-housenumber: 375
+street: Albisriederstrasse
+housenumber: "375"
 phone: ""
-opening_hours: "Tu-Th 10:00-12:30,13:30-18:30"
-website: "https://orbitframeworks.ch"
+opening_hours: Tu-Th 10:00-12:30,13:30-18:30
+website: https://orbitframeworks.ch

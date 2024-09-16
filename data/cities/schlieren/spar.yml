@@ -1,11 +1,11 @@
 id: 946579721
-type: way
+type: node
 latitude: 47.39763
 longitude: 8.43112
 postcode: "8952"
 city: Schlieren
-street: "Badenerstrasse"
-housenumber: 104
+street: Badenerstrasse
+housenumber: "104"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00, Sa 07:00-18:00; PH off"
-website: "https://www.spar.ch/standorte/detail/sm-schlieren"
+opening_hours: Mo-Fr 07:00-20:00, Sa 07:00-18:00; PH off
+website: https://www.spar.ch/standorte/detail/sm-schlieren

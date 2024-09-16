@@ -4,8 +4,8 @@ latitude: 47.37157
 longitude: 8.52165
 postcode: "8003"
 city: Zürich
-street: "Zweierstrasse"
-housenumber: 105
-phone: "+41 44 451 30 13"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-17:00"
-website: "https://www.meinegarderobe.ch/"
+street: Zweierstrasse
+housenumber: "105"
+phone: +41 44 451 30 13
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-17:00
+website: https://www.meinegarderobe.ch/

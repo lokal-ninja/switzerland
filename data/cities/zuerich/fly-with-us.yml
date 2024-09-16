@@ -4,8 +4,8 @@ latitude: 47.39244
 longitude: 8.49726
 postcode: "8048"
 city: Zürich
-street: "Aargauerstrasse"
-housenumber: 60
+street: Aargauerstrasse
+housenumber: "60"
 phone: ""
-opening_hours: "Mo 12:00-18:30, We-Fr 12:00-18:30, Sa 10:00-16:00"
-website: "https://flywithus.ch"
+opening_hours: Mo 12:00-18:30, We-Fr 12:00-18:30, Sa 10:00-16:00
+website: https://flywithus.ch

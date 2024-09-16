@@ -1,11 +1,11 @@
 id: 210580635
-type: way
+type: node
 latitude: 47.57148
 longitude: 9.36615
 postcode: "8590"
 city: Romanshorn
-street: "Kreuzlingerstrasse"
-housenumber: 48
+street: Kreuzlingerstrasse
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-We 07:30-20:00; Th 07:30-21:00; Fr,Sa 07:30-20:00"
+opening_hours: Mo-We 07:30-20:00; Th 07:30-21:00; Fr,Sa 07:30-20:00
 website: ""

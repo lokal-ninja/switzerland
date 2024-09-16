@@ -4,8 +4,8 @@ latitude: 47.32763
 longitude: 8.80218
 postcode: "8620"
 city: Wetzikon
-street: "Bahnhofstrasse"
-housenumber: 198
-phone: "+41 449 701 900"
-opening_hours: "Tu,Fr 08:30-18:30; We,Th 08:30-20:00; Sa 08:00-15:00; PH off"
-website: "https://hxp.ch/kontakt/"
+street: Bahnhofstrasse
+housenumber: "198"
+phone: +41 449 701 900
+opening_hours: Tu,Fr 08:30-18:30; We,Th 08:30-20:00; Sa 08:00-15:00; PH off
+website: https://hxp.ch/kontakt/

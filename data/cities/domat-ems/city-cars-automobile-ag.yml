@@ -4,8 +4,8 @@ latitude: 46.84141
 longitude: 9.47977
 postcode: "7013"
 city: Domat/Ems
-street: "Paleu Sura"
-housenumber: 8
-phone: "+41 79 610 65 65"
-opening_hours: "Mo-Sa 08:00-12:00,13:00-19:00"
-website: "http://citycars.ch"
+street: Paleu Sura
+housenumber: "8"
+phone: +41 79 610 65 65
+opening_hours: Mo-Sa 08:00-12:00,13:00-19:00
+website: http://citycars.ch

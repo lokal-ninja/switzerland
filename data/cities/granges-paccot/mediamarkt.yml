@@ -4,8 +4,8 @@ latitude: 46.81882
 longitude: 7.15303
 postcode: "1763"
 city: Granges-Paccot
-street: "Route de Morat"
-housenumber: 1
-phone: "+41 26 460 60 60"
-opening_hours: "Mo-We 09:00-19:00; Th 09:00-20:00; Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.mediamarkt.ch"
+street: Route de Morat
+housenumber: "1"
+phone: +41 26 460 60 60
+opening_hours: Mo-We 09:00-19:00; Th 09:00-20:00; Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.mediamarkt.ch

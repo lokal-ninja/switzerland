@@ -1,11 +1,11 @@
 id: 188462963
-type: way
+type: node
 latitude: 46.66598
 longitude: 7.86913
 postcode: "3812"
 city: Wilderswil
-street: "Hauptstrasse"
-housenumber: 27
+street: Hauptstrasse
+housenumber: "27"
 phone: "+41585672180"
-opening_hours: "Mo-Sa 08:00-20:00; Su 08:00-18:00"
-website: "https://www.voi-migrospartner.ch/de-CH/filialen#voi-voi-wilderswil"
+opening_hours: Mo-Sa 08:00-20:00; Su 08:00-18:00
+website: https://www.voi-migrospartner.ch/de-CH/filialen#voi-voi-wilderswil

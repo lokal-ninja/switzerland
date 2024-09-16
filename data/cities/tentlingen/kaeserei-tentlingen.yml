@@ -1,11 +1,11 @@
 id: 208244895
-type: way
+type: node
 latitude: 46.76993
 longitude: 7.19679
 postcode: "1734"
 city: Tentlingen
-street: "Käsereistrasse"
-housenumber: 3
+street: Käsereistrasse
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

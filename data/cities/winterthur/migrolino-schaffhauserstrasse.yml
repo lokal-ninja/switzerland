@@ -4,8 +4,8 @@ latitude: 47.51847
 longitude: 8.71937
 postcode: "8400"
 city: Winterthur
-street: "Schaffhauserstrasse"
-housenumber: 152
+street: Schaffhauserstrasse
+housenumber: "152"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.migrolino.ch/de/standorte/shell-winterthur-rosenberg/"
+opening_hours: 24/7
+website: https://www.migrolino.ch/de/standorte/shell-winterthur-rosenberg/

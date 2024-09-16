@@ -4,8 +4,8 @@ latitude: 47.47679
 longitude: 7.66397
 postcode: "4145"
 city: Gempen
-street: "Haglenweg"
-housenumber: 13
-phone: "+41 61 706 80 77"
-opening_hours: "Tu 09:15-12:15,14:00-15:00; Fr 09:15-12:15,14:00-14:30"
-website: "https://www.sonnhalde.ch/"
+street: Haglenweg
+housenumber: "13"
+phone: +41 61 706 80 77
+opening_hours: Tu 09:15-12:15,14:00-15:00; Fr 09:15-12:15,14:00-14:30
+website: https://www.sonnhalde.ch/

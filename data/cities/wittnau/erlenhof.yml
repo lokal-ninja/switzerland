@@ -4,8 +4,9 @@ latitude: 47.48065
 longitude: 7.99126
 postcode: "5064"
 city: Wittnau
-street: "Erlenhof"
-housenumber: 
+street: Erlenhof
+housenumber: ""
 phone: ""
-opening_hours: "We 17:00-19:00; Fr,Sa 09:00-12:00 || jederzeit auf gut Glück oder nach Vereinbarung"
+opening_hours: We 17:00-19:00; Fr,Sa 09:00-12:00 || "jederzeit auf gut Glück oder
+    nach Vereinbarung"
 website: ""

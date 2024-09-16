@@ -1,11 +1,11 @@
 id: 973585034
-type: way
+type: node
 latitude: 47.04996
 longitude: 8.30983
 postcode: "6002"
 city: Luzern
 street: ""
-housenumber: 
-phone: "+41 585150350"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su 10:00-20:00"
-website: "https://www2.hm.com/de_ch/"
+housenumber: ""
+phone: +41 585150350
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su 10:00-20:00
+website: https://www2.hm.com/de_ch/

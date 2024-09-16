@@ -4,8 +4,8 @@ latitude: 47.37772
 longitude: 8.51122
 postcode: "8003"
 city: Zürich
-street: "Badenerstrasse"
-housenumber: 333
+street: Badenerstrasse
+housenumber: "333"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
-website: "https://www.coop.ch/"
+opening_hours: Mo-Sa 07:00-22:00; PH off
+website: https://www.coop.ch/

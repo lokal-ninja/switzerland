@@ -4,8 +4,8 @@ latitude: 47.63238
 longitude: 8.80213
 postcode: "8477"
 city: Oberstammheim
-street: "Breitenweg"
-housenumber: 1
-phone: "+41 52 745 27 46"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-20:00"
-website: "https://www.biohoftrottengarten.ch/"
+street: Breitenweg
+housenumber: "1"
+phone: +41 52 745 27 46
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-20:00
+website: https://www.biohoftrottengarten.ch/

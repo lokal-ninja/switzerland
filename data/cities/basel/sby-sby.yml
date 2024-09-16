@@ -4,8 +4,8 @@ latitude: 47.56922
 longitude: 7.59097
 postcode: "4057"
 city: Basel
-street: "Amerbachstrasse"
-housenumber: 8
+street: Amerbachstrasse
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa-Su 11:00-18:00"
-website: "https://sbysby-thaimassagen.ch/"
+opening_hours: Mo-Fr 09:00-20:00; Sa-Su 11:00-18:00
+website: https://sbysby-thaimassagen.ch/

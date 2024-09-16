@@ -1,11 +1,11 @@
 id: 240634188
-type: way
+type: node
 latitude: 47.33178
 longitude: 9.41274
 postcode: "9050"
 city: Appenzell
-street: "Gaiserstrasse"
-housenumber: 10
+street: Gaiserstrasse
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

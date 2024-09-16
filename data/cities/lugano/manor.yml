@@ -1,11 +1,11 @@
 id: 304784404
-type: way
+type: node
 latitude: 46.00516
 longitude: 8.95068
 postcode: "6901"
 city: Lugano
-street: "Piazza Dante Alighieri"
-housenumber: 2
+street: Piazza Dante Alighieri
+housenumber: "2"
 phone: ""
-opening_hours: "Mo,Tu,We,Fr,Sa 08:15-19:00; Th 08:15-21:00"
+opening_hours: Mo,Tu,We,Fr,Sa 08:15-19:00; Th 08:15-21:00
 website: ""

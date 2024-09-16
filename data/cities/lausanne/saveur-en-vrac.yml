@@ -4,8 +4,8 @@ latitude: 46.52354
 longitude: 6.63067
 postcode: "1004"
 city: Lausanne
-street: "Rue Pré-du-Marché"
-housenumber: 6
+street: Rue Pré-du-Marché
+housenumber: "6"
 phone: "+41213518080"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-18:00"
-website: "https://www.saveursenvrac.ch/"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:00-18:00
+website: https://www.saveursenvrac.ch/

@@ -4,8 +4,8 @@ latitude: 47.49948
 longitude: 8.7212
 postcode: "8400"
 city: Winterthur
-street: "Strickerstrasse"
-housenumber: 3
+street: Strickerstrasse
+housenumber: "3"
 phone: ""
-opening_hours: "PH off; Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "http://www.tuiwinterthurneuwiesen.ch/"
+opening_hours: PH off; Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: http://www.tuiwinterthurneuwiesen.ch/

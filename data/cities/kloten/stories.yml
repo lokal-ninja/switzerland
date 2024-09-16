@@ -4,8 +4,8 @@ latitude: 47.45197
 longitude: 8.58094
 postcode: "8302"
 city: Kloten
-street: "Schaffhauserstrasse"
-housenumber: 134
+street: Schaffhauserstrasse
+housenumber: "134"
 phone: ""
-opening_hours: "closed"
-website: "https://www.frickershoes.ch/"
+opening_hours: closed
+website: https://www.frickershoes.ch/

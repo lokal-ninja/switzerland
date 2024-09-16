@@ -1,11 +1,11 @@
 id: 195438529
-type: way
+type: node
 latitude: 47.3987
 longitude: 8.44684
 postcode: "8952"
 city: Schlieren
-street: "Güterstrasse"
-housenumber: 5
-phone: "+41 44 732 90 30"
-opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-18:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-schlieren-zentrum"
+street: Güterstrasse
+housenumber: "5"
+phone: +41 44 732 90 30
+opening_hours: Mo-Fr 08:00-20:00, Sa 08:00-18:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-schlieren-zentrum

@@ -4,8 +4,8 @@ latitude: 47.06122
 longitude: 7.62061
 postcode: "3400"
 city: Burgdorf
-street: "Kirchbergstrasse"
-housenumber: 25
+street: Kirchbergstrasse
+housenumber: "25"
 phone: "+41344240616"
-opening_hours: "Tu-Sa 09:30-18:30"
-website: "https://radixweb.ch/shop-burgdorf"
+opening_hours: Tu-Sa 09:30-18:30
+website: https://radixweb.ch/shop-burgdorf

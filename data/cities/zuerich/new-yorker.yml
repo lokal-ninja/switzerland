@@ -5,7 +5,7 @@ longitude: 8.52371
 postcode: "8045"
 city: Zürich
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; PH off"
-website: "https://www.newyorker.de/ch/"
+opening_hours: Mo-Sa 09:00-20:00; PH off
+website: https://www.newyorker.de/ch/

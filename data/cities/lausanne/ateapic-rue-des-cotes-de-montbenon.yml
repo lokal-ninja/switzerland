@@ -4,8 +4,8 @@ latitude: 46.52117
 longitude: 6.62625
 postcode: "1003"
 city: Lausanne
-street: "Rue des Côtes-de-Montbenon"
-housenumber: 11
+street: Rue des Côtes-de-Montbenon
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://ateapic.ch"
+website: https://ateapic.ch

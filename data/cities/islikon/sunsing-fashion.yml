@@ -4,8 +4,8 @@ latitude: 47.54527
 longitude: 8.84227
 postcode: "8546"
 city: Islikon
-street: "Gachnangerstrasse"
-housenumber: 1
+street: Gachnangerstrasse
+housenumber: "1"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

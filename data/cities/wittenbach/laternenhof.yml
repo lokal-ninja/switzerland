@@ -4,8 +4,8 @@ latitude: 47.45278
 longitude: 9.36958
 postcode: "9300"
 city: Wittenbach
-street: "Wilen"
-housenumber: 
+street: Wilen
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://www.laternenhof.ch/"
+opening_hours: 24/7
+website: https://www.laternenhof.ch/

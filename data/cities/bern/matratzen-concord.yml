@@ -4,8 +4,8 @@ latitude: 46.94476
 longitude: 7.42264
 postcode: "3008"
 city: Bern
-street: "Effingerstrasse"
-housenumber: 111
+street: Effingerstrasse
+housenumber: "111"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00, 13:00-18:30; Sa 09:00-17:00; Su off"
-website: "https://www.matratzen-concord.ch"
+opening_hours: Mo-Fr 09:00-12:00, 13:00-18:30; Sa 09:00-17:00; Su off
+website: https://www.matratzen-concord.ch

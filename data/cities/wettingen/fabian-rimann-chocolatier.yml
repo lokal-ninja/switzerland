@@ -1,11 +1,11 @@
 id: 230774431
-type: way
+type: node
 latitude: 47.46874
 longitude: 8.31988
 postcode: "5430"
 city: Wettingen
-street: "Landstrasse"
-housenumber: 32
+street: Landstrasse
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

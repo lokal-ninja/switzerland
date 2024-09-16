@@ -4,8 +4,8 @@ latitude: 47.25806
 longitude: 8.18176
 postcode: "5734"
 city: Reinach AG
-street: "Sandgasse"
-housenumber: 6
-phone: "+41 62 772 42 00"
-opening_hours: "Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa 08:00-18:00"
-website: "https://dropa.ch/standorte/dropa-drogerie-reinach"
+street: Sandgasse
+housenumber: "6"
+phone: +41 62 772 42 00
+opening_hours: Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa 08:00-18:00
+website: https://dropa.ch/standorte/dropa-drogerie-reinach

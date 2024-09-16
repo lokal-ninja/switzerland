@@ -4,8 +4,8 @@ latitude: 47.42559
 longitude: 8.50106
 postcode: "8046"
 city: Zürich
-street: "Aspholzstrasse"
-housenumber: 10
+street: Aspholzstrasse
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "http://www.hoepli.ch/"
+opening_hours: Mo-Fr 07:00-17:00
+website: http://www.hoepli.ch/

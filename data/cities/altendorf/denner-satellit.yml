@@ -4,8 +4,8 @@ latitude: 47.19198
 longitude: 8.82975
 postcode: "8852"
 city: Altendorf
-street: "Dorfplatz"
-housenumber: 2
-phone: "+41 58 999 66 12 "
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-17:00; PH off"
-website: "https://www.denner.ch/"
+street: Dorfplatz
+housenumber: "2"
+phone: '+41 58 999 66 12 '
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-17:00; PH off
+website: https://www.denner.ch/

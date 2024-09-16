@@ -1,11 +1,11 @@
 id: 319271660
-type: way
+type: node
 latitude: 46.13728
 longitude: 7.62464
 postcode: "3961"
 city: Zinal
-street: "Rue des Cinq 4000"
-housenumber: 
+street: Rue des Cinq 4000
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

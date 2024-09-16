@@ -4,8 +4,8 @@ latitude: 47.20835
 longitude: 8.59534
 postcode: "6345"
 city: Neuheim
-street: "Hintersennweid"
-housenumber: 2
-phone: "+41 79 566 34 53"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://www.biohof-hintersennweid.ch/"
+street: Hintersennweid
+housenumber: "2"
+phone: +41 79 566 34 53
+opening_hours: Mo-Su 08:00-20:00
+website: https://www.biohof-hintersennweid.ch/

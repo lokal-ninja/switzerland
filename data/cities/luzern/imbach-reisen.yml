@@ -4,8 +4,8 @@ latitude: 47.05638
 longitude: 8.31004
 postcode: ""
 city: Luzern
-street: "Zürichstrasse"
-housenumber: 5
+street: Zürichstrasse
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.imbach.ch/"
+website: https://www.imbach.ch/

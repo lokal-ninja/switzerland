@@ -4,8 +4,8 @@ latitude: 47.32165
 longitude: 8.03704
 postcode: "5043"
 city: Holziken
-street: "Hauptstrasse"
-housenumber: 29
+street: Hauptstrasse
+housenumber: "29"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.migrol.ch/de/"
+opening_hours: 24/7
+website: https://www.migrol.ch/de/

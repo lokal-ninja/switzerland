@@ -4,8 +4,8 @@ latitude: 47.49949
 longitude: 8.73138
 postcode: "8400"
 city: Winterthur
-street: "Oberer Graben"
-housenumber: 36
-phone: "+41 52 213 68 28"
-opening_hours: "Mo-We, Fr 09:00-18:30; Th 09:00-21:00; Sa 09:00-18:00"
-website: "https://www.amor-artis.ch/"
+street: Oberer Graben
+housenumber: "36"
+phone: +41 52 213 68 28
+opening_hours: Mo-We, Fr 09:00-18:30; Th 09:00-21:00; Sa 09:00-18:00
+website: https://www.amor-artis.ch/

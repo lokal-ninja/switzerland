@@ -4,8 +4,8 @@ latitude: 47.36478
 longitude: 8.53175
 postcode: "8002"
 city: Zürich
-street: "Seestrasse"
-housenumber: 17
+street: Seestrasse
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00, Sa-Su 10:30-17:00"
-website: "https://allaboutcrepe.ch/"
+opening_hours: Mo-Fr 10:00-19:00, Sa-Su 10:30-17:00
+website: https://allaboutcrepe.ch/

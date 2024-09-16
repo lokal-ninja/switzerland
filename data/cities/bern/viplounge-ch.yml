@@ -4,8 +4,8 @@ latitude: 46.93685
 longitude: 7.41639
 postcode: "3008"
 city: Bern
-street: "Könizstrasse"
-housenumber: 121
+street: Könizstrasse
+housenumber: "121"
 phone: "+41762309000"
-opening_hours: "On request (+41 76 230 90 00)"
-website: "https://www.viplounge.ch/showroom/bern/"
+opening_hours: '"On request (+41 76 230 90 00)"'
+website: https://www.viplounge.ch/showroom/bern/

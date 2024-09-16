@@ -4,8 +4,8 @@ latitude: 47.43833
 longitude: 8.47297
 postcode: "8105"
 city: Regensdorf
-street: "Feldstrasse"
-housenumber: 32
+street: Feldstrasse
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00; PH off"
-website: "https://www.aldi-suisse.ch/"
+opening_hours: Mo-Sa 07:30-20:00; PH off
+website: https://www.aldi-suisse.ch/

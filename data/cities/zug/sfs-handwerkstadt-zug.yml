@@ -4,8 +4,8 @@ latitude: 47.18452
 longitude: 8.5217
 postcode: "6300"
 city: Zug
-street: "Industriestrasse"
-housenumber: 61
-phone: "+41 41 545 22 40"
+street: Industriestrasse
+housenumber: "61"
+phone: +41 41 545 22 40
 opening_hours: ""
-website: "https://www.sfs.ch/de/store/1063_POS"
+website: https://www.sfs.ch/de/store/1063_POS

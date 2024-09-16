@@ -4,8 +4,8 @@ latitude: 47.54132
 longitude: 7.57443
 postcode: "4102"
 city: Binningen
-street: "Hauptstrasse"
-housenumber: 71
+street: Hauptstrasse
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00, Sa 07:30-18:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-binningen-zentrum"
+opening_hours: Mo-Fr 08:00-19:00, Sa 07:30-18:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-binningen-zentrum

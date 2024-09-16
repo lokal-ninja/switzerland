@@ -1,11 +1,11 @@
 id: 833624850
-type: way
+type: node
 latitude: 47.35251
 longitude: 7.35946
 postcode: "2800"
 city: Delémont
-street: "La Ballastière"
-housenumber: 19
+street: La Ballastière
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

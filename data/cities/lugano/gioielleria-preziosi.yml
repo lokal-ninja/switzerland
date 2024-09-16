@@ -4,8 +4,8 @@ latitude: 46.00566
 longitude: 8.95586
 postcode: "6900"
 city: Lugano
-street: "Viale Carlo Cattaneo"
-housenumber: 1
+street: Viale Carlo Cattaneo
+housenumber: "1"
 phone: "+41919232430"
 opening_hours: ""
-website: "https://www.preziosi.ch/"
+website: https://www.preziosi.ch/

@@ -4,8 +4,8 @@ latitude: 47.58205
 longitude: 8.51461
 postcode: "8194"
 city: Hüntwangen
-street: "Bauelenzelgstrasse"
-housenumber: 10
+street: Bauelenzelgstrasse
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00;PH off"
-website: "https://www.jumbo.ch/de/standorte/jumbo-h%C3%BCntwangen-rhein-shopping/s/4566_POS"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00;PH off
+website: https://www.jumbo.ch/de/standorte/jumbo-h%C3%BCntwangen-rhein-shopping/s/4566_POS

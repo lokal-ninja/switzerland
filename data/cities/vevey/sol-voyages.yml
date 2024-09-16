@@ -4,8 +4,8 @@ latitude: 46.4592
 longitude: 6.84468
 postcode: "1800"
 city: Vevey
-street: "Rue du Centre"
-housenumber: 3
-phone: "+41 21 921 39 38"
-opening_hours: "Mo-Fr 09:00-12:30,13:30-17:00"
-website: "https://www.solvoyages.ch/"
+street: Rue du Centre
+housenumber: "3"
+phone: +41 21 921 39 38
+opening_hours: Mo-Fr 09:00-12:30,13:30-17:00
+website: https://www.solvoyages.ch/

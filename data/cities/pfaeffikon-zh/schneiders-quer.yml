@@ -4,8 +4,8 @@ latitude: 47.366
 longitude: 8.78145
 postcode: "8330"
 city: Pfäffikon ZH
-street: "Speerstrasse"
-housenumber: 15
-phone: "+41 44 952 16 16"
-opening_hours: "06:00-23:00"
-website: "https://www.schneidersquer.ch/"
+street: Speerstrasse
+housenumber: "15"
+phone: +41 44 952 16 16
+opening_hours: 06:00-23:00
+website: https://www.schneidersquer.ch/

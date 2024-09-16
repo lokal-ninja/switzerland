@@ -4,8 +4,8 @@ latitude: 47.55742
 longitude: 7.54681
 postcode: "4123"
 city: Allschwil
-street: "Hegenheimermattweg"
-housenumber: 119
+street: Hegenheimermattweg
+housenumber: "119"
 phone: ""
-opening_hours: "Mo-Fr 05:30-23:00; PH,Sa-Su 06:00-23:00"
-website: "https://www.coop-pronto.ch/"
+opening_hours: Mo-Fr 05:30-23:00; PH,Sa-Su 06:00-23:00
+website: https://www.coop-pronto.ch/

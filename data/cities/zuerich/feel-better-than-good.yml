@@ -4,8 +4,8 @@ latitude: 47.35685
 longitude: 8.55557
 postcode: "8008"
 city: Zürich
-street: "Seefeldstrasse"
-housenumber: 139
+street: Seefeldstrasse
+housenumber: "139"
 phone: ""
-opening_hours: "Tu-Fr 11:00-18:30; Sa 10:00-16:00"
-website: "https://www.feelbetterthangood.ch/"
+opening_hours: Tu-Fr 11:00-18:30; Sa 10:00-16:00
+website: https://www.feelbetterthangood.ch/

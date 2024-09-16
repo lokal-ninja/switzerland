@@ -4,8 +4,8 @@ latitude: 47.36207
 longitude: 8.04562
 postcode: "5035"
 city: Unterentfelden
-street: "Binzmattweg"
-housenumber: 8
-phone: "+41 58 567 20 00"
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-unterentfelden"
+street: Binzmattweg
+housenumber: "8"
+phone: +41 58 567 20 00
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-unterentfelden

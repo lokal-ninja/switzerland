@@ -1,11 +1,11 @@
 id: 552891403
-type: way
+type: node
 latitude: 46.57007
 longitude: 6.81723
 postcode: "1610"
 city: Châtillens
-street: "Route de Lausanne"
-housenumber: 1
+street: Route de Lausanne
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-18:00"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-18:00
 website: ""

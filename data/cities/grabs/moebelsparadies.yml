@@ -1,11 +1,11 @@
 id: 250522239
-type: way
+type: node
 latitude: 47.19032
 longitude: 9.47302
 postcode: "9472"
 city: Grabs
-street: "Ochsensand"
-housenumber: 
-phone: "+41 81 740 61 30"
+street: Ochsensand
+housenumber: ""
+phone: +41 81 740 61 30
 opening_hours: ""
-website: "https://www.moebelsparadies.ch/"
+website: https://www.moebelsparadies.ch/

@@ -4,8 +4,8 @@ latitude: 47.42898
 longitude: 8.5593
 postcode: "8152"
 city: Glattbrugg
-street: "Schaffhauserstrasse"
-housenumber: 40
+street: Schaffhauserstrasse
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Fr 05:30-22:00, Sa 06:00-23:00, Su 06:00-22:00"
-website: "https://www.migrolino.ch/de/standorte/socar-glattbrugg/"
+opening_hours: Mo-Fr 05:30-22:00, Sa 06:00-23:00, Su 06:00-22:00
+website: https://www.migrolino.ch/de/standorte/socar-glattbrugg/

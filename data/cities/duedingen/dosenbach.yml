@@ -1,11 +1,11 @@
 id: 104530889
-type: way
+type: node
 latitude: 46.84974
 longitude: 7.18998
 postcode: "3186"
 city: Düdingen
-street: "Brunnenweg"
-housenumber: 4
+street: Brunnenweg
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.38572
 longitude: 8.54873
 postcode: "8006"
 city: Zürich
-street: "Universitätstrasse"
-housenumber: 120
+street: Universitätstrasse
+housenumber: "120"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
-website: "https://www.apotheke-rigi.ch/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
+website: https://www.apotheke-rigi.ch/

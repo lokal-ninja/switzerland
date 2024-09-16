@@ -1,11 +1,11 @@
 id: 324478967
-type: way
+type: node
 latitude: 47.47506
 longitude: 7.75138
 postcode: "4415"
 city: Lausen
-street: "Hauptstrasse"
-housenumber: 8
+street: Hauptstrasse
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
+opening_hours: Mo-Sa 07:30-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.79856
 longitude: 6.74347
 postcode: "1462"
 city: Yvonand
-street: "Rue des Vergers"
-housenumber: 5
-phone: "+41 24 430 23 34"
-opening_hours: "Mo-Fr 08:00-12:15, 14:00-18:30; Sa 08:00-17:00; Su 08:00-12:00"
-website: "https://www.denner.ch/fr/succursales/stores-detail-page/store/rue-des-vergers-5-1462-yvonand/"
+street: Rue des Vergers
+housenumber: "5"
+phone: +41 24 430 23 34
+opening_hours: Mo-Fr 08:00-12:15, 14:00-18:30; Sa 08:00-17:00; Su 08:00-12:00
+website: https://www.denner.ch/fr/succursales/stores-detail-page/store/rue-des-vergers-5-1462-yvonand/

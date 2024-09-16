@@ -1,11 +1,11 @@
 id: 235856214
-type: way
+type: node
 latitude: 47.63447
 longitude: 9.22228
 postcode: "8596"
 city: Scherzingen
-street: "Seestrasse"
-housenumber: 46
+street: Seestrasse
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

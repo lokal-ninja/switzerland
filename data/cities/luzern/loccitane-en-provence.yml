@@ -4,8 +4,8 @@ latitude: 47.05518
 longitude: 8.30986
 postcode: "6004"
 city: Luzern
-street: "Hertensteinstrasse"
-housenumber: 20
+street: Hertensteinstrasse
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://ch.loccitane.com/"
+website: https://ch.loccitane.com/

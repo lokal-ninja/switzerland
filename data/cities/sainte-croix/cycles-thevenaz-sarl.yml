@@ -1,11 +1,11 @@
 id: 229566535
-type: way
+type: node
 latitude: 46.82317
 longitude: 6.49764
 postcode: "1450"
 city: Sainte-Croix
-street: "Rue des Arts"
-housenumber: 21
+street: Rue des Arts
+housenumber: "21"
 phone: ""
 opening_hours: ""
-website: "https://cyclesthevenaz.ch/"
+website: https://cyclesthevenaz.ch/

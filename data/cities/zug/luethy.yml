@@ -4,8 +4,8 @@ latitude: 47.17093
 longitude: 8.51471
 postcode: "6300"
 city: Zug
-street: "Rigistrasse"
-housenumber: 3
+street: Rigistrasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-We,Fr 09:00-19:00; Th 09:00-20:00; Sa 09:00-17:00"
-website: "https://www.buchhaus.ch/"
+opening_hours: Mo-We,Fr 09:00-19:00; Th 09:00-20:00; Sa 09:00-17:00
+website: https://www.buchhaus.ch/

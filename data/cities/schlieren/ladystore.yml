@@ -4,8 +4,8 @@ latitude: 47.39864
 longitude: 8.44839
 postcode: "8952"
 city: Schlieren
-street: "Bahnhofstrasse"
-housenumber: 4
-phone: "+41 44 730 32 00"
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-15:00; Mo 14:00-18:30"
-website: "http://ladystore.ch"
+street: Bahnhofstrasse
+housenumber: "4"
+phone: +41 44 730 32 00
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-15:00; Mo 14:00-18:30
+website: http://ladystore.ch

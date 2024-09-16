@@ -1,11 +1,11 @@
 id: 232877652
-type: way
+type: node
 latitude: 47.18361
 longitude: 7.98111
 postcode: "6243"
 city: Egolzwil
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Th 08:00-19:00, Fr 08:00-20:00, Sa 08:00-17:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-egolzwil-schoetz"
+opening_hours: Mo-Th 08:00-19:00, Fr 08:00-20:00, Sa 08:00-17:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-egolzwil-schoetz

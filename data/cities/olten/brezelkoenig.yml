@@ -5,7 +5,7 @@ longitude: 7.90703
 postcode: "4600"
 city: Olten
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 04:30-21:00"
-website: "https://brezelkoenig.ch/de/"
+opening_hours: Mo-Su 04:30-21:00
+website: https://brezelkoenig.ch/de/

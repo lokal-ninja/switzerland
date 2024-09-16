@@ -1,11 +1,11 @@
 id: 215749543
-type: way
+type: node
 latitude: 46.88926
 longitude: 7.21964
 postcode: "3178"
 city: Bösingen
-street: "Hubel"
-housenumber: 61
+street: Hubel
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

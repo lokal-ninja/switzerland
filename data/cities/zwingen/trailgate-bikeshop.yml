@@ -4,8 +4,8 @@ latitude: 47.43942
 longitude: 7.53142
 postcode: "4222"
 city: Zwingen
-street: "Baselstrasse"
-housenumber: 5
-phone: "+41 61 761 85 10"
-opening_hours: "Di-Fr 09:00-12:00, 13:30-18:00; Sa 09:00-13:00; Su,Mo off"
+street: Baselstrasse
+housenumber: "5"
+phone: +41 61 761 85 10
+opening_hours: Di-Fr 09:00-12:00, 13:30-18:00; Sa 09:00-13:00; Su,Mo off
 website: ""

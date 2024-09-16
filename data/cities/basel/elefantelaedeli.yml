@@ -4,8 +4,8 @@ latitude: 47.56189
 longitude: 7.56743
 postcode: "4055"
 city: Basel
-street: "Hegenheimerstrasse"
-housenumber: 117
+street: Hegenheimerstrasse
+housenumber: "117"
 phone: ""
-opening_hours: "Mo-Su 11:00-22:00"
+opening_hours: Mo-Su 11:00-22:00
 website: ""

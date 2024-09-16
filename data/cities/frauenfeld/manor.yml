@@ -4,8 +4,8 @@ latitude: 47.55393
 longitude: 8.89582
 postcode: "8500"
 city: Frauenfeld
-street: "Zürcherstrasse"
-housenumber: 138
+street: Zürcherstrasse
+housenumber: "138"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH off"
-website: "https://www.manor.ch/de/store-finder/store/FRF"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH off
+website: https://www.manor.ch/de/store-finder/store/FRF

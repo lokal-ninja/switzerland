@@ -4,8 +4,8 @@ latitude: 46.29929
 longitude: 7.00067
 postcode: "1867"
 city: Ollon VD
-street: "Chemin du Moulin"
-housenumber: 11
-phone: "+41 24 499 20 30"
-opening_hours: "Sur demande"
-website: "http://www.plaisir-et-sante.ch/"
+street: Chemin du Moulin
+housenumber: "11"
+phone: +41 24 499 20 30
+opening_hours: '"Sur demande"'
+website: http://www.plaisir-et-sante.ch/

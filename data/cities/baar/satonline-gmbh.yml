@@ -4,8 +4,8 @@ latitude: 47.19627
 longitude: 8.52897
 postcode: "5340"
 city: Baar
-street: "Oberdorfstrasse"
-housenumber: 3
+street: Oberdorfstrasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00, 13:30-18:30"
-website: "https://www.sat-online.ch"
+opening_hours: Mo-Fr 09:00-12:00, 13:30-18:30
+website: https://www.sat-online.ch

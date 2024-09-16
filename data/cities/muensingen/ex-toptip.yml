@@ -1,11 +1,11 @@
 id: 151689514
-type: way
+type: node
 latitude: 46.87043
 longitude: 7.55901
 postcode: "3110"
 city: Münsingen
 street: ""
-housenumber: 2
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

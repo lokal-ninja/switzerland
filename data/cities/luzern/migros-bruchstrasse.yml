@@ -4,8 +4,8 @@ latitude: 47.0506
 longitude: 8.29937
 postcode: "6003"
 city: Luzern
-street: "Bruchstrasse"
-housenumber: 18
+street: Bruchstrasse
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Fr 08:00-20:00; Sa 08:00-17:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-luzern-bruchstrasse"
+opening_hours: Mo-Fr 08:00-19:00; Fr 08:00-20:00; Sa 08:00-17:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-luzern-bruchstrasse

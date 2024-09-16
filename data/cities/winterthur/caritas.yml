@@ -4,8 +4,8 @@ latitude: 47.49835
 longitude: 8.72723
 postcode: "8400"
 city: Winterthur
-street: "Steinberggasse"
-housenumber: 54
+street: Steinberggasse
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "https://www.caritas-zuerich.ch/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
+website: https://www.caritas-zuerich.ch/

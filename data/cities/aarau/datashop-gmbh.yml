@@ -4,8 +4,8 @@ latitude: 47.39689
 longitude: 8.06485
 postcode: "5000"
 city: Aarau
-street: "Weihermattstrasse"
-housenumber: 86
-phone: "+41 62 822 24 24"
+street: Weihermattstrasse
+housenumber: "86"
+phone: +41 62 822 24 24
 opening_hours: ""
-website: "https://d-shop.ch/"
+website: https://d-shop.ch/

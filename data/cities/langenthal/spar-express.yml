@@ -4,8 +4,8 @@ latitude: 47.22391
 longitude: 7.77932
 postcode: "4900"
 city: Langenthal
-street: "Aarwangenstrasse"
-housenumber: 82
+street: Aarwangenstrasse
+housenumber: "82"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00, Sa-Su 07:00-22:00"
-website: "https://www.spar.ch/"
+opening_hours: Mo-Fr 06:00-22:00, Sa-Su 07:00-22:00
+website: https://www.spar.ch/

@@ -1,11 +1,11 @@
 id: 390880811
-type: way
+type: node
 latitude: 46.84883
 longitude: 9.51383
 postcode: "7000"
 city: Chur
-street: "Ringstrasse"
-housenumber: 9.1
+street: Ringstrasse
+housenumber: "9.1"
 phone: ""
 opening_hours: ""
 website: ""

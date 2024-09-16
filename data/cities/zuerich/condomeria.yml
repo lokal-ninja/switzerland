@@ -4,8 +4,8 @@ latitude: 47.37174
 longitude: 8.54365
 postcode: "8001"
 city: Zürich
-street: "Münstergasse"
-housenumber: 27
-phone: "+41 44 261 45 49"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-17:00"
-website: "https://www.condomeria.ch/laeden/standorte/zuerich/"
+street: Münstergasse
+housenumber: "27"
+phone: +41 44 261 45 49
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-17:00
+website: https://www.condomeria.ch/laeden/standorte/zuerich/

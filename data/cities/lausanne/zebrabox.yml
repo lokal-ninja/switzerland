@@ -4,8 +4,8 @@ latitude: 46.52327
 longitude: 6.61823
 postcode: "1004"
 city: Lausanne
-street: "Rue de Sébeillon"
-housenumber: 3
-phone: "+41 21 625 15 15"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.zebrabox.ch/en/private/depot/storage-lausanne"
+street: Rue de Sébeillon
+housenumber: "3"
+phone: +41 21 625 15 15
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.zebrabox.ch/en/private/depot/storage-lausanne

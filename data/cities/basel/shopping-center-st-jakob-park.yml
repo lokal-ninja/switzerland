@@ -1,11 +1,11 @@
 id: 128876579
-type: way
+type: node
 latitude: 47.54122
 longitude: 7.6186
 postcode: "4052"
 city: Basel
-street: "St. Jakobs-Strasse"
-housenumber: 397
+street: St. Jakobs-Strasse
+housenumber: "397"
 phone: "+41613778111"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.st-jakob-park.com/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.st-jakob-park.com/

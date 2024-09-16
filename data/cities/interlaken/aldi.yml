@@ -1,11 +1,11 @@
 id: 215481314
-type: way
+type: node
 latitude: 46.68834
 longitude: 7.87795
 postcode: "3800"
 city: Interlaken
-street: "Lindenallee"
-housenumber: 106
+street: Lindenallee
+housenumber: "106"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-17:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-17:00
 website: ""

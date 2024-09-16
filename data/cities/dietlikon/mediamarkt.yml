@@ -4,8 +4,8 @@ latitude: 47.41561
 longitude: 8.62131
 postcode: "8305"
 city: Dietlikon
-street: "Neue Winterthurerstrasse"
-housenumber: 7
+street: Neue Winterthurerstrasse
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.mediamarkt.ch/"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.mediamarkt.ch/

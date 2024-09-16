@@ -4,8 +4,9 @@ latitude: 47.22519
 longitude: 9.19902
 postcode: "9650"
 city: Neu St. Johann
-street: "Hauptstrasse"
-housenumber: 22
+street: Hauptstrasse
+housenumber: "22"
 phone: "+41719941845"
-opening_hours: "Mo-Tu,Th 07:30-12:00; We off; Fr 07:30-12:00,14:00-18:30; Sa 07:30-14:00; Su off; PH off"
-website: "stadelmannkaese.ch"
+opening_hours: Mo-Tu,Th 07:30-12:00; We off; Fr 07:30-12:00,14:00-18:30; Sa 07:30-14:00;
+    Su off; PH off
+website: stadelmannkaese.ch

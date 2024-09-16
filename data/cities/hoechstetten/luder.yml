@@ -1,11 +1,11 @@
 id: 231048475
-type: way
+type: node
 latitude: 47.14413
 longitude: 7.6395
 postcode: "3429"
 city: Höchstetten
-street: "Zürich-Bernstrasse"
-housenumber: 58
+street: Zürich-Bernstrasse
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

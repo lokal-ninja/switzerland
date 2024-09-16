@@ -4,8 +4,8 @@ latitude: 47.42604
 longitude: 9.3736
 postcode: "9000"
 city: St. Gallen
-street: "Bahnhofstrasse"
-housenumber: 2
+street: Bahnhofstrasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "https://regioherz.ch"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
+website: https://regioherz.ch

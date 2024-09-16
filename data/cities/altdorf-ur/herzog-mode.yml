@@ -4,8 +4,8 @@ latitude: 46.88205
 longitude: 8.64261
 postcode: "6460"
 city: Altdorf UR
-street: "Tellsgasse"
-housenumber: 7
+street: Tellsgasse
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 13:30-18:30, Tu-Fr 09:00-12:00, Sa 09:00-16:00"
-website: "https://www.herzog-mode.ch/altdorf"
+opening_hours: Mo-Fr 13:30-18:30, Tu-Fr 09:00-12:00, Sa 09:00-16:00
+website: https://www.herzog-mode.ch/altdorf

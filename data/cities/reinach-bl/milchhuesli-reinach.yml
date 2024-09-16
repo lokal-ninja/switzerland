@@ -1,11 +1,11 @@
 id: 150783650
-type: way
+type: node
 latitude: 47.49321
 longitude: 7.59176
 postcode: "4153"
 city: Reinach (BL)
-street: "Hauptstrasse"
-housenumber: 7
-phone: "+41 61 711 40 10"
-opening_hours: "Mo-Fr 07:30-12:30, 14:00-18:30, Sa 07:30-16:00"
+street: Hauptstrasse
+housenumber: "7"
+phone: +41 61 711 40 10
+opening_hours: Mo-Fr 07:30-12:30, 14:00-18:30, Sa 07:30-16:00
 website: ""

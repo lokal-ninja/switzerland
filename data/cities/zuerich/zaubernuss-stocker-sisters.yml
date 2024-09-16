@@ -4,8 +4,8 @@ latitude: 47.37169
 longitude: 8.5402
 postcode: "8001"
 city: Zürich
-street: "Augustinergasse"
-housenumber: 8
-phone: "+41 43 542 35 32"
-opening_hours: "Tu-Fr 10:00-18:30; Sa 11:00-17:00"
-website: "https://www.zaubernuss-stockersisters.ch/"
+street: Augustinergasse
+housenumber: "8"
+phone: +41 43 542 35 32
+opening_hours: Tu-Fr 10:00-18:30; Sa 11:00-17:00
+website: https://www.zaubernuss-stockersisters.ch/

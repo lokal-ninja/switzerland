@@ -1,11 +1,11 @@
 id: 145178436
-type: way
+type: node
 latitude: 47.28059
 longitude: 8.45145
 postcode: "8910"
 city: Affoltern am Albis
-street: "Untere Bahnhofstrasse"
-housenumber: 17
-phone: "+41 44 761 36 55"
+street: Untere Bahnhofstrasse
+housenumber: "17"
+phone: +41 44 761 36 55
 opening_hours: ""
 website: ""

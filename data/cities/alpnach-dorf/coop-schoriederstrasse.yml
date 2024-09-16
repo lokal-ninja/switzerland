@@ -1,11 +1,11 @@
 id: 307078479
-type: way
+type: node
 latitude: 46.93788
 longitude: 8.26957
 postcode: "6055"
 city: Alpnach Dorf
-street: "Schoriederstrasse"
-housenumber: 1
+street: Schoriederstrasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00"
-website: "https://www.coop.ch/de/standorte/coop-supermarkt-alpnach/1324_POS"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00
+website: https://www.coop.ch/de/standorte/coop-supermarkt-alpnach/1324_POS

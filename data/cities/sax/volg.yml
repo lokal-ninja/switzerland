@@ -1,11 +1,11 @@
 id: 416797157
-type: way
+type: node
 latitude: 47.22962
 longitude: 9.4552
 postcode: "9468"
 city: Sax
-street: "Gaditsch"
-housenumber: 13
+street: Gaditsch
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 07:00-12:00, 14:00-18:30; Sa 07:00-14:00"
-website: "https://www.volg.ch/"
+opening_hours: Mo-Fr 07:00-12:00, 14:00-18:30; Sa 07:00-14:00
+website: https://www.volg.ch/

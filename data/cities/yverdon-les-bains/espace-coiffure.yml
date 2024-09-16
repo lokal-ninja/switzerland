@@ -4,8 +4,8 @@ latitude: 46.77847
 longitude: 6.63966
 postcode: "1400"
 city: Yverdon-les-Bains
-street: "Rue du Four"
-housenumber: 13
-phone: "+41 24 426 09 12"
-opening_hours: "Tu,Th,Fr 09:00-18:30; Sa 08:00-14:30"
+street: Rue du Four
+housenumber: "13"
+phone: +41 24 426 09 12
+opening_hours: Tu,Th,Fr 09:00-18:30; Sa 08:00-14:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.40389
 longitude: 8.40343
 postcode: "8953"
 city: Dietikon
-street: "Zürcherstrasse"
-housenumber: 48
+street: Zürcherstrasse
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00;Sa 09:00-12:00;PH closed"
-website: "https://www.hotelplan.ch/hotelplan-dietikon"
+opening_hours: Mo-Fr 09:00-18:00;Sa 09:00-12:00;PH closed
+website: https://www.hotelplan.ch/hotelplan-dietikon

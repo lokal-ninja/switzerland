@@ -1,11 +1,11 @@
 id: 208309871
-type: way
+type: node
 latitude: 47.25184
 longitude: 8.18771
 postcode: "5734"
 city: Reinach AG
-street: "Tunaustrasse"
-housenumber: 24
+street: Tunaustrasse
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

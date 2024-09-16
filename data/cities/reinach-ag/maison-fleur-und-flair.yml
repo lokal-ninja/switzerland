@@ -4,8 +4,8 @@ latitude: 47.2527
 longitude: 8.18307
 postcode: "5734"
 city: Reinach AG
-street: "Hauptstrasse"
-housenumber: 42
-phone: "+41 62 771 34 70"
-opening_hours: "We-Fr 09:00-12:00, 13:30-18:30; Sa 09:00-16:00"
+street: Hauptstrasse
+housenumber: "42"
+phone: +41 62 771 34 70
+opening_hours: We-Fr 09:00-12:00, 13:30-18:30; Sa 09:00-16:00
 website: ""

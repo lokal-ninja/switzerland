@@ -4,8 +4,8 @@ latitude: 47.29492
 longitude: 8.56426
 postcode: "8800"
 city: Thalwil
-street: "Gotthardstrasse"
-housenumber: 17
-phone: "+41 44 720 59 90"
-opening_hours: "Mo-Fr 09:00-12:15, 13:15-18:30; Sa 09:00-16:00"
-website: "https://www.impo.ch/"
+street: Gotthardstrasse
+housenumber: "17"
+phone: +41 44 720 59 90
+opening_hours: Mo-Fr 09:00-12:15, 13:15-18:30; Sa 09:00-16:00
+website: https://www.impo.ch/

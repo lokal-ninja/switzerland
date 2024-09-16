@@ -1,11 +1,11 @@
 id: 536428949
-type: way
+type: node
 latitude: 47.43967
 longitude: 7.53591
 postcode: "4222"
 city: Zwingen
-street: "Baselstrasse"
-housenumber: 31
+street: Baselstrasse
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

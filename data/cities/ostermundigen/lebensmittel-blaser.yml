@@ -4,8 +4,9 @@ latitude: 46.95624
 longitude: 7.48349
 postcode: "3072"
 city: Ostermundigen
-street: "Bernstrasse"
-housenumber: 32
+street: Bernstrasse
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Tu 06:30-12:00, 13:30-18:30; We 06:30-12:00; Th-Fr 06:30-12:00, 13:30-18:30; Sa 06:30-16:00; Su off"
+opening_hours: Mo-Tu 06:30-12:00, 13:30-18:30; We 06:30-12:00; Th-Fr 06:30-12:00,
+    13:30-18:30; Sa 06:30-16:00; Su off
 website: ""

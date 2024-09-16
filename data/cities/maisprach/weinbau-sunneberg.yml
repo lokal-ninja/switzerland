@@ -4,8 +4,8 @@ latitude: 47.52596
 longitude: 7.84082
 postcode: "4464"
 city: Maisprach
-street: "Esterliweg"
-housenumber: 22
-phone: "+41 61 841 02 01"
-opening_hours: "Bestellungen: telefonisch oder per E-Mail."
-website: "https://www.imhof-jaeggi.ch/"
+street: Esterliweg
+housenumber: "22"
+phone: +41 61 841 02 01
+opening_hours: 'Bestellungen: telefonisch oder per E-Mail.'
+website: https://www.imhof-jaeggi.ch/

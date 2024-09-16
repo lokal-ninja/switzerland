@@ -4,8 +4,8 @@ latitude: 47.35636
 longitude: 9.07643
 postcode: "9606"
 city: Bütschwil
-street: "Soorstrasse"
-housenumber: 
+street: Soorstrasse
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.velothek.ch/"
+website: https://www.velothek.ch/

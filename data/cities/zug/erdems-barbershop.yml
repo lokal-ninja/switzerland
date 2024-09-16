@@ -4,8 +4,8 @@ latitude: 47.16918
 longitude: 8.51481
 postcode: "6300"
 city: Zug
-street: "Schmidgasse"
-housenumber: 10
-phone: "+41 41 710 50 10"
-opening_hours: "Mo-We 08:00-19:00; Th 08:00-20:00; Fr 08:00-19:00; Sa 08:00-16:00"
-website: "https://erdemsbarbershop.ch/"
+street: Schmidgasse
+housenumber: "10"
+phone: +41 41 710 50 10
+opening_hours: Mo-We 08:00-19:00; Th 08:00-20:00; Fr 08:00-19:00; Sa 08:00-16:00
+website: https://erdemsbarbershop.ch/

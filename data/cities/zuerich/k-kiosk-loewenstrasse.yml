@@ -4,8 +4,8 @@ latitude: 47.37537
 longitude: 8.53649
 postcode: "8001"
 city: Zürich
-street: "Löwenstrasse"
-housenumber: 35
+street: Löwenstrasse
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00; PH off"
-website: "https://www.kkiosk.ch/de/"
+opening_hours: Mo-Sa 07:30-20:00; PH off
+website: https://www.kkiosk.ch/de/

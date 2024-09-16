@@ -1,11 +1,11 @@
 id: 417318340
-type: way
+type: node
 latitude: 46.05751
 longitude: 7.0012
 postcode: "1929"
 city: Trient
-street: "Route de la Forclaz"
-housenumber: 3
+street: Route de la Forclaz
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

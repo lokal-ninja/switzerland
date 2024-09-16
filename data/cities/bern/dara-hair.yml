@@ -4,8 +4,8 @@ latitude: 46.94318
 longitude: 7.43612
 postcode: "3011"
 city: Bern
-street: "Monbijoustrasse"
-housenumber: 39
-phone: "+41 31 381 46 11"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "https://dara-hair.ch"
+street: Monbijoustrasse
+housenumber: "39"
+phone: +41 31 381 46 11
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
+website: https://dara-hair.ch

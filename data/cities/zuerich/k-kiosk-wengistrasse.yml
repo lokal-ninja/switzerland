@@ -4,8 +4,8 @@ latitude: 47.37497
 longitude: 8.52327
 postcode: "8004"
 city: Zürich
-street: "Wengistrasse"
-housenumber: 7
+street: Wengistrasse
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.kkiosk.ch/de/"
+website: https://www.kkiosk.ch/de/

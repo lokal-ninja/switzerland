@@ -1,11 +1,11 @@
 id: 671295345
-type: way
+type: node
 latitude: 46.59524
 longitude: 6.60926
 postcode: "1037"
 city: Etagnières
-street: "Route en Rambuz"
+street: Route en Rambuz
 housenumber: 19;21
-phone: "+41 21 213 89 80"
-opening_hours: "Mo-Fr 07:30-19:30; Sa 07:30-19:00"
-website: "https://www.coop.ch/fr/magasins/coop-supermarche-etagnieres/4883_POS"
+phone: +41 21 213 89 80
+opening_hours: Mo-Fr 07:30-19:30; Sa 07:30-19:00
+website: https://www.coop.ch/fr/magasins/coop-supermarche-etagnieres/4883_POS

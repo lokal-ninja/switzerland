@@ -4,8 +4,8 @@ latitude: 46.84985
 longitude: 6.66814
 postcode: "1427"
 city: Bonvillars
-street: "Route de Fontanezier"
-housenumber: 4
-phone: "+41 24 436 17 26"
-opening_hours: "Sur rendez-vous"
+street: Route de Fontanezier
+housenumber: "4"
+phone: +41 24 436 17 26
+opening_hours: '"Sur rendez-vous"'
 website: ""

@@ -1,11 +1,11 @@
 id: 1108292879
-type: way
+type: node
 latitude: 46.51949
 longitude: 6.5405
 postcode: "1026"
 city: Denges
-street: "Route de la Pale"
-housenumber: 8
+street: Route de la Pale
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.bonjourlesfleurs.ch/"
+website: https://www.bonjourlesfleurs.ch/

@@ -1,11 +1,11 @@
 id: 273594833
-type: way
+type: node
 latitude: 47.24643
 longitude: 8.97292
 postcode: "8735"
 city: St. Gallenkappel
-street: "Rickenstrasse"
-housenumber: 54
-phone: "+41 55 284 27 32"
+street: Rickenstrasse
+housenumber: "54"
+phone: +41 55 284 27 32
 opening_hours: ""
 website: ""

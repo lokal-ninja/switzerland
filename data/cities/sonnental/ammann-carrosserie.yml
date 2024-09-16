@@ -1,11 +1,11 @@
 id: 258134109
-type: way
+type: node
 latitude: 47.46026
 longitude: 9.13211
 postcode: "9245"
 city: Sonnental
-street: "Abt Bedastrasse"
-housenumber: 88
+street: Abt Bedastrasse
+housenumber: "88"
 phone: ""
 opening_hours: ""
 website: ""

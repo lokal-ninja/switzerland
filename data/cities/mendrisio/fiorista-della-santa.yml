@@ -4,8 +4,8 @@ latitude: 45.86825
 longitude: 8.98514
 postcode: "6850"
 city: Mendrisio
-street: "Via Gismonda"
-housenumber: 3
+street: Via Gismonda
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:15,13:00-18:30; Sa 07:30-12:15,13:00-17:00"
-website: "https://www.fioristadellasanta.ch/"
+opening_hours: Mo-Fr 07:30-12:15,13:00-18:30; Sa 07:30-12:15,13:00-17:00
+website: https://www.fioristadellasanta.ch/

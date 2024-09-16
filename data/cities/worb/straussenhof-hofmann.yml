@@ -4,8 +4,8 @@ latitude: 46.92806
 longitude: 7.58225
 postcode: "3076"
 city: Worb
-street: "Enggisteinstrasse"
-housenumber: 92
-phone: "+41 31 869 39 12"
-opening_hours: "Hofverkauf nur durch vorherige Bestellung - Termine siehe www.straussenhof.ch"
-website: "https://www.straussenhof.ch/"
+street: Enggisteinstrasse
+housenumber: "92"
+phone: +41 31 869 39 12
+opening_hours: '"Hofverkauf nur durch vorherige Bestellung - Termine siehe www.straussenhof.ch"'
+website: https://www.straussenhof.ch/

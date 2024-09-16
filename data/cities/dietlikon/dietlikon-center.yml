@@ -1,11 +1,11 @@
 id: 175799505
-type: way
+type: node
 latitude: 47.41388
 longitude: 8.61886
 postcode: "8305"
 city: Dietlikon
-street: "Industriestrasse"
-housenumber: 28
+street: Industriestrasse
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

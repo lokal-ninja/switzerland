@@ -4,8 +4,8 @@ latitude: 47.02638
 longitude: 8.29891
 postcode: "6010"
 city: Kriens
-street: "Nidfeldstrasse"
-housenumber: 12
-phone: "+41 41 340 83 30"
-opening_hours: "Mo 09:00-18:30; 09:00-16:00; PH off"
-website: "https://www.felix-buehler.ch/Filialen/Kriens"
+street: Nidfeldstrasse
+housenumber: "12"
+phone: +41 41 340 83 30
+opening_hours: Mo 09:00-18:30; 09:00-16:00; PH off
+website: https://www.felix-buehler.ch/Filialen/Kriens

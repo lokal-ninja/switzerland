@@ -4,8 +4,8 @@ latitude: 46.25285
 longitude: 6.94889
 postcode: "1870"
 city: Monthey
-street: "Avenue de la Gare"
-housenumber: 12
+street: Avenue de la Gare
+housenumber: "12"
 phone: "+41244719550"
-opening_hours: "Mo 13:30-18:30; Tu-Fr 08:30-12:00,13:30-18:30; Sa 08:15-12:00,13:00-17:00"
-website: "https://www.lagrandelunetterie.ch"
+opening_hours: Mo 13:30-18:30; Tu-Fr 08:30-12:00,13:30-18:30; Sa 08:15-12:00,13:00-17:00
+website: https://www.lagrandelunetterie.ch

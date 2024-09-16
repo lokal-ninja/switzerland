@@ -4,8 +4,8 @@ latitude: 46.75363
 longitude: 6.49214
 postcode: "1355"
 city: L'Abergement
-street: "Cramelet"
-housenumber: 
+street: Cramelet
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "http://www.lapetiteepicerie.ch/"
+opening_hours: 24/7
+website: http://www.lapetiteepicerie.ch/

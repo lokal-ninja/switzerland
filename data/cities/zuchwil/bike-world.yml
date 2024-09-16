@@ -4,8 +4,8 @@ latitude: 47.20701
 longitude: 7.55539
 postcode: "4528"
 city: Zuchwil
-street: "Allmendweg"
-housenumber: 8
-phone: "+41 58 567 73 40"
-opening_hours: "Mo-Th 10:00-18:30; Fr 10:00-20:00; Sa 09:00-17:00"
+street: Allmendweg
+housenumber: "8"
+phone: +41 58 567 73 40
+opening_hours: Mo-Th 10:00-18:30; Fr 10:00-20:00; Sa 09:00-17:00
 website: ""

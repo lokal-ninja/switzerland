@@ -1,11 +1,11 @@
 id: 431768396
-type: way
+type: node
 latitude: 46.60766
 longitude: 6.91248
 postcode: "1611"
 city: Le Crêt-près-Semsales
-street: "Route des Barattes"
-housenumber: 81
+street: Route des Barattes
+housenumber: "81"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.80563
 longitude: 7.15944
 postcode: "1700"
 city: Fribourg
-street: "Rue de Lausanne"
-housenumber: 28
-phone: "+41 26 347 48 00"
-opening_hours: "Mo 13:30-18:30; Tu-Fr 09:30-18:30; Sa 09:30-16:00"
-website: "https://www.globetrotter.ch/"
+street: Rue de Lausanne
+housenumber: "28"
+phone: +41 26 347 48 00
+opening_hours: Mo 13:30-18:30; Tu-Fr 09:30-18:30; Sa 09:30-16:00
+website: https://www.globetrotter.ch/

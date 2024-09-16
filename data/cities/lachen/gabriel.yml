@@ -4,8 +4,8 @@ latitude: 47.19173
 longitude: 8.85461
 postcode: "8853"
 city: Lachen
-street: "Feldstrasse"
-housenumber: 6
+street: Feldstrasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00"
-website: "https://baeckerei-gabriel.ch/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00
+website: https://baeckerei-gabriel.ch/

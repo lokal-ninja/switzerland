@@ -4,8 +4,8 @@ latitude: 46.14867
 longitude: 7.17285
 postcode: "1907"
 city: Saxon
-street: "Rue de Gottefrey"
-housenumber: 38
-phone: "+41 27 720 65 84"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-17:00"
-website: "https://www.migros.ch/"
+street: Rue de Gottefrey
+housenumber: "38"
+phone: +41 27 720 65 84
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-17:00
+website: https://www.migros.ch/

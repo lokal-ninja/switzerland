@@ -1,11 +1,11 @@
 id: 158372476
-type: way
+type: node
 latitude: 47.3467
 longitude: 8.16057
 postcode: "5703"
 city: Seon
-street: "Unterdorfstrasse"
-housenumber: 10
+street: Unterdorfstrasse
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-We, Fr 08:00-13:00, 14:00-19:00; Sa 07:30-18:00; Th 08:00-20:00"
+opening_hours: Mo-We, Fr 08:00-13:00, 14:00-19:00; Sa 07:30-18:00; Th 08:00-20:00
 website: ""

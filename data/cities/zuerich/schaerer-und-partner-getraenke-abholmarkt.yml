@@ -4,8 +4,8 @@ latitude: 47.41406
 longitude: 8.52139
 postcode: "8046"
 city: Zürich
-street: "Binzmühlestrasse"
-housenumber: 393
+street: Binzmühlestrasse
+housenumber: "393"
 phone: ""
-opening_hours: "Tu-Fr 14:00-18:39, Sa 08:00-15:00"
-website: "https://www.schaerergetraenke.ch/"
+opening_hours: Tu-Fr 14:00-18:39, Sa 08:00-15:00
+website: https://www.schaerergetraenke.ch/

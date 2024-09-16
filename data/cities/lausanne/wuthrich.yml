@@ -4,8 +4,8 @@ latitude: 46.51508
 longitude: 6.63698
 postcode: "1006"
 city: Lausanne
-street: "Avenue Juste-Olivier"
-housenumber: 11
-phone: "+41 21 312 58 88"
+street: Avenue Juste-Olivier
+housenumber: "11"
+phone: +41 21 312 58 88
 opening_hours: ""
-website: "https://www.wuthrich.ch/"
+website: https://www.wuthrich.ch/

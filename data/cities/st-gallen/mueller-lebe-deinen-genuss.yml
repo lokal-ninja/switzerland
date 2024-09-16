@@ -1,11 +1,11 @@
 id: 222223365
-type: way
+type: node
 latitude: 47.4396
 longitude: 9.37964
 postcode: "9010"
 city: St. Gallen
-street: "Guisanstrasse"
-housenumber: 95
+street: Guisanstrasse
+housenumber: "95"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-15:00"
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-15:00
 website: ""

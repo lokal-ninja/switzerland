@@ -4,8 +4,8 @@ latitude: 46.80841
 longitude: 7.12836
 postcode: "1762"
 city: Givisiez
-street: "Route des Loisirs"
-housenumber: 1
+street: Route des Loisirs
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.econorama.ch/content/9-magasin-de-givisiez"
+website: https://www.econorama.ch/content/9-magasin-de-givisiez

@@ -1,11 +1,11 @@
 id: 89476902
-type: way
+type: node
 latitude: 47.01762
 longitude: 7.49874
 postcode: "3322"
 city: Urtenen-Schönbühl
-street: "Gewerbestrasse"
-housenumber: 12
+street: Gewerbestrasse
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.autoag.ch/index.php?nav=3,8,22,205"
+website: https://www.autoag.ch/index.php?nav=3,8,22,205

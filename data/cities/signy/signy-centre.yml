@@ -1,11 +1,11 @@
 id: 172348962
-type: way
+type: node
 latitude: 46.39761
 longitude: 6.20636
 postcode: "1274"
 city: Signy
-street: "Rue des Fléchères"
-housenumber: 7
+street: Rue des Fléchères
+housenumber: "7"
 phone: "+41223636700"
-opening_hours: "Mo-Th, Sa 09:00-19:00; Fr 09:00-21:00"
-website: "https://www.signycentre.ch/"
+opening_hours: Mo-Th, Sa 09:00-19:00; Fr 09:00-21:00
+website: https://www.signycentre.ch/

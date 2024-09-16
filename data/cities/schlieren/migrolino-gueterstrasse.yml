@@ -1,11 +1,11 @@
 id: 195438528
-type: way
+type: node
 latitude: 47.39881
 longitude: 8.44738
 postcode: "8952"
 city: Schlieren
-street: "Güterstrasse"
-housenumber: 3
-phone: "+41 44 730 05 25"
-opening_hours: "Mo-Sa 06:00-23:00; Su 07:00-22:00"
-website: "https://www.migrolino.ch/de/standorte/migrolino-schlieren/"
+street: Güterstrasse
+housenumber: "3"
+phone: +41 44 730 05 25
+opening_hours: Mo-Sa 06:00-23:00; Su 07:00-22:00
+website: https://www.migrolino.ch/de/standorte/migrolino-schlieren/

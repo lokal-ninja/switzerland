@@ -4,8 +4,8 @@ latitude: 46.37649
 longitude: 6.22436
 postcode: "1260"
 city: Nyon
-street: "Chemin de Bois-Bougy"
-housenumber: 4
+street: Chemin de Bois-Bougy
+housenumber: "4"
 phone: ""
-opening_hours: "24/7"
-website: "https://boisbougynyon.ch"
+opening_hours: 24/7
+website: https://boisbougynyon.ch

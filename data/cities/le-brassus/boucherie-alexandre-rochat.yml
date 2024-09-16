@@ -4,8 +4,8 @@ latitude: 46.58243
 longitude: 6.21066
 postcode: "1348"
 city: Le Brassus
-street: "Rue des Forges"
-housenumber: 1
-phone: "+41 21 845 57 08"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; We 08:00-12:00; Sa 08:00-12:30"
+street: Rue des Forges
+housenumber: "1"
+phone: +41 21 845 57 08
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; We 08:00-12:00; Sa 08:00-12:30
 website: ""

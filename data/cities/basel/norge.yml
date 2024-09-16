@@ -4,8 +4,8 @@ latitude: 47.54467
 longitude: 7.5884
 postcode: "4053"
 city: Basel
-street: "Sempacherstrasse"
-housenumber: 8
+street: Sempacherstrasse
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:30; Sa 08:00-13:00"
-website: "https://www.norge-bs.ch/"
+opening_hours: Mo-Fr 07:00-18:30; Sa 08:00-13:00
+website: https://www.norge-bs.ch/

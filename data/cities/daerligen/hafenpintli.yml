@@ -1,11 +1,11 @@
 id: 552190907
-type: way
+type: node
 latitude: 46.66433
 longitude: 7.80636
 postcode: "3707"
 city: Därligen
-street: "Dorfstrasse"
-housenumber: 82
+street: Dorfstrasse
+housenumber: "82"
 phone: ""
 opening_hours: ""
 website: ""

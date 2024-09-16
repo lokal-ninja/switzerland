@@ -1,11 +1,11 @@
 id: 214456785
-type: way
+type: node
 latitude: 47.6683
 longitude: 8.63695
 postcode: "8248"
 city: Uhwiesen
-street: "Dachsenerstrasse"
-housenumber: 7
+street: Dachsenerstrasse
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.90259
 longitude: 8.62554
 postcode: "6454"
 city: Flüelen
-street: "Dorfstrasse"
-housenumber: 6
-phone: "+41 41 871 14 82"
-opening_hours: "nach Vereinbarung"
-website: "https://www.ortema.ch"
+street: Dorfstrasse
+housenumber: "6"
+phone: +41 41 871 14 82
+opening_hours: '"nach Vereinbarung"'
+website: https://www.ortema.ch

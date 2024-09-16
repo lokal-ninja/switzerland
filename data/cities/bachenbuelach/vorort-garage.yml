@@ -1,11 +1,11 @@
 id: 43115555
-type: way
+type: node
 latitude: 47.50696
 longitude: 8.54473
 postcode: "8184"
 city: Bachenbülach
-street: "Zürichstrasse"
-housenumber: 61
+street: Zürichstrasse
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

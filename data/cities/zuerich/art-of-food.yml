@@ -4,8 +4,8 @@ latitude: 47.40887
 longitude: 8.54611
 postcode: "8050"
 city: Zürich
-street: "Franklinstrasse"
-housenumber: 4
+street: Franklinstrasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:30, Sa 09:00-19:00"
-website: "http://artfood.ch"
+opening_hours: Mo-Fr 09:00-19:30, Sa 09:00-19:00
+website: http://artfood.ch

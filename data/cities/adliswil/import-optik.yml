@@ -4,8 +4,8 @@ latitude: 47.31232
 longitude: 8.52666
 postcode: "8134"
 city: Adliswil
-street: "Zürichstrasse"
-housenumber: 2
-phone: "+41 44 515 45 44"
-opening_hours: "Tu-Fr 09:00-12:00,13:30-18:30; Sa 09:00-16:00"
-website: "https://www.import-optik.ch/adliswil"
+street: Zürichstrasse
+housenumber: "2"
+phone: +41 44 515 45 44
+opening_hours: Tu-Fr 09:00-12:00,13:30-18:30; Sa 09:00-16:00
+website: https://www.import-optik.ch/adliswil

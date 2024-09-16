@@ -4,8 +4,8 @@ latitude: 47.12749
 longitude: 8.74377
 postcode: "8840"
 city: Einsiedeln
-street: "Mythenstrasse"
-housenumber: 1
-phone: "+41 55 412 22 27"
+street: Mythenstrasse
+housenumber: "1"
+phone: +41 55 412 22 27
 opening_hours: ""
-website: "https://www.walhalla-einsiedeln.ch/"
+website: https://www.walhalla-einsiedeln.ch/

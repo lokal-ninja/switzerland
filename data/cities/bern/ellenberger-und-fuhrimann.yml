@@ -4,8 +4,8 @@ latitude: 46.94694
 longitude: 7.44968
 postcode: "3011"
 city: Bern
-street: "Herrengasse"
-housenumber: 19
-phone: "+41 31 311 63 19"
-opening_hours: "Tu-Fr 09:30-12:00,13:30-18:00; Sa 09:30-12:00,13:30-16:00"
-website: "https://www.dieblumengaertnerei.ch/"
+street: Herrengasse
+housenumber: "19"
+phone: +41 31 311 63 19
+opening_hours: Tu-Fr 09:30-12:00,13:30-18:00; Sa 09:30-12:00,13:30-16:00
+website: https://www.dieblumengaertnerei.ch/

@@ -1,11 +1,11 @@
 id: 98867411
-type: way
+type: node
 latitude: 47.31448
 longitude: 8.7978
 postcode: "8620"
 city: Wetzikon
-street: "Grubenstrasse"
-housenumber: 8
+street: Grubenstrasse
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

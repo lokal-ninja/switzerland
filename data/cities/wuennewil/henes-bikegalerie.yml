@@ -4,8 +4,8 @@ latitude: 46.86705
 longitude: 7.27321
 postcode: "3184"
 city: Wünnewil
-street: "Schneidersmatt"
-housenumber: 24
-phone: "+41 26 496 06 00"
-opening_hours: "Mo,Th,Fr 14:00-18:30; Tu,Sa 09:00-14:00"
-website: "https://www.henesbikegalerie.ch/"
+street: Schneidersmatt
+housenumber: "24"
+phone: +41 26 496 06 00
+opening_hours: Mo,Th,Fr 14:00-18:30; Tu,Sa 09:00-14:00
+website: https://www.henesbikegalerie.ch/

@@ -1,11 +1,11 @@
 id: 222237520
-type: way
+type: node
 latitude: 47.19228
 longitude: 9.28156
 postcode: "9656"
 city: Alt St. Johann
-street: "Hauptstrasse"
-housenumber: 34
-phone: "+41 71 999 13 02"
+street: Hauptstrasse
+housenumber: "34"
+phone: +41 71 999 13 02
 opening_hours: ""
-website: "https://resegli.ch/"
+website: https://resegli.ch/

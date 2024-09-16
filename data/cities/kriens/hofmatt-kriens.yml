@@ -1,11 +1,11 @@
 id: 28261836
-type: way
+type: node
 latitude: 47.03398
 longitude: 8.28257
 postcode: "6010"
 city: Kriens
-street: "Luzernerstrasse"
-housenumber: 30
+street: Luzernerstrasse
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.22901
 longitude: 7.34514
 postcode: "1950"
 city: Sion
-street: "Rue de Lausanne"
-housenumber: 100
+street: Rue de Lausanne
+housenumber: "100"
 phone: "+41273229895"
-opening_hours: "Mo-Sa 07:00-22:00; Su 08:00-22:00"
-website: "www.migrolino.ch"
+opening_hours: Mo-Sa 07:00-22:00; Su 08:00-22:00
+website: www.migrolino.ch

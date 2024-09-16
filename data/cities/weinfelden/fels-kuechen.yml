@@ -4,8 +4,8 @@ latitude: 47.56886
 longitude: 9.09681
 postcode: "8570"
 city: Weinfelden
-street: "Weststrasse"
-housenumber: 14
-phone: "+41 71 622 45 22"
-opening_hours: "Tu-Sa 09:00-12:00,13:30-17:30"
+street: Weststrasse
+housenumber: "14"
+phone: +41 71 622 45 22
+opening_hours: Tu-Sa 09:00-12:00,13:30-17:30
 website: ""

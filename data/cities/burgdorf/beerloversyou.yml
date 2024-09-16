@@ -4,8 +4,8 @@ latitude: 47.06059
 longitude: 7.62176
 postcode: "3400"
 city: Burgdorf
-street: "Bahnhofstrasse"
-housenumber: 44
-phone: "+41 77 503 63 64"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://beerloversyou.ch"
+street: Bahnhofstrasse
+housenumber: "44"
+phone: +41 77 503 63 64
+opening_hours: Mo-Sa 09:00-18:00
+website: https://beerloversyou.ch

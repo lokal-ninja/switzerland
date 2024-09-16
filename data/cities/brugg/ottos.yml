@@ -4,8 +4,8 @@ latitude: 47.48292
 longitude: 8.20782
 postcode: "5200"
 city: Brugg
-street: "Neumarktplatz"
-housenumber: 4
+street: Neumarktplatz
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.ottos.ch/"
+website: https://www.ottos.ch/

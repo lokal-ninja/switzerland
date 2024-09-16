@@ -1,11 +1,11 @@
 id: 273812136
-type: way
+type: node
 latitude: 47.22795
 longitude: 8.96708
 postcode: "8730"
 city: Uznach
-street: "Etzelstrasse"
-housenumber: 4
-phone: "+41 (0)55 225 52 13"
-opening_hours: "Mo-Fr 8:00-12:00, 13:30-17:30"
-website: "http://www.venzo.ch/"
+street: Etzelstrasse
+housenumber: "4"
+phone: +41 (0)55 225 52 13
+opening_hours: Mo-Fr 8:00-12:00, 13:30-17:30
+website: http://www.venzo.ch/

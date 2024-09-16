@@ -4,8 +4,8 @@ latitude: 47.36213
 longitude: 8.51394
 postcode: "8045"
 city: Zürich
-street: "Binzstrasse"
-housenumber: 23
-phone: "+41 44 456 44 00"
-opening_hours: "Mo-Fr 08:00-17:30"
-website: "http://www.modular-lighting.ch"
+street: Binzstrasse
+housenumber: "23"
+phone: +41 44 456 44 00
+opening_hours: Mo-Fr 08:00-17:30
+website: http://www.modular-lighting.ch

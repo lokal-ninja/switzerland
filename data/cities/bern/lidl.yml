@@ -1,11 +1,11 @@
 id: 379582720
-type: way
+type: node
 latitude: 46.94747
 longitude: 7.44082
 postcode: "3011"
 city: Bern
-street: "Spitalgasse"
+street: Spitalgasse
 housenumber: 47-51
 phone: ""
-opening_hours: "06:00-22:00"
-website: "https://www.lidl.ch/"
+opening_hours: 06:00-22:00
+website: https://www.lidl.ch/

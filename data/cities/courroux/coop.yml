@@ -1,11 +1,11 @@
 id: 1196698941
-type: way
+type: node
 latitude: 47.3603
 longitude: 7.38271
 postcode: "2822"
 city: Courroux
-street: "Rue du 23-Juin"
-housenumber: 76
-phone: "+41 32 421 6190"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 07:30-17:00; PH off"
+street: Rue du 23-Juin
+housenumber: "76"
+phone: +41 32 421 6190
+opening_hours: Mo-Fr 07:30-18:30; Sa 07:30-17:00; PH off
 website: ""

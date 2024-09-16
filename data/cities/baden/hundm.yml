@@ -4,8 +4,8 @@ latitude: 47.47501
 longitude: 8.30817
 postcode: "5400"
 city: Baden
-street: "Badstrasse"
-housenumber: 17
+street: Badstrasse
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://www2.hm.com/de_ch/"
+website: https://www2.hm.com/de_ch/

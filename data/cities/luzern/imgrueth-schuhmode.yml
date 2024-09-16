@@ -4,8 +4,8 @@ latitude: 47.05335
 longitude: 8.30647
 postcode: "6004"
 city: Luzern
-street: "Weggisgasse"
-housenumber: 4
+street: Weggisgasse
+housenumber: "4"
 phone: "+41414122448"
-opening_hours: "Mo-We,Fr 09:00-19:00; Th 09:00-20:00; Sa 09:00-17:00"
-website: "https://imgrueth.ch/"
+opening_hours: Mo-We,Fr 09:00-19:00; Th 09:00-20:00; Sa 09:00-17:00
+website: https://imgrueth.ch/

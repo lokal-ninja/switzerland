@@ -1,11 +1,11 @@
 id: 113717588
-type: way
+type: node
 latitude: 46.06868
 longitude: 8.96801
 postcode: "6950"
 city: Tesserete
-street: "Via Carlo Battaglini"
-housenumber: 1
+street: Via Carlo Battaglini
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

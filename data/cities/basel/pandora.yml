@@ -4,8 +4,8 @@ latitude: 47.55542
 longitude: 7.59086
 postcode: "4051"
 city: Basel
-street: "Freie Strasse"
-housenumber: 81
+street: Freie Strasse
+housenumber: "81"
 phone: ""
 opening_hours: ""
-website: "https://www.pandora.net/de-ch/"
+website: https://www.pandora.net/de-ch/

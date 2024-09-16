@@ -4,8 +4,8 @@ latitude: 47.00499
 longitude: 9.06723
 postcode: "8762"
 city: Schwändi
-street: "Plätzli"
-housenumber: 23
-phone: "+41 55 644 28 22"
-opening_hours: "Mo 08:00-10:00,17:00-18:30; Tu-Sa 08:00-11:30,17:00-18:30"
+street: Plätzli
+housenumber: "23"
+phone: +41 55 644 28 22
+opening_hours: Mo 08:00-10:00,17:00-18:30; Tu-Sa 08:00-11:30,17:00-18:30
 website: ""

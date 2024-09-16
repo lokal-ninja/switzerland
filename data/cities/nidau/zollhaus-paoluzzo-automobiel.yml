@@ -1,11 +1,11 @@
 id: 286811561
-type: way
+type: node
 latitude: 47.12601
 longitude: 7.25041
 postcode: ""
 city: Nidau
-street: "Guglerstrasse"
-housenumber: 6
+street: Guglerstrasse
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

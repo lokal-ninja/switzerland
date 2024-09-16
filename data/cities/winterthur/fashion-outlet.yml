@@ -4,8 +4,8 @@ latitude: 47.49977
 longitude: 8.7273
 postcode: "8400"
 city: Winterthur
-street: "Schmidgasse"
-housenumber: 3
+street: Schmidgasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo 13:00-18:00; Tu-Fr 10:00-12:30,13:00-18:00; Sa 09:00-17:00"
+opening_hours: Mo 13:00-18:00; Tu-Fr 10:00-12:30,13:00-18:00; Sa 09:00-17:00
 website: ""

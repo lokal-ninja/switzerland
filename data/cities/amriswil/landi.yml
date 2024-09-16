@@ -1,11 +1,11 @@
 id: 248088465
-type: way
+type: node
 latitude: 47.54853
 longitude: 9.27452
 postcode: "8580"
 city: Amriswil
-street: "Schrofenstrasse"
-housenumber: 20
+street: Schrofenstrasse
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

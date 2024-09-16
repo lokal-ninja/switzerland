@@ -4,8 +4,8 @@ latitude: 46.80566
 longitude: 7.15902
 postcode: "1700"
 city: Fribourg
-street: "Rue de Lausanne"
-housenumber: 39
+street: Rue de Lausanne
+housenumber: "39"
 phone: ""
-opening_hours: "We 10:00-12:00,14:00-18:00; Th-Fr 14:00-18:00; Sa 10:00-16:00"
-website: "http://www.teddies.ch/"
+opening_hours: We 10:00-12:00,14:00-18:00; Th-Fr 14:00-18:00; Sa 10:00-16:00
+website: http://www.teddies.ch/

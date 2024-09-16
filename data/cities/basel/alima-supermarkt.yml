@@ -4,8 +4,8 @@ latitude: 47.56844
 longitude: 7.58882
 postcode: "4057"
 city: Basel
-street: "Breisacherstrasse"
-housenumber: 92
+street: Breisacherstrasse
+housenumber: "92"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-18:00"
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.37001
 longitude: 8.5456
 postcode: "8001"
 city: Zürich
-street: "Schlossergasse"
-housenumber: 9
+street: Schlossergasse
+housenumber: "9"
 phone: "+41774008420"
-opening_hours: "by appointment"
-website: "https://www.meyergeigenbau.ch/"
+opening_hours: '"by appointment"'
+website: https://www.meyergeigenbau.ch/

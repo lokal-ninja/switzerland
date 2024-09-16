@@ -1,11 +1,11 @@
 id: 55569434
-type: way
+type: node
 latitude: 47.31535
 longitude: 7.82692
 postcode: "4617"
 city: Gunzgen
-street: "Mittelgäustrasse"
-housenumber: 58
+street: Mittelgäustrasse
+housenumber: "58"
 phone: ""
 opening_hours: ""
-website: "https://www.volg.ch/"
+website: https://www.volg.ch/

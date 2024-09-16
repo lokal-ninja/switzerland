@@ -4,8 +4,8 @@ latitude: 47.34097
 longitude: 8.5306
 postcode: "8038"
 city: Zürich
-street: "Albisstrasse"
-housenumber: 81
+street: Albisstrasse
+housenumber: "81"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; PH off"
-website: "https://www.aldi-suisse.ch/"
+opening_hours: Mo-Sa 07:30-21:00; PH off
+website: https://www.aldi-suisse.ch/

@@ -4,8 +4,8 @@ latitude: 47.19669
 longitude: 8.43503
 postcode: "6330"
 city: Cham
-street: "Sinserstrasse"
-housenumber: 400
-phone: "+41 41 790 23 23"
-opening_hours: "Mo-Fr 07:30-12:00,13:30-18:00; Sa 09:00-15:00"
-website: "https://wb-garage.ch/"
+street: Sinserstrasse
+housenumber: "400"
+phone: +41 41 790 23 23
+opening_hours: Mo-Fr 07:30-12:00,13:30-18:00; Sa 09:00-15:00
+website: https://wb-garage.ch/

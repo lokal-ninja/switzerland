@@ -1,11 +1,11 @@
 id: 537477397
-type: way
+type: node
 latitude: 47.27726
 longitude: 7.36768
 postcode: "2740"
 city: Moutier
-street: "Rue Industrielle"
-housenumber: 16
+street: Rue Industrielle
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

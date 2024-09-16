@@ -4,8 +4,8 @@ latitude: 47.06029
 longitude: 7.62413
 postcode: "3400"
 city: Burgdorf
-street: "Poststrasse"
-housenumber: 7
-phone: "+41 800 700 700"
-opening_hours: "Mo-Th 09:00-18:30; Fr 09:00-20:00; Sa 09:00-17:00"
-website: "https://www.salt.ch/"
+street: Poststrasse
+housenumber: "7"
+phone: +41 800 700 700
+opening_hours: Mo-Th 09:00-18:30; Fr 09:00-20:00; Sa 09:00-17:00
+website: https://www.salt.ch/

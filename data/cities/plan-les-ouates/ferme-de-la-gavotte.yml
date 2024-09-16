@@ -1,11 +1,11 @@
 id: 112738001
-type: way
+type: node
 latitude: 46.175
 longitude: 6.10101
 postcode: ""
 city: Plan-les-Ouates
-street: "Chemin des Verjus"
-housenumber: 138
+street: Chemin des Verjus
+housenumber: "138"
 phone: ""
 opening_hours: ""
-website: "https://gavotte.ch/"
+website: https://gavotte.ch/

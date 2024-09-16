@@ -1,11 +1,11 @@
 id: 229264811
-type: way
+type: node
 latitude: 46.89502
 longitude: 7.16871
 postcode: "3212"
 city: Gurmels
-street: "Peitschmatte"
-housenumber: 2
-phone: "+41 26 674 13 63"
+street: Peitschmatte
+housenumber: "2"
+phone: +41 26 674 13 63
 opening_hours: ""
-website: "https://www.legarage.ch/"
+website: https://www.legarage.ch/

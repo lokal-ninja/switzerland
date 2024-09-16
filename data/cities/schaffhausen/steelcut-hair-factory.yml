@@ -4,8 +4,8 @@ latitude: 47.70465
 longitude: 8.63099
 postcode: "8212"
 city: Schaffhausen
-street: "Zur Stahlgiesserei"
-housenumber: 7
-phone: "+41 52 525 39 54"
-opening_hours: "Tu-Fr 08:00-12:00,13:30-18:30; Sa 08:00-15:00; PH off"
-website: "https://steelcut.ch/"
+street: Zur Stahlgiesserei
+housenumber: "7"
+phone: +41 52 525 39 54
+opening_hours: Tu-Fr 08:00-12:00,13:30-18:30; Sa 08:00-15:00; PH off
+website: https://steelcut.ch/

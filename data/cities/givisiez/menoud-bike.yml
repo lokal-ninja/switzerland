@@ -1,11 +1,11 @@
 id: 237388312
-type: way
+type: node
 latitude: 46.81466
 longitude: 7.12987
 postcode: "1762"
 city: Givisiez
-street: "Route de Belfaux"
-housenumber: 13
+street: Route de Belfaux
+housenumber: "13"
 phone: "+41263226707"
-opening_hours: "Mo-Fr 08:30-12:00,13:30-18:30; Sa 08:00-16:00"
-website: "https://menoud-bike.ch/"
+opening_hours: Mo-Fr 08:30-12:00,13:30-18:30; Sa 08:00-16:00
+website: https://menoud-bike.ch/

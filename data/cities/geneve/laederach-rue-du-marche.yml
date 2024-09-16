@@ -4,8 +4,8 @@ latitude: 46.20343
 longitude: 6.14628
 postcode: "1204"
 city: Genève
-street: "Rue du Marché"
-housenumber: 5
-phone: "+41 22 310 76 33"
-opening_hours: "Mo-We 09:00-19:00; Th 09:00-21:00; Fr 09:00-19:30; Sa 09:00-18:00"
-website: "www.laederach.com/fr"
+street: Rue du Marché
+housenumber: "5"
+phone: +41 22 310 76 33
+opening_hours: Mo-We 09:00-19:00; Th 09:00-21:00; Fr 09:00-19:30; Sa 09:00-18:00
+website: www.laederach.com/fr

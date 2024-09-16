@@ -4,8 +4,8 @@ latitude: 47.42245
 longitude: 8.53984
 postcode: "8052"
 city: Zürich
-street: "Seebacherstrasse"
-housenumber: 100
+street: Seebacherstrasse
+housenumber: "100"
 phone: ""
-opening_hours: "Tu-Fr 08:00-18:30; Sa 07:30-15:00"
-website: "https://www.mad-hair-ingold.ch/"
+opening_hours: Tu-Fr 08:00-18:30; Sa 07:30-15:00
+website: https://www.mad-hair-ingold.ch/

@@ -4,8 +4,8 @@ latitude: 47.32278
 longitude: 9.08756
 postcode: "9620"
 city: Lichtensteig
-street: "Hauptgasse"
-housenumber: 27
-phone: "+41 71 552 00 09"
-opening_hours: "24/7"
-website: "https://chaeswelt.ch/de/"
+street: Hauptgasse
+housenumber: "27"
+phone: +41 71 552 00 09
+opening_hours: 24/7
+website: https://chaeswelt.ch/de/

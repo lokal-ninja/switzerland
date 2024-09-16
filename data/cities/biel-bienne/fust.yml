@@ -1,11 +1,11 @@
 id: 213599795
-type: way
+type: node
 latitude: 47.15996
 longitude: 7.27893
 postcode: "2504"
 city: Biel/Bienne
-street: "Solothurnstrasse"
-housenumber: 122
+street: Solothurnstrasse
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

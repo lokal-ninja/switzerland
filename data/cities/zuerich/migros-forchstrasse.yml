@@ -4,8 +4,8 @@ latitude: 47.35761
 longitude: 8.57137
 postcode: "8008"
 city: Zürich
-street: "Forchstrasse"
-housenumber: 260
+street: Forchstrasse
+housenumber: "260"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-zuerich-burgwies"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-zuerich-burgwies

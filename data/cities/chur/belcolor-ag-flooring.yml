@@ -4,8 +4,8 @@ latitude: 46.84759
 longitude: 9.52345
 postcode: "7000"
 city: Chur
-street: "Kasernenstrasse"
-housenumber: 36
-phone: "+41 81 252 67 67"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:30"
-website: "https://www.belcolor.ch"
+street: Kasernenstrasse
+housenumber: "36"
+phone: +41 81 252 67 67
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:30
+website: https://www.belcolor.ch

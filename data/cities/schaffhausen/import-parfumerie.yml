@@ -4,8 +4,8 @@ latitude: 47.6962
 longitude: 8.63469
 postcode: "8200"
 city: Schaffhausen
-street: "Vordergasse"
-housenumber: 69
+street: Vordergasse
+housenumber: "69"
 phone: ""
 opening_hours: ""
-website: "https://www.impo.ch/"
+website: https://www.impo.ch/

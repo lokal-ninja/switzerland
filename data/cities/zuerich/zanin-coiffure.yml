@@ -4,8 +4,8 @@ latitude: 47.36603
 longitude: 8.52109
 postcode: "8003"
 city: Zürich
-street: "Steinstrasse"
-housenumber: 70
+street: Steinstrasse
+housenumber: "70"
 phone: ""
 opening_hours: ""
-website: "http://www.zanin-coiffure.ch/"
+website: http://www.zanin-coiffure.ch/

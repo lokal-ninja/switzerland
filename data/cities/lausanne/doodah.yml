@@ -4,8 +4,8 @@ latitude: 46.52257
 longitude: 6.63105
 postcode: "1003"
 city: Lausanne
-street: "Rue William-Haldimand"
-housenumber: 10
-phone: "+41 21 3114844"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:00-18:00"
-website: "https://doodah.ch"
+street: Rue William-Haldimand
+housenumber: "10"
+phone: +41 21 3114844
+opening_hours: Mo-Fr 10:00-18:30; Sa 09:00-18:00
+website: https://doodah.ch

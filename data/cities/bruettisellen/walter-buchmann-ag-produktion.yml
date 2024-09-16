@@ -1,11 +1,11 @@
 id: 186188226
-type: way
+type: node
 latitude: 47.4172
 longitude: 8.63017
 postcode: "8306"
 city: Brüttisellen
-street: "Ruchstuckstrasse"
-housenumber: 16
-phone: "+41 44 462 33 33"
+street: Ruchstuckstrasse
+housenumber: "16"
+phone: +41 44 462 33 33
 opening_hours: ""
-website: "https://www.walterbuchmann.ch/kontakt"
+website: https://www.walterbuchmann.ch/kontakt

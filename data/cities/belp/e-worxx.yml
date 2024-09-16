@@ -4,8 +4,8 @@ latitude: 46.8908
 longitude: 7.50143
 postcode: "3123"
 city: Belp
-street: "Dorfstrasse"
-housenumber: 42
-phone: "+41 31 819 97 77"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00"
-website: "https://www.e-worxx.ch/"
+street: Dorfstrasse
+housenumber: "42"
+phone: +41 31 819 97 77
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00
+website: https://www.e-worxx.ch/

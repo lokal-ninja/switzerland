@@ -1,11 +1,11 @@
 id: 476424027
-type: way
+type: node
 latitude: 47.27972
 longitude: 7.69951
 postcode: "4704"
 city: Niederbipp
-street: "Aengistrasse"
-housenumber: 20
+street: Aengistrasse
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:30-12:00; Mo-Fr 13:30-17:30"
-website: "https://kreuchi-auto.ch/"
+opening_hours: Mo-Sa 07:30-12:00; Mo-Fr 13:30-17:30
+website: https://kreuchi-auto.ch/

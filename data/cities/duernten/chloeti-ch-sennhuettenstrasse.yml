@@ -1,11 +1,11 @@
 id: 251646701
-type: way
+type: node
 latitude: 47.27993
 longitude: 8.86114
 postcode: "8635"
 city: Dürnten
-street: "Sennhüttenstrasse"
-housenumber: 22
+street: Sennhüttenstrasse
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "http://www.chlöti.ch"
+website: http://www.chlöti.ch

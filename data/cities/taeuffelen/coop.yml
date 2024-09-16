@@ -1,11 +1,11 @@
 id: 689602620
-type: way
+type: node
 latitude: 47.07171
 longitude: 7.20219
 postcode: "2575"
 city: Täuffelen
-street: "Burrirain"
-housenumber: 58
+street: Burrirain
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-17:00; Su off"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-17:00; Su off
 website: ""

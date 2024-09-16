@@ -1,11 +1,11 @@
 id: 498588974
-type: way
+type: node
 latitude: 47.44988
 longitude: 9.44211
 postcode: "9033"
 city: Untereggen
-street: "Im Böhler"
-housenumber: 11
+street: Im Böhler
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

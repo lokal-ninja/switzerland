@@ -1,11 +1,11 @@
 id: 125105232
-type: way
+type: node
 latitude: 46.38788
 longitude: 6.22869
 postcode: "1260"
 city: Nyon
-street: "Quartier de la Levratte"
+street: Quartier de la Levratte
 housenumber: 22b
 phone: ""
 opening_hours: ""
-website: "https://www.coop.ch/"
+website: https://www.coop.ch/

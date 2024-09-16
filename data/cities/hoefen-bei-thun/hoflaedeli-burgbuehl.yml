@@ -1,11 +1,11 @@
 id: 339412966
-type: way
+type: node
 latitude: 46.72391
 longitude: 7.5446
 postcode: "3631"
 city: Höfen bei Thun
-street: "Huttenstrasse"
-housenumber: 12
-phone: "+41 79 472 76 75"
+street: Huttenstrasse
+housenumber: "12"
+phone: +41 79 472 76 75
 opening_hours: ""
-website: "https://www.hoflaedeli-burgbuehl.info/"
+website: https://www.hoflaedeli-burgbuehl.info/

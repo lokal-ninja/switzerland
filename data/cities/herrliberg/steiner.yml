@@ -4,8 +4,8 @@ latitude: 47.2858
 longitude: 8.61746
 postcode: "8704"
 city: Herrliberg
-street: "Rennweg"
-housenumber: 4
+street: Rennweg
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-17:00"
-website: "https://www.steiner-beck.ch/filialen/herrliberg/"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-17:00
+website: https://www.steiner-beck.ch/filialen/herrliberg/

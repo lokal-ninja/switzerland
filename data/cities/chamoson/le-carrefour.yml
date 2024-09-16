@@ -4,8 +4,9 @@ latitude: 46.19991
 longitude: 7.22484
 postcode: "1955"
 city: Chamoson
-street: "Rue Vers Croix"
-housenumber: 2
-phone: "+41 27 306 26 54"
-opening_hours: "Mo,Tu 06:30-12:00,14:00-18:30; We,Su 06:30-12:00; Th,Fr 06:30-12:00,14:00-18:45; Sa 06:30-12:00,14:00-17:30"
+street: Rue Vers Croix
+housenumber: "2"
+phone: +41 27 306 26 54
+opening_hours: Mo,Tu 06:30-12:00,14:00-18:30; We,Su 06:30-12:00; Th,Fr 06:30-12:00,14:00-18:45;
+    Sa 06:30-12:00,14:00-17:30
 website: ""

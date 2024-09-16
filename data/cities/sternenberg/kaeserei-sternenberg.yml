@@ -1,11 +1,11 @@
 id: 250881464
-type: way
+type: node
 latitude: 47.38417
 longitude: 8.91418
 postcode: "8499"
 city: Sternenberg
-street: "Höchstockstrasse"
-housenumber: 7
+street: Höchstockstrasse
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.kaeserei-preisig.ch/"
+website: https://www.kaeserei-preisig.ch/

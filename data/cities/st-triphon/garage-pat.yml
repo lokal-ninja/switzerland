@@ -1,11 +1,11 @@
 id: 881297462
-type: way
+type: node
 latitude: 46.27541
 longitude: 6.97136
 postcode: "1867"
 city: St-Triphon
-street: "Chemin des Prés Rouliers"
-housenumber: 5
+street: Chemin des Prés Rouliers
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

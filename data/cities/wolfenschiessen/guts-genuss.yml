@@ -1,11 +1,11 @@
 id: 263538458
-type: way
+type: node
 latitude: 46.90835
 longitude: 8.39634
 postcode: "6386"
 city: Wolfenschiessen
-street: "Kirchweg"
-housenumber: 3
+street: Kirchweg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 05:30-12:30,14:00-18:30; Sa 05:00-16:00"
-website: "http://www.guts-genuss.ch/"
+opening_hours: Mo-Fr 05:30-12:30,14:00-18:30; Sa 05:00-16:00
+website: http://www.guts-genuss.ch/

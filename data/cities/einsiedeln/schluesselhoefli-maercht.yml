@@ -1,11 +1,11 @@
 id: 193681801
-type: way
+type: node
 latitude: 47.13233
 longitude: 8.75249
 postcode: "8840"
 city: Einsiedeln
-street: "Etzelstrasse"
-housenumber: 4
+street: Etzelstrasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "http://www.hermann-kaelin.ch"
+website: http://www.hermann-kaelin.ch

@@ -4,8 +4,8 @@ latitude: 47.05354
 longitude: 7.62113
 postcode: "3400"
 city: Burgdorf
-street: "Bernstrasse"
-housenumber: 25
+street: Bernstrasse
+housenumber: "25"
 phone: ""
-opening_hours: "Mo off; Tu-Fr 09:00-19:00; Sa 09:00-17:30; Su off"
+opening_hours: Mo off; Tu-Fr 09:00-19:00; Sa 09:00-17:30; Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 179491974
-type: way
+type: node
 latitude: 47.02797
 longitude: 8.63124
 postcode: "6423"
 city: Seewen SZ
-street: "Bahnhofstrasse"
-housenumber: 156
+street: Bahnhofstrasse
+housenumber: "156"
 phone: ""
-opening_hours: "06:00-22:00"
+opening_hours: 06:00-22:00
 website: ""

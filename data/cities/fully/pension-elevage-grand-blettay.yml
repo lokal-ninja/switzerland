@@ -1,11 +1,11 @@
 id: 1049352169
-type: way
+type: node
 latitude: 46.1579
 longitude: 7.15505
 postcode: "1926"
 city: Fully
-street: "Chemin du Saule"
-housenumber: 9
-phone: "+41 27 744 22 47"
-opening_hours: "Mo-Sa 09:00-11:00,15:00-18:00; Su,PH 17:30-18:00"
-website: "https://www.grand-blettay.ch"
+street: Chemin du Saule
+housenumber: "9"
+phone: +41 27 744 22 47
+opening_hours: Mo-Sa 09:00-11:00,15:00-18:00; Su,PH 17:30-18:00
+website: https://www.grand-blettay.ch

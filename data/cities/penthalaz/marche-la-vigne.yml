@@ -4,8 +4,8 @@ latitude: 46.61371
 longitude: 6.53016
 postcode: "1305"
 city: Penthalaz
-street: "Route de Penthaz"
-housenumber: 3
+street: Route de Penthaz
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00; Su 09:00-17:00"
-website: "http://www.marchelavigne.sitew.ch/"
+opening_hours: Mo-Sa 08:00-19:00; Su 09:00-17:00
+website: http://www.marchelavigne.sitew.ch/

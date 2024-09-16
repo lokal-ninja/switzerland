@@ -4,8 +4,8 @@ latitude: 47.24033
 longitude: 8.18635
 postcode: "5737"
 city: Menziken
-street: "Kirchstrasse"
-housenumber: 2
-phone: "+41 62 772 37 36"
-opening_hours: "Mo-Fr 06:30-12:15, 15:00-18:30; Sa 07:00-12:00"
+street: Kirchstrasse
+housenumber: "2"
+phone: +41 62 772 37 36
+opening_hours: Mo-Fr 06:30-12:15, 15:00-18:30; Sa 07:00-12:00
 website: ""

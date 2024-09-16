@@ -4,8 +4,8 @@ latitude: 47.37336
 longitude: 8.55308
 postcode: "8032"
 city: Zürich
-street: "Zürichbergstrasse"
-housenumber: 20
+street: Zürichbergstrasse
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-13:00"
-website: "https://www.reif-metzgerei.ch/"
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-13:00
+website: https://www.reif-metzgerei.ch/

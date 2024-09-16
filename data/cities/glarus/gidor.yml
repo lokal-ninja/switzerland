@@ -4,8 +4,8 @@ latitude: 47.04077
 longitude: 9.06719
 postcode: "8750"
 city: Glarus
-street: "Hauptstrasse"
-housenumber: 45
+street: Hauptstrasse
+housenumber: "45"
 phone: ""
 opening_hours: ""
-website: "https://www.gidor.ch/filiale/glarus/"
+website: https://www.gidor.ch/filiale/glarus/

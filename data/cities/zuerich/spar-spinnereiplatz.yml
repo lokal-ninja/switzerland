@@ -4,8 +4,8 @@ latitude: 47.33833
 longitude: 8.52026
 postcode: "8041"
 city: Zürich
-street: "Spinnereiplatz"
-housenumber: 4
-phone: "+41 44 317 15 09"
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.spar.ch/"
+street: Spinnereiplatz
+housenumber: "4"
+phone: +41 44 317 15 09
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.spar.ch/

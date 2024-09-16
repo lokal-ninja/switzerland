@@ -4,8 +4,8 @@ latitude: 47.35732
 longitude: 9.44881
 postcode: "9056"
 city: Gais
-street: "Forren"
-housenumber: 22
-phone: "+41 79 829 41 26"
-opening_hours: "Fr 09:00-11:00,13:30-19:00; Sa 07:30-11:30; "
-website: "https://bergkaeserei.ch/direktverkauf/"
+street: Forren
+housenumber: "22"
+phone: +41 79 829 41 26
+opening_hours: 'Fr 09:00-11:00,13:30-19:00; Sa 07:30-11:30; '
+website: https://bergkaeserei.ch/direktverkauf/

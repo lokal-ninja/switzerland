@@ -4,8 +4,8 @@ latitude: 47.50077
 longitude: 8.3479
 postcode: "5420"
 city: Ehrendingen
-street: "Kirchweg"
-housenumber: 64
+street: Kirchweg
+housenumber: "64"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.littlescandinavia.ch"
+opening_hours: 24/7
+website: https://www.littlescandinavia.ch

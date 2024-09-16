@@ -4,8 +4,8 @@ latitude: 47.40928
 longitude: 8.54571
 postcode: "8050"
 city: Zürich
-street: "Welchogasse"
-housenumber: 5
-phone: "+41 44 311 21 25"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 08:30-17:00"
-website: "http://zuerich.schuhwehrli.ch/"
+street: Welchogasse
+housenumber: "5"
+phone: +41 44 311 21 25
+opening_hours: Mo-Fr 09:00-18:30; Sa 08:30-17:00
+website: http://zuerich.schuhwehrli.ch/

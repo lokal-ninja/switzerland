@@ -4,8 +4,8 @@ latitude: 47.22317
 longitude: 7.10013
 postcode: "2720"
 city: Tramelan
-street: "Grand-Rue"
-housenumber: 126
-phone: "+41 32 487 12 63"
-opening_hours: "Tu-Sa 09:00-11:30; We,Fr 15:00-18:00"
-website: "https://www.mdm.ch/magasins/tramelan"
+street: Grand-Rue
+housenumber: "126"
+phone: +41 32 487 12 63
+opening_hours: Tu-Sa 09:00-11:30; We,Fr 15:00-18:00
+website: https://www.mdm.ch/magasins/tramelan

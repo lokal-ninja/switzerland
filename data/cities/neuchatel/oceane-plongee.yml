@@ -4,8 +4,8 @@ latitude: 46.99524
 longitude: 6.94254
 postcode: "2000"
 city: Neuchâtel
-street: "Rue de la pierre à Mazel"
-housenumber: 4
-phone: "+41 32 721 27 87"
-opening_hours: "Mo-Fr 14:30-18:30; Sa 09:00-14:00"
-website: "https://www.oceane.ch/"
+street: Rue de la pierre à Mazel
+housenumber: "4"
+phone: +41 32 721 27 87
+opening_hours: Mo-Fr 14:30-18:30; Sa 09:00-14:00
+website: https://www.oceane.ch/

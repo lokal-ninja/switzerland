@@ -1,11 +1,11 @@
 id: 775719124
-type: way
+type: node
 latitude: 47.39267
 longitude: 9.29777
 postcode: "9100"
 city: Herisau
-street: "Walke"
-housenumber: 41
+street: Walke
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

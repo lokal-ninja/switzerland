@@ -4,8 +4,8 @@ latitude: 47.55537
 longitude: 7.57637
 postcode: "4051"
 city: Basel
-street: "Austrasse"
-housenumber: 109
+street: Austrasse
+housenumber: "109"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:30-17:30"
-website: "https://www.rene-ruepp.ch"
+opening_hours: Mo-Fr 08:00-12:00,13:30-17:30
+website: https://www.rene-ruepp.ch

@@ -4,8 +4,8 @@ latitude: 47.49759
 longitude: 8.716
 postcode: "8400"
 city: Winterthur
-street: "Eduard-Steiner-Strasse"
-housenumber: 1
+street: Eduard-Steiner-Strasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-17:00; PH closed"
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-17:00; PH closed
 website: ""

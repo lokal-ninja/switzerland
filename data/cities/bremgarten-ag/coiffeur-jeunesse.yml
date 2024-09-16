@@ -4,8 +4,8 @@ latitude: 47.35138
 longitude: 8.34272
 postcode: "5620"
 city: Bremgarten AG
-street: "Rechengasse"
-housenumber: 15
+street: Rechengasse
+housenumber: "15"
 phone: ""
-opening_hours: "Mo 13:30-18:30;Tu-Fr 08:00-18:30;Sa 07:00-18:30;PH closed"
+opening_hours: Mo 13:30-18:30;Tu-Fr 08:00-18:30;Sa 07:00-18:30;PH closed
 website: ""

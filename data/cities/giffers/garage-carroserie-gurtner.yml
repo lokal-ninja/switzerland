@@ -1,11 +1,11 @@
 id: 207581859
-type: way
+type: node
 latitude: 46.76663
 longitude: 7.20926
 postcode: "1735"
 city: Giffers
-street: "Obertswilstrasse"
-housenumber: 63
+street: Obertswilstrasse
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 96410043
-type: way
+type: node
 latitude: 47.33809
 longitude: 8.43957
 postcode: "8904"
 city: Aesch (ZH)
-street: "Feldstrasse"
-housenumber: 3
+street: Feldstrasse
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

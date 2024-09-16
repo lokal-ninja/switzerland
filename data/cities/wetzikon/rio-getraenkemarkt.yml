@@ -1,11 +1,11 @@
 id: 247681134
-type: way
+type: node
 latitude: 47.33257
 longitude: 8.80854
 postcode: "8623"
 city: Wetzikon
-street: "Stationsstrasse"
-housenumber: 58
+street: Stationsstrasse
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:30,13:30-19:00; Sa 08:00-17:00"
+opening_hours: Mo-Fr 08:00-12:30,13:30-19:00; Sa 08:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.48331
 longitude: 8.46362
 postcode: "8157"
 city: Dielsdorf
-street: "Industriestrasse"
-housenumber: 6
-phone: "+41 58 269 71 00"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00, Sa 09:00-16:00"
-website: "https://hedinautomotive.ch"
+street: Industriestrasse
+housenumber: "6"
+phone: +41 58 269 71 00
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00, Sa 09:00-16:00
+website: https://hedinautomotive.ch

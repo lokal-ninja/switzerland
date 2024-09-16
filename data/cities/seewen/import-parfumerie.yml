@@ -5,7 +5,7 @@ longitude: 8.62724
 postcode: "6423"
 city: Seewen
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Th 09:00-20:00; Fr 09:00-21:00; Sa 08:00-20:00"
-website: "https://www.impo.ch/"
+opening_hours: Mo-Th 09:00-20:00; Fr 09:00-21:00; Sa 08:00-20:00
+website: https://www.impo.ch/

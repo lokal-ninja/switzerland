@@ -4,8 +4,8 @@ latitude: 47.36454
 longitude: 8.5256
 postcode: "8002"
 city: Zürich
-street: "Brandschenkestrasse"
-housenumber: 130
+street: Brandschenkestrasse
+housenumber: "130"
 phone: ""
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

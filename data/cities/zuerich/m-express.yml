@@ -4,8 +4,8 @@ latitude: 47.36824
 longitude: 8.53423
 postcode: "8002"
 city: Zürich
-street: "Stockerstrasse"
-housenumber: 47
+street: Stockerstrasse
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; PH off"
-website: "https://filialen.migros.ch/de/migros-supermarkt-zuerich-stockerstrasse-m-express"
+opening_hours: Mo-Fr 07:30-19:00; PH off
+website: https://filialen.migros.ch/de/migros-supermarkt-zuerich-stockerstrasse-m-express

@@ -1,11 +1,11 @@
 id: 176784017
-type: way
+type: node
 latitude: 46.86156
 longitude: 7.46517
 postcode: "3087"
 city: Niedermuhlern
-street: "Dorf"
-housenumber: 3
+street: Dorf
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 06:00-11:30,16:30-18:30; Su 17:30-18:30"
+opening_hours: Mo-Sa 06:00-11:30,16:30-18:30; Su 17:30-18:30
 website: ""

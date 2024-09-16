@@ -4,8 +4,8 @@ latitude: 47.51831
 longitude: 8.59273
 postcode: "8424"
 city: Embrach
-street: "Lochackerstrasse"
-housenumber: 7
+street: Lochackerstrasse
+housenumber: "7"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.migrol.ch/de/"
+opening_hours: 24/7
+website: https://www.migrol.ch/de/

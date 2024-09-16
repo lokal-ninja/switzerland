@@ -4,8 +4,8 @@ latitude: 47.69067
 longitude: 8.64724
 postcode: "8245"
 city: Feuerthalen
-street: "Schützenstrasse"
-housenumber: 30
+street: Schützenstrasse
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:00-20:00"
-website: "https://www.gidor.ch/filiale/feuerthalen/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 08:00-20:00
+website: https://www.gidor.ch/filiale/feuerthalen/

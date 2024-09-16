@@ -4,8 +4,8 @@ latitude: 47.55412
 longitude: 7.58825
 postcode: "4051"
 city: Basel
-street: "Kohlenberg"
-housenumber: 11
+street: Kohlenberg
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-17:00"
-website: "https://www.o20.ch/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-17:00
+website: https://www.o20.ch/

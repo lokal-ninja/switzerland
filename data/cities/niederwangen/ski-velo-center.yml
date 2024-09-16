@@ -4,8 +4,8 @@ latitude: 46.92395
 longitude: 7.37692
 postcode: "3172"
 city: Niederwangen
-street: "Freiburgstrasse"
-housenumber: 571
+street: Freiburgstrasse
+housenumber: "571"
 phone: ""
-opening_hours: "Tu-Fr 08:30-12:00, 13:30-18:30; Sa 08:30-16:00"
-website: "https://www.ski-velo-center.ch/de/niederwangen"
+opening_hours: Tu-Fr 08:30-12:00, 13:30-18:30; Sa 08:30-16:00
+website: https://www.ski-velo-center.ch/de/niederwangen

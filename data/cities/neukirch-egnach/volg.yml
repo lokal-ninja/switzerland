@@ -1,11 +1,11 @@
 id: 391925480
-type: way
+type: node
 latitude: 47.5293
 longitude: 9.36991
 postcode: "9315"
 city: Neukirch (Egnach)
-street: "Bahnhofstrasse"
-housenumber: 72
+street: Bahnhofstrasse
+housenumber: "72"
 phone: ""
 opening_hours: ""
 website: ""

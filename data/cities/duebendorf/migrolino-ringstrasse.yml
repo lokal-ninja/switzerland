@@ -4,8 +4,8 @@ latitude: 47.39843
 longitude: 8.60533
 postcode: "8600"
 city: Dübendorf
-street: "Ringstrasse"
-housenumber: 17
+street: Ringstrasse
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 05:30-23:00, Sa-Su 07:00-23:00"
-website: "https://www.migrolino.ch/de/standorte/socar-dubendorf-buhlwiesen/"
+opening_hours: Mo-Fr 05:30-23:00, Sa-Su 07:00-23:00
+website: https://www.migrolino.ch/de/standorte/socar-dubendorf-buhlwiesen/

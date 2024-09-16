@@ -4,8 +4,8 @@ latitude: 47.22948
 longitude: 8.67251
 postcode: "8820"
 city: Wädenswil
-street: "Gerbestrasse"
-housenumber: 7
+street: Gerbestrasse
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-We 08:00-19:00; Th-Fr 08:00-20:00; Sa 08:00-17:00; PH closed"
-website: "https://www.hairstylist-pierre.ch/de/coiffeur-waedenswil"
+opening_hours: Mo-We 08:00-19:00; Th-Fr 08:00-20:00; Sa 08:00-17:00; PH closed
+website: https://www.hairstylist-pierre.ch/de/coiffeur-waedenswil

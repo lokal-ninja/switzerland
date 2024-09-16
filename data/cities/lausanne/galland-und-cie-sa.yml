@@ -4,8 +4,8 @@ latitude: 46.52072
 longitude: 6.63475
 postcode: "1003"
 city: Lausanne
-street: "Ruelle du Flon"
-housenumber: 1
-phone: "+41 21 310 25 25"
-opening_hours: "Mo-Th 07:45-17:00; Fr 07:45-16:00"
-website: "https://www.galland.ch"
+street: Ruelle du Flon
+housenumber: "1"
+phone: +41 21 310 25 25
+opening_hours: Mo-Th 07:45-17:00; Fr 07:45-16:00
+website: https://www.galland.ch

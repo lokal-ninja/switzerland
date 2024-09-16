@@ -1,11 +1,11 @@
 id: 1078918515
-type: way
+type: node
 latitude: 46.63015
 longitude: 7.06126
 postcode: "1630"
 city: Bulle
-street: "Route de Riaz"
-housenumber: 100
+street: Route de Riaz
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://ch.casashops.com"
+website: https://ch.casashops.com

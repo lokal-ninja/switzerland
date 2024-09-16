@@ -4,8 +4,8 @@ latitude: 47.37523
 longitude: 8.53919
 postcode: "8001"
 city: Zürich
-street: "Bahnhofstrasse"
-housenumber: 82
+street: Bahnhofstrasse
+housenumber: "82"
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00, Sa 09:30-18:00; PH off"
-website: "https://shop.mango.com/CH/"
+opening_hours: Mo-Fr 09:30-20:00, Sa 09:30-18:00; PH off
+website: https://shop.mango.com/CH/

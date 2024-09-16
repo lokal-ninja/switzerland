@@ -1,11 +1,11 @@
 id: 457138405
-type: way
+type: node
 latitude: 46.16368
 longitude: 8.77346
 postcode: "6612"
 city: Ascona
-street: "via Locarno"
-housenumber: 15
+street: via Locarno
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.39417
 longitude: 8.48179
 postcode: "8048"
 city: Zürich
-street: "Vulkanstrasse"
-housenumber: 120
-phone: "+41 44 427 24 10"
-opening_hours: "Mo-Fr 07:15-18:00, Sa 09:00-16:00"
-website: "https://www.jhkellerag.ch/"
+street: Vulkanstrasse
+housenumber: "120"
+phone: +41 44 427 24 10
+opening_hours: Mo-Fr 07:15-18:00, Sa 09:00-16:00
+website: https://www.jhkellerag.ch/

@@ -4,8 +4,8 @@ latitude: 47.40452
 longitude: 8.60591
 postcode: "8304"
 city: Wallisellen
-street: "Seidenstrasse"
-housenumber: 4
+street: Seidenstrasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.dataquest.ch/filialen/info/corporate-business-unit"
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.dataquest.ch/filialen/info/corporate-business-unit

@@ -4,8 +4,8 @@ latitude: 46.51139
 longitude: 6.50009
 postcode: "1110"
 city: Morges
-street: "Rue de Lausanne"
+street: Rue de Lausanne
 housenumber: 4B
-phone: "+41 21 801 51 41"
-opening_hours: "Tu,Th,Fr 14:30-17:30; We 09:00-11:00,14:30-17:30"
-website: "https://csp.ch/vaud/galetas-et-boutiques/"
+phone: +41 21 801 51 41
+opening_hours: Tu,Th,Fr 14:30-17:30; We 09:00-11:00,14:30-17:30
+website: https://csp.ch/vaud/galetas-et-boutiques/

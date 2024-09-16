@@ -4,8 +4,8 @@ latitude: 46.80509
 longitude: 9.83697
 postcode: "7260"
 city: Davos
-street: "Promenade"
-housenumber: 131
-phone: "+41 81 420 70 20"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://www.freitag.ch/de/store/freitag-store-davos"
+street: Promenade
+housenumber: "131"
+phone: +41 81 420 70 20
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://www.freitag.ch/de/store/freitag-store-davos

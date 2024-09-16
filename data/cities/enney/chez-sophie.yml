@@ -1,11 +1,12 @@
 id: 225477188
-type: way
+type: node
 latitude: 46.56631
 longitude: 7.08362
 postcode: "1667"
 city: Enney
-street: "Route de la Scie"
-housenumber: 2
+street: Route de la Scie
+housenumber: "2"
 phone: "+41269212172"
-opening_hours: "Mo-Fr 06:30-12:00, 13:30-18:30; Sa 07:30-12:00, 13:30-16:00; Su 07:30-12:00, 16:00-18:30"
-website: "https://lasieste.ch/"
+opening_hours: Mo-Fr 06:30-12:00, 13:30-18:30; Sa 07:30-12:00, 13:30-16:00; Su 07:30-12:00,
+    16:00-18:30
+website: https://lasieste.ch/

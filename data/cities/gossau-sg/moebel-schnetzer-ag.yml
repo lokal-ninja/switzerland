@@ -1,11 +1,11 @@
 id: 87557540
-type: way
+type: node
 latitude: 47.41792
 longitude: 9.23731
 postcode: "9200"
 city: Gossau SG
-street: "Wilerstrasse"
-housenumber: 66
+street: Wilerstrasse
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

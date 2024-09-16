@@ -4,8 +4,8 @@ latitude: 47.36433
 longitude: 8.55504
 postcode: "8008"
 city: Zürich
-street: "Forchstrasse"
-housenumber: 4
+street: Forchstrasse
+housenumber: "4"
 phone: ""
-opening_hours: "closed"
+opening_hours: closed
 website: ""

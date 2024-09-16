@@ -4,8 +4,8 @@ latitude: 46.95709
 longitude: 7.49912
 postcode: "3072"
 city: Ostermundigen
-street: "Lindenweg"
-housenumber: 16
+street: Lindenweg
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Tu off; We 17:00-19:00; Th off; Fr 17:00-19:00; Sa-Su off; PH off"
-website: "http://www.oberfeld.bioladen.mochibe.ch"
+opening_hours: Mo-Tu off; We 17:00-19:00; Th off; Fr 17:00-19:00; Sa-Su off; PH off
+website: http://www.oberfeld.bioladen.mochibe.ch

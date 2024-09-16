@@ -4,8 +4,8 @@ latitude: 47.49983
 longitude: 8.72686
 postcode: "8400"
 city: Winterthur
-street: "Stadthausstrasse"
-housenumber: 117
+street: Stadthausstrasse
+housenumber: "117"
 phone: ""
-opening_hours: "Mo-We,Fr 09:00-18:30; Th 09:00-20:00; Sa 09:00-17:00"
+opening_hours: Mo-We,Fr 09:00-18:30; Th 09:00-20:00; Sa 09:00-17:00
 website: ""

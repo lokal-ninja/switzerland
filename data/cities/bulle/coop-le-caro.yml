@@ -1,11 +1,11 @@
 id: 241916332
-type: way
+type: node
 latitude: 46.62478
 longitude: 7.05931
 postcode: "1630"
 city: Bulle
-street: "Route de Riaz"
-housenumber: 50
+street: Route de Riaz
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 224371948
-type: way
+type: node
 latitude: 47.50086
 longitude: 9.20843
 postcode: "9223"
 city: Halden
-street: "Oberhaldenstrasse"
-housenumber: 47
+street: Oberhaldenstrasse
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

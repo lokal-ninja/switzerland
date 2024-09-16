@@ -4,8 +4,8 @@ latitude: 47.38573
 longitude: 8.52697
 postcode: "8005"
 city: Zürich
-street: "Röntgenstrasse"
-housenumber: 66
-phone: "+41 76 446 35 43"
-opening_hours: "Mo-Sa 09:00-20:00"
+street: Röntgenstrasse
+housenumber: "66"
+phone: +41 76 446 35 43
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

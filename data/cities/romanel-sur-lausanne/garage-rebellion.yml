@@ -1,11 +1,11 @@
 id: 88447041
-type: way
+type: node
 latitude: 46.56852
 longitude: 6.6034
 postcode: "1032"
 city: Romanel-sur-Lausanne
-street: "Chemin des Mésanges"
-housenumber: 2
+street: Chemin des Mésanges
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

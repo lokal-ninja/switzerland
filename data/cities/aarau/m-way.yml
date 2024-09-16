@@ -4,8 +4,8 @@ latitude: 47.3917
 longitude: 8.05609
 postcode: "5000"
 city: Aarau
-street: "Hintere Bahnhofstrasse"
-housenumber: 83
+street: Hintere Bahnhofstrasse
+housenumber: "83"
 phone: ""
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://m-way.ch/m-way-shop-aarau/"
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://m-way.ch/m-way-shop-aarau/

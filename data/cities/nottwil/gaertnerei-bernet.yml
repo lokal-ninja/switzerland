@@ -1,11 +1,11 @@
 id: 243317676
-type: way
+type: node
 latitude: 47.13508
 longitude: 8.13825
 postcode: "6207"
 city: Nottwil
-street: "Kantonsstrasse"
-housenumber: 6
+street: Kantonsstrasse
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://bernet-gartenbau.ch/"
+website: https://bernet-gartenbau.ch/

@@ -4,8 +4,8 @@ latitude: 47.39121
 longitude: 8.47925
 postcode: "8048"
 city: Zürich
-street: "Hohlstrasse"
-housenumber: 700
-phone: "+41 44 430 31 31"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-16:00"
-website: "http://www.berninagarage.ch/"
+street: Hohlstrasse
+housenumber: "700"
+phone: +41 44 430 31 31
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-16:00
+website: http://www.berninagarage.ch/

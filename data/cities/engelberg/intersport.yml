@@ -4,8 +4,8 @@ latitude: 46.81632
 longitude: 8.39601
 postcode: "6390"
 city: Engelberg
-street: "Gerschnistrasse"
-housenumber: 12
-phone: "+41 41 6380000"
-opening_hours: "08:00-18:00"
-website: "http://www.titlis-sport.ch/"
+street: Gerschnistrasse
+housenumber: "12"
+phone: +41 41 6380000
+opening_hours: 08:00-18:00
+website: http://www.titlis-sport.ch/

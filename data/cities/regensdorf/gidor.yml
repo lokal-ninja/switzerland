@@ -5,7 +5,7 @@ longitude: 8.46924
 postcode: "8105"
 city: Regensdorf
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.gidor.ch/filiale/regensdorf/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.gidor.ch/filiale/regensdorf/

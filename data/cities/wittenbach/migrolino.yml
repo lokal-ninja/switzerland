@@ -1,11 +1,11 @@
 id: 184475482
-type: way
+type: node
 latitude: 47.45418
 longitude: 9.39973
 postcode: "9300"
 city: Wittenbach
-street: "St. Gallerstrasse"
-housenumber: 47
+street: St. Gallerstrasse
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00, Su 07:00-21:00"
-website: "https://www.migrolino.ch/de/standorte/migrol-service-wittenbach/"
+opening_hours: Mo-Sa 06:00-22:00, Su 07:00-21:00
+website: https://www.migrolino.ch/de/standorte/migrol-service-wittenbach/

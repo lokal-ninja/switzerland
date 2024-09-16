@@ -4,8 +4,8 @@ latitude: 47.04716
 longitude: 8.29736
 postcode: "6003"
 city: Luzern
-street: "Berglistrasse"
-housenumber: 38
-phone: "+41 76 459 42 41"
-opening_hours: "Fr 12:00-19:00; Sa 10:00-17:00"
-website: "https://manusha.ch/"
+street: Berglistrasse
+housenumber: "38"
+phone: +41 76 459 42 41
+opening_hours: Fr 12:00-19:00; Sa 10:00-17:00
+website: https://manusha.ch/

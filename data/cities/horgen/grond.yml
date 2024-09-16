@@ -4,8 +4,8 @@ latitude: 47.26038
 longitude: 8.59885
 postcode: "8810"
 city: Horgen
-street: "Dorfgasse"
-housenumber: 15
-phone: "+41 44 725 42 13"
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-18:30; Sa 07:00-15:00"
+street: Dorfgasse
+housenumber: "15"
+phone: +41 44 725 42 13
+opening_hours: Mo-Fr 08:00-12:00, 14:00-18:30; Sa 07:00-15:00
 website: ""

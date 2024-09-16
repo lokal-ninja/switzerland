@@ -4,8 +4,8 @@ latitude: 46.6041
 longitude: 6.23474
 postcode: "1341"
 city: L'Orient
-street: "Rue du Pont-Neuf"
-housenumber: 24
-phone: "+4121 845 13 401"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-19:00; Sa 08:00-12:00"
-website: "https://www.sevj.ch/"
+street: Rue du Pont-Neuf
+housenumber: "24"
+phone: +4121 845 13 401
+opening_hours: Mo-Fr 08:00-12:00,14:00-19:00; Sa 08:00-12:00
+website: https://www.sevj.ch/

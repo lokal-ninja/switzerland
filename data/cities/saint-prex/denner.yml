@@ -1,11 +1,11 @@
 id: 168805248
-type: way
+type: node
 latitude: 46.4815
 longitude: 6.45677
 postcode: ""
 city: Saint-Prex
-street: "Rue de la Gare"
-housenumber: 2
+street: Rue de la Gare
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

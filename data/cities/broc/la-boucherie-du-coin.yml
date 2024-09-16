@@ -1,11 +1,11 @@
 id: 324718734
-type: way
+type: node
 latitude: 46.60319
 longitude: 7.10073
 postcode: "1636"
 city: Broc
-street: "Rue de Montsalvens"
-housenumber: 5
+street: Rue de Montsalvens
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.85904
 longitude: 8.6407
 postcode: "6467"
 city: Schattdorf
-street: "Militärstrasse"
-housenumber: 16
+street: Militärstrasse
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 08:00-17:00"
-website: "https://www.ottos.ch/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 08:00-17:00
+website: https://www.ottos.ch/

@@ -4,8 +4,8 @@ latitude: 46.95712
 longitude: 7.44462
 postcode: "3013"
 city: Bern
-street: "Lorrainestrasse"
-housenumber: 21
-phone: "+41 31 333 05 20"
-opening_hours: "Tu-Fr 10:00-18:30; Sa 09:00-15:00"
-website: "https://www.velokurierladen.ch/"
+street: Lorrainestrasse
+housenumber: "21"
+phone: +41 31 333 05 20
+opening_hours: Tu-Fr 10:00-18:30; Sa 09:00-15:00
+website: https://www.velokurierladen.ch/

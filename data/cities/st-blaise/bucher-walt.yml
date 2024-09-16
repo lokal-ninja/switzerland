@@ -1,11 +1,11 @@
 id: 36250721
-type: way
+type: node
 latitude: 47.01421
 longitude: 6.99237
 postcode: "2072"
 city: St-Blaise
-street: "Route de Soleure"
-housenumber: 8
+street: Route de Soleure
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

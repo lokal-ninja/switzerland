@@ -4,8 +4,8 @@ latitude: 47.38155
 longitude: 8.53005
 postcode: "8005"
 city: Zürich
-street: "Zollstrasse"
-housenumber: 117
-phone: "+41 43 548 77 21"
-opening_hours: "We-Fr 11:00-18:00; Sa 11:00-17:00; PH closed"
-website: "https://monopole.cc"
+street: Zollstrasse
+housenumber: "117"
+phone: +41 43 548 77 21
+opening_hours: We-Fr 11:00-18:00; Sa 11:00-17:00; PH closed
+website: https://monopole.cc

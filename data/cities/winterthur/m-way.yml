@@ -4,8 +4,8 @@ latitude: 47.49496
 longitude: 8.74056
 postcode: "8400"
 city: Winterthur
-street: "Pflanzschulstrasse"
-housenumber: 11
+street: Pflanzschulstrasse
+housenumber: "11"
 phone: ""
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://m-way.ch/m-way-shop-winterthur/"
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://m-way.ch/m-way-shop-winterthur/

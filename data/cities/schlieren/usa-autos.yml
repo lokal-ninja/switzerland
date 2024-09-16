@@ -4,8 +4,8 @@ latitude: 47.401
 longitude: 8.46078
 postcode: "8952"
 city: Schlieren
-street: "Bernstrasse"
-housenumber: 27
-phone: "+41 79 400 59 82"
-opening_hours: "by appointment"
-website: "https://www.usa-autos.ch/"
+street: Bernstrasse
+housenumber: "27"
+phone: +41 79 400 59 82
+opening_hours: '"by appointment"'
+website: https://www.usa-autos.ch/

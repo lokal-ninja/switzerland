@@ -4,8 +4,8 @@ latitude: 47.49562
 longitude: 8.71892
 postcode: "8400"
 city: Winterthur
-street: "Lagerplatz"
-housenumber: 7
-phone: "+41 52 203 99 09"
+street: Lagerplatz
+housenumber: "7"
+phone: +41 52 203 99 09
 opening_hours: ""
-website: "https://cloud-9.ch/"
+website: https://cloud-9.ch/

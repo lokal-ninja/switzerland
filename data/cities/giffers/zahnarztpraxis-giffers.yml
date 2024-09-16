@@ -1,11 +1,11 @@
 id: 207582279
-type: way
+type: node
 latitude: 46.76185
 longitude: 7.20953
 postcode: "1735"
 city: Giffers
-street: "Dorfplatz"
-housenumber: 1
+street: Dorfplatz
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

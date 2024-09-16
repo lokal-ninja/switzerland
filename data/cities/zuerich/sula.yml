@@ -4,8 +4,8 @@ latitude: 47.37927
 longitude: 8.52992
 postcode: "8004"
 city: Zürich
-street: "Lagerstrasse"
-housenumber: 93
-phone: "+41 43 541 42 44"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://sulaworld.com"
+street: Lagerstrasse
+housenumber: "93"
+phone: +41 43 541 42 44
+opening_hours: Mo-Fr 09:00-17:00
+website: https://sulaworld.com

@@ -4,8 +4,8 @@ latitude: 47.41441
 longitude: 8.12813
 postcode: "5105"
 city: Auenstein
-street: "Schachenstrasse"
-housenumber: 16
-phone: "+41 62 897 02 71"
-opening_hours: "Th 09:30-19:30; Sa 08:30-16:00"
-website: "http://www.schachenhof-auenstein.ch/"
+street: Schachenstrasse
+housenumber: "16"
+phone: +41 62 897 02 71
+opening_hours: Th 09:30-19:30; Sa 08:30-16:00
+website: http://www.schachenhof-auenstein.ch/

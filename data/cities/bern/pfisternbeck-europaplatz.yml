@@ -4,8 +4,8 @@ latitude: 46.9437
 longitude: 7.40623
 postcode: "3008"
 city: Bern
-street: "Europaplatz"
-housenumber: 1
-phone: "+41 31 301 85 85"
-opening_hours: "Mo-Fr 06:00-19:00; Sa,Su 08:00-16:00"
-website: "https://pfisternbeck.ch/"
+street: Europaplatz
+housenumber: "1"
+phone: +41 31 301 85 85
+opening_hours: Mo-Fr 06:00-19:00; Sa,Su 08:00-16:00
+website: https://pfisternbeck.ch/

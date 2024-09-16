@@ -4,8 +4,8 @@ latitude: 47.27297
 longitude: 8.4427
 postcode: "8910"
 city: Affoltern am Albis
-street: "Obfelderstrasse"
-housenumber: 19
+street: Obfelderstrasse
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:00-18:00; PH off"
-website: "https://www.manor.ch/de/store-finder/store/AFO"
+opening_hours: Mo-Fr 09:00-20:00; Sa 08:00-18:00; PH off
+website: https://www.manor.ch/de/store-finder/store/AFO

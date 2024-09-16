@@ -1,11 +1,11 @@
 id: 308770135
-type: way
+type: node
 latitude: 47.41026
 longitude: 9.06861
 postcode: "9602"
 city: Bazenheid
-street: "Bahnhofstrasse"
-housenumber: 8
+street: Bahnhofstrasse
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 05:15-18:30; Sa 05:15-16:00"
-website: "https://www.baeckerei-oswald.ch/"
+opening_hours: Mo-Fr 05:15-18:30; Sa 05:15-16:00
+website: https://www.baeckerei-oswald.ch/

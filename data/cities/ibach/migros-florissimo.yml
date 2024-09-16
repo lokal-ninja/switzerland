@@ -4,8 +4,8 @@ latitude: 47.01563
 longitude: 8.64625
 postcode: "6438"
 city: Ibach
-street: "Mythencenterstrasse"
-housenumber: 18
+street: Mythencenterstrasse
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Th 09:00-20:00, Fr 09:00-21:00, Sa 08:00-18:00"
-website: "https://filialen.migros.ch/de/florissimo-ibach-schwyz-mythen-center"
+opening_hours: Mo-Th 09:00-20:00, Fr 09:00-21:00, Sa 08:00-18:00
+website: https://filialen.migros.ch/de/florissimo-ibach-schwyz-mythen-center

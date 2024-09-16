@@ -1,11 +1,11 @@
 id: 149885838
-type: way
+type: node
 latitude: 47.33328
 longitude: 8.71208
 postcode: "8616"
 city: Riedikon
-street: "Riedikerstrasse"
-housenumber: 
-phone: "+41 58 434 38 90"
-opening_hours: "Mo-Fr 05:30-21:45; Sa-Su 06:30-21:45"
+street: Riedikerstrasse
+housenumber: ""
+phone: +41 58 434 38 90
+opening_hours: Mo-Fr 05:30-21:45; Sa-Su 06:30-21:45
 website: ""

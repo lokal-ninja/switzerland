@@ -4,8 +4,9 @@ latitude: 46.18865
 longitude: 6.13689
 postcode: "1227"
 city: Carouge GE
-street: "Rue des Epinettes"
-housenumber: 20
-phone: "+41 22 308 46 70"
-opening_hours: "Mo-We 07:30-19:00; Th 07:30-20:00; Fr 07:30-19:30; Sa 07:30-18:00; PH,Su off"
-website: "https://www.coop.ch/fr/magasins/coop-supermarche-carouge-acacias/1961_POS"
+street: Rue des Epinettes
+housenumber: "20"
+phone: +41 22 308 46 70
+opening_hours: Mo-We 07:30-19:00; Th 07:30-20:00; Fr 07:30-19:30; Sa 07:30-18:00;
+    PH,Su off
+website: https://www.coop.ch/fr/magasins/coop-supermarche-carouge-acacias/1961_POS

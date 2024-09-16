@@ -1,11 +1,11 @@
 id: 251503242
-type: way
+type: node
 latitude: 47.27733
 longitude: 8.84225
 postcode: "8635"
 city: Dürnten
-street: "Rütistrasse"
-housenumber: 4
+street: Rütistrasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

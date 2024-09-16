@@ -4,8 +4,8 @@ latitude: 47.1875
 longitude: 7.70365
 postcode: "3360"
 city: Herzogenbuchsee
-street: "Bahnhofstrasse"
-housenumber: 5
-phone: "+41 62 961 61 16"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:30; Sa 08:00-16:00"
-website: "https://www.lavioletta.ch/"
+street: Bahnhofstrasse
+housenumber: "5"
+phone: +41 62 961 61 16
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:30; Sa 08:00-16:00
+website: https://www.lavioletta.ch/

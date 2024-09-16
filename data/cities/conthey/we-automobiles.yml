@@ -4,8 +4,8 @@ latitude: 46.22578
 longitude: 7.29437
 postcode: "1964"
 city: Conthey
-street: "Rue des Grands-Prés"
-housenumber: 2
-phone: "+41 27 346 12 06"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:00; Sa 09:00-12:00"
-website: "https://www.weautomobiles.ch/"
+street: Rue des Grands-Prés
+housenumber: "2"
+phone: +41 27 346 12 06
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:00; Sa 09:00-12:00
+website: https://www.weautomobiles.ch/

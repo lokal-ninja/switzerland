@@ -4,8 +4,9 @@ latitude: 46.89496
 longitude: 7.3513
 postcode: "3174"
 city: Köniz
-street: "Freiburgstrasse"
-housenumber: 967
+street: Freiburgstrasse
+housenumber: "967"
 phone: ""
-opening_hours: "Mo-Tu 06:30-12:15, 14:00-18:30; We 06:30-12:15; Th-Fr 06:30-12:15, 14:00-18:30; Sa 06:30-16:00; Su off"
-website: "http://www.chaesi-thoerishaus.ch"
+opening_hours: Mo-Tu 06:30-12:15, 14:00-18:30; We 06:30-12:15; Th-Fr 06:30-12:15,
+    14:00-18:30; Sa 06:30-16:00; Su off
+website: http://www.chaesi-thoerishaus.ch

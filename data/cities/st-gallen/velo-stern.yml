@@ -1,11 +1,11 @@
 id: 404575352
-type: way
+type: node
 latitude: 47.4274
 longitude: 9.37589
 postcode: "9000"
 city: St. Gallen
-street: "Magnihalden"
-housenumber: 13
+street: Magnihalden
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

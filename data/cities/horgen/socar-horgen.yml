@@ -4,8 +4,8 @@ latitude: 47.25529
 longitude: 8.61228
 postcode: "8810"
 city: Horgen
-street: "Seestrasse"
-housenumber: 287
+street: Seestrasse
+housenumber: "287"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.socarenergy.ch/"
+opening_hours: 24/7
+website: https://www.socarenergy.ch/

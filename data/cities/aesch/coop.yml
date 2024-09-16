@@ -4,8 +4,8 @@ latitude: 47.46936
 longitude: 7.59552
 postcode: "4147"
 city: Aesch
-street: "Hauptstrasse"
-housenumber: 95
-phone: "+41 61 756 94 00"
-opening_hours: "Mo-Fr 08:00-20:00, Sa 07:30-18:00"
-website: "https://www.coop.ch/de/standorte/coop-supermarkt-aesch/1070_POS"
+street: Hauptstrasse
+housenumber: "95"
+phone: +41 61 756 94 00
+opening_hours: Mo-Fr 08:00-20:00, Sa 07:30-18:00
+website: https://www.coop.ch/de/standorte/coop-supermarkt-aesch/1070_POS

@@ -1,11 +1,11 @@
 id: 223211236
-type: way
+type: node
 latitude: 47.19731
 longitude: 9.22859
 postcode: "9655"
 city: Stein SG
-street: "Erlen"
-housenumber: 460
+street: Erlen
+housenumber: "460"
 phone: "+41719941816"
 opening_hours: ""
-website: "https://www.metzger-metzger.ch/"
+website: https://www.metzger-metzger.ch/

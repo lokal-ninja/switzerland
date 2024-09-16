@@ -1,11 +1,11 @@
 id: 29199847
-type: way
+type: node
 latitude: 47.07362
 longitude: 8.2907
 postcode: "6020"
 city: Emmenbrücke
-street: "Fichtenstrasse"
-housenumber: 1
+street: Fichtenstrasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

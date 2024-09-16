@@ -4,8 +4,9 @@ latitude: 47.46402
 longitude: 9.56938
 postcode: "9425"
 city: Thal
-street: "Mesmerenweg"
-housenumber: 2
+street: Mesmerenweg
+housenumber: "2"
 phone: "+41718881393"
-opening_hours: "Tu-We 10:00-12:00,14:00-18:00; Fr 10:00-12:00,14:00-18:00; Sa 09:00-14:00; Su,Mo,Th off"
-website: "https://zweiradsigner.ch/"
+opening_hours: Tu-We 10:00-12:00,14:00-18:00; Fr 10:00-12:00,14:00-18:00; Sa 09:00-14:00;
+    Su,Mo,Th off
+website: https://zweiradsigner.ch/

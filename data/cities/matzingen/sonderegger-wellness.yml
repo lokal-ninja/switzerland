@@ -1,11 +1,11 @@
 id: 272667049
-type: way
+type: node
 latitude: 47.51851
 longitude: 8.93456
 postcode: "9548"
 city: Matzingen
-street: "St. Gallerstrasse"
-housenumber: 8
+street: St. Gallerstrasse
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

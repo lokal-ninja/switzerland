@@ -4,8 +4,8 @@ latitude: 47.49299
 longitude: 8.18788
 postcode: "5223"
 city: Riniken
-street: "Hirschenstrasse"
-housenumber: 4
+street: Hirschenstrasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:00-12:15,14:00-19:00; Sa 07:00-16:00"
-website: "https://www.volg.ch/"
+opening_hours: Mo-Fr 07:00-12:15,14:00-19:00; Sa 07:00-16:00
+website: https://www.volg.ch/

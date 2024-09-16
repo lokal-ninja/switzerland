@@ -4,8 +4,8 @@ latitude: 47.45047
 longitude: 8.53819
 postcode: "8153"
 city: Rümlang
-street: "Hofwisenstrasse"
-housenumber: 42
-phone: "+41 44 880 77 57"
-opening_hours: "Mo-Sa 07:30-20:00; PH off"
-website: "https://www.aldi-suisse.ch/"
+street: Hofwisenstrasse
+housenumber: "42"
+phone: +41 44 880 77 57
+opening_hours: Mo-Sa 07:30-20:00; PH off
+website: https://www.aldi-suisse.ch/

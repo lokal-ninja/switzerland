@@ -4,8 +4,8 @@ latitude: 46.44729
 longitude: 6.15862
 postcode: "1264"
 city: Saint-Cergue
-street: "Rue de la Gare"
-housenumber: 1
-phone: "+41 22 360 00 58"
-opening_hours: "Mo 06:30-13:30, Tu-Fr 06:30-18:30, Sa-Su 07:00-18:00"
+street: Rue de la Gare
+housenumber: "1"
+phone: +41 22 360 00 58
+opening_hours: Mo 06:30-13:30, Tu-Fr 06:30-18:30, Sa-Su 07:00-18:00
 website: ""

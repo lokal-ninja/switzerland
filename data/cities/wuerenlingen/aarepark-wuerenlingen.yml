@@ -4,8 +4,8 @@ latitude: 47.52499
 longitude: 8.24438
 postcode: "5303"
 city: Würenlingen
-street: "Kuhgässlistrasse"
-housenumber: 7
+street: Kuhgässlistrasse
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:00-20:00"
-website: "https://www.coopcenter.ch/de/aarepark-wuerenlingen/index.aspx"
+opening_hours: Mo-Fr 09:00-20:00; Sa 08:00-20:00
+website: https://www.coopcenter.ch/de/aarepark-wuerenlingen/index.aspx

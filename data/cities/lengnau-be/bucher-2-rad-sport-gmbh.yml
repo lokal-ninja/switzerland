@@ -1,11 +1,11 @@
 id: 417282758
-type: way
+type: node
 latitude: 47.18099
 longitude: 7.36851
 postcode: "2543"
 city: Lengnau BE
-street: "Bürenstrasse"
-housenumber: 12
+street: Bürenstrasse
+housenumber: "12"
 phone: ""
-opening_hours: "Mo 13:30-18:00; Tu-Fr 08:00-12:00,13:30-18:00; Sa:08:00-12:00; PH off"
+opening_hours: Mo 13:30-18:00; Tu-Fr 08:00-12:00,13:30-18:00; Sa:08:00-12:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 108199358
-type: way
+type: node
 latitude: 47.43818
 longitude: 9.41148
 postcode: "9016"
 city: St. Gallen
-street: "Favrestrasse"
-housenumber: 6
+street: Favrestrasse
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

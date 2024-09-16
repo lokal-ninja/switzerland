@@ -1,11 +1,11 @@
 id: 257542689
-type: way
+type: node
 latitude: 47.58044
 longitude: 9.34769
 postcode: "8592"
 city: Uttwil
-street: "Romanshornerstrasse"
-housenumber: 36
+street: Romanshornerstrasse
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

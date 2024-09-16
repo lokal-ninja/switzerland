@@ -4,8 +4,8 @@ latitude: 46.20106
 longitude: 6.13996
 postcode: "1204"
 city: Genève
-street: "Place du Cirque"
-housenumber: 2
-phone: "+41 58 573 46 20"
-opening_hours: "Mo-Fr 07:30-20:00; Sa 07:30-19:00; Su 09:00-17:00"
-website: "https://www.voi-migrospartner.ch/de-CH/filialen#voi-voi-geneve-cirque"
+street: Place du Cirque
+housenumber: "2"
+phone: +41 58 573 46 20
+opening_hours: Mo-Fr 07:30-20:00; Sa 07:30-19:00; Su 09:00-17:00
+website: https://www.voi-migrospartner.ch/de-CH/filialen#voi-voi-geneve-cirque

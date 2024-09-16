@@ -4,8 +4,8 @@ latitude: 46.811
 longitude: 7.17148
 postcode: "1700"
 city: Fribourg
-street: "Route de la Cité-Bellevue"
-housenumber: 4
-phone: "+41 26 484 82 40"
-opening_hours: "Mo-Fr 09:00-11:45,13:30-18:30; Sa"
-website: "https://coupdpouce.ch/index.php/magasins/fribourg"
+street: Route de la Cité-Bellevue
+housenumber: "4"
+phone: +41 26 484 82 40
+opening_hours: Mo-Fr 09:00-11:45,13:30-18:30; Sa
+website: https://coupdpouce.ch/index.php/magasins/fribourg

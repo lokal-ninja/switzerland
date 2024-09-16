@@ -4,8 +4,8 @@ latitude: 47.09452
 longitude: 7.15573
 postcode: "2513"
 city: Twann
-street: "Im Moos"
-housenumber: 21
-phone: "+41 32 315 16 55"
-opening_hours: "Mo-We,Fr 07:30-12:00,14:00-18:15; Th 07:30-12:00; Sa 07:30-16:00"
-website: "https://www.dorfladentwann.ch/"
+street: Im Moos
+housenumber: "21"
+phone: +41 32 315 16 55
+opening_hours: Mo-We,Fr 07:30-12:00,14:00-18:15; Th 07:30-12:00; Sa 07:30-16:00
+website: https://www.dorfladentwann.ch/

@@ -1,11 +1,11 @@
 id: 409178730
-type: way
+type: node
 latitude: 47.04129
 longitude: 9.45695
 postcode: "8887"
 city: Mels
-street: "Rheinhofstrasse"
-housenumber: 8
+street: Rheinhofstrasse
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

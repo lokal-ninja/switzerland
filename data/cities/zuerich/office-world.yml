@@ -4,8 +4,8 @@ latitude: 47.39044
 longitude: 8.49088
 postcode: "8048"
 city: Zürich
-street: "Hohlstrasse"
-housenumber: 550
+street: Hohlstrasse
+housenumber: "550"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00; Su off"
-website: "https://www.officeworld.ch/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00; Su off
+website: https://www.officeworld.ch/

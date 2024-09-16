@@ -1,11 +1,11 @@
 id: 1303963698
-type: way
+type: node
 latitude: 46.51752
 longitude: 6.67243
 postcode: "1092"
 city: Belmont-sur-Lausanne
-street: "Route des Chaffeises"
-housenumber: 
+street: Route des Chaffeises
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

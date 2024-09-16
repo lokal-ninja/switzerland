@@ -4,8 +4,8 @@ latitude: 47.19014
 longitude: 8.3955
 postcode: "5643"
 city: Sins
-street: "Luzernerstrasse"
-housenumber: 6
-phone: "+41 43 322 80 98"
-opening_hours: "Mo-Fr 10:00-13:00,16:00-19:00; PH closed"
-website: "https://wildesmuster.ch"
+street: Luzernerstrasse
+housenumber: "6"
+phone: +41 43 322 80 98
+opening_hours: Mo-Fr 10:00-13:00,16:00-19:00; PH closed
+website: https://wildesmuster.ch

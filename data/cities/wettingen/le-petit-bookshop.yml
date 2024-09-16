@@ -1,11 +1,12 @@
 id: 113992866
-type: way
+type: node
 latitude: 47.46917
 longitude: 8.31853
 postcode: "5430"
 city: Wettingen
-street: "Landstrasse"
-housenumber: 18
+street: Landstrasse
+housenumber: "18"
 phone: ""
-opening_hours: "Tu, Th, Fr 14:00-18:00; We 10:00-12:00, 14:00-18:00; Sa 10:00-16:00; PH off"
-website: "https://lepetitbookshop.ch"
+opening_hours: Tu, Th, Fr 14:00-18:00; We 10:00-12:00, 14:00-18:00; Sa 10:00-16:00;
+    PH off
+website: https://lepetitbookshop.ch

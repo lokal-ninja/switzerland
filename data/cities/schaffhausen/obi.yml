@@ -4,8 +4,8 @@ latitude: 47.71797
 longitude: 8.65749
 postcode: "8207"
 city: Schaffhausen
-street: "Ebnatstrasse"
-housenumber: 170
-phone: "+41 58 712 00 10"
-opening_hours: "Mo-Fr 09:00-19:00; Th 09:00-20:00; Sa 08:00-18:00"
-website: "https://www.obi.ch/de/baumarkt/schaffhausen/"
+street: Ebnatstrasse
+housenumber: "170"
+phone: +41 58 712 00 10
+opening_hours: Mo-Fr 09:00-19:00; Th 09:00-20:00; Sa 08:00-18:00
+website: https://www.obi.ch/de/baumarkt/schaffhausen/

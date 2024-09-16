@@ -1,11 +1,11 @@
 id: 229296759
-type: way
+type: node
 latitude: 47.18339
 longitude: 7.88357
 postcode: "6147"
 city: Altbüron
-street: "Linden"
-housenumber: 2
+street: Linden
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

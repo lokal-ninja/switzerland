@@ -4,8 +4,8 @@ latitude: 47.55612
 longitude: 8.89727
 postcode: "8500"
 city: Frauenfeld
-street: "Zürcherstrasse"
-housenumber: 163
+street: Zürcherstrasse
+housenumber: "163"
 phone: ""
-opening_hours: "Mo 14:00-18:30; Tu-Fr 09:00-18:30; Sa 09:00-16:00; PH closed"
-website: "https://www.tiefenbacher.ch/"
+opening_hours: Mo 14:00-18:30; Tu-Fr 09:00-18:30; Sa 09:00-16:00; PH closed
+website: https://www.tiefenbacher.ch/

@@ -4,8 +4,8 @@ latitude: 47.42036
 longitude: 8.53944
 postcode: "8052"
 city: Zürich
-street: "Felsberg"
-housenumber: 9
+street: Felsberg
+housenumber: "9"
 phone: ""
-opening_hours: "We 09:00-12:00; Sa 09:00-12:00"
-website: "https://www.caffeista.com/"
+opening_hours: We 09:00-12:00; Sa 09:00-12:00
+website: https://www.caffeista.com/

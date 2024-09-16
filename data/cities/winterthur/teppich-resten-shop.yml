@@ -4,8 +4,8 @@ latitude: 47.50733
 longitude: 8.7552
 postcode: "8404"
 city: Winterthur
-street: "Römerstrasse"
-housenumber: 172
-phone: "+41 52 222 02 94"
-opening_hours: "Tu,We 13:30-17:30; Th,Fr 10:00-11:45,13:30-17:30; Sa 10:00-11:45,13:30-16:00"
-website: "https://www.teppichrestenshop.ch/"
+street: Römerstrasse
+housenumber: "172"
+phone: +41 52 222 02 94
+opening_hours: Tu,We 13:30-17:30; Th,Fr 10:00-11:45,13:30-17:30; Sa 10:00-11:45,13:30-16:00
+website: https://www.teppichrestenshop.ch/

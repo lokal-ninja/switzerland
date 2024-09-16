@@ -1,11 +1,11 @@
 id: 29711612
-type: way
+type: node
 latitude: 46.54486
 longitude: 6.57128
 postcode: "1023"
 city: Crissier
-street: "Chemin de Saugy"
-housenumber: 1
+street: Chemin de Saugy
+housenumber: "1"
 phone: ""
-opening_hours: "08:30-19:30"
-website: "https://www.leman-centre.ch/"
+opening_hours: 08:30-19:30
+website: https://www.leman-centre.ch/

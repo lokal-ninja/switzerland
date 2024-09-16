@@ -4,8 +4,8 @@ latitude: 47.69677
 longitude: 8.63368
 postcode: "8200"
 city: Schaffhausen
-street: "Fronwagplatz"
-housenumber: 14
+street: Fronwagplatz
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "https://www.sunrise.ch/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
+website: https://www.sunrise.ch/

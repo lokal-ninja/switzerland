@@ -4,8 +4,9 @@ latitude: 46.80371
 longitude: 7.16736
 postcode: "1700"
 city: Fribourg
-street: "Rue de la Samaritaine"
-housenumber: 31
+street: Rue de la Samaritaine
+housenumber: "31"
 phone: "+41793967193"
-opening_hours: "Tu-Fr 07:30-17:30; Sa 07:30-17:00; Sep-Jun: Su 08:00-16:00; Jul-Aug: Tu-Sa 08:00-13:00; PH off"
-website: "https://www.fleur-de-cacao.ch/"
+opening_hours: 'Tu-Fr 07:30-17:30; Sa 07:30-17:00; Sep-Jun: Su 08:00-16:00; Jul-Aug:
+    Tu-Sa 08:00-13:00; PH off'
+website: https://www.fleur-de-cacao.ch/

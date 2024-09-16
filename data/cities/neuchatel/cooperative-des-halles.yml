@@ -4,8 +4,8 @@ latitude: 46.99027
 longitude: 6.92856
 postcode: "2000"
 city: Neuchâtel
-street: "Place des Halles"
-housenumber: 13
-phone: "+41 32 724 46 14"
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://cooperativedeshalles.ch/"
+street: Place des Halles
+housenumber: "13"
+phone: +41 32 724 46 14
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://cooperativedeshalles.ch/

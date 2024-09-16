@@ -4,8 +4,8 @@ latitude: 47.55831
 longitude: 8.89689
 postcode: "8500"
 city: Frauenfeld
-street: "Bahnhofstrasse"
-housenumber: 75
+street: Bahnhofstrasse
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00, Sa-Su 07:00-22:00"
-website: "https://www.migrolino.ch/de/standorte/migrolino-frauenfeld/"
+opening_hours: Mo-Fr 06:00-22:00, Sa-Su 07:00-22:00
+website: https://www.migrolino.ch/de/standorte/migrolino-frauenfeld/

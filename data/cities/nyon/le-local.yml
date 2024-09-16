@@ -4,8 +4,8 @@ latitude: 46.38173
 longitude: 6.23563
 postcode: "1260"
 city: Nyon
-street: "Chemin du Midi"
-housenumber: 8
-phone: "+41 22 565 34 64"
-opening_hours: "Mo-Fr 17:00-19:00; Sa 10:00-14:00"
-website: "https://lelocal-nyon.ch/"
+street: Chemin du Midi
+housenumber: "8"
+phone: +41 22 565 34 64
+opening_hours: Mo-Fr 17:00-19:00; Sa 10:00-14:00
+website: https://lelocal-nyon.ch/

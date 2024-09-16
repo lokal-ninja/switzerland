@@ -1,11 +1,11 @@
 id: 225609731
-type: way
+type: node
 latitude: 47.22366
 longitude: 7.19483
 postcode: "2710"
 city: Tavannes
-street: "Champs la Clary"
-housenumber: 2
+street: Champs la Clary
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

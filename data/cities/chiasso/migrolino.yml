@@ -1,11 +1,11 @@
 id: 228291971
-type: way
+type: node
 latitude: 45.83785
 longitude: 9.03401
 postcode: "6830"
 city: Chiasso
-street: "Via Como"
-housenumber: 7
+street: Via Como
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

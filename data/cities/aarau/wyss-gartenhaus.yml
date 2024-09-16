@@ -1,11 +1,11 @@
 id: 33168969
-type: way
+type: node
 latitude: 47.39855
 longitude: 8.06554
 postcode: "5000"
 city: Aarau
-street: "Neumattstrasse"
-housenumber: 7
-phone: "+41 62 824 09 30"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 08:00-16:00"
-website: "http://www.wyssgh.ch/"
+street: Neumattstrasse
+housenumber: "7"
+phone: +41 62 824 09 30
+opening_hours: Mo-Fr 09:00-18:30; Sa 08:00-16:00
+website: http://www.wyssgh.ch/
