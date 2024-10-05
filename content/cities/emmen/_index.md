@@ -1,6 +1,6 @@
 ---
 title: Emmen
 url: /emmen/
-latitude: 47.074
-longitude: 8.285
+latitude: 47.11
+longitude: 8.321
 ---

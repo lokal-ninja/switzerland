@@ -1,6 +1,6 @@
 ---
 title: Herznach-Ueken
 url: /herznach-ueken/
-latitude: 47.474
-longitude: 8.051
+latitude: 47.478
+longitude: 8.062
 ---
