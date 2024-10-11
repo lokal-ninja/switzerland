@@ -7,5 +7,5 @@ city: Zürich
 street: Geroldstrasse
 housenumber: "33"
 phone: +41 44 272 82 81
-opening_hours: Mo-Fr 11:00-18:00, Sa 10:00-16:00
+opening_hours: Mo,Sa-Su off; Tu-Fr 11:00-18:00
 website: https://velotto.ch/
