@@ -7,5 +7,6 @@ city: Zürich
 street: Toblerstrasse
 housenumber: "73"
 phone: ""
-opening_hours: Mo-Sa 07:30-20:00; PH off
+opening_hours: Mo-Sa 07:30-20:00; Su 09:00-18:00; PH off; Dec 24 07:30-16:00; Dec
+    31 07:30-17:00; Dec 25 off; Dec 26 off; Jan 01 off
 website: https://filialen.migros.ch/de/migros-supermarkt-zuerich-toblerplatz

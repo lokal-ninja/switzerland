@@ -1,5 +1,5 @@
 ---
 title: "Mavenum"
 url: /herrliberg/mavenum/
-shop: Allgemein
+shop: Süßwaren
 ---
