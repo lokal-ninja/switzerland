@@ -1,6 +1,6 @@
 ---
 title: Oberriet
 url: /oberriet/
-latitude: 47.324
-longitude: 9.569
+latitude: 47.32
+longitude: 9.564
 ---

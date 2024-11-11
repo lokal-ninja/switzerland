@@ -1,6 +1,6 @@
 ---
 title: Heerbrugg
 url: /heerbrugg/
-latitude: 47.41
-longitude: 9.625
+latitude: 47.409
+longitude: 9.628
 ---
