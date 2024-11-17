@@ -1,6 +1,6 @@
 ---
 title: Schafisheim
 url: /schafisheim/
-latitude: 47.387
-longitude: 8.139
+latitude: 47.378
+longitude: 8.142
 ---

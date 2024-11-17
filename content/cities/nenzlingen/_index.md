@@ -1,6 +1,6 @@
 ---
 title: Nenzlingen
 url: /nenzlingen/
-latitude: 47.446
-longitude: 7.559
+latitude: 47.448
+longitude: 7.562
 ---
