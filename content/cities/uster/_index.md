@@ -1,6 +1,6 @@
 ---
 title: Uster
 url: /uster/
-latitude: 47.351
-longitude: 8.718
+latitude: 47.354
+longitude: 8.713
 ---

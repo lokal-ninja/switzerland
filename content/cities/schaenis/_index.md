@@ -1,6 +1,6 @@
 ---
 title: Schänis
 url: /schaenis/
-latitude: 47.156
-longitude: 9.037
+latitude: 47.155
+longitude: 9.04
 ---
