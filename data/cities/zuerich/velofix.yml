@@ -7,6 +7,6 @@ city: Zürich
 street: Birmensdorferstrasse
 housenumber: "126"
 phone: +41 44 463 13 03
-opening_hours: 'Apr-Oct: Sa 09:00-16:00;Apr-Oct: Tu-Fr 09:00-18:30;Nov-Apr: Sa 09:00-12:00,13:00-16:00;Nov-Apr:
-    Tu-Fr 09:00-12:00,13:30-18:30'
+opening_hours: 'Mar-Oct: Tu-Fr 09:00-18:30; Nov-Feb: Tu-Fr 09:00-12:00,13:30-18:30;
+    Jan-Dec: Sa 09:00-16:00'
 website: https://www.velofix.ch/
