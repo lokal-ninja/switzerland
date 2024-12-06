@@ -1,6 +1,6 @@
 ---
 title: Dagmersellen
 url: /dagmersellen/
-latitude: 47.212
-longitude: 7.99
+latitude: 47.215
+longitude: 7.987
 ---
