@@ -7,5 +7,6 @@ city: Heerbrugg
 street: ""
 housenumber: ""
 phone: ""
-opening_hours: ""
+opening_hours: We,Th 09:00-11:00,13:30-18:30; Fr 09:00-11:00,13:30-18:30; Sa 10:00-16:00;
+    Su-Tu,PH off
 website: ""

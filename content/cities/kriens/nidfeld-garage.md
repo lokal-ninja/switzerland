@@ -1,5 +1,5 @@
 ---
 title: "Nidfeld-Garage"
 url: /kriens/nidfeld-garage/
-shop: Autohaus
+shop: Autowerkstatt
 ---
