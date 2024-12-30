@@ -1,5 +1,5 @@
 ---
 title: "Läderach"
 url: /ebikon/laederach/
-shop: Süßwaren
+shop: Schokolade
 ---

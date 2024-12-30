@@ -1,5 +1,5 @@
 ---
-title: "K Kiosk"
+title: "k kiosk"
 url: /pfaeffikon-zh/k-kiosk/
-shop: Kiosk
+shop: Zeitungen
 ---

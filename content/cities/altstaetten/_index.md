@@ -1,6 +1,6 @@
 ---
 title: Altstätten
 url: /altstaetten/
-latitude: 47.377
-longitude: 9.538
+latitude: 47.376
+longitude: 9.557
 ---
