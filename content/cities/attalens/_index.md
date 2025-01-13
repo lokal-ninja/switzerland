@@ -1,6 +1,6 @@
 ---
 title: Attalens
 url: /attalens/
-latitude: 46.513
-longitude: 6.85
+latitude: 46.512
+longitude: 6.849
 ---

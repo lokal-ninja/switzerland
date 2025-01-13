@@ -1,6 +1,6 @@
 ---
 title: Renens (VD)
 url: /renens-vd/
-latitude: 46.539
-longitude: 6.584
+latitude: 46.532
+longitude: 6.594
 ---

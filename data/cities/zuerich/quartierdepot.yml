@@ -7,5 +7,6 @@ city: Zürich
 street: Rötelstrasse
 housenumber: "124"
 phone: ""
-opening_hours: 24/7
+opening_hours: Fr 16:00-18:00 || "für Genossenschaftsmitglieder 24/7 mit Zugangsbadge
+    zugänglich"
 website: https://www.quartier-depot.ch

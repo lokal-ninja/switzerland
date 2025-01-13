@@ -1,6 +1,6 @@
 ---
 title: Mumpf
 url: /mumpf/
-latitude: 47.545
-longitude: 7.925
+latitude: 47.548
+longitude: 7.911
 ---

@@ -1,6 +1,6 @@
 ---
 title: Meiringen
 url: /meiringen/
-latitude: 46.729
+latitude: 46.727
 longitude: 8.185
 ---

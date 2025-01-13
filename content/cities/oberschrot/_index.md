@@ -1,6 +1,6 @@
 ---
 title: Oberschrot
 url: /oberschrot/
-latitude: 46.744
-longitude: 7.285
+latitude: 46.743
+longitude: 7.283
 ---
