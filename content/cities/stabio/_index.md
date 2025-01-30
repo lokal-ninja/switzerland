@@ -1,6 +1,6 @@
 ---
 title: Stabio
 url: /stabio/
-latitude: 45.842
-longitude: 8.923
+latitude: 45.849
+longitude: 8.939
 ---

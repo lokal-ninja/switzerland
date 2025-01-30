@@ -1,6 +1,6 @@
 ---
 title: Lauterbrunnen
 url: /lauterbrunnen/
-latitude: 46.589
-longitude: 7.909
+latitude: 46.595
+longitude: 7.908
 ---

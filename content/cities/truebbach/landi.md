@@ -1,5 +1,5 @@
 ---
 title: "Landi"
 url: /truebbach/landi/
-shop: Supermarkt
+shop: Dorfladen
 ---
