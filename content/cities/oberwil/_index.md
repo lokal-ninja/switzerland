@@ -1,6 +1,6 @@
 ---
 title: Oberwil
 url: /oberwil/
-latitude: 47.507
-longitude: 7.554
+latitude: 47.509
+longitude: 7.577
 ---

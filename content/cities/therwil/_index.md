@@ -1,6 +1,6 @@
 ---
 title: Therwil
 url: /therwil/
-latitude: 47.499
-longitude: 7.552
+latitude: 47.498
+longitude: 7.559
 ---

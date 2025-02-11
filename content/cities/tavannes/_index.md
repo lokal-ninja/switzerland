@@ -1,6 +1,6 @@
 ---
 title: Tavannes
 url: /tavannes/
-latitude: 47.223
-longitude: 7.203
+latitude: 47.227
+longitude: 7.205
 ---
