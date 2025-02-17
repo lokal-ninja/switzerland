@@ -1,5 +1,5 @@
 ---
-title: "Migros Daily"
+title: "Migros daily"
 url: /zuerich/migros-daily/
-shop: Lebensmittel
+shop: Supermarkt
 ---

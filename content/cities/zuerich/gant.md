@@ -1,5 +1,5 @@
 ---
-title: "Gant"
+title: "GANT"
 url: /zuerich/gant/
 shop: Kleidung
 ---

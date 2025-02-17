@@ -1,5 +1,5 @@
 ---
 title: "Parfois"
 url: /zuerich/parfois/
-shop: Kleidung
+shop: Modehaus
 ---

@@ -1,6 +1,6 @@
 ---
 title: Nuglar
 url: /nuglar/
-latitude: 47.473
-longitude: 7.691
+latitude: 47.469
+longitude: 7.708
 ---
