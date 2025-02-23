@@ -1,6 +1,6 @@
 ---
 title: Russy
 url: /russy/
-latitude: 46.843
-longitude: 6.994
+latitude: 46.842
+longitude: 6.993
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tschierv
 url: /tschierv/
-latitude: 46.626
-longitude: 10.336
+latitude: 46.628
+longitude: 10.333
 ---
