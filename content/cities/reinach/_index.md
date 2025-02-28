@@ -1,6 +1,6 @@
 ---
 title: Reinach
 url: /reinach/
-latitude: 47.259
-longitude: 8.183
+latitude: 47.484
+longitude: 7.591
 ---
