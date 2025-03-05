@@ -1,6 +1,6 @@
 ---
-title: les collons
+title: Les Collons
 url: /les-collons/
-latitude: 46.179
-longitude: 7.385
+latitude: 46.18
+longitude: 7.387
 ---
