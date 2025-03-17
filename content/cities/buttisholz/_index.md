@@ -1,6 +1,6 @@
 ---
 title: Buttisholz
 url: /buttisholz/
-latitude: 47.108
-longitude: 8.084
+latitude: 47.114
+longitude: 8.094
 ---
