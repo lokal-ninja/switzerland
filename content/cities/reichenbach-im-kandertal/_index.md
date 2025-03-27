@@ -1,6 +1,6 @@
 ---
 title: Reichenbach im Kandertal
 url: /reichenbach-im-kandertal/
-latitude: 46.626
-longitude: 7.691
+latitude: 46.625
+longitude: 7.692
 ---

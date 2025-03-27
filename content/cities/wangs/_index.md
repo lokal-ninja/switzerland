@@ -1,6 +1,6 @@
 ---
 title: Wangs
 url: /wangs/
-latitude: 47.032
-longitude: 9.432
+latitude: 47.039
+longitude: 9.437
 ---

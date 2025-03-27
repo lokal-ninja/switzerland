@@ -7,5 +7,6 @@ city: Wil SG
 street: Konstanzerstrasse
 housenumber: "73"
 phone: +41 71 9113564
-opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-12:00
+opening_hours: Mo,Su off; Tu 09:00-12:30,13:00-19:00; We 07:00-12:30,13:00-18:00;
+    Th-Fr 09:00-12:30,13:00-18:00; Sa 07:00-12:00
 website: https://velo-koepfli.ch/

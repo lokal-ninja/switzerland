@@ -1,11 +1,11 @@
 id: 2302910961
 type: node
-latitude: 46.19565
-longitude: 6.13968
-postcode: ""
+latitude: 46.19567
+longitude: 6.13973
+postcode: "1205"
 city: Genève
-street: ""
-housenumber: ""
-phone: ""
-opening_hours: Mo-Fr 07:00-17:00; Sa,Su,PH 07:00-16:00
-website: ""
+street: Boulevard Carl-Vogt
+housenumber: "92"
+phone: +41 22 329 63 12
+opening_hours: Mo-Fr 06:30-19:00; Sa,Su,PH 07:00-17:00
+website: https://maisonpaillasse.ch/
