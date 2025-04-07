@@ -1,5 +1,5 @@
 ---
-title: "DRYCUT"
+title: "DryCut"
 url: /winterthur/drycut/
 shop: Friseur
 ---

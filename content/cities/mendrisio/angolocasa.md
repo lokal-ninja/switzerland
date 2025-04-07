@@ -1,5 +1,5 @@
 ---
 title: "Angolocasa"
 url: /mendrisio/angolocasa/
-shop: Dorfladen
+shop: Raumausstattung
 ---

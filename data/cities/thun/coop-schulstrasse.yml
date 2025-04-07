@@ -1,11 +1,11 @@
-id: 217135973
+id: 12723063156
 type: node
-latitude: 46.73994
-longitude: 7.62157
+latitude: 46.74022
+longitude: 7.62191
 postcode: "3604"
 city: Thun
 street: Schulstrasse
 housenumber: "32"
 phone: ""
-opening_hours: Mo-Th 08:00-20:00; Fr 08:00-21:00; Sa 08:00-17:00
+opening_hours: 'Mo-Do: 08:00-20:00; Fr: 08:00-21:00; Sa: 08:00-17:00'
 website: ""
