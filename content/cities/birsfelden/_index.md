@@ -1,6 +1,6 @@
 ---
 title: Birsfelden
 url: /birsfelden/
-latitude: 47.553
-longitude: 7.623
+latitude: 47.554
+longitude: 7.62
 ---

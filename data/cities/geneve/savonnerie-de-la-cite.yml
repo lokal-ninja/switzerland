@@ -7,5 +7,6 @@ city: Genève
 street: Rue des Grottes
 housenumber: "15"
 phone: +41 78 952 25 57
-opening_hours: Tu-Fr 09:30-13:30, 14:30-18:30; Sa 10:00-17:00
+opening_hours: Tu 13:30-19:00; We 13:30-18:00; Th 10:00-19:00; Fr 13:30-19:00; Sa
+    10:00-17:00
 website: https://savonneriedelacite.ch

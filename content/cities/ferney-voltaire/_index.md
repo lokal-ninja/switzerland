@@ -1,6 +1,6 @@
 ---
 title: Ferney-Voltaire
 url: /ferney-voltaire/
-latitude: 46.255
-longitude: 6.119
+latitude: 46.252
+longitude: 6.122
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wabern
 url: /wabern/
-latitude: 46.928
-longitude: 7.448
+latitude: 46.929
+longitude: 7.45
 ---
