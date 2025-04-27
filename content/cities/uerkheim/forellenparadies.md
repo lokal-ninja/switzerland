@@ -1,5 +1,5 @@
 ---
 title: "Forellenparadies"
 url: /uerkheim/forellenparadies/
-shop: Hofladen
+shop: Fisch
 ---
