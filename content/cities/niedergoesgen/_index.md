@@ -1,6 +1,6 @@
 ---
 title: Niedergösgen
 url: /niedergoesgen/
-latitude: 47.37
-longitude: 7.982
+latitude: 47.373
+longitude: 7.996
 ---

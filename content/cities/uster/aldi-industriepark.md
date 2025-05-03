@@ -1,5 +1,5 @@
 ---
-title: "ALDI"
+title: "Aldi"
 url: /uster/aldi-industriepark/
 shop: Supermarkt
 ---
