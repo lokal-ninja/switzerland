@@ -1,6 +1,6 @@
 ---
 title: Uzwil
 url: /uzwil/
-latitude: 47.436
-longitude: 9.131
+latitude: 47.437
+longitude: 9.132
 ---

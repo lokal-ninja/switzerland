@@ -1,6 +1,6 @@
 ---
 title: Bremgarten
 url: /bremgarten/
-latitude: 47.351
+latitude: 47.352
 longitude: 8.343
 ---

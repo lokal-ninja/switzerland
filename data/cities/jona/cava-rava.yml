@@ -7,5 +7,6 @@ city: Jona
 street: Almeindstrassse
 housenumber: "27"
 phone: +41 55 216 17 61
-opening_hours: Mo off; Tu-Fr 10:00-12:00,14:00-18:30; Sa 09:00-16:00
+opening_hours: Mo off; Tu-Th 10:00-12:00,14:00-17:00; Fr 10:00-12:00,14:00-18:30;
+    Sa 09:00-16:00
 website: https://www.cavarava.ch/

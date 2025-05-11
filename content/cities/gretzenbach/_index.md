@@ -1,6 +1,6 @@
 ---
 title: Gretzenbach
 url: /gretzenbach/
-latitude: 47.358
-longitude: 7.99
+latitude: 47.363
+longitude: 7.995
 ---

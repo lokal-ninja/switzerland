@@ -1,5 +1,5 @@
 ---
 title: "Ochsner Sport"
 url: /uster/ochsner-sport/
-shop: Sport
+shop: Outdoor
 ---

@@ -1,6 +1,6 @@
 ---
 title: Vuarrens
 url: /vuarrens/
-latitude: 46.686
-longitude: 6.649
+latitude: 46.689
+longitude: 6.642
 ---
