@@ -1,6 +1,6 @@
 ---
 title: Holderbank
 url: /holderbank/
-latitude: 47.428
-longitude: 8.168
+latitude: 47.43
+longitude: 8.166
 ---

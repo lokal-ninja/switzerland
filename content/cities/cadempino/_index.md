@@ -1,6 +1,6 @@
 ---
 title: Cadempino
 url: /cadempino/
-latitude: 46.034
-longitude: 8.933
+latitude: 46.037
+longitude: 8.934
 ---

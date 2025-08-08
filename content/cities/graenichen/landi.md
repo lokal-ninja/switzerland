@@ -1,5 +1,5 @@
 ---
 title: "Landi"
 url: /graenichen/landi/
-shop: Lebensmittel
+shop: Dorfladen
 ---

@@ -1,6 +1,6 @@
 ---
 title: Viganello
 url: /viganello/
-latitude: 46.011
-longitude: 8.967
+latitude: 46.013
+longitude: 8.964
 ---

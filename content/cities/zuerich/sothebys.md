@@ -1,5 +1,5 @@
 ---
-title: "Sotheby’s"
+title: "Sotheby's"
 url: /zuerich/sothebys/
 shop: Auktionshaus
 ---

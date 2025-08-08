@@ -1,6 +1,6 @@
 ---
 title: Abtwil
 url: /abtwil/
-latitude: 47.417
-longitude: 9.316
+latitude: 47.423
+longitude: 9.318
 ---

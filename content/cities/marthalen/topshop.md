@@ -1,5 +1,5 @@
 ---
-title: "TopShop"
+title: "Topshop"
 url: /marthalen/topshop/
-shop: Supermarkt
+shop: Lebensmittel
 ---

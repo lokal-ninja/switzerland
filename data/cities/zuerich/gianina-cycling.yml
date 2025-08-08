@@ -1,11 +1,12 @@
 id: 8582619841
 type: node
-latitude: 47.35174
-longitude: 8.56121
+latitude: 47.35176
+longitude: 8.56119
 postcode: "8008"
 city: Zürich
 street: Seefeldstrasse
 housenumber: "225"
 phone: +41 79 225 12 12
-opening_hours: Tu-Fr 09:00-12:00,13:30-19:00; Sa 09:00-16:00
+opening_hours: Mo off; Tu-Fr 09:00-12:00,13:30-19:00; Sa 09:00-16:00; 2025 Jul 19-2025
+    Aug 11 off "Sommerpause"
 website: https://www.gianinacycling.ch/

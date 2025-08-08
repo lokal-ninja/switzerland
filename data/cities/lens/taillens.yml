@@ -7,5 +7,5 @@ city: Lens
 street: Rue Principale
 housenumber: "26"
 phone: +41 27 485 40 77
-opening_hours: ""
+opening_hours: Mo-Su,PH 06:00-18:30
 website: ""

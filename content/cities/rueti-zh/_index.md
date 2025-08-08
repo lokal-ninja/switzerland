@@ -1,6 +1,6 @@
 ---
-title: Rüti ZH
+title: Rüti (ZH)
 url: /rueti-zh/
-latitude: 47.254
+latitude: 47.26
 longitude: 8.853
 ---

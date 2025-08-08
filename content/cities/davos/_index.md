@@ -1,6 +1,6 @@
 ---
 title: Davos
 url: /davos/
-latitude: 46.801
-longitude: 9.83
+latitude: 46.792
+longitude: 9.821
 ---

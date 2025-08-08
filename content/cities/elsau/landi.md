@@ -1,5 +1,5 @@
 ---
 title: "Landi"
 url: /elsau/landi/
-shop: Supermarkt
+shop: Dorfladen
 ---

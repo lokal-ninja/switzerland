@@ -1,6 +1,6 @@
 ---
 title: Gstaad
 url: /gstaad/
-latitude: 46.475
-longitude: 7.284
+latitude: 46.471
+longitude: 7.285
 ---

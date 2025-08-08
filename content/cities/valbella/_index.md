@@ -1,6 +1,6 @@
 ---
 title: Valbella
 url: /valbella/
-latitude: 46.747
-longitude: 9.556
+latitude: 46.746
+longitude: 9.555
 ---

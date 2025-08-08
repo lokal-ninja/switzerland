@@ -7,5 +7,6 @@ city: Zürich
 street: Kronenstrasse
 housenumber: "38"
 phone: +41 77 498 01 51
-opening_hours: Mo 13:00-18:00; Tu-We,Fr 08:30-17:00; Th 08:30-18:30; Sa-Su off
+opening_hours: Mo 11:00-18:30; Tu 09:30-17:00; We 11:00-18:30; Th 09:30-17:00; Fr
+    11:00-18:30
 website: https://www.velo67.ch/

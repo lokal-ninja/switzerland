@@ -1,11 +1,12 @@
 id: 222767924
 type: node
-latitude: 47.23949
+latitude: 47.23947
 longitude: 7.76946
 postcode: "4912"
 city: Aarwangen
 street: Langenthalstrasse
 housenumber: "6"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 07:30-12:00, 14:00-18:30; Tu 07:30-12:00; Sa 07:30-15:00;
+    Su,PH off
 website: ""

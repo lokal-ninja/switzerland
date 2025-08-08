@@ -1,6 +1,6 @@
 ---
 title: Baden-Dättwil
 url: /baden-daettwil/
-latitude: 47.445
-longitude: 8.294
+latitude: 47.452
+longitude: 8.29
 ---

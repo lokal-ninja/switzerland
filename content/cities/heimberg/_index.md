@@ -1,6 +1,6 @@
 ---
 title: Heimberg
 url: /heimberg/
-latitude: 46.792
-longitude: 7.606
+latitude: 46.781
+longitude: 7.604
 ---

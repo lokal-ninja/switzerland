@@ -1,5 +1,5 @@
 ---
-title: "VOLG"
+title: "Volg"
 url: /boniswil/volg/
-shop: Lebensmittel
+shop: Supermarkt
 ---

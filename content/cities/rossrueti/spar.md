@@ -1,5 +1,5 @@
 ---
-title: "Spar"
+title: "SPAR"
 url: /rossrueti/spar/
 shop: Supermarkt
 ---

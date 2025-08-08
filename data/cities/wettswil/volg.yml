@@ -7,5 +7,5 @@ city: Wettswil
 street: Kirchgasse
 housenumber: "2"
 phone: +41 44 700 01 80
-opening_hours: Mo-Sa 06:30-20:00
+opening_hours: Mo-Fr 06:30-20:00; Sa 06:30-18:00
 website: https://www.volg.ch/standorte-oeffnungszeiten/detail/volg-wettswil/

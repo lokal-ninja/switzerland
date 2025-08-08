@@ -1,6 +1,6 @@
 ---
 title: Davos Dorf
 url: /davos-dorf/
-latitude: 46.797
-longitude: 9.849
+latitude: 46.809
+longitude: 9.84
 ---

@@ -6,6 +6,7 @@ postcode: "7320"
 city: Sargans
 street: Städtchenstrasse
 housenumber: "58"
-phone: ""
-opening_hours: '"Vor Ort nachschauen"'
-website: ""
+phone: +41 79 1565059
+opening_hours: PH,Mo,We,Th 14:00-19:00; May-Oct PH,Sa,Su 09:00-18:00; Nov-Apr PH,Sa,Su
+    10:00-17:00
+website: https://www.gansimglueck.ch/

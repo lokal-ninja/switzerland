@@ -1,11 +1,12 @@
 id: 4035564254
 type: node
-latitude: 46.17396
+latitude: 46.17395
 longitude: 8.99879
 postcode: "6512"
 city: Giubiasco
 street: Via al Ticino
 housenumber: "23"
 phone: +41 91 857 80 00
-opening_hours: ""
-website: http://www.velo-cafe.cc
+opening_hours: Mo off; Tu, We 07:00-19:00; We, Th 07:00-22:00; Sa 08:00-17:00; Su
+    08:00-18:00
+website: https://www.velo-cafe.cc/

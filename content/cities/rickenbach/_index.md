@@ -1,6 +1,6 @@
 ---
 title: Rickenbach
 url: /rickenbach/
-latitude: 47.453
-longitude: 9.05
+latitude: 47.446
+longitude: 9.052
 ---

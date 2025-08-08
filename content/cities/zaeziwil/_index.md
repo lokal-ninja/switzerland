@@ -1,6 +1,6 @@
 ---
 title: Zäziwil
 url: /zaeziwil/
-latitude: 46.901
-longitude: 7.661
+latitude: 46.899
+longitude: 7.662
 ---

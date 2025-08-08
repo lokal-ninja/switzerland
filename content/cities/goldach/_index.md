@@ -1,6 +1,6 @@
 ---
 title: Goldach
 url: /goldach/
-latitude: 47.475
+latitude: 47.474
 longitude: 9.466
 ---

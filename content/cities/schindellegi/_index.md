@@ -1,6 +1,6 @@
 ---
 title: Schindellegi
 url: /schindellegi/
-latitude: 47.176
-longitude: 8.713
+latitude: 47.174
+longitude: 8.711
 ---

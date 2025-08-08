@@ -7,5 +7,6 @@ city: Winterthur
 street: Industriestrasse
 housenumber: "24"
 phone: ""
-opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+opening_hours: 'Jul-Mar: Mo-Fr 09:00-18:30; Jul-Mar: Sa 09:00-16:00; Apr-Jun: Mo-Fr
+    09:00-18:30; Sa 08:00-18:00'
 website: https://www.hauenstein-rafz.ch/de/gartencenter/winterthur/oeffungszeiten-standort.php

@@ -7,5 +7,6 @@ city: Stettlen
 street: Bernapark
 housenumber: "19"
 phone: +41 31 525 55 45
-opening_hours: Mo 08:30-11:30; Tu-Fr 13:00-18:00; Sa 10:00-14:00
+opening_hours: Mo, Tu, Th, Fr 10:00-12:00, 14:00-18:00; We off "by appointment only";
+    Sa 08:00-12:00
 website: https://www.driftbikeshop.ch/unser-team/#bern
