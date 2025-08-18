@@ -1,6 +1,6 @@
 ---
 title: Samstagern
 url: /samstagern/
-latitude: 47.191
-longitude: 8.684
+latitude: 47.192
+longitude: 8.68
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mettmenstetten
 url: /mettmenstetten/
-latitude: 47.244
-longitude: 8.464
+latitude: 47.23
+longitude: 8.479
 ---

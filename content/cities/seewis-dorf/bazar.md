@@ -1,5 +1,5 @@
 ---
 title: "Bazar"
 url: /seewis-dorf/bazar/
-shop: Dorfladen
+shop: Andenken
 ---

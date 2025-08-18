@@ -1,6 +1,6 @@
 ---
 title: Pregassona
 url: /pregassona/
-latitude: 46.021
-longitude: 8.965
+latitude: 46.02
+longitude: 8.974
 ---

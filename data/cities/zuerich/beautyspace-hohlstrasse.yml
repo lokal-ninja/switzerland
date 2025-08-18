@@ -7,5 +7,5 @@ city: Zürich
 street: Hohlstrasse
 housenumber: "556"
 phone: +41 44 542 33 35
-opening_hours: Mo-Sa 09:30-19:00
+opening_hours: Mo-Sa 09:30-19:00; Su,PH off
 website: https://www.beautyspace.ch/
