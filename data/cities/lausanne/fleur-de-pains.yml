@@ -7,5 +7,6 @@ city: Lausanne
 street: Avenue de Jurigoz
 housenumber: "17"
 phone: +41 21 613 80 66
-opening_hours: ""
+opening_hours: 'Sep-Jun: Mo-Fr 06:00-18:30; Sep-Jun: Sa,Su,PH 07:00-17:00; Jul-Aug:
+    Mo-Fr 06:00-16:00; Jul-Aug: Sa,Su,PH 07:00-16:00'
 website: ""

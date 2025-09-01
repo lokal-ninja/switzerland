@@ -1,6 +1,6 @@
 ---
-title: Wetzikon (ZH)
+title: Wetzikon ZH
 url: /wetzikon-zh/
-latitude: 47.328
-longitude: 8.8
+latitude: 47.318
+longitude: 8.793
 ---

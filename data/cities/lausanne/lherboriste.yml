@@ -6,7 +6,6 @@ postcode: "1005"
 city: Lausanne
 street: Avenue du Léman
 housenumber: "12"
-phone: "+41213118170"
-opening_hours: Tu-Fr 08:30-12:30,14:00-17:30; Sa 08:30-17:00; url=[https://www.lherboriste.ch/contact/
-    ''https://www.lherboriste.ch/contact/'']
+phone: +41 21 311 81 70
+opening_hours: Mo 14:00-18:30; Tu-Fr 08:30-12:30,14:00-18:30; Sa 08:30-17:00
 website: https://www.lherboriste.ch

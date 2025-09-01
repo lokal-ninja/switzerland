@@ -7,5 +7,5 @@ city: Zürich
 street: Albisriederstrasse
 housenumber: "307"
 phone: +41 44 492 53 33
-opening_hours: Mo,We,Th,Fr 08:00-12:30; 13:30-18:30, Sa 09:00-13:00
+opening_hours: Mo,We,Th,Fr 08:00-12:30,13:30-18:30, Sa 09:00-13:00
 website: ""

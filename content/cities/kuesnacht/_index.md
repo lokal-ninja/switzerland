@@ -1,6 +1,6 @@
 ---
 title: Küsnacht
 url: /kuesnacht/
-latitude: 47.313
-longitude: 8.582
+latitude: 47.32
+longitude: 8.579
 ---

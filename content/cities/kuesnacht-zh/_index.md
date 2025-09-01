@@ -1,6 +1,6 @@
 ---
-title: Küsnacht (ZH)
+title: Küsnacht ZH
 url: /kuesnacht-zh/
-latitude: 47.329
-longitude: 8.596
+latitude: 47.313
+longitude: 8.582
 ---

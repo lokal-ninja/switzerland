@@ -1,6 +1,6 @@
 ---
 title: Bern
 url: /bern/
-latitude: 46.942
-longitude: 7.431
+latitude: 46.957
+longitude: 7.445
 ---

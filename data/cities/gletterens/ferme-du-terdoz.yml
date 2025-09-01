@@ -7,5 +7,5 @@ city: Gletterens
 street: Le Terdo
 housenumber: 1c
 phone: ""
-opening_hours: Mo-Fr 08:00-20:00; Sa-Su 09:00-19:00
+opening_hours: Sa,Su 09:00-19:00; Mo-Fr 08:00-19:00
 website: https://www.fermeduterdoz.ch

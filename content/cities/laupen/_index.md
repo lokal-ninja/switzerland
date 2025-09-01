@@ -1,6 +1,6 @@
 ---
 title: Laupen
 url: /laupen/
-latitude: 47.264
-longitude: 8.929
+latitude: 47.265
+longitude: 8.926
 ---
