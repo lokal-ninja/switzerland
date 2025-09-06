@@ -1,6 +1,6 @@
 ---
 title: St. Erhard
 url: /st-erhard/
-latitude: 47.181
-longitude: 8.083
+latitude: 47.182
+longitude: 8.076
 ---

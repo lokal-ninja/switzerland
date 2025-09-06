@@ -7,5 +7,6 @@ city: Appenzell
 street: Hirschengasse
 housenumber: "2"
 phone: +41 71 788 80 65
-opening_hours: ""
+opening_hours: 'Jan-Apr: Mo-Fr 09:00-18:00; Jan-Apr: Sa 09:00-17:00; May-Dec: Mo-Fr
+    09:00-18:00; May-Dec: Sa 09:00-17:00; May-Dec: Su 11:00-17:00'
 website: https://www.schoepfli.ch/

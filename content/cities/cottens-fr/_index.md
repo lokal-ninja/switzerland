@@ -1,6 +1,6 @@
 ---
-title: Cottens (FR)
+title: Cottens FR
 url: /cottens-fr/
-latitude: 46.752
-longitude: 7.031
+latitude: 46.753
+longitude: 7.033
 ---

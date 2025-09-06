@@ -1,11 +1,12 @@
 id: 9056617375
 type: node
-latitude: 47.04869
-longitude: 9.44022
+latitude: 47.0444
+longitude: 9.44372
 postcode: "7320"
 city: Sargans
-street: St. Gallerstrasse
-housenumber: "5"
-phone: ""
-opening_hours: Mo-Fr 06:00-12:30, 14:00-18:00; Sa 06:00-12:30
+street: Ragazerstrasse
+housenumber: "12"
+phone: +41 81 723 13 07
+opening_hours: Mo-Fr 06:00-12:30, 13:30-18:00; Sa 06:00-12:30; Su 07:30-12:00; Su
+    13:00-16:00
 website: https://dorfbaeckereiherrmann.ch/
