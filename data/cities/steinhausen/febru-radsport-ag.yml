@@ -6,7 +6,6 @@ postcode: "6312"
 city: Steinhausen
 street: Blickensdorferstrasse
 housenumber: "3"
-phone: +41 (41) 741 67 42
-opening_hours: Mo-Tu 08:00 - 12:00, 13:30 - 18:30,  We off, Th-Fr 08:00 - 12:00, 13:30
-    - 18:30, Sa 08:00 - 14:00, Su off
-website: https://www.febru.ch/
+phone: ""
+opening_hours: Mo,Fr 08:00-12:00,14:00-18:30; Tu,Th 14:00-18:30; Sa 08:00-14:00
+website: ""

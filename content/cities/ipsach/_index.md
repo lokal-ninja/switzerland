@@ -1,6 +1,6 @@
 ---
 title: Ipsach
 url: /ipsach/
-latitude: 47.115
-longitude: 7.235
+latitude: 47.116
+longitude: 7.234
 ---

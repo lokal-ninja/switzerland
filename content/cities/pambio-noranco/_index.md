@@ -1,6 +1,6 @@
 ---
 title: Pambio-Noranco
 url: /pambio-noranco/
-latitude: 45.983
-longitude: 8.929
+latitude: 45.988
+longitude: 8.938
 ---
