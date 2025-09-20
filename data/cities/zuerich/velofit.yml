@@ -7,6 +7,5 @@ city: Zürich
 street: Bahnhaldenstrasse
 housenumber: "6"
 phone: +41 78 607 83 60
-opening_hours: Mo 12:00-19:00; Tu-Fr 09:00-12:00,13:00-19:00; Sa 09:00-12:00,13:00-16:00;
-    Su off
+opening_hours: Mo 12:00-19:00; Tu-Fr 09:00-19:00; Sa 09:00-16:00; Su off
 website: https://velofitzuerich.ch

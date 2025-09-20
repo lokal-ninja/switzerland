@@ -1,6 +1,6 @@
 ---
 title: Brugg AG
 url: /brugg-ag/
-latitude: 47.49
-longitude: 8.217
+latitude: 47.482
+longitude: 8.209
 ---

@@ -1,6 +1,6 @@
 ---
 title: Les Bois
 url: /les-bois/
-latitude: 47.189
-longitude: 6.934
+latitude: 47.176
+longitude: 6.904
 ---
