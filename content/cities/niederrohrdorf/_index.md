@@ -1,6 +1,6 @@
 ---
 title: Niederrohrdorf
 url: /niederrohrdorf/
-latitude: 47.422
-longitude: 8.305
+latitude: 47.425
+longitude: 8.301
 ---

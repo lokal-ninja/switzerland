@@ -1,5 +1,5 @@
 ---
-title: "KUNZ Sport"
+title: "Kunz Sport"
 url: /willisau/kunz-sport/
 shop: Sport
 ---

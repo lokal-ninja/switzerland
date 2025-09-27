@@ -7,5 +7,5 @@ city: Ormalingen
 street: Konsumstrasse
 housenumber: "87"
 phone: +41 61 981 12 17
-opening_hours: Mo-Su 07:00-19:00
+opening_hours: Mo-Sa 07:00-19:00; Su 08:00-17:00
 website: ""
