@@ -1,6 +1,6 @@
 ---
 title: Teufen (AR)
 url: /teufen-ar/
-latitude: 47.39
-longitude: 9.387
+latitude: 47.391
+longitude: 9.391
 ---

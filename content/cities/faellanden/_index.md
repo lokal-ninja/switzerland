@@ -1,6 +1,6 @@
 ---
 title: Fällanden
 url: /faellanden/
-latitude: 47.371
-longitude: 8.639
+latitude: 47.37
+longitude: 8.638
 ---

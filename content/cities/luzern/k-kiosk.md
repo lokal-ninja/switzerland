@@ -1,5 +1,5 @@
 ---
-title: "k kiosk"
+title: "K Kiosk"
 url: /luzern/k-kiosk/
-shop: Bücher
+shop: Kiosk
 ---

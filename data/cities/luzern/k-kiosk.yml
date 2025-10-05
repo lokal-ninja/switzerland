@@ -1,11 +1,11 @@
-id: 379343406
+id: 4307645139
 type: node
-latitude: 47.05006
-longitude: 8.30958
-postcode: "6002"
+latitude: 47.0588
+longitude: 8.30926
+postcode: "6004"
 city: Luzern
-street: ""
-housenumber: ""
+street: Zürichstrasse
+housenumber: "49"
 phone: ""
-opening_hours: Mo-Th 05:30-23:00; Fr 05:30-24:00; Sa 06:30-24:00; Su,PH 06:30-23:00
-website: https://www.pressbooks.ch/
+opening_hours: ""
+website: ""
