@@ -1,6 +1,6 @@
 ---
 title: Cheyres
 url: /cheyres/
-latitude: 46.814
-longitude: 6.787
+latitude: 46.821
+longitude: 6.794
 ---

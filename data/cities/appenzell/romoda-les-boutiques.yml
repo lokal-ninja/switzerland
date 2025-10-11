@@ -6,6 +6,7 @@ postcode: "9050"
 city: Appenzell
 street: Hauptgasse
 housenumber: "23"
-phone: ""
-opening_hours: ""
-website: ""
+phone: +41 71 787 31 11
+opening_hours: 'Mo 13:30-18:00; Tu-Fr 09:00-12:00,13:30-18:00; Sa 09:00-12:00,13:30-16:00;
+    Dec: Su 11:00-17:00'
+website: https://www.romoda.ch

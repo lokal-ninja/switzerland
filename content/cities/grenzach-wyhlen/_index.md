@@ -1,6 +1,6 @@
 ---
 title: Grenzach-Wyhlen
 url: /grenzach-wyhlen/
-latitude: 47.562
-longitude: 7.638
+latitude: 47.559
+longitude: 7.641
 ---

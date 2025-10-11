@@ -1,6 +1,6 @@
 ---
 title: Langnau im Emmental
 url: /langnau-im-emmental/
-latitude: 46.941
-longitude: 7.783
+latitude: 46.94
+longitude: 7.784
 ---
