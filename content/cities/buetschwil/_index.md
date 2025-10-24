@@ -1,6 +1,6 @@
 ---
 title: Bütschwil
 url: /buetschwil/
-latitude: 47.356
-longitude: 9.076
+latitude: 47.359
+longitude: 9.072
 ---

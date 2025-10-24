@@ -1,5 +1,5 @@
 ---
 title: "Landi"
 url: /linden/landi/
-shop: Lebensmittel
+shop: Supermarkt
 ---
