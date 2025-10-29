@@ -1,6 +1,6 @@
 ---
 title: Wintersingen
 url: /wintersingen/
-latitude: 47.503
-longitude: 7.826
+latitude: 47.489
+longitude: 7.829
 ---

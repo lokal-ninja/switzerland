@@ -1,12 +1,11 @@
-id: 3420030703
+id: 2360708386
 type: node
-latitude: 47.13476
-longitude: 7.24908
-postcode: "2503"
+latitude: 47.14614
+longitude: 7.27226
+postcode: "2504"
 city: Biel/Bienne
-street: Silbergasse
-housenumber: "40"
+street: Rue de la Poste / Poststrasse
+housenumber: 17b
 phone: ""
-opening_hours: Mo-We 08:00-19:00; Th 08:00-20:00; Fr 08:00-19:00; Sa 08:00-17:00;
-    Su off
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00
 website: ""
