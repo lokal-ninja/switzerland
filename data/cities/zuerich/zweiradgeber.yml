@@ -7,6 +7,5 @@ city: Zürich
 street: Gutstrasse
 housenumber: "12"
 phone: +41 43 211 97 27
-opening_hours: 'Mo 14:00-19:00; Tu-Fr 10:00-19:00; Sa 10:00-17:00; Oct-Feb: Tu-Fr
-    11:00-19:00; Oct-Feb: Sa 10:00-16:00; Oct-Feb: Mo off'
+opening_hours: Mo 14:00-19:00; Tu-Fr 12:00-19:00; Sa 10:00-17:00
 website: https://www.zweiradgeber.ch/

@@ -1,6 +1,6 @@
 ---
 title: Oberglatt
 url: /oberglatt/
-latitude: 47.476
-longitude: 8.52
+latitude: 47.479
+longitude: 8.524
 ---

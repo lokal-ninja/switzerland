@@ -7,6 +7,5 @@ city: Carouge
 street: Rue de la Fontenette 42
 housenumber: "42"
 phone: ""
-opening_hours: Tu-We 10:00-12:30, 14:00-19:30; Th 10:00-12:30, 14:00-20:00; Fr 10:00-12:30,
-    14:00-19:30; Sa 10:00-19:00
+opening_hours: Mo 17:30-19:30; Tu-Fr 10:00-12:30, 14:00-19:30; Sa 10:00-19:00
 website: https://carouge.cavavin.ch
