@@ -7,5 +7,6 @@ city: Poschiavo
 street: Via di Puntunai
 housenumber: 5A
 phone: "+41815217858"
-opening_hours: Tu-Fr 08:30-12:00,14:00-18:30; Sa 09:00-12:00,13:30-16:00
+opening_hours: 'Tu-Fr 08:30-12:00,14:00-18:30; Sa 09:00-12:00,13:30-16:00; Nov-Feb:
+    Th off'
 website: https://iraggi.ch/

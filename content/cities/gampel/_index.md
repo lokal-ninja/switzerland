@@ -1,6 +1,6 @@
 ---
 title: Gampel
 url: /gampel/
-latitude: 46.317
-longitude: 7.743
+latitude: 46.314
+longitude: 7.736
 ---

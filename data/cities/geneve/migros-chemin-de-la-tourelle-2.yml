@@ -7,5 +7,5 @@ city: Genève
 street: Chemin de la Tourelle
 housenumber: ""
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: closed "temporarily closed according to https://filialen.migros.ch/de/migros-supermarkt-geneve-tourelle"
+website: https://filialen.migros.ch/de/migros-supermarkt-geneve-tourelle

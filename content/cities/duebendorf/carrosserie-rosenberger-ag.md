@@ -1,5 +1,5 @@
 ---
-title: "Carrosserie Rosenberger AG "
+title: "Carrosserie Rosenberger AG"
 url: /duebendorf/carrosserie-rosenberger-ag/
 shop: Autowerkstatt
 ---

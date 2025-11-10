@@ -7,5 +7,6 @@ city: Chêne-Bourg
 street: Avenue de Bel-Air
 housenumber: "12"
 phone: ""
-opening_hours: ""
-website: https://www.migros.ch/
+opening_hours: Mo-We 07:30-19:00; Th 07:30-20:00; Fr 07:30-19:30; Sa 07:30-18:00;
+    Su off
+website: https://filialen.migros.ch/de/migros-supermarkt-chene-vert
