@@ -1,6 +1,6 @@
 ---
 title: Thalwil
 url: /thalwil/
-latitude: 47.294
-longitude: 8.564
+latitude: 47.297
+longitude: 8.562
 ---

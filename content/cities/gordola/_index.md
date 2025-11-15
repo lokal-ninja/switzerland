@@ -1,6 +1,6 @@
 ---
 title: Gordola
 url: /gordola/
-latitude: 46.181
-longitude: 8.861
+latitude: 46.177
+longitude: 8.864
 ---

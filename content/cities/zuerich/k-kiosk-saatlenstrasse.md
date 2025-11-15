@@ -1,5 +1,5 @@
 ---
-title: "K Kiosk"
+title: "k kiosk"
 url: /zuerich/k-kiosk-saatlenstrasse/
-shop: Kiosk
+shop: Zeitungen
 ---

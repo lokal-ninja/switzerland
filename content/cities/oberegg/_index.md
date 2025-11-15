@@ -1,6 +1,6 @@
 ---
 title: Oberegg
 url: /oberegg/
-latitude: 47.422
-longitude: 9.553
+latitude: 47.423
+longitude: 9.551
 ---
