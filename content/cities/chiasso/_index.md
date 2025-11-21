@@ -1,6 +1,6 @@
 ---
 title: Chiasso
 url: /chiasso/
-latitude: 45.834
-longitude: 9.035
+latitude: 45.838
+longitude: 9.023
 ---
