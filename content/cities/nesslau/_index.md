@@ -1,6 +1,6 @@
 ---
 title: Nesslau
 url: /nesslau/
-latitude: 47.228
-longitude: 9.199
+latitude: 47.232
+longitude: 9.178
 ---
