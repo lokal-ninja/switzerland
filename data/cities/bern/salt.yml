@@ -1,11 +1,12 @@
-id: 3533061050
+id: 3490843893
 type: node
-latitude: 46.94924
-longitude: 7.43986
+latitude: 46.94806
+longitude: 7.44339
 postcode: "3011"
 city: Bern
-street: Bahnhofplatz
-housenumber: "10"
+street: Bärenplatz
+housenumber: "2"
 phone: ""
-opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su 10:00-20:00
+opening_hours: Mo-We 09:00-19:00; Th 09:00-21:00; Fr 09:00-19:00; Sa 09:00-17:00;
+    Su off
 website: https://www.salt.ch/

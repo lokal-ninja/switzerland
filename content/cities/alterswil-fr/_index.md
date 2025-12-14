@@ -1,6 +1,6 @@
 ---
 title: Alterswil FR
 url: /alterswil-fr/
-latitude: 46.797
-longitude: 7.256
+latitude: 46.794
+longitude: 7.263
 ---

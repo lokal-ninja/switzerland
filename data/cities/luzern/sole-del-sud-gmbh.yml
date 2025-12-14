@@ -7,5 +7,6 @@ city: Luzern
 street: Habsburgerstrasse
 housenumber: "26"
 phone: +41 41 210 40 20
-opening_hours: Tu-Fr 09:00-12:15,13:30-18:30; Sa 09:00-16:00; PH,Mo,Su closed
+opening_hours: Tu-Fr 09:00-12:15,13:30-18:30; Sa 09:00-16:00; Mo 13:30-18:30; Su,PH
+    off
 website: https://soledelsud.ch/
