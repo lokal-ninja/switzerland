@@ -1,6 +1,6 @@
 ---
 title: Melano
 url: /melano/
-latitude: 45.919
-longitude: 8.985
+latitude: 45.924
+longitude: 8.984
 ---
