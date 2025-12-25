@@ -1,5 +1,5 @@
 ---
-title: "Paintwork AG Carrosseriecenter "
+title: "Paintwork AG Carrosseriecenter"
 url: /oftringen/paintwork-ag-carrosseriecenter/
 shop: Autowerkstatt
 ---

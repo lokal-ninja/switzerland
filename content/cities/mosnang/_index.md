@@ -1,6 +1,6 @@
 ---
 title: Mosnang
 url: /mosnang/
-latitude: 47.363
+latitude: 47.362
 longitude: 9.04
 ---

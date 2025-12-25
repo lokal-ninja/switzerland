@@ -1,5 +1,5 @@
 ---
-title: "Fischer AG "
+title: "Fischer AG"
 url: /schenkon/fischer-ag/
 shop: Autowerkstatt
 ---

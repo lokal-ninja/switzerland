@@ -1,6 +1,6 @@
 ---
 title: Staffelbach
 url: /staffelbach/
-latitude: 47.286
-longitude: 8.042
+latitude: 47.284
+longitude: 8.041
 ---
