@@ -1,6 +1,6 @@
 ---
 title: Weisslingen
 url: /weisslingen/
-latitude: 47.432
-longitude: 8.763
+latitude: 47.435
+longitude: 8.764
 ---
