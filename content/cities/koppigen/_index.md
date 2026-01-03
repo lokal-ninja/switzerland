@@ -1,6 +1,6 @@
 ---
 title: Koppigen
 url: /koppigen/
-latitude: 47.135
-longitude: 7.601
+latitude: 47.131
+longitude: 7.607
 ---
