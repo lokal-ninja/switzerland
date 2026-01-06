@@ -1,5 +1,5 @@
 ---
 title: "k kiosk"
-url: /bern/k-kiosk-scheibenstrasse/
+url: /bern/k-kiosk-breitenrainplatz/
 shop: Zeitungen
 ---
