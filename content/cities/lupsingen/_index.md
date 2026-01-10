@@ -1,6 +1,6 @@
 ---
 title: Lupsingen
 url: /lupsingen/
-latitude: 47.447
-longitude: 7.696
+latitude: 47.446
+longitude: 7.695
 ---
