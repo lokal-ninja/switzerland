@@ -1,5 +1,5 @@
 ---
-title: "Only"
+title: "ONLY"
 url: /st-gallen/only/
 shop: Kleidung
 ---

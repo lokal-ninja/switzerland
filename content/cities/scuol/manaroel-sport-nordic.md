@@ -1,5 +1,5 @@
 ---
-title: "MANARÖL sport nordic"
+title: "Manaröl Sport Nordic"
 url: /scuol/manaroel-sport-nordic/
 shop: Sport
 ---

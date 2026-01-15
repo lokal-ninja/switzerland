@@ -1,6 +1,6 @@
 ---
 title: Solduno
 url: /solduno/
-latitude: 46.17
-longitude: 8.779
+latitude: 46.171
+longitude: 8.773
 ---
