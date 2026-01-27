@@ -7,5 +7,6 @@ city: Studen SZ
 street: Dörflistrasse
 housenumber: "13"
 phone: ""
-opening_hours: ""
+opening_hours: 'Oct-Nov: Mo-Fr 14:00-18:30; Oct-Nov: Sa 09:00-16:00; Dec-Mar: Mo-Fr
+    09:00-12:00,13:00-18:00; Dec-Mar: Sa,Su 09:00-16:00'
 website: ""

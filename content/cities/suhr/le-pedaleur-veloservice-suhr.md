@@ -1,5 +1,5 @@
 ---
-title: "LE PEDALEUR / Veloservice Suhr"
+title: "Le Pedaleur / Veloservice Suhr"
 url: /suhr/le-pedaleur-veloservice-suhr/
 shop: Fahrrad
 ---

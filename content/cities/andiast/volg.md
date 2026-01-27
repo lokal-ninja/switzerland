@@ -1,5 +1,5 @@
 ---
 title: "Volg"
 url: /andiast/volg/
-shop: Lebensmittel
+shop: Supermarkt
 ---
