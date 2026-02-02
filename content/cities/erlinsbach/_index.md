@@ -1,6 +1,6 @@
 ---
 title: Erlinsbach
 url: /erlinsbach/
-latitude: 47.389
-longitude: 8.008
+latitude: 47.424
+longitude: 8.015
 ---

@@ -1,6 +1,6 @@
 ---
 title: Caslano
 url: /caslano/
-latitude: 45.981
-longitude: 8.878
+latitude: 45.976
+longitude: 8.873
 ---
