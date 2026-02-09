@@ -7,5 +7,6 @@ city: Seon
 street: Unterdorfstrasse
 housenumber: "15"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Su off; Tu-We,Fr 08:00-12:00,13:00-18:30; Th 08:00-12:00,14:00-20:00;
+    Sa 08:00-16:00
 website: ""

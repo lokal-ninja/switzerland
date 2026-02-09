@@ -1,6 +1,6 @@
 ---
 title: Safien Platz
 url: /safien-platz/
-latitude: 46.682
-longitude: 9.316
+latitude: 46.681
+longitude: 9.314
 ---

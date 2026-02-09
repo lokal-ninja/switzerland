@@ -1,6 +1,6 @@
 ---
 title: Massagno
 url: /massagno/
-latitude: 46.012
-longitude: 8.946
+latitude: 46.011
+longitude: 8.942
 ---
