@@ -1,6 +1,6 @@
 ---
 title: Rebstein
 url: /rebstein/
-latitude: 47.398
-longitude: 9.582
+latitude: 47.397
+longitude: 9.58
 ---
