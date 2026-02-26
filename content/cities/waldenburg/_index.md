@@ -1,6 +1,6 @@
 ---
 title: Waldenburg
 url: /waldenburg/
-latitude: 47.383
+latitude: 47.382
 longitude: 7.748
 ---

@@ -1,6 +1,6 @@
 ---
 title: Menznau
 url: /menznau/
-latitude: 47.083
-longitude: 8.039
+latitude: 47.081
+longitude: 8.043
 ---
