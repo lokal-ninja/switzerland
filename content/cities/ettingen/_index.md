@@ -1,6 +1,6 @@
 ---
 title: Ettingen
 url: /ettingen/
-latitude: 47.478
-longitude: 7.55
+latitude: 47.481
+longitude: 7.544
 ---

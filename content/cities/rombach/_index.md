@@ -1,6 +1,6 @@
 ---
 title: Rombach
 url: /rombach/
-latitude: 47.403
-longitude: 8.046
+latitude: 47.405
+longitude: 8.053
 ---

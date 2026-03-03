@@ -1,6 +1,6 @@
 ---
 title: Yverdon-les-Bains
 url: /yverdon-les-bains/
-latitude: 46.781
-longitude: 6.635
+latitude: 46.78
+longitude: 6.636
 ---
