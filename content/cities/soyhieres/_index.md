@@ -1,6 +1,6 @@
 ---
 title: Soyhières
 url: /soyhieres/
-latitude: 47.398
-longitude: 7.388
+latitude: 47.386
+longitude: 7.41
 ---

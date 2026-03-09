@@ -1,5 +1,5 @@
 ---
-title: "knecht reisen"
+title: "Knecht Reisen"
 url: /einsiedeln/knecht-reisen/
 shop: Reisebüro
 ---

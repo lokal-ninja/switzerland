@@ -1,6 +1,6 @@
 ---
 title: Hauenstein-Ifenthal
 url: /hauenstein-ifenthal/
-latitude: 47.378
-longitude: 7.87
+latitude: 47.376
+longitude: 7.874
 ---

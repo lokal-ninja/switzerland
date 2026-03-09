@@ -1,6 +1,6 @@
 ---
 title: Brusio
 url: /brusio/
-latitude: 46.267
+latitude: 46.266
 longitude: 10.12
 ---
