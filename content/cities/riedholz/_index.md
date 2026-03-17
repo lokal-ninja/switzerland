@@ -1,6 +1,6 @@
 ---
 title: Riedholz
 url: /riedholz/
-latitude: 47.229
-longitude: 7.567
+latitude: 47.23
+longitude: 7.568
 ---

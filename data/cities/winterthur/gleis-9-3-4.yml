@@ -1,11 +1,11 @@
-id: 4109460424
+id: 13119768104
 type: node
-latitude: 47.5012
-longitude: 8.72153
+latitude: 47.50055
+longitude: 8.71906
 postcode: "8400"
 city: Winterthur
-street: Wartstrasse
-housenumber: "20"
+street: Schützenstrasse
+housenumber: ""
 phone: ""
-opening_hours: Tu,Th 13:30-22:30; We,Fr 13:30-18:30; Sa 10:00-17:00
-website: ""
+opening_hours: Tu, Th, Fr 13:30-22:30; We 13:30-18:00; Sa 10:00-17:00
+website: http://gleis934.ch/
