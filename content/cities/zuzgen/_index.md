@@ -1,6 +1,6 @@
 ---
 title: Zuzgen
 url: /zuzgen/
-latitude: 47.531
-longitude: 7.888
+latitude: 47.52
+longitude: 7.901
 ---
