@@ -1,6 +1,6 @@
 ---
 title: Gonten
 url: /gonten/
-latitude: 47.329
-longitude: 9.348
+latitude: 47.325
+longitude: 9.343
 ---

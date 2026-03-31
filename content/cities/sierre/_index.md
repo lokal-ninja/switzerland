@@ -1,6 +1,6 @@
 ---
 title: Sierre
 url: /sierre/
-latitude: 46.291
-longitude: 7.526
+latitude: 46.282
+longitude: 7.513
 ---

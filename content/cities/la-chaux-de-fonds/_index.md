@@ -1,6 +1,6 @@
 ---
 title: La Chaux-de-Fonds
 url: /la-chaux-de-fonds/
-latitude: 47.105
-longitude: 6.844
+latitude: 47.099
+longitude: 6.826
 ---

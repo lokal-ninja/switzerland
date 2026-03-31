@@ -1,6 +1,6 @@
 ---
 title: Siebnen
 url: /siebnen/
-latitude: 47.175
-longitude: 8.899
+latitude: 47.176
+longitude: 8.902
 ---

@@ -1,6 +1,6 @@
 ---
 title: Meilen
 url: /meilen/
-latitude: 47.27
-longitude: 8.642
+latitude: 47.266
+longitude: 8.655
 ---

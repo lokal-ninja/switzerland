@@ -1,6 +1,6 @@
 ---
-title: Wil (ZH)
+title: Wil ZH
 url: /wil-zh/
-latitude: 47.6
-longitude: 8.508
+latitude: 47.606
+longitude: 8.51
 ---

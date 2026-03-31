@@ -7,5 +7,5 @@ city: Olten
 street: Zielempgasse
 housenumber: "14"
 phone: +41 62 212 62 33
-opening_hours: Mo-Fr 08:30-12:15, 13:30-18:15; Sa 10:00-14:00
+opening_hours: Mo,We,Fr 08:30-12:00,13:30-18:00; Sa 10:00-14:00, Tu,Th,Sa,Su,PH off
 website: https://www.copyrecher.ch

@@ -7,6 +7,5 @@ city: Basel
 street: Steinentorberg
 housenumber: "20"
 phone: +41 77 495 60 13
-opening_hours: Tu 18:00-23:00; We 17:00-23:00; Th 11:00-14:00, 17:00-23:00; Fr 11:00-14:00,
-    17:00-24:00; Sa 17:00-24:00
+opening_hours: Tu,We 17:00+; Th 16:00-23:00; Fr,Sa 16:00-01:00
 website: https://www.vinoeyvino.ch/
