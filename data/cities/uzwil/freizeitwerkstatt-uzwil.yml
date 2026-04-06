@@ -7,6 +7,5 @@ city: Uzwil
 street: Bahnhofstrasse
 housenumber: 83a
 phone: +41 71 951 11 48
-opening_hours: Mo, We 18:30-21:30 open "Holz- und Metallwerkstatt; Fr 18:30-21:30
-    open "Holzwerkstatt"
+opening_hours: Mo, We 18:30-21:30 "Holz- und Metallwerkstatt; Fr 18:30-21:30 "Holzwerkstatt"
 website: https://www.uzwil.ch/freizeitwerkstatt

@@ -1,6 +1,6 @@
 ---
 title: Watt
 url: /watt/
-latitude: 47.442
-longitude: 8.48
+latitude: 47.444
+longitude: 8.482
 ---

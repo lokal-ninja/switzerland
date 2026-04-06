@@ -1,6 +1,6 @@
 ---
 title: Root
 url: /root/
-latitude: 47.105
-longitude: 8.379
+latitude: 47.118
+longitude: 8.392
 ---
