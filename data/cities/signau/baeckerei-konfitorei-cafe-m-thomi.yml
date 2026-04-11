@@ -7,5 +7,5 @@ city: Signau
 street: Dorfstrasse
 housenumber: "55"
 phone: "+41344971363"
-opening_hours: ""
+opening_hours: Tu,We,Fr,Sa 06:30-12:00; Su,Mo,Th off
 website: ""

@@ -1,6 +1,6 @@
 ---
 title: Alosen
 url: /alosen/
-latitude: 47.142
-longitude: 8.635
+latitude: 47.141
+longitude: 8.636
 ---
