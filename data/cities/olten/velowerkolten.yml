@@ -7,6 +7,6 @@ city: Olten
 street: Römerstrasse
 housenumber: "18"
 phone: +41 62 212 00 02
-opening_hours: Tu,Fr 09:00-12:00,13:30-18:30; We 09:00-12:00; Th 09:00-12:00,13:30-20:00;
-    Sa 10:00-14:00
+opening_hours: Mo off; Tu,We, Fr 09:00-12:00,13:30-18:30; Nov-Feb We 09:00-12:00;
+    Th 09:00-12:00,13:30-20:00; Sa 09:00-15:00; Nov-Feb Sa 10:00-14:00
 website: https://www.velowerkolten.ch/

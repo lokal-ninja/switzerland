@@ -6,6 +6,7 @@ postcode: "9000"
 city: St. Gallen
 street: Demutstrasse
 housenumber: "2"
-phone: "+41712228111"
-opening_hours: ""
+phone: +41 71 222 81 11
+opening_hours: Tu 08:00-12:00,13:30-18:30; We 08:00-12:00; Th-Fr 08:00-12:00,13:30-18:30;
+    Sa 08:00-13:00
 website: https://www.taufrisch-bluemekafi.ch/

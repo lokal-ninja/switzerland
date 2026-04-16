@@ -1,6 +1,6 @@
 ---
 title: Matran
 url: /matran/
-latitude: 46.782
-longitude: 7.099
+latitude: 46.781
+longitude: 7.089
 ---
