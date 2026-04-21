@@ -1,5 +1,5 @@
 ---
 title: "Lalique"
 url: /zuerich/lalique/
-shop: Modehaus
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Timberland"
 url: /zuerich/timberland/
-shop: Schuhe
+shop: Kleidung
 ---

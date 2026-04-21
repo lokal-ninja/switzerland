@@ -1,6 +1,6 @@
 ---
 title: Berg TG
 url: /berg-tg/
-latitude: 47.579
-longitude: 9.167
+latitude: 47.577
+longitude: 9.165
 ---

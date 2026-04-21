@@ -1,5 +1,5 @@
 ---
 title: "Fjällräven"
 url: /zuerich/fjaellraeven/
-shop: Kleidung
+shop: Outdoor
 ---
