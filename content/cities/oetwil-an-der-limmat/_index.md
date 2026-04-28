@@ -1,6 +1,6 @@
 ---
 title: Oetwil an der Limmat
 url: /oetwil-an-der-limmat/
-latitude: 47.424
-longitude: 8.402
+latitude: 47.428
+longitude: 8.394
 ---

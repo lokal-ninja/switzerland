@@ -1,6 +1,6 @@
 ---
 title: Muri
 url: /muri/
-latitude: 47.273
+latitude: 47.274
 longitude: 8.341
 ---
