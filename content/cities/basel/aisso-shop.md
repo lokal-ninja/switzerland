@@ -1,5 +1,5 @@
 ---
 title: "Aisso Shop"
 url: /basel/aisso-shop/
-shop: Allgemein
+shop: Andenken
 ---

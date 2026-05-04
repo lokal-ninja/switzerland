@@ -1,6 +1,6 @@
 ---
 title: Zollikofen
 url: /zollikofen/
-latitude: 46.998
-longitude: 7.46
+latitude: 46.997
+longitude: 7.459
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bellinzona
 url: /bellinzona/
-latitude: 46.195
-longitude: 9.025
+latitude: 46.192
+longitude: 9.019
 ---

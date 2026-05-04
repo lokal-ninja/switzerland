@@ -1,5 +1,5 @@
 ---
 title: "Papir Butik"
 url: /basel/papir-butik/
-shop: Allgemein
+shop: Andenken
 ---

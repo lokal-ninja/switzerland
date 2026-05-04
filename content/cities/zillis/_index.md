@@ -1,6 +1,6 @@
 ---
 title: Zillis
 url: /zillis/
-latitude: 46.633
-longitude: 9.444
+latitude: 46.634
+longitude: 9.441
 ---
