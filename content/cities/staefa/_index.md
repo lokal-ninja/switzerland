@@ -1,6 +1,6 @@
 ---
 title: Stäfa
 url: /staefa/
-latitude: 47.234
-longitude: 8.736
+latitude: 47.238
+longitude: 8.728
 ---

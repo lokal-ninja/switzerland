@@ -1,6 +1,6 @@
 ---
 title: Biel/Bienne
 url: /biel-bienne/
-latitude: 47.136
-longitude: 7.235
+latitude: 47.147
+longitude: 7.274
 ---
