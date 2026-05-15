@@ -1,6 +1,6 @@
 ---
 title: Sempach
 url: /sempach/
-latitude: 47.137
-longitude: 8.191
+latitude: 47.136
+longitude: 8.192
 ---

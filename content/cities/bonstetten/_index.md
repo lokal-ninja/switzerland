@@ -1,6 +1,6 @@
 ---
 title: Bonstetten
 url: /bonstetten/
-latitude: 47.315
-longitude: 8.47
+latitude: 47.325
+longitude: 8.472
 ---

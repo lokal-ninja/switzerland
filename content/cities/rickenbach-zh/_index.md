@@ -1,6 +1,6 @@
 ---
 title: Rickenbach ZH
 url: /rickenbach-zh/
-latitude: 47.553
-longitude: 8.794
+latitude: 47.552
+longitude: 8.795
 ---
