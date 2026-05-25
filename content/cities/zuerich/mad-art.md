@@ -1,5 +1,5 @@
 ---
-title: "mad ART"
+title: "mad Art"
 url: /zuerich/mad-art/
 shop: Friseur
 ---

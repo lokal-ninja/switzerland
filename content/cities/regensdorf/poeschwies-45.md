@@ -1,5 +1,5 @@
 ---
-title: "Pöschwies 45"
+title: "pöschwies 45"
 url: /regensdorf/poeschwies-45/
 shop: Garten-Center
 ---

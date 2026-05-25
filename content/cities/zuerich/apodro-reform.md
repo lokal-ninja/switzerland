@@ -1,5 +1,5 @@
 ---
-title: "APODRO Reform"
+title: "Apodro Reform"
 url: /zuerich/apodro-reform/
 shop: Drogerie
 ---

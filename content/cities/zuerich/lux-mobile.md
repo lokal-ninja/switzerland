@@ -1,5 +1,5 @@
 ---
-title: "LUX Mobile"
+title: "Lux Mobile"
 url: /zuerich/lux-mobile/
 shop: Handy
 ---
