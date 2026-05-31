@@ -1,6 +1,6 @@
 ---
 title: Wynigen
 url: /wynigen/
-latitude: 47.104
-longitude: 7.661
+latitude: 47.105
+longitude: 7.665
 ---
