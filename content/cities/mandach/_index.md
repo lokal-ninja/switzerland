@@ -1,6 +1,6 @@
 ---
 title: Mandach
 url: /mandach/
-latitude: 47.546
-longitude: 8.186
+latitude: 47.547
+longitude: 8.183
 ---
