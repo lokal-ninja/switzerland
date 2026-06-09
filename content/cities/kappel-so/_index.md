@@ -1,6 +1,6 @@
 ---
 title: Kappel SO
 url: /kappel-so/
-latitude: 47.324
-longitude: 7.847
+latitude: 47.325
+longitude: 7.85
 ---
