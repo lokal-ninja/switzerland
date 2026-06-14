@@ -7,5 +7,5 @@ city: Männedorf
 street: Bahnhofstrasse
 housenumber: "17"
 phone: ""
-opening_hours: Mo-Fr 05:30-20:00 Sa-So 07:00-20:00
+opening_hours: Mo-Fr 05:30-20:00; Sa-Su 07:00-20:00
 website: ""
