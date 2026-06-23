@@ -1,6 +1,6 @@
 ---
 title: Welschenrohr
 url: /welschenrohr/
-latitude: 47.282
-longitude: 7.524
+latitude: 47.281
+longitude: 7.531
 ---

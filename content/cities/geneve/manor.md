@@ -1,5 +1,5 @@
 ---
 title: "Manor"
 url: /geneve/manor/
-shop: Kleidung
+shop: Warenhaus
 ---

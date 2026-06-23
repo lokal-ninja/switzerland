@@ -1,6 +1,6 @@
 ---
-title: Buchs (AG)
+title: Buchs AG
 url: /buchs-ag/
-latitude: 47.385
-longitude: 8.089
+latitude: 47.387
+longitude: 8.082
 ---

@@ -1,6 +1,6 @@
 ---
 title: Gasel
 url: /gasel/
-latitude: 46.9
-longitude: 7.402
+latitude: 46.901
+longitude: 7.401
 ---
