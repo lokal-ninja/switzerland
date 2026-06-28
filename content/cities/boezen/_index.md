@@ -1,6 +1,6 @@
 ---
 title: Bözen
 url: /boezen/
-latitude: 47.507
-longitude: 8.087
+latitude: 47.484
+longitude: 8.086
 ---

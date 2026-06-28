@@ -7,5 +7,5 @@ city: Wilen bei Wil
 street: Dorfstrasse
 housenumber: "18"
 phone: +41 797572617
-opening_hours: Mo-Fr 8:00-19:00
+opening_hours: Mo,We,Fr 08:00-19:00; Th 13:00-19:00
 website: https://massage-iwan.ch

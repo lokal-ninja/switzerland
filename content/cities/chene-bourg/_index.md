@@ -1,6 +1,6 @@
 ---
 title: Chêne-Bourg
 url: /chene-bourg/
-latitude: 46.196
-longitude: 6.194
+latitude: 46.194
+longitude: 6.196
 ---
