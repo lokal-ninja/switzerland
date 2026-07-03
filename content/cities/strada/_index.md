@@ -1,6 +1,6 @@
 ---
 title: Strada
 url: /strada/
-latitude: 46.87
-longitude: 10.447
+latitude: 46.863
+longitude: 10.435
 ---

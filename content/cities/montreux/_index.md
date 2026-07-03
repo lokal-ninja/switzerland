@@ -1,6 +1,6 @@
 ---
 title: Montreux
 url: /montreux/
-latitude: 46.432
-longitude: 6.911
+latitude: 46.43
+longitude: 6.912
 ---

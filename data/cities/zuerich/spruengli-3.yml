@@ -1,11 +1,11 @@
-id: 4424654368
+id: 4424600912
 type: node
-latitude: 47.37872
-longitude: 8.53927
+latitude: 47.37772
+longitude: 8.54004
 postcode: "8001"
 city: Zürich
 street: ""
 housenumber: ""
 phone: ""
-opening_hours: Mo-Fr 06:30-21:00; Sa 06:30-20:00; Su 08:00-20:00
-website: https://www.spruengli.ch/de/standorte/hauptbahnhof-zuerich-halle-landesmuseum.html
+opening_hours: Mo-Fr 06:45-21:00; Sa-Su 06:45-20:00; PH open
+website: https://www.spruengli.ch/de/standorte/hauptbahnhof-zuerich.html
