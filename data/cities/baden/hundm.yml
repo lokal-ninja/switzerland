@@ -7,5 +7,5 @@ city: Baden
 street: Badstrasse
 housenumber: "17"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Th 09:00-19:00; We,Fr 09:00-20:00; Sa 09:00-18:00
 website: https://www2.hm.com/de_ch/
