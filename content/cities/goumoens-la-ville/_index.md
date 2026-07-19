@@ -1,6 +1,6 @@
 ---
-title: Goumoens-la-Ville
+title: Goumoëns-la-Ville
 url: /goumoens-la-ville/
-latitude: 46.661
-longitude: 6.604
+latitude: 46.658
+longitude: 6.605
 ---

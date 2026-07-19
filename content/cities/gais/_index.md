@@ -1,6 +1,6 @@
 ---
 title: Gais
 url: /gais/
-latitude: 47.362
-longitude: 9.456
+latitude: 47.361
+longitude: 9.451
 ---

@@ -1,6 +1,6 @@
 ---
 title: Gossau ZH
 url: /gossau-zh/
-latitude: 47.307
-longitude: 8.758
+latitude: 47.306
+longitude: 8.759
 ---

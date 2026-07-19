@@ -1,5 +1,5 @@
 ---
-title: "MAD The Barber Shop"
+title: "Mad The Barber Shop"
 url: /dietikon/mad-the-barber-shop/
 shop: Friseur
 ---

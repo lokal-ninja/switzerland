@@ -7,5 +7,5 @@ city: Flims
 street: Via Nova
 housenumber: "63"
 phone: "+41819209090"
-opening_hours: Mo-Su 07:00-18:00
+opening_hours: Mo-Fr 07:00-18:30; Sa,Su 07:00-18:00
 website: https://www.crest.ch/

@@ -1,6 +1,6 @@
 ---
 title: Gelterkinden
 url: /gelterkinden/
-latitude: 47.465
-longitude: 7.852
+latitude: 47.463
+longitude: 7.858
 ---

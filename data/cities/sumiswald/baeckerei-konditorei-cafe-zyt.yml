@@ -7,5 +7,5 @@ city: Sumiswald
 street: Spitalstrasse
 housenumber: "8"
 phone: +41 34 431 44 33
-opening_hours: 'Tu-Fr: 06:30-18:30, Sa-So: 07:30-16:30'
+opening_hours: Tu-Fr 06:30-18:30, Sa-Su 07:30-16:30; Su[-1] closed
 website: https://cafezyt.ch/
