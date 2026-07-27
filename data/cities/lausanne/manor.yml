@@ -7,5 +7,5 @@ city: Lausanne
 street: Rue Adrien-Pichard
 housenumber: "3"
 phone: +41 21 321 36 99
-opening_hours: Mo-FR 09:00-19:00 Sa 09:00-18:00
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

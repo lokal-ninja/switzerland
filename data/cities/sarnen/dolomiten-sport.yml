@@ -7,5 +7,6 @@ city: Sarnen
 street: Lindenstrasse
 housenumber: "2"
 phone: ""
-opening_hours: ""
+opening_hours: 'Dec,Jan: Mo-Fr 08:30-12:00,13:30-18:30; Dec,Jan: Sa 08:15-16:00; Feb-Nov:
+    Tu-Fr 08:30-12:00,13:30-18:30; Feb-Nov: Sa 08:30-16:00; Feb-Nov: Mo off'
 website: ""
