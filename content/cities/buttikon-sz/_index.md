@@ -1,6 +1,6 @@
 ---
 title: Buttikon SZ
 url: /buttikon-sz/
-latitude: 47.174
-longitude: 8.952
+latitude: 47.175
+longitude: 8.945
 ---

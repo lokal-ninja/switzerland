@@ -7,5 +7,6 @@ city: Dardagny
 street: Route du Mandement
 housenumber: "548"
 phone: +41 78 881 78 15
-opening_hours: week 13-week 51 We-Fr 13:00-18:00+, Sa 09:00-13:00
+opening_hours: '2026 Mar 25-2026 Dec 18: We-Fr 13:00-18:00, 2026 Apr 24-2026 Sep 26:
+    Sa 09:00-13:00'
 website: https://www.cultureslocales.ch

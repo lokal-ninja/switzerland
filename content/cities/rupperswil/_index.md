@@ -1,6 +1,6 @@
 ---
 title: Rupperswil
 url: /rupperswil/
-latitude: 47.402
-longitude: 8.128
+latitude: 47.409
+longitude: 8.143
 ---

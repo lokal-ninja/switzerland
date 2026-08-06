@@ -7,5 +7,5 @@ city: Lugano
 street: Via Contrada Sassello
 housenumber: "5"
 phone: +41 79 904 69 86
-opening_hours: Mo-Fr 09:30-18:00; We,Sa 09:30-17:00
+opening_hours: Mo,Tu 09:30-18:00; We 09:30-17:00; Th,Fr 09:30-18:00; Sa 09:30-17:00
 website: ""

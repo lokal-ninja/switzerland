@@ -1,6 +1,6 @@
 ---
 title: Arnegg
 url: /arnegg/
-latitude: 47.441
-longitude: 9.255
+latitude: 47.439
+longitude: 9.254
 ---

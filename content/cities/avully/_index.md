@@ -1,6 +1,6 @@
 ---
 title: Avully
 url: /avully/
-latitude: 46.164
-longitude: 6.019
+latitude: 46.17
+longitude: 6.002
 ---

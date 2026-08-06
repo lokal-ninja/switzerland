@@ -1,5 +1,5 @@
 ---
 title: "Landi"
 url: /sarnen/landi/
-shop: Supermarkt
+shop: Dorfladen
 ---

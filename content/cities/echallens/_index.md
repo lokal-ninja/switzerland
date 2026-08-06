@@ -1,6 +1,6 @@
 ---
 title: Echallens
 url: /echallens/
-latitude: 46.639
-longitude: 6.636
+latitude: 46.641
+longitude: 6.634
 ---

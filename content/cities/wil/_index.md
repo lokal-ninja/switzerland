@@ -1,6 +1,6 @@
 ---
 title: Wil
 url: /wil/
-latitude: 47.464
-longitude: 9.043
+latitude: 47.462
+longitude: 9.042
 ---

@@ -7,5 +7,5 @@ city: Genève
 street: Rue du Beulet
 housenumber: "2"
 phone: +41 22 344 96 15
-opening_hours: Mo 8:00-18:00; Tu 8:00-16:00; Th 8:00-13:00; Fr 8:00-18:00
+opening_hours: Mo,Fr 08:00-18:00; Tu 08:00-16:00; Th 08:00-13:00
 website: ""

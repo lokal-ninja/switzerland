@@ -1,6 +1,6 @@
 ---
 title: Kirchberg SG
 url: /kirchberg-sg/
-latitude: 47.439
-longitude: 9.057
+latitude: 47.417
+longitude: 9.047
 ---
