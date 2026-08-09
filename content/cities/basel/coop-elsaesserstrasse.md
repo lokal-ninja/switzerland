@@ -1,5 +1,5 @@
 ---
 title: "Coop"
-url: /basel/coop-vogesenplatz/
+url: /basel/coop-elsaesserstrasse/
 shop: Supermarkt
 ---
