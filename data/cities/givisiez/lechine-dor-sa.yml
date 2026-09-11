@@ -7,6 +7,6 @@ city: Givisiez
 street: Route de Belfaux
 housenumber: "11"
 phone: +41 26 347 15 30
-opening_hours: Mo-Tu 07:00-12:15,14:30-18:30; We 07:00-12:15; Th-Fri 07:00-12:15,14:30-18:30;
-    Sa 07:00-12:15
+opening_hours: Mo-Tu,Th-Fr 07:00-12:15,14:30-18:30; We 07:00-12:15; Sa 07:00-12:30;
+    Dec 24, Dec 31 07:00-14:00
 website: https://www.lechinedor.ch/

@@ -1,6 +1,6 @@
 ---
 title: Monthey
 url: /monthey/
-latitude: 46.251
-longitude: 6.947
+latitude: 46.254
+longitude: 6.946
 ---

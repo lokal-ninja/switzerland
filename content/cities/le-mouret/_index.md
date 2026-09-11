@@ -1,6 +1,6 @@
 ---
 title: Le Mouret
 url: /le-mouret/
-latitude: 46.748
-longitude: 7.177
+latitude: 46.734
+longitude: 7.165
 ---

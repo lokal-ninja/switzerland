@@ -1,6 +1,6 @@
 ---
 title: Laax
 url: /laax/
-latitude: 46.806
-longitude: 9.257
+latitude: 46.828
+longitude: 9.256
 ---

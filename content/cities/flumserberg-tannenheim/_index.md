@@ -1,6 +1,6 @@
 ---
 title: Flumserberg Tannenheim
 url: /flumserberg-tannenheim/
-latitude: 47.09
-longitude: 9.303
+latitude: 47.08
+longitude: 9.289
 ---

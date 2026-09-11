@@ -7,5 +7,5 @@ city: La Chaux-de-Fonds
 street: Rue Daniel-Jean Richard
 housenumber: "23"
 phone: +41 32 913 08 27
-opening_hours: Mo-Th 09:00-19:00; Fr 09:00-20:00; Sa 08:00-18:00
+opening_hours: Mo-We,Fr 09:00-19:00; Sa 08:00-18:00; Th 09:00-20:00
 website: ""

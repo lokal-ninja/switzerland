@@ -1,6 +1,6 @@
 ---
 title: Herisau
 url: /herisau/
-latitude: 47.387
-longitude: 9.278
+latitude: 47.389
+longitude: 9.289
 ---

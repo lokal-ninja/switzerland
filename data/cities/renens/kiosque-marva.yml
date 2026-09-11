@@ -7,5 +7,5 @@ city: Renens
 street: Rue de la Mèbre
 housenumber: "10"
 phone: ""
-opening_hours: 'Mo-Fr 08:00-20:30 - Sa-Su: 9:00-20:30'
+opening_hours: Mo-Fr 08:00-20:30; Sa-Su 09:00-20:30
 website: ""

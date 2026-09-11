@@ -7,5 +7,7 @@ city: Manno
 street: Via Vedeggio
 housenumber: "4"
 phone: +41 91 6056230
-opening_hours: Mo-Fr 9:00-12:00, 13:00-17:30, Sa 09:00-17:00; Su,PH  off
+opening_hours: Mo 08:00-12:00 "officina", 13:00-17:30 "officina"; Tu-Fr 08:00-09:00
+    "officina", 09:00-12:00 "officina, negozio", 13:00-17:30 "officina, negozio",
+    17:30-18:30 "negozio"; Sa 09:00-17:00 "negozio"; Su,PH  off
 website: https://www.motomix.ch/

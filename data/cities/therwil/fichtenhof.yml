@@ -7,6 +7,6 @@ city: Therwil
 street: Fichtenrain
 housenumber: "75"
 phone: +41 61 721 83 77
-opening_hours: Täglich Selbstbedienung, sowie bedient im Hoflädeli jeweils am Freitag
-    von 10 bis 18.30h und am Samstagvormittag
+opening_hours: Fr 10:00-18:30 "bedient", Sa 08:00-12:00 "bedient Vormittag" || 24/7
+    "Selbstbedienung"
 website: http://www.fichtenhof-therwil.ch/

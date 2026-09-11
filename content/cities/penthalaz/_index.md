@@ -1,6 +1,6 @@
 ---
 title: Penthalaz
 url: /penthalaz/
-latitude: 46.607
-longitude: 6.523
+latitude: 46.61
+longitude: 6.525
 ---

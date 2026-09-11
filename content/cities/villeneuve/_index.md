@@ -1,6 +1,6 @@
 ---
 title: Villeneuve
 url: /villeneuve/
-latitude: 46.391
-longitude: 6.935
+latitude: 46.386
+longitude: 6.934
 ---

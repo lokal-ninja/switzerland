@@ -1,6 +1,6 @@
 ---
 title: Immensee
 url: /immensee/
-latitude: 47.091
-longitude: 8.451
+latitude: 47.09
+longitude: 8.464
 ---

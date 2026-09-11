@@ -1,6 +1,6 @@
 ---
 title: Amden
 url: /amden/
-latitude: 47.149
-longitude: 9.143
+latitude: 47.15
+longitude: 9.144
 ---

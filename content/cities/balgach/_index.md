@@ -1,6 +1,6 @@
 ---
 title: Balgach
 url: /balgach/
-latitude: 47.393
-longitude: 9.606
+latitude: 47.406
+longitude: 9.608
 ---
