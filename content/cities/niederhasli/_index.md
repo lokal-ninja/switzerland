@@ -1,6 +1,6 @@
 ---
 title: Niederhasli
 url: /niederhasli/
-latitude: 47.479
-longitude: 8.488
+latitude: 47.48
+longitude: 8.485
 ---

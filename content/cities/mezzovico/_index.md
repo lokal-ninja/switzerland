@@ -1,6 +1,6 @@
 ---
 title: Mezzovico
 url: /mezzovico/
-latitude: 46.09
-longitude: 8.922
+latitude: 46.087
+longitude: 8.92
 ---

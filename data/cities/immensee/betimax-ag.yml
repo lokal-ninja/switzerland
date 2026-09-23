@@ -7,5 +7,5 @@ city: Immensee
 street: Martisweidweg
 housenumber: "2"
 phone: ""
-opening_hours: Mo-Fr 08:00-12:00 / 13:30-17:00 Sa+So geschlossen
+opening_hours: Mo-Fr 08:00-12:00 ,13:30-17:00; Sa,Su,PH closed
 website: https://www.betimax.ch

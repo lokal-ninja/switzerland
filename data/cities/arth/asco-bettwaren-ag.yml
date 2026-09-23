@@ -7,6 +7,6 @@ city: Arth
 street: Zugerstrasse
 housenumber: "34"
 phone: ""
-opening_hours: Mo-Mi 08:00 - 12:00 / 13:00 - 17:00 ** Do-Fr 07:00 - 12:00 / 13:00
-    - 17:00 ** Sa-So geschlossen
+opening_hours: Mo-We 08:00 - 12:00,13:00 - 17:00;Th-Fr 07:00 - 12:00,13:00 - 17:00;
+    Sa,Su,PH closed
 website: https://www.asco-ag.ch

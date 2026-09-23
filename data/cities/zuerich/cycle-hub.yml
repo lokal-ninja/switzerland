@@ -7,5 +7,6 @@ city: Zürich
 street: Albisstrasse
 housenumber: "71"
 phone: ""
-opening_hours: ""
+opening_hours: Tu,Th,Fr 14:00-17:30, We 14:00-18:30, Tu-Fr 09:00-12:30, Sa 10:00-14:00;
+    Su,Mo,PH off
 website: ""
