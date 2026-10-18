@@ -1,6 +1,6 @@
 ---
 title: Wängi
 url: /waengi/
-latitude: 47.495
-longitude: 8.96
+latitude: 47.5
+longitude: 8.954
 ---

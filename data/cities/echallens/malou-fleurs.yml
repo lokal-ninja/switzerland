@@ -7,6 +7,6 @@ city: Echallens
 street: Grand'Rue
 housenumber: "8"
 phone: +41 21 881 14 39
-opening_hours: Lu 08:00-12:00, 14:00-18:30; Ma 08:00-12:00; Me-Ve 08:00-12:00, 14:00-18:30;
-    Sa 08:00-12:00, 13:30-16:00; Di 09:00-12:00
+opening_hours: Mo 08:00-12:00,14:00-18:30; Tu 08:00-12:00; We-Fr 08:00-12:00,14:00-18:30;
+    Sa 08:00-12:00,13:30-16:00; Su 09:00-12:00
 website: https://maloufleurs.ch/

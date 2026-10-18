@@ -1,5 +1,5 @@
 ---
 title: "Landi"
 url: /lichtensteig/landi/
-shop: Supermarkt
+shop: Dorfladen
 ---

@@ -7,5 +7,5 @@ city: Olten
 street: Baslerstrasse
 housenumber: "10"
 phone: ""
-opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-18:00
+opening_hours: Mo-We,Fr 08:30-18:30; Sa 08:30-18:00; Th 08:30-20:00
 website: https://www.impo.ch/

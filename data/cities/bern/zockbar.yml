@@ -7,6 +7,5 @@ city: Bern
 street: Marktgasse
 housenumber: "6"
 phone: ""
-opening_hours: 'Mo 10:00-12:00, 13:00-17:00; Th 10:00-12:00, 13:00-18:00; Fr 10:00-12:00,
-    13:00-17:00; '
+opening_hours: Mo 10:00-12:00,13:00-17:00; Th 10:00-12:00,13:00-18:00; Fr 10:00-12:00,13:00-17:00
 website: https://zockbar.ch/
