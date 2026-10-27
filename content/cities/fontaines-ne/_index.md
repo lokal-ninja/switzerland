@@ -1,6 +1,6 @@
 ---
 title: Fontaines NE
 url: /fontaines-ne/
-latitude: 47.046
-longitude: 6.9
+latitude: 47.044
+longitude: 6.897
 ---

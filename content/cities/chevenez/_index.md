@@ -1,6 +1,6 @@
 ---
 title: Chevenez
 url: /chevenez/
-latitude: 47.392
-longitude: 6.999
+latitude: 47.394
+longitude: 7.003
 ---

@@ -7,5 +7,5 @@ city: Lausanne
 street: Avenue de France
 housenumber: "42"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 09:30-12:00,13:30-18:00; We,Sa 09:30-12:00
 website: ""

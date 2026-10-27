@@ -1,6 +1,6 @@
 ---
 title: Teufen
 url: /teufen/
-latitude: 47.391
-longitude: 9.385
+latitude: 47.552
+longitude: 8.555
 ---

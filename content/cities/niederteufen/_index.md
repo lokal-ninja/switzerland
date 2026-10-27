@@ -1,6 +1,6 @@
 ---
 title: Niederteufen
 url: /niederteufen/
-latitude: 47.39
-longitude: 9.39
+latitude: 47.392
+longitude: 9.367
 ---

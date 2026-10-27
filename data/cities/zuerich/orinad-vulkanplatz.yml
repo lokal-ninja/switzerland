@@ -7,5 +7,7 @@ city: Zürich
 street: Vulkanplatz
 housenumber: "21"
 phone: ""
-opening_hours: Mo-We 09:00-18:30
+opening_hours: |-
+    "By appointment at https://www.phorest.com/salon/orinadcoiffurewestlink
+    I can't see a sign with regular hours"
 website: https://www.orinad.ch/stadt-zuerich/

@@ -7,6 +7,8 @@ city: Zürich
 street: Rotbuchstrasse
 housenumber: "72"
 phone: +41 44 362 62 30
-opening_hours: Mo,Su off; Tu-Fr 08:30-12:00,14:00-18:30; Sa 08:30-16:00; monthly 10.-17.
-    off
+opening_hours: Mo,Su off; Tu-Fr 08:30-12:00,14:00-18:30; Sa 08:30-16:00; Jan 01-17
+    off; Feb 01-17 off; Mar 01-17 off; Apr 01-17 off; May 01-17 off; Jun 01-17 off;
+    Jul 01-17 off; Aug 01-17 off; Sep 01-17 off; Oct 01-17 off; Nov 01-17 off; Dec
+    01-17 off;
 website: https://schuerzoptik.ch

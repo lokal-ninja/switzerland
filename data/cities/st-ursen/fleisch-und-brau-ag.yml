@@ -7,5 +7,6 @@ city: St. Ursen
 street: Dorf
 housenumber: "2"
 phone: ""
-opening_hours: ""
+opening_hours: Th-Fr 08:00-12:00,14:00-18:00; Sa 08:00-14:00; Mo-Su,PH 05:00-22:00
+    open "self"
 website: https://www.fleischundbrau.ch/
