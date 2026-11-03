@@ -7,5 +7,7 @@ city: St.Gallen
 street: Stahlstrasse
 housenumber: "2"
 phone: ""
-opening_hours: ""
+opening_hours: 'Mar-Aug: Mo-Fr 08:00-12:00,13:00-18:00; Mar-Aug: Sa 09:00-15:00; Jan,Feb,Sep,Oct:
+    Mo-Fr 08:00-12:00,13:00-17:30; Jan,Feb,Sep,Oct: Sa 09:00-15:00; Nov,Dec: Mo-Fr
+    08:00-12:00,13:00-17:30'
 website: https://www.stahlmoto.ch/

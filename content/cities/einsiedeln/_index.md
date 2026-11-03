@@ -1,6 +1,6 @@
 ---
 title: Einsiedeln
 url: /einsiedeln/
-latitude: 47.121
-longitude: 8.734
+latitude: 47.127
+longitude: 8.746
 ---

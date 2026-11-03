@@ -1,6 +1,6 @@
 ---
 title: Schinznach Bad
 url: /schinznach-bad/
-latitude: 47.476
-longitude: 8.201
+latitude: 47.45
+longitude: 8.169
 ---

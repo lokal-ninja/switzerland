@@ -1,5 +1,5 @@
 ---
-title: "Tabu"
+title: "tabu"
 url: /rapperswil-sg/tabu/
 shop: Kleidung
 ---

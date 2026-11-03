@@ -7,7 +7,5 @@ city: Winznau
 street: Dammstrasse
 housenumber: "4"
 phone: +41 62 295 43 40
-opening_hours: 'Hofladen Lostorf: Mo+Hofladen Lostorf Hauptstrasse 2: Mo+ Mi: 10-12
-    Uhr und 15.30-18.30 Uhr, Sa: 8-16 Uhr. Hofladen Winznau Dammstrasse 4: Fr: 15-18
-    Uhr. Wochenmarkt Olten Kirchgasse: Do: 7-11 Uhr. Bifangstrasse Sa: 7-11 Uhr.'
+opening_hours: Fr 09:00-12:00,14:00-17:30
 website: https://www.grob-gemuesebau.ch/

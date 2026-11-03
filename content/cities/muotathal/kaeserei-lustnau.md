@@ -1,5 +1,5 @@
 ---
 title: "Käserei Lustnau"
 url: /muotathal/kaeserei-lustnau/
-shop: Lebensmittel
+shop: Käse
 ---
