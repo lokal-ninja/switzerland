@@ -1,6 +1,6 @@
 ---
 title: Horw
 url: /horw/
-latitude: 47.011
-longitude: 8.306
+latitude: 47.019
+longitude: 8.309
 ---

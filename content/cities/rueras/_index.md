@@ -1,6 +1,6 @@
 ---
 title: Rueras
 url: /rueras/
-latitude: 46.676
-longitude: 8.754
+latitude: 46.669
+longitude: 8.744
 ---
