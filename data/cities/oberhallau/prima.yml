@@ -7,5 +7,6 @@ city: Oberhallau
 street: Dorfstrasse
 housenumber: "1"
 phone: +41 52 681 32 85
-opening_hours: Mo-Fr 07:00-12:15,15:30-18:30; Th 07:00-12:15; Sa 07:00-16:00; PH off
+opening_hours: Mo-We 07:00-12:15,15:30-18:30; Th 07:00-12:15; Fr 07:00-12:15, 15:30-18:30;
+    Sa 07:00-16:00; Su, PH off
 website: https://www.dorfladenoberhallau.ch/

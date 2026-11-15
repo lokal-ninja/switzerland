@@ -1,6 +1,6 @@
 ---
 title: St. Niklaus VS
 url: /st-niklaus-vs/
-latitude: 46.18
-longitude: 7.807
+latitude: 46.177
+longitude: 7.803
 ---

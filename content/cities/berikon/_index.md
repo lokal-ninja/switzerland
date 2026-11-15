@@ -1,6 +1,6 @@
 ---
 title: Berikon
 url: /berikon/
-latitude: 47.362
-longitude: 8.366
+latitude: 47.361
+longitude: 8.367
 ---

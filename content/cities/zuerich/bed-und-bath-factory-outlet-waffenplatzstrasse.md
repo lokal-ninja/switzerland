@@ -1,5 +1,5 @@
 ---
-title: "BED & BATH FACTORY OUTLET"
+title: "Bed & Bath Factory Outlet"
 url: /zuerich/bed-und-bath-factory-outlet-waffenplatzstrasse/
-shop: Allgemein
+shop: Haushaltsartikel
 ---

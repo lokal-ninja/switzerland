@@ -1,6 +1,6 @@
 ---
 title: Chénens
 url: /chenens/
-latitude: 46.749
-longitude: 7.001
+latitude: 46.74
+longitude: 7.002
 ---

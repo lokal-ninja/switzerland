@@ -1,6 +1,6 @@
 ---
 title: Hinwil
 url: /hinwil/
-latitude: 47.31
-longitude: 8.873
+latitude: 47.3
+longitude: 8.834
 ---
