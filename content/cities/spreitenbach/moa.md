@@ -1,5 +1,5 @@
 ---
 title: "Moa"
 url: /spreitenbach/moa/
-shop: Allgemein
+shop: Kleidung
 ---

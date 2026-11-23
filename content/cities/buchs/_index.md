@@ -1,6 +1,6 @@
 ---
 title: Buchs
 url: /buchs/
-latitude: 47.39
-longitude: 8.068
+latitude: 47.459
+longitude: 8.444
 ---

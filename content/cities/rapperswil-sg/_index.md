@@ -1,6 +1,6 @@
 ---
 title: Rapperswil SG
 url: /rapperswil-sg/
-latitude: 47.226
-longitude: 8.817
+latitude: 47.229
+longitude: 8.821
 ---
